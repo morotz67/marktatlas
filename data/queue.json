@@ -24,7 +24,8 @@
    "slug": "fritz-von-wille",
    "name": "Fritz von Wille",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-24T23:40:06Z"
   },
   {
    "slug": "max-clarenbach",
