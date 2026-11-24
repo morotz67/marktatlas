@@ -24,8 +24,11 @@
    "slug": "fritz-von-wille",
    "name": "Fritz von Wille",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-24T23:40:06Z"
+   "status": "done",
+   "claimed_at": "2026-11-24T23:40:06Z",
+   "done_at": "2026-11-24T23:55:22Z",
+   "lots": 28,
+   "note": "Van Ham 26, Lempertz 2; 10 Van-Ham-Onlinelose über Nachbarlose datiert; offen: Lempertz 1262 Los 59 (Okt. 2024) ohne Losdetails, Van Ham 21.11.2025 Lose 1230–1232 ohne Ergebnis"
   },
   {
    "slug": "max-clarenbach",
