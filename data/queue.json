@@ -14,9 +14,11 @@
    "slug": "heinrich-hermanns",
    "name": "Heinrich Hermanns",
    "wave": 1,
-   "status": "claimed",
-   "note": "Platzhalterseite (stub) existiert schon; durch volle Seite ersetzen",
-   "claimed_at": "2026-11-24T23:12:00Z"
+   "status": "done",
+   "note": "volle Seite; nur 8 belegte Lose (5 Zuschläge). Offen: 2 Van-Ham-Lose 22.05.2026 und 4 Van-Ham-Onlinelose ohne prüfbares Datum/Losseite; Wettmann 13.12.2025 (Lose 279–287) ohne abrufbare Ergebnisse",
+   "claimed_at": "2026-11-24T23:12:00Z",
+   "done_at": "2026-11-24T23:39:48Z",
+   "lots": 8
   },
   {
    "slug": "fritz-von-wille",

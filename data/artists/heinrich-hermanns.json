@@ -1,8 +1,9 @@
 {
  "slug": "heinrich-hermanns",
  "name": "Heinrich Hermanns",
- "status": "stub",
+ "status": "published",
  "region": "rhein",
+ "stand": "2026-11-24",
  "birth": {
   "date": "1862-05-19",
   "place": "Düsseldorf",
@@ -14,6 +15,410 @@
   "text": "21. Dezember 1942 Düsseldorf"
  },
  "same_as": [
-  "https://de.wikipedia.org/wiki/Heinrich_Hermanns"
+  "https://de.wikipedia.org/wiki/Heinrich_Hermanns",
+  "https://en.wikipedia.org/wiki/Heinrich_Hermanns"
+ ],
+ "sort_name": "Hermanns",
+ "split_year": 2024,
+ "list_line": "Düsseldorfer Malerschule · belegte Zuschläge {min_all}–{max_hammer} €",
+ "lead": "Düsseldorfer Maler von Grachten, Blumenmärkten, Stadtansichten und frühen Industriebildern. Diese Seite fasst zusammen, was seine Bilder im Auktionshandel erzielen, wo sie angeboten werden, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Schule",
+   "Kunstakademie Düsseldorf 1883–1893, Meisterschüler von Eugen Dücker"
+  ],
+  [
+   "Hauptmotive",
+   "Grachten und Blumenmärkte in Amsterdam, Düsseldorfer Stadtansichten, Kirchenräume, Italien, Industrie an Rhein und Ruhr"
+  ],
+  [
+   "Werkverzeichnis",
+   "keines bekannt"
+  ]
+ ],
+ "marktwert": "belegte Gemälde {min_all}–{max_hammer} € Zuschlag, Median {med_all} € (nur {n_sold} Verkäufe)",
+ "absatzmarkt": "Köln und das Rheinland",
+ "headline": "Wenige belegte Verkäufe: {n_sold} Zuschläge seit 2021, von {min_all} bis {max_hammer} €",
+ "kurz": "Für Hermanns gibt es nur wenige Ergebnisse mit nachprüfbarer Quelle. Belegt sind {n_lots} Lose bei {n_houses} Häusern, {n_sold} davon mit Zuschlag. Die drei höchsten Zuschläge, {q3_all} bis {max_hammer} €, erzielten ein Stahlwerk bei Van Ham, ein Düsseldorfer Marktbild bei Lempertz und ein großer Amsterdamer Blumenmarkt bei Stahl. Ein Hofbild aus Holstein ging 2024 bei Van Ham für {min_all} € weg, drei Lose blieben ohne Zuschlag.",
+ "figs": [
+  [
+   "{max_hammer} €",
+   "höchster Zuschlag: „{max_title}“, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_sold} verkauften Gemälde, {period}"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag, {period}"
+  ],
+  [
+   "{offers_region_pct} %",
+   "der angebotenen Lose bei Häusern in NRW, Februar bis Oktober 2026"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Die Zahlen sind zu wenige für feste Regeln. Die drei höchsten Zuschläge seit 2021 gingen an ein Stahlwerk, einen Markt vor dem Düsseldorfer Rathaus und einen großen Amsterdamer Blumenmarkt, alle Öl auf Leinwand.",
+   "Schätzungen wurden nicht immer erreicht: Das Lempertz-Bild von 2022 und das Van-Ham-Bild von 2024 blieben unter der unteren Schätzung. Seit 2024 sind drei Lose belegt, nur eines davon mit Zuschlag."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld des Hauses: bei Van Ham 32 % laut Losseiten, bei Lempertz 26 %, aus dem veröffentlichten Ergebnis errechnet. Wettmann nennt für die Auktion im Mai 2025 ein Aufgeld von 30 % und für Dezember 2025 von 34 %, jeweils inklusive Mehrwertsteuer.",
+  "spitzen": "Ältere Ergebnisse lagen deutlich höher, jeweils mit Aufgeld: 25.080 € für „Neapel“ bei Van Ham (Auktion 263, Mai 2008) und 32.240 € für eine holländische Gracht bei Lempertz (Auktion 1132, Los 1574). Seit 2021 ist kein vergleichbarer Preis belegt."
+ },
+ "euro_ok": [
+  "25.080",
+  "32.240"
+ ],
+ "absatz": {
+  "text": [
+   "Hermanns wird breit angeboten, nicht nur im Rheinland. Von {offers_total} Losen, die zwischen Februar und Oktober 2026 auf Invaluable standen, kamen {offers_region} von Häusern in Nordrhein-Westfalen, also {offers_region_pct} %. Die übrigen boten Häuser in Berlin, Niedersachsen und Den Haag an.",
+   "Die höchsten belegten Zuschläge seit 2021 erzielten Van Ham und Lempertz in Köln sowie Stahl in Hamburg."
+  ],
+  "liquiditaet": "Eher gering. Von den {n_lots} belegten Losen erhielten {n_sold} einen Zuschlag. Weil so wenige Ergebnisse veröffentlicht sind, sind alle Kennzahlen hier nur Anhaltspunkte."
+ },
+ "offers": {
+  "zeitraum": "2/2026–10/2026",
+  "region_label": "Haus in NRW",
+  "quelle": "Invaluable, Ergebnisseite Heinrich Hermanns, abgerufen 24.11.2026 (Lose mit Auktionsdatum Februar bis Oktober 2026).",
+  "houses": [
+   [
+    "Leo Spik, Berlin",
+    3,
+    false
+   ],
+   [
+    "Van Ham, Köln",
+    2,
+    true
+   ],
+   [
+    "Peter Karbstein, Düsseldorf",
+    2,
+    true
+   ],
+   [
+    "Schloss Ahlden",
+    2,
+    false
+   ],
+   [
+    "Historia Auctionata, Berlin",
+    2,
+    false
+   ],
+   [
+    "Hargesheimer, Düsseldorf",
+    1,
+    true
+   ],
+   [
+    "Plückbaum, Bonn",
+    1,
+    true
+   ],
+   [
+    "Angerland, Ratingen",
+    1,
+    true
+   ],
+   [
+    "Bassenge, Berlin",
+    1,
+    false
+   ],
+   [
+    "Venduehuis, Den Haag",
+    1,
+    false
+   ]
+  ]
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "Auf den geprüften Losen meist ausgeschrieben „Heinrich Hermanns“ unten links oder rechts, auf kleineren Bildern auch „H. Hermanns“, einmal in Großbuchstaben. Manche Bilder sind zusätzlich datiert, etwa „Heinrich Hermanns 36“."
+   ],
+   [
+    "Rückseite und Rahmen",
+    "Alte Klebezettel und Sammlungsetiketten helfen bei der Herkunft. Ein Venedig-Bild bei Van Ham trug den Aufkleber der Sturzenegger’schen Gemäldesammlung der Stadt St. Gallen; auf dem Rahmen des „Stahlwerks“ steht in Bleistift „Prof. Hermanns“."
+   ],
+   [
+    "Ölbild, Aquarell oder Druck",
+    "Hermanns war auch Lithograf und malte Architektur oft in Aquarell. Ein Druck zeigt mit Lupe eine flache Oberfläche ohne Pinselspur. Lithografien und Aquarelle sind ein eigener Markt und nicht mit Ölbildern zu vergleichen."
+   ],
+   [
+    "Ähnliche Namen",
+    "Hans Herrmann malte ebenfalls holländische Märkte und Grachten, und Auktionshäuser führen auch einen Maler Heinrich Hermann. Signatur und Katalogangabe genau lesen."
+   ],
+   [
+    "Zuschreibungen",
+    "Lose mit „zugeschrieben“ oder „Umkreis“ nicht mit Originalpreisen vergleichen."
+   ]
+  ],
+  "preis_drueckt": "Doublierte Leinwände, Restaurierungen und Verschmutzung. Das doublierte Lempertz-Bild von 2022 blieb unter der unteren Schätzung; ob das am Zustand lag, sagt das Haus nicht.",
+  "werkverzeichnis": "Ein Werkverzeichnis ist nicht bekannt. Biografische Angaben stehen im Lexikon der Düsseldorfer Malerschule 1819–1918, Band 2 (1998). Eine Stelle, die verbindlich Expertisen ausstellt, ist nicht bekannt.",
+  "provenienz": "Bei Bildern, die 1933–1945 den Besitzer wechselten, gehört die Herkunft geprüft. Wikipedia nennt für ein Damenbildnis von 1891 einen Eintrag in einer Liste des Landesmuseums Hannover zu Werken mit lückenhafter Provenienz und für eine „Amsterdamer Gracht“ (um 1910) einen Raubkunst-Hinweis."
+ },
+ "leben": {
+  "text": [
+   "Heinrich Hermanns wurde 1862 in Düsseldorf geboren und lebte und arbeitete dort. Von 1883 bis 1893 studierte er an der Kunstakademie, unter anderem bei Eugen Dücker, dessen Meisterschüler er 1888/89 war.",
+   "1889 gründete er mit Olof Jernberg, Eugen Kampf und Helmuth Liesegang den Lucas-Club. Die Gruppe wollte die Malerei der Haager Schule und von Barbizon mit dem Impressionismus verbinden. Studienreisen führten ihn nach Italien, Frankreich, Spanien und in die Niederlande, besonders nach Amsterdam.",
+   "Er malte Grachten und Blumenmärkte in Amsterdam, Düsseldorfer Stadtansichten, Kirchenräume und früh schon Industrie an Rhein und Ruhr. Von 1893 bis 1918 stellte er auf der Großen Berliner Kunstausstellung aus und erhielt dort 1904 eine kleine Goldmedaille. 1932 nannte ihn Richard Klapheck den vielseitigsten Vertreter der Landschafterschule Eugen Dückers. Hermanns starb 1942 in Düsseldorf."
+  ],
+  "museen": "Kunstpalast Düsseldorf: „Cappella Palatina“ (um 1900) und „Promenade auf der GeSoLei“ (1926).",
+  "timeline": [
+   [
+    "1862",
+    "geboren in Düsseldorf"
+   ],
+   [
+    "1883",
+    "Kunstakademie Düsseldorf"
+   ],
+   [
+    "1888",
+    "Meisterschüler bei Eugen Dücker"
+   ],
+   [
+    "1889",
+    "Mitgründer des Lucas-Clubs"
+   ],
+   [
+    "1891",
+    "Mitglied im Künstlerverein Malkasten"
+   ],
+   [
+    "1904",
+    "kleine Goldmedaille, Große Berliner Kunstausstellung"
+   ],
+   [
+    "1926",
+    "„Promenade auf der GeSoLei“"
+   ],
+   [
+    "1942",
+    "gestorben in Düsseldorf"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Amsterdam: Grachten und Blumenmärkte",
+   "d": "Das häufigste Motiv im Handel. Seit 2021 belegt: zwei Zuschläge bei Stahl, zwei Lose bei Wettmann und Schloss Ahlden ohne Zuschlag.",
+   "bsp": "Stahl 2022: 1.300 € und 3.000 €"
+  },
+  {
+   "t": "Düsseldorf und Rheinland",
+   "d": "Altstadt, Märkte vor dem Rathaus, Rheinansichten.",
+   "bsp": "Lempertz 2022: 3.000 €"
+  },
+  {
+   "t": "Industrie an Rhein und Ruhr",
+   "d": "Stahlwerke und Hütten, ein Thema, das Hermanns schon früh malte.",
+   "bsp": "Van Ham 2021: {max_hammer} €"
+  },
+  {
+   "t": "Italien und Kirchenräume",
+   "d": "Venedig, Neapel, Sizilien, Innenräume wie die Cappella Palatina in Palermo. Seit 2021 hier kein belegter Zuschlag."
+  },
+  {
+   "t": "Aquarelle und Lithografien",
+   "d": "Hermanns war auch Lithograf und malte Architektur oft in Aquarell. Ein eigener Markt, auf dieser Seite nicht ausgewertet."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Heinrich Hermanns wert?",
+   "a": "Die belegten Ölbilder seit 2021 erzielten {min_all} bis {max_hammer} € Zuschlag, der Median liegt bei {med_all} €. Das sind nur {n_sold} Verkäufe, also ein grober Rahmen. Beim Kauf kommt das Aufgeld hinzu, bei den Häusern auf dieser Seite 26 bis 34 %."
+  },
+  {
+   "q": "Wo verkauft man einen Hermanns am besten?",
+   "a": "Die höchsten belegten Zuschläge seit 2021 kamen von Van Ham und Lempertz in Köln und von Stahl in Hamburg. Angeboten wird er auch in Düsseldorf, Berlin und Niedersachsen. Es lohnt, Schätzung, Aufgeld und Einlieferungskosten mehrerer Häuser zu vergleichen."
+  },
+  {
+   "q": "Warum blieben einige Bilder ohne Zuschlag?",
+   "a": "Drei der {n_lots} belegten Lose fanden keinen Käufer. Die Häuser nennen keine Gründe. Wer ein solches Bild einliefert, sollte Schätzung und Limit vorher mit dem Haus besprechen."
+  },
+  {
+   "q": "Ist mein Bild ein Ölbild oder ein Druck?",
+   "a": "Hermanns war auch Lithograf. Ein Ölbild zeigt Pinselspuren und die Struktur der Leinwand, ein Druck eine glatte, flache Oberfläche. Im Zweifel hilft ein Auktionshaus bei der Bestimmung."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Ein Werkverzeichnis ist nicht bekannt. Signatur, Rückseite, Etiketten und frühere Auktionen sind deshalb die wichtigsten Anhaltspunkte."
+  },
+  {
+   "q": "Warum stehen hier so wenige Lose?",
+   "a": "Viele Häuser veröffentlichen Ergebnisse nur gegen Anmeldung oder gar nicht. Marktatlas nimmt nur Lose auf, deren Ergebnis auf einer Seite des Hauses oder seiner Auktionsplattform nachprüfbar ist."
+  }
+ ],
+ "methodik_extra": "Van Ham und Lempertz veröffentlichen Preise mit Aufgeld; der Zuschlag ist mit 32 % (Van Ham) und 26 % (Lempertz) zurückgerechnet, alle Ergebnisse sind runde Zahlen. Stahl nennt einen „Erlös“ ohne Angabe zum Aufgeld; die runden Beträge sind als Zuschlag übernommen. Das Los von Schloss Ahlden ist über die Plattform Invaluable belegt, auf der das Haus versteigert. Das Wettmann-Los vom Mai 2025 fehlt in der Ergebnisliste des Hauses. Nicht aufgenommen sind zwei Van-Ham-Lose vom Mai 2026 und vier Lose aus Van-Ham-Onlineauktionen, weil sich Datum oder Losbeschreibung nicht auf einer Seite des Hauses prüfen ließen.",
+ "quellen": [
+  {
+   "t": "Van Ham, Künstlerseite Heinrich Hermanns",
+   "u": "https://www.van-ham.com/en/artist/heinrich-hermanns.html"
+  },
+  {
+   "t": "Van Ham, „Neapel“, Auktion 263 (2008), Ergebnis mit Aufgeld",
+   "u": "https://www.van-ham.com/en/artist/heinrich-hermanns/heinrich-hermanns-neapel.html"
+  },
+  {
+   "t": "Lempertz, Künstlerverzeichnis Heinrich Hermanns (Ergebnisse, auch Auktion 1132, Los 1574)",
+   "u": "https://www.lempertz.com/en/catalogues/artist-index/detail/hermanns-heinrich.html"
+  },
+  {
+   "t": "Lempertz, Katalog 1209 (19. November 2022)",
+   "u": "https://www.lempertz.com/lempertz_api/images/Katalog_1209_de_klein.pdf"
+  },
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Heinrich Hermanns",
+   "u": "https://www.auktionshaus-stahl.de/en/artist/4396-heinrich-hermanns"
+  },
+  {
+   "t": "Wettmann, Auktion Moderne & Zeitgenössische Kunst, 24. Mai 2025",
+   "u": "https://wettmann.com/auktion/moderne-zeitgenoessische-kunst-4/"
+  },
+  {
+   "t": "Wettmann, Ergebnisliste 72. Auktion",
+   "u": "https://wettmann.com/wp-content/uploads/2024/12/Ergebnisliste-fuer-Kaeufer_72.Auktion.pdf"
+  },
+  {
+   "t": "Invaluable, Ergebnisseite Heinrich Hermanns",
+   "u": "https://www.invaluable.com/artist/hermanns-heinrich-z0rsfm6hmi/sold-at-auction-prices/"
+  },
+  {
+   "t": "Wikipedia: Heinrich Hermanns",
+   "u": "https://de.wikipedia.org/wiki/Heinrich_Hermanns"
+  },
+  {
+   "t": "Kunstpalast Düsseldorf, Sammlung: „Cappella Palatina“",
+   "u": "https://sammlung.kunstpalast.de/objects/details/413096"
+  },
+  {
+   "t": "Kunstpalast Düsseldorf, Sammlung: „Promenade auf der GeSoLei“",
+   "u": "https://sammlung.kunstpalast.de/en/objects/details/933286"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Van Ham",
+   "date": "2021-09-15",
+   "sale": "1105 Online Düsseldorfer Malerschule",
+   "lot": "18",
+   "title": "Stahlwerk",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 44.5,
+   "w": 60,
+   "lo": 1500,
+   "hi": 2000,
+   "hammer": 3500,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/heinrich-hermanns/stahlwerk.html"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-05-07",
+   "sale": "355 Kunst und Antiquitäten",
+   "lot": "431",
+   "title": "Blumenmarkt in Amsterdam",
+   "tech": "Öl auf Leinwand, unter Glas gerahmt",
+   "medium": "lw",
+   "h": 46,
+   "w": 63,
+   "hammer": 1300,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/103075-heinrich-hermanns-flower-market-in-amsterdam"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-09-17",
+   "sale": "356 Kunst und Antiquitäten",
+   "lot": "516",
+   "title": "Blumenmarkt in Amsterdam",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 70.5,
+   "w": 100,
+   "hammer": 3000,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/104111-heinrich-hermanns-flower-market-in-amsterdam"
+  },
+  {
+   "house": "Lempertz",
+   "date": "2022-11-19",
+   "sale": "1209 Gemälde 14.–19. Jh. Teil II",
+   "lot": "1923",
+   "title": "Markt vor dem Rathaus in Düsseldorf",
+   "tech": "Öl auf Leinwand, doubliert",
+   "medium": "lw",
+   "h": 60.5,
+   "w": 80.5,
+   "lo": 4000,
+   "hi": 6000,
+   "hammer": 3000,
+   "status": "v",
+   "url": "https://www.lempertz.com/en/catalogues/lot/1209-2/1923-heinrich-hermanns.html"
+  },
+  {
+   "house": "Wettmann",
+   "date": "2022-11-26",
+   "sale": "Alte Kunst | Moderne Kunst",
+   "lot": "24",
+   "title": "Gracht in Amsterdam",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 69,
+   "w": 100.5,
+   "status": "u",
+   "url": "https://wettmann.com/los/heinrich-hermanns-1862-duesseldorf-1942-ebenda-2/",
+   "note": "Limitpreis 1.900 €; laut Losseite im Nachverkauf angeboten"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-01-30",
+   "sale": "512 Art & Interior",
+   "lot": "1213",
+   "title": "Der Hümlingshof in Holstein",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 45.5,
+   "w": 60,
+   "lo": 600,
+   "hi": 800,
+   "hammer": 500,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/heinrich-hermanns/der-huemlingshof-in-holstein.html"
+  },
+  {
+   "house": "Wettmann",
+   "date": "2025-05-24",
+   "sale": "Moderne & Zeitgenössische Kunst | Design",
+   "lot": "302",
+   "title": "Fischmarkt",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 96,
+   "w": 125,
+   "status": "n",
+   "url": "https://wettmann.com/los/heinrich-hermanns-1862-duesseldorf-1942-ebenda-87248/",
+   "note": "Limitpreis 2.500 €; Losnummer fehlt in der Ergebnisliste https://wettmann.com/wp-content/uploads/2024/12/Ergebnisliste-fuer-Kaeufer_72.Auktion.pdf"
+  },
+  {
+   "house": "Schloss Ahlden",
+   "date": "2026-04-25",
+   "sale": "196 Große Kunstauktion, Teil II",
+   "lot": "1674",
+   "title": "Amsterdamer Gracht",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "lo": 1400,
+   "hi": 2800,
+   "status": "u",
+   "url": "https://www.invaluable.com/auction-lot/heinrich-hermanns-1674-c-edc2f4b974",
+   "note": "über Invaluable versteigert, dort als „Passed“ gemeldet; Maßangabe mit Rahmen unklar, daher weggelassen"
+  }
  ]
 }
