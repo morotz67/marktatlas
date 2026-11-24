@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ a.name }} · Marktatlas</title>
+<link rel="canonical" href="{{ base }}/kuenstler/{{ a.slug }}/">
+<meta name="description" content="{{ a.name }} ({{ lifespan }}): Marktwert, {{ S.n_lots }} Auktionsergebnisse mit Quellen, bester Absatzmarkt, Echtheitsmerkmale, Werkgruppen und Biografie.">
+<meta property="og:title" content="{{ a.name }}: Marktwert, Auktionsergebnisse, Echtheit">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ base }}/kuenstler/{{ a.slug }}/">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{{ person_ld|safe }},{{ dataset_ld|safe }},{"@type":"FAQPage","mainEntity":{{ faq_ld|safe }}}]}
+</script>
+{{ style|safe }}
+<style>
+:root{--s2:light-dark(#eb6834,#d95926);--s3:light-dark(#1baf7a,#199e70);--s4:light-dark(#b8860b,#d4a017)}
+.k-sq{width:11px;height:11px;background:var(--s2)}.k-dia{width:10px;height:10px;background:var(--s3);transform:rotate(45deg)}.k-tri{width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:11px solid var(--s4)}
+.rblock{margin-top:28px}.rblock h3{margin-bottom:.2em}
+.hero-strip{position:relative;height:clamp(120px,30vw,260px);overflow:hidden}.hero-strip svg{position:absolute;inset:0;width:100%;height:100%;display:block}
+.disclose{background:var(--paper);border:1px solid var(--rule);border-left:4px solid var(--sun);border-radius:6px;padding:12px 14px;margin-top:18px;font-size:15px}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]) .hero-strip svg{filter:brightness(.7) saturate(.85)}}
+:root[data-theme=dark] .hero-strip svg{filter:brightness(.7) saturate(.85)}
+@media(max-width:600px){.rv{white-space:normal}}
+</style>
+<script>new MutationObserver(()=>{for(const c of document.querySelectorAll('.stack td:not([data-l])')){let i=0,p=c;while(p=p.previousElementSibling)i+=p.colSpan;c.dataset.l=c.closest('table').rows[0].cells[i]?.textContent||''}}).observe(document,{childList:true,subtree:true})</script>
+</head>
+<body>
+<header class="top"><a class="brand" href="/" style="text-decoration:none;color:inherit">Marktatlas</a>
+<nav class="scroll" aria-label="Abschnitte"><a href="#ueberblick">Überblick</a><a href="#markt">Markt</a><a href="#angebot">Absatzmarkt</a><a href="#daten">Auktionsdaten</a><a href="#echtheit">Echtheit</a><a href="#leben">Werk &amp; Leben</a><a href="#faq">Fragen</a><a href="#quellen">Methodik</a></nav></header>
+<div class="hero-strip" role="img" aria-label="Illustration einer Landschaft aus der Region des Künstlers">{{ strip|safe }}</div>
+<p class="cap">Illustration der Seite, kein Werk von {{ a.name }}</p>
+<main>
+<section class="band" id="ueberblick"><div class="wrap head">
+<div><h1>{{ a.name }} ({{ lifespan }})</h1>
+<p class="lead">{{ a.lead }}</p>
+<p class="jump"><a href="#markt">Was ist ein Werk wert?</a><a href="#daten">Alle {{ S.n_lots }} Lose</a><a href="#echtheit">Original erkennen</a></p>
+{% if a.eigener_bestand %}<p class="disclose"><strong>Offenlegung:</strong> {{ a.eigener_bestand }}</p>{% endif %}</div>
+<dl class="facts">
+<dt>Lebensdaten</dt><dd>* {{ a.birth.text }}{% if a.death %}, † {{ a.death.text }}{% endif %}</dd>
+{% for k, v in a.facts %}<dt>{{ k }}</dt><dd>{{ v }}</dd>
+{% endfor %}<dt>Marktwert</dt><dd>{{ a.marktwert }}</dd>
+<dt>Bester Absatzmarkt</dt><dd>{{ a.absatzmarkt }}</dd>
+<dt>Urheberrecht</dt><dd>{{ copyright }}</dd>
+<dt>Datenstand</dt><dd>{{ a.stand[8:10] }}.{{ a.stand[5:7] }}.{{ a.stand[:4] }}</dd>
+</dl></div></section>
+
+<section class="band slate"><div class="wrap">
+<h2>{{ a.headline }}</h2>
+<p><strong>Kurz gesagt:</strong> {{ a.kurz }}</p>
+<div class="figs">{% for v, l in a.figs %}<div><b>{{ v }}</b><span>{{ l }}</span></div>{% endfor %}</div>
+</div></section>
+
+<section class="band" id="markt"><div class="wrap">
+<h2>Zuschläge {{ S.period }}</h2>
+<p>Jeder Punkt ist ein Los, Höhe = Zuschlag ohne Aufgeld. Form und Farbe zeigen das Auktionshaus. Lose ohne Zuschlag stehen in der Zeile darunter.</p>
+<div class="legend">{% for h, c, sh in houses %}<span><i class="{{ {'circle':'k-dot','square':'k-sq','diamond':'k-dia','triangle':'k-tri'}[sh] }}"{% if loop.index > 4 %} style="background:var(--gray)"{% endif %}></i>{{ h }}</span>{% endfor %}<span><i class="k-ring"></i>ohne Zuschlag</span></div>
+<div class="fig card" id="fig" style="padding:0"><svg id="chart" role="img" aria-label="Streudiagramm der Zuschläge für {{ a.name }} nach Auktionshaus"></svg><div id="tip"></div></div>
+<p class="sm" style="margin-top:8px">{{ S.n_lots }} Lose, davon {{ S.n_sold }} mit Zuschlag. Alle Werte stehen mit Quelle in der <a href="#daten">Tabelle</a>.</p>
+<div class="cols" style="margin-top:36px">
+<div><h3>Was den Preis bestimmt</h3>{% for p in a.markt.preis %}<p>{{ p }}</p>{% endfor %}</div>
+<div><h3>Was der Käufer zahlt</h3><p>{{ a.markt.kaeufer }}</p>{% if a.markt.spitzen %}<h3>Frühere Spitzenpreise</h3><p>{{ a.markt.spitzen }}</p>{% endif %}</div>
+</div>
+{% if ranges_house %}<div class="rblock" style="max-width:980px"><h3>Die Häuser im Vergleich</h3>
+<p class="sm">Verkaufte Werke. Balken = mittlere Hälfte, Strich = Median, Linie = kleinster bis größter Zuschlag.</p>
+{{ ranges_house|safe }}
+{{ axis_house|safe }}</div>{% endif %}
+<div class="rblock" style="max-width:980px"><h3>Bei {{ main }}: was den Preis bestimmt</h3>
+<p class="sm">Nur {{ main }}, damit die Gruppen vergleichbar bleiben. Gruppen mit weniger als fünf Losen sind wenig belastbar. Größe nach längster Seite.</p>
+{{ ranges_main|safe }}
+{{ axis_main|safe }}</div>
+</div></section>
+
+<section class="band" id="angebot" style="background:var(--paper);border-block:1px solid var(--rule)"><div class="wrap cols">
+<div><h2>Bester Absatzmarkt: {{ a.absatzmarkt }}</h2>{% for p in a.absatz.text %}<p>{{ p }}</p>{% endfor %}
+<h3>Wie schnell verkauft sich ein Werk?</h3><p>{{ a.absatz.liquiditaet }}</p></div>
+<div>{% if offers_html %}<h3>Angebotene Lose nach Auktionshaus, {{ a.offers.zeitraum }}</h3>
+<div class="legend"><span><i class="k-dot" style="border-radius:2px"></i>{{ a.offers.region_label }}</span><span><i class="k-dot" style="border-radius:2px;background:var(--gray)"></i>übrige Häuser</span></div>
+{{ offers_html|safe }}
+<p class="sm" style="margin-top:10px">Gezählt sind Angebote, nicht Verkäufe. Quelle: {{ a.offers.quelle }}</p>{% endif %}</div>
+</div></section>
+
+<section class="band" id="daten"><div class="wrap">
+<h2>Auktionsdaten: {{ S.n_lots }} Lose, mit Quelle</h2>
+<p>Zuschlag ohne Aufgeld. Jede Zeile verlinkt die Quelle, über die sich der Wert nachprüfen lässt.</p>
+<div class="tools"><label for="q" class="sm">Suchen</label><input type="search" id="q" placeholder="z. B. Haus, Titel, Jahr"><button class="btn" id="copy" type="button">Als CSV kopieren</button><span class="sm" id="cnt" aria-live="polite">{{ S.n_lots }} von {{ S.n_lots }} Losen</span></div>
+<div class="tbl"><table class="stack" id="tbl"><thead><tr><th><button data-k="date">Datum</button></th><th><button data-k="house">Haus</button></th><th><button data-k="title">Titel</button></th><th>Technik</th><th class="num">Maße (cm)</th><th class="num">Schätzung (€)</th><th class="num"><button data-k="hammer">Zuschlag (€)</button></th><th>Quelle</th></tr></thead>
+<tbody>
+{% for r in lots %}<tr data-date="{{ r.date }}" data-house="{{ r.house }}" data-title="{{ r.t }}" data-hammer="{{ r.hammer or '' }}"><td>{{ r.dd }}</td><td>{{ r.house }}</td><td>{{ r.t }}</td><td>{{ r.tech }}</td><td class="num">{{ r.size or '–' }}</td><td class="num">{{ r.est or '–' }}</td><td class="num{% if r.status != 'v' %} out{% endif %}">{{ r.ham }}</td><td><a href="{{ r.url }}">{{ r.src }}</a></td></tr>
+{% endfor %}</tbody></table></div>
+{% if lots|selectattr('est_hammer')|list %}<p class="sm" style="margin-top:8px">* Das Haus veröffentlicht nur einen Preis mit Aufgeld; der Zuschlag ist daraus geschätzt.</p>{% endif %}
+</div></section>
+
+<section class="band" id="echtheit" style="background:var(--paper);border-block:1px solid var(--rule)"><div class="wrap cols">
+<div><h2>Echtheit prüfen, bevor man bietet</h2><ol class="check">{% for t, d in a.echtheit.punkte %}<li><strong>{{ t }}.</strong> {{ d }}</li>{% endfor %}</ol></div>
+<div><h3>Was den Preis drückt</h3><p>{{ a.echtheit.preis_drueckt }}</p><h3>Werkverzeichnis</h3><p>{{ a.echtheit.werkverzeichnis }}</p>{% if a.echtheit.provenienz %}<h3>Herkunft</h3><p>{{ a.echtheit.provenienz }}</p>{% endif %}</div>
+</div></section>
+
+<section class="band" id="leben"><div class="wrap">
+<h2>Werk und Leben</h2>
+<div class="cols"><div>{% for p in a.leben.text %}<p>{{ p }}</p>{% endfor %}{% if a.leben.museen %}<h3>In Museen</h3><p>{{ a.leben.museen }}</p>{% endif %}</div>
+<dl class="tl">{% for y, t in a.leben.timeline %}<dt>{{ y }}</dt><dd>{{ t }}</dd>{% endfor %}</dl></div>
+<h3 style="margin-top:40px">Werkgruppen und was sie heute bringen</h3>
+<div class="groups">{% for g in a.werkgruppen %}<div class="card"><h3>{{ g.t }}</h3><p>{{ g.d }}</p>{% if g.bsp %}<small>{{ g.bsp }}</small>{% endif %}</div>{% endfor %}</div>
+</div></section>
+
+<section class="band faq" id="faq" style="background:var(--paper);border-block:1px solid var(--rule)"><div class="wrap">
+<h2>Häufige Fragen</h2>
+<div class="cols">{% for half in a.faq|slice(2) %}<div>{% for f in half %}<h3>{{ f.q }}</h3><p>{{ f.a }}</p>{% endfor %}</div>{% endfor %}</div></div></section>
+
+<section class="band" id="quellen"><div class="wrap cols">
+<div><h2>Methodik</h2>
+<p><strong>Datenbasis.</strong> {{ S.n_lots }} Lose von {{ S.period }} bei {{ S.houses }}, jedes einzeln auf der Seite des Hauses geprüft und verlinkt.{% if a.methodik_extra %} {{ a.methodik_extra }}{% endif %}</p>
+<p><strong>Zuschlag.</strong> Der Hammerpreis ohne Aufgeld. Veröffentlicht ein Haus Ergebnisse mit Aufgeld, rechnen wir mit dessen Aufgeldsatz zurück; geschätzte Zuschläge sind markiert.</p>
+<p><strong>Ohne Zuschlag.</strong> Das Haus meldet das Los als unverkauft, oder es steht ohne Ergebnis in der Liste des Hauses.</p>
+<p><strong>Grenzen.</strong> Nicht jedes Haus veröffentlicht alle Ergebnisse. Gruppen mit weniger als fünf Losen sind Hinweise, keine Belege. Die Seite wurde mit KI-Unterstützung recherchiert und automatisch auf rechnerische Stimmigkeit geprüft.</p></div>
+<div><h2>Quellen</h2><ul class="src">{% for q in a.quellen %}<li>{% if q.u %}<a href="{{ q.u }}">{{ q.t }}</a>{% else %}{{ q.t }}{% endif %}</li>{% endfor %}</ul></div>
+</div></section>
+</main>
+<footer class="band slate"><div class="wrap cols">
+<div><p><strong>Marktatlas</strong> sammelt Marktdaten zu deutschen Künstlern, jede Zahl mit Quelle. Daten zitieren: „Marktatlas, {{ a.name }}, Stand {{ a.stand[8:10] }}.{{ a.stand[5:7] }}.{{ a.stand[:4] }}“.</p><p><a href="/">Startseite</a> · <a href="/impressum/">Impressum</a> · <a href="/datenschutz/">Datenschutz</a></p></div>
+<div><p><strong>Offenlegung.</strong> Marktatlas wird von einem Kunsthändler betrieben, der selbst Werke an- und verkauft. Werke aus eigenem Bestand sind auf der jeweiligen Künstlerseite gekennzeichnet.</p></div>
+</div></footer>
+<script>
+{
+const D={{ data_json|safe }},COL={{ house_colors|safe }},SHP={{ house_shapes|safe }},YM={{ ymax }},TK={{ yticks|tojson }};
+const nf=new Intl.NumberFormat('de-DE');const eur=n=>n>=1e6?nf.format(+(n/1e6).toFixed(2))+' Mio. €':nf.format(n)+' €';const ax=n=>n>=1e6?nf.format(+(n/1e6).toFixed(1))+' Mio.':n>=1e4?nf.format(n/1000)+' T':nf.format(n);
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const dfmt=d=>d.slice(8,10)+'.'+d.slice(5,7)+'.'+d.slice(0,4);
+const s=document.getElementById('chart'),tip=document.getElementById('tip');
+const T=d=>new Date(d+'T12:00:00').getTime();const ds=D.map(r=>T(r.date));const t0=Math.min(...ds)-45*864e5,t1=Math.max(...ds)+45*864e5;
+const mark=(h,x,y,fill,stroke)=>{const sh=SHP[h]||'circle';return sh==='square'?`<rect x="${x-5}" y="${y-5}" width="10" height="10" fill="${fill}" stroke="${stroke}" stroke-width="2"/>`:sh==='diamond'?`<rect x="${x-4.5}" y="${y-4.5}" width="9" height="9" transform="rotate(45 ${x} ${y})" fill="${fill}" stroke="${stroke}" stroke-width="2"/>`:sh==='triangle'?`<path d="M${x} ${y-6} L${x+6} ${y+5} L${x-6} ${y+5}Z" fill="${fill}" stroke="${stroke}" stroke-width="2"/>`:`<circle cx="${x}" cy="${y}" r="5" fill="${fill}" stroke="${stroke}" stroke-width="2"/>`};
+let pts=[];
+const draw=()=>{const W=s.clientWidth,H=s.clientHeight;if(!W||!H)return;const nar=W<520;
+const m={l:nar?46:72,r:14,t:16};const yb=H-70,lane=H-18;
+const x=t=>m.l+(t-t0)/(t1-t0)*(W-m.l-m.r),y=v=>yb-v/YM*(yb-m.t);
+let g='';const tk=nar?TK.filter((v,i)=>i%2===0):TK;
+for(const v of tk){g+=`<line x1="${m.l}" x2="${W-m.r}" y1="${y(v)}" y2="${y(v)}" stroke="var(--rule)"/><text x="${m.l-8}" y="${y(v)+4}" text-anchor="end" font-size="13" fill="var(--ink3)">${nar?ax(v):eur(v)}</text>`}
+const y0=new Date(t0).getFullYear()+1,y1=new Date(t1).getFullYear();for(let yr=y0;yr<=y1;yr++){const X=x(T(yr+'-01-01'));g+=`<line x1="${X}" x2="${X}" y1="${yb}" y2="${yb+6}" stroke="var(--ink3)"/><text x="${X}" y="${yb+22}" text-anchor="middle" font-size="13" fill="var(--ink3)">${nar?'’'+String(yr).slice(2):yr}</text>`}
+g+=`<line x1="${m.l}" x2="${W-m.r}" y1="${lane}" y2="${lane}" stroke="var(--rule)"/><text x="${m.l}" y="${lane-12}" font-size="13" fill="var(--ink3)">ohne Zuschlag</text>`;
+const cnt={},idx={};for(const r of D){const k=r.date+r.status;cnt[k]=(cnt[k]||0)+1}
+pts=D.map(r=>{const k=r.date+r.status;idx[k]=(idx[k]||0)+1;return{r,x:x(T(r.date))+(idx[k]-1-(cnt[k]-1)/2)*7,y:r.status==='v'?y(r.hammer):lane}});
+for(const p of pts)g+=p.r.status==='v'?mark(p.r.house,p.x,p.y,COL[p.r.house]||'var(--gray)','var(--paper)'):mark(p.r.house,p.x,p.y,'var(--paper)','var(--ink2)');
+s.innerHTML=g+'<circle id="hl" r="9" fill="none" stroke="var(--ink)" stroke-width="2" opacity="0"/>'};
+const ro=new ResizeObserver(draw);ro.observe(s);
+const hide=()=>{tip.style.opacity=0;const h=s.querySelector('#hl');if(h)h.setAttribute('opacity',0)};
+s.addEventListener('pointermove',e=>{const b=s.getBoundingClientRect(),mx=e.clientX-b.left,my=e.clientY-b.top;let best=null,bd=24;
+for(const p of pts){const d=Math.hypot(p.x-mx,p.y-my);if(d<bd){bd=d;best=p}}
+if(!best)return hide();const r=best.r;
+tip.innerHTML=`<b>${esc(r.title)}</b>${esc(r.house)} · ${dfmt(r.date)} · ${esc(r.size||'Maße n. a.')}<br>${r.status==='v'?'Zuschlag '+(r.est_h?'ca. ':'')+eur(r.hammer):'ohne Zuschlag'}${r.lo?' · Schätzung ab '+eur(r.lo):''}`;
+tip.style.opacity=1;const tw=tip.offsetWidth,th=tip.offsetHeight;let L=best.x+14,Tp=best.y-th-10;if(L+tw>b.width)L=best.x-tw-14;if(Tp<4)Tp=best.y+14;tip.style.left=L+'px';tip.style.top=Tp+'px';
+const h=s.querySelector('#hl');h.setAttribute('cx',best.x);h.setAttribute('cy',best.y);h.setAttribute('opacity',1)});
+s.addEventListener('pointerleave',hide);
+const tb=document.querySelector('#tbl tbody'),rows=[...tb.rows],q=document.getElementById('q'),cntEl=document.getElementById('cnt');
+q.addEventListener('input',()=>{const v=q.value.trim().toLowerCase();let n=0;for(const tr of rows){const ok=!v||tr.textContent.toLowerCase().includes(v);tr.hidden=!ok;if(ok)n++}cntEl.textContent=n+' von '+rows.length+' Losen'});
+let dir={};for(const btn of document.querySelectorAll('th button')){btn.addEventListener('click',()=>{const k=btn.dataset.k;dir[k]=-(dir[k]||-1);
+rows.sort((a,b)=>{let A=a.dataset[k],B=b.dataset[k];if(k==='hammer'){A=+A||-1;B=+B||-1;return(A-B)*dir[k]}return A.localeCompare(B,'de')*dir[k]});rows.forEach(r=>tb.appendChild(r))})}
+document.getElementById('copy').addEventListener('click',async e=>{const head='Datum;Haus;Auktion;Los;Titel;Technik;Maße;Schätzung;Zuschlag;Zuschlag geschätzt;Status;Quelle';
+const csv=[head,...D.map(r=>[r.date,r.house,r.sale,r.lot,r.title,r.tech,r.size,r.est,r.hammer??'',r.est_h?'ja':'nein',r.status==='v'?'verkauft':'ohne Zuschlag',r.url].map(v=>'"'+String(v??'').replace(/"/g,'""')+'"').join(';'))].join('\n');
+try{await navigator.clipboard.writeText(csv);e.target.textContent='Kopiert'}catch(err){e.target.textContent='Kopieren nicht möglich'}setTimeout(()=>e.target.textContent='Als CSV kopieren',2200)});
+}
+</script>
+</body>
+</html>

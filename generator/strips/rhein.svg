@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1600 220" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+<defs><linearGradient id="g3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cdd3e0"/><stop offset="1" stop-color="#f1e6db"/></linearGradient>
+<symbol id="weide" viewBox="0 0 120 200" overflow="visible"><g fill="none" stroke="#3a3a3e" stroke-linecap="round">
+<path d="M52 200 C50 165 47 135 44 112 M68 200 C69 165 71 135 74 112" stroke-width="7"/><path d="M40 112 C46 100 74 100 80 112" stroke-width="12"/>
+<path d="M44 104 C30 70 18 40 8 18 M48 102 C42 66 36 34 30 6 M54 100 C54 62 52 30 50 0 M60 100 C64 64 70 32 76 4 M66 102 C78 70 90 44 104 20 M72 106 C88 86 104 70 118 58 M40 108 C26 94 12 84 0 78" stroke-width="2.4"/></g></symbol></defs>
+<rect width="1600" height="220" fill="url(#g3)"/>
+<circle cx="1330" cy="116" r="60" fill="#e9a47f" opacity=".25"/><circle cx="1330" cy="116" r="18" fill="#c5552f"/>
+<path d="M0 138 C300 132 600 140 900 134 C1200 128 1400 136 1600 132 V152 H0Z" fill="#9aa3b3"/>
+<path d="M1100 136 V72 L1108 48 L1116 72 V136Z M1126 136 V72 L1134 48 L1142 72 V136Z M1142 136 V106 H1214 V136Z M1150 106 L1182 90 L1214 106Z" fill="#7f889a"/>
+<path d="M0 150 H1600 V174 H0Z" fill="#bcc7d4"/><path d="M240 162 h140 M820 160 h120 M1260 164 h100" stroke="#dde4ec" stroke-width="3" stroke-linecap="round"/>
+<path d="M0 170 C400 162 900 176 1600 166 V220 H0Z" fill="#f8f9fb"/>
+<ellipse cx="420" cy="196" rx="130" ry="6" fill="#dde3ec"/><ellipse cx="800" cy="190" rx="110" ry="6" fill="#dde3ec"/>
+<use href="#weide" x="370" y="74" width="84" height="122"/><use href="#weide" x="500" y="104" width="58" height="86"/><use href="#weide" x="750" y="62" width="94" height="132"/><use href="#weide" x="880" y="108" width="54" height="80"/>
+</svg>

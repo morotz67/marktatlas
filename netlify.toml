@@ -1,0 +1,9 @@
+[build]
+  publish = "site"
+  command = "echo 'statische Seite, kein Build auf Netlify'"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

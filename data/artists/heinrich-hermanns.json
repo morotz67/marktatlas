@@ -1,0 +1,19 @@
+{
+ "slug": "heinrich-hermanns",
+ "name": "Heinrich Hermanns",
+ "status": "stub",
+ "region": "rhein",
+ "birth": {
+  "date": "1862-05-19",
+  "place": "Düsseldorf",
+  "text": "19. Mai 1862 Düsseldorf"
+ },
+ "death": {
+  "date": "1942-12-21",
+  "place": "Düsseldorf",
+  "text": "21. Dezember 1942 Düsseldorf"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Heinrich_Hermanns"
+ ]
+}

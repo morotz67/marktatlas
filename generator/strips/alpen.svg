@@ -1,0 +1,15 @@
+<svg viewBox="0 0 1600 220" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+<defs><linearGradient id="g5" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9cbbe0"/><stop offset="1" stop-color="#e6eef5"/></linearGradient></defs>
+<rect width="1600" height="220" fill="url(#g5)"/>
+<path d="M0 132 L120 98 L210 120 L330 70 L440 114 L560 60 L700 106 L820 52 L960 102 L1080 66 L1200 110 L1320 74 L1460 112 L1600 92 V152 H0Z" fill="#5b78b0"/>
+<g fill="#f3f6fb"><path d="M330 70 L312 84 L326 80 L338 88 L350 82Z"/><path d="M560 60 L540 76 L556 72 L568 80 L582 74Z"/><path d="M820 52 L798 70 L816 66 L828 74 L844 68Z"/><path d="M1080 66 L1062 80 L1076 76 L1088 84 L1100 78Z"/><path d="M1320 74 L1302 88 L1316 84 L1328 92 L1340 86Z"/></g>
+<path d="M0 148 L200 120 L360 138 L520 112 L700 142 L900 118 L1100 140 L1300 114 L1600 136 V160 H0Z" fill="#7e98c6"/>
+<path d="M0 152 H1600 V170 H0Z" fill="#8fb2d3"/>
+<path d="M0 166 C400 158 900 172 1600 162 V220 H0Z" fill="#a9bd6e"/>
+<path d="M0 202 C500 194 1100 208 1600 198 V220 H0Z" fill="#8fa556"/>
+<rect x="656" y="142" width="86" height="28" fill="#f4f1ea"/><path d="M650 144 L699 122 L748 144Z" fill="#b0503a"/>
+<rect x="748" y="104" width="22" height="66" fill="#f4f1ea"/><path d="M744 106 C744 94 752 86 759 78 C766 86 774 94 774 106Z" fill="#4f6b3f"/><path d="M759 78 V64" stroke="#4f6b3f" stroke-width="2.5"/>
+<rect x="520" y="152" width="46" height="20" fill="#f4f1ea"/><path d="M514 154 L543 136 L572 154Z" fill="#b0503a"/><rect x="880" y="154" width="40" height="18" fill="#f4f1ea"/><path d="M874 156 L900 140 L926 156Z" fill="#b0503a"/>
+<g fill="#efc84a"><circle cx="420" cy="186" r="4"/><circle cx="470" cy="196" r="3.5"/><circle cx="610" cy="190" r="4"/><circle cx="990" cy="188" r="4"/><circle cx="1050" cy="198" r="3.5"/><circle cx="1180" cy="184" r="4"/><circle cx="300" cy="196" r="3.5"/></g>
+<g fill="#e48a3a"><circle cx="520" cy="200" r="3.5"/><circle cx="830" cy="194" r="3.5"/><circle cx="1120" cy="192" r="3.5"/></g>
+</svg>
