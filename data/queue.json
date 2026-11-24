@@ -14,8 +14,9 @@
    "slug": "heinrich-hermanns",
    "name": "Heinrich Hermanns",
    "wave": 1,
-   "status": "open",
-   "note": "Platzhalterseite (stub) existiert schon; durch volle Seite ersetzen"
+   "status": "claimed",
+   "note": "Platzhalterseite (stub) existiert schon; durch volle Seite ersetzen",
+   "claimed_at": "2026-11-24T23:12:00Z"
   },
   {
    "slug": "fritz-von-wille",
