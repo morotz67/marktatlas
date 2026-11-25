@@ -41,7 +41,8 @@
    "slug": "otto-pankok",
    "name": "Otto Pankok",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T00:11:48Z"
   },
   {
    "slug": "hann-trier",
