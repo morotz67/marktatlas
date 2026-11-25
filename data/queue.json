@@ -140,7 +140,8 @@
    "slug": "ida-kerkovius",
    "name": "Ida Kerkovius",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T06:31:47Z"
   },
   {
    "slug": "ernst-eitner",
