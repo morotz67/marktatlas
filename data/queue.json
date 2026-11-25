@@ -160,8 +160,11 @@
    "slug": "thomas-herbst",
    "name": "Thomas Herbst",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T07:43:20Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T07:43:20Z",
+   "done_at": "2026-11-25T07:55:34Z",
+   "lots": 24,
+   "note": "volle Seite; 24 Lose (23 Zuschläge), nur Stahl. Erlös mit 26,18 % Aufgeld, auf 100 € gerundet (Zuschläge geschätzt; Frau mit weißer Haube: Erlös 3.200 € unter Startpreis 3.000 € + Aufgeld). Offen: rund 17 Stahl-Ergebnisse seit 2021 ohne abrufbare Losseite (u. a. Feb. 2022 Kühe mit Melker und Schemel 5.000 €, Verschatteter Weg, Baum am Wegesrand, Feldweg; Sep./Nov. 2022 Sandige Böschung, Liegende Kuh, Feldweg mit Pfützen, Dorfstraße u. a.; Sep. 2023 Häuser am Kanal 4.800 €; Feb. 2024 Bauernhaus); Stahl 27./28.11.2026 Los „Kühe mit Melkerinnen“ (Start 2.800 €) noch ohne Ergebnis; Neumeister A419 Los 287 (3.12.2025) ohne Ergebnis; Kendzia A131 (6 Lose, Datum unklar) nicht prüfbar; de-Wikipedia nicht geprüft"
   },
   {
    "slug": "friedrich-kallmorgen",

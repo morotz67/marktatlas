@@ -70,7 +70,7 @@
    "Ob die Preise steigen oder fallen, lässt sich aus diesen Daten nicht sagen. Der Median bei {main} lag {years_old} bei {med_old_main} € und {years_new} bei {med_new_main} €, doch vor 2024 sind es nur {n_old_main} Bilder.",
    "Außerhalb Hamburgs kommt Eitner selten zur Auktion. Bei Van Ham in Köln brachte eine Alsteransicht (36 × 51 cm) im Mai 2025 3.000 €, bei einer Schätzung von 3.500 bis 4.500 €."
   ],
-  "kaeufer": "Auf den Zuschlag kommt das Aufgeld. Bei Stahl sind es laut Versteigerungsbedingungen 22 % plus Umsatzsteuer auf das Aufgeld, zusammen 26,18 %; wer online live bietet, zahlt einen weiteren Zuschlag. Bei Van Ham sind es 32 %. Stahl veröffentlicht als „Erlös“ den Preis mit Aufgeld, auf volle 100 € gerundet.",
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld. Bei Stahl sind es laut Versteigerungsbedingungen 22 % plus Umsatzsteuer auf das Aufgeld, zusammen 26,18 %; wer online live bietet, zahlt einen weiteren Zuschlag. Bei Van Ham sind es 32 %. Stahl veröffentlicht als „Erlös“ den Preis mit Aufgeld, auf volle 100 € gerundet.",
   "spitzen": "Stahl nennt auf seiner Künstlerseite auch höhere Erlöse, jeweils mit Aufgeld: 30.300 € für „Sonnenuntergang über der Binnenalster“ (Februar 2023) und 27.800 € für „Lampionfahrt am Uhlenhorster Fährhaus“ (Mai 2024). Beide fehlen in der Tabelle, weil Technik und Maße nicht prüfbar waren. Vor 2021 lagen die höchsten Erlöse bei 40.900 € für einen Blick über die Außenalster (2016) und 35.300 € für ein Bild der Tochter vor dem Spiegel (2020)."
  },
  "euro_ok": [
@@ -209,7 +209,7 @@
   },
   {
    "q": "Was bedeutet der „Erlös“ bei Stahl?",
-   "a": "Stahl veröffentlicht den Preis mit Aufgeld, auf volle 100 € gerundet. Das Aufgeld beträgt 22 % des Zuschlags plus Umsatzsteuer darauf, zusammen 26,18 %. Ein Erlös von 5.600 € entspricht also rund 4.400 € Zuschlag. Der Einlieferer erhält den Zuschlag abzüglich seiner Kommission."
+   "a": "Stahl veröffentlicht den Preis mit Aufgeld, auf volle 100 € gerundet. Das Aufgeld beträgt 22 % des Zuschlags plus Umsatzsteuer darauf, zusammen 26,18 %. Ein Erlös von 5.600 € entspricht also rund 4.400 € Zuschlag. Der Einlieferer erhält den Zuschlag abzüglich seiner Kommission."
   },
   {
    "q": "Mein Bild hat keine Signatur, nur einen Stempel. Ist es echt?",
@@ -224,14 +224,14 @@
    "a": "Stahl nennt auf seiner Künstlerseite rund 100 Ergebnisse seit Mai 2021, Technik und Maße aber nur auf den einzelnen Losseiten. Aufgenommen sind nur Lose, bei denen sich das prüfen ließ. Höhere Erlöse wie 30.300 € für „Sonnenuntergang über der Binnenalster“ (2023) fehlen deshalb in der Tabelle."
   }
  ],
- "methodik_extra": "Stahl nennt auf Künstler- und Losseiten einen „Erlös“: den Preis mit Aufgeld, auf volle 100 € gerundet. Laut Versteigerungsbedingungen beträgt das Aufgeld 22 % zuzüglich Umsatzsteuer, zusammen 26,18 % (so auch veryimportantlot.com). Die Erlöse passen dazu: „Abend an der Elbe – Strand in Övelgönne“ brachte 17.700 € Erlös bei 14.000 € Startpreis, die „Oberalster bei Hummelsbüttel“ 1.500 € bei 1.200 €. Alle Stahl-Zuschläge sind daher zurückgerechnet und geschätzt, auf etwa 50 bis 100 € genau; ein Aufschlag für Online-Live-Gebote ist nicht berücksichtigt. Bei 13 Stahl-Losen war die Losseite nicht abrufbar; Losnummer, Technik und Maße stammen dann von veryimportantlot.com, das Ergebnis von der Stahl-Künstlerseite oder der Katalogliste. Der größere Teil der rund 100 Stahl-Ergebnisse seit 2021 fehlt, weil Technik und Maße nicht prüfbar waren. Die Stahl-Künstlerseite zeigt nur Ergebnisse; zwei Lose ohne Ergebnis sind über spätere Wiederangebote desselben Bildes erkennbar. Bei zweitägigen Stahl-Auktionen ist der Tag der Kunstauktion laut Katalogarchiv angegeben. Van Ham nennt den Preis mit 32 % Aufgeld (3.960 € = 3.000 € Zuschlag). Einige Titel sind aus dem Englischen übersetzt. Nicht aufgenommen: ein Lempertz-Los vor 2021 und ein Los bei Schloss Ahlden ohne prüfbare Angaben.",
+ "methodik_extra": "Stahl nennt auf Künstler- und Losseiten einen „Erlös“: den Preis mit Aufgeld, auf volle 100 € gerundet. Laut Versteigerungsbedingungen beträgt das Aufgeld 22 % zuzüglich Umsatzsteuer, zusammen 26,18 % (so auch veryimportantlot.com). Die Erlöse passen dazu: „Abend an der Elbe – Strand in Övelgönne“ brachte 17.700 € Erlös bei 14.000 € Startpreis, die „Oberalster bei Hummelsbüttel“ 1.500 € bei 1.200 €. Alle Stahl-Zuschläge sind daher zurückgerechnet und geschätzt, auf etwa 50 bis 100 € genau; ein Aufschlag für Online-Live-Gebote ist nicht berücksichtigt. Bei 13 Stahl-Losen war die Losseite nicht abrufbar; Losnummer, Technik und Maße stammen dann von veryimportantlot.com, das Ergebnis von der Stahl-Künstlerseite oder der Katalogliste. Der größere Teil der rund 100 Stahl-Ergebnisse seit 2021 fehlt, weil Technik und Maße nicht prüfbar waren. Die Stahl-Künstlerseite zeigt nur Ergebnisse; zwei Lose ohne Ergebnis sind über spätere Wiederangebote desselben Bildes erkennbar. Bei zweitägigen Stahl-Auktionen ist der Tag der Kunstauktion laut Katalogarchiv angegeben. Van Ham nennt den Preis mit 32 % Aufgeld (3.960 € = 3.000 € Zuschlag). Einige Titel sind aus dem Englischen übersetzt. Nicht aufgenommen: ein Lempertz-Los vor 2021 und ein Los bei Schloss Ahlden ohne prüfbare Angaben.",
  "quellen": [
   {
    "t": "Auktionshaus Stahl, Künstlerseite Ernst Eitner (Ergebnisse als „Erlös“)",
    "u": "https://www.auktionshaus-stahl.de/en/artist/68-ernst-eitner"
   },
   {
-   "t": "Auktionshaus Stahl, Versteigerungsbedingungen (§ 4: 22 % Aufgeld zzgl. USt)",
+   "t": "Auktionshaus Stahl, Versteigerungsbedingungen (§ 4: 22 % Aufgeld zzgl. USt)",
    "u": "https://www.auktionshaus-stahl.de/en/conditions-of-sale"
   },
   {
@@ -255,7 +255,7 @@
    "u": "https://www.van-ham.com/en/artist/ernst-eitner.html"
   },
   {
-   "t": "Van Ham, Los 1374 mit Angabe des Aufgelds (32 %)",
+   "t": "Van Ham, Los 1374 mit Angabe des Aufgelds (32 %)",
    "u": "https://auction.van-ham.com/en/ernst-eitner-view-from-bellevue-street-over-the-outer-alster-lake-in-hamburg--id-76189-item.html"
   },
   {

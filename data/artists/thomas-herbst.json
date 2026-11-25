@@ -1,0 +1,657 @@
+{
+ "slug": "thomas-herbst",
+ "name": "Thomas Herbst",
+ "status": "published",
+ "region": "moor",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1848-07-27",
+  "place": "Hamburg",
+  "text": "27. Juli 1848 Hamburg"
+ },
+ "death": {
+  "date": "1915-01-19",
+  "place": "Hamburg",
+  "text": "19. Januar 1915 Hamburg"
+ },
+ "same_as": [
+  "https://en.wikipedia.org/wiki/Thomas_Herbst_(painter)",
+  "https://d-nb.info/gnd/116729953",
+  "https://www.wikidata.org/entity/Q1119641"
+ ],
+ "sort_name": "Herbst",
+ "split_year": 2024,
+ "list_line": "Tiermaler, Freund Liebermanns · Zuschlag im Median {med_all} €, Hauptwerke bis {max_hammer} €",
+ "lead": "Hamburger Maler von Kühen, Weiden und Dorfstraßen, Freund Max Liebermanns und Mitgründer des Hamburgischen Künstlerclubs. Diese Seite fasst zusammen, was seine Bilder im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Städel Frankfurt bei Jakob Becker, Berlin im Atelier von Carl Steffeck, Kunstschule Weimar bei Charles Verlat"
+  ],
+  [
+   "Umfeld",
+   "Freund Max Liebermanns, Kreis um Wilhelm Leibl; Mitgründer des Hamburgischen Künstlerclubs 1897"
+  ],
+  [
+   "Hauptmotive",
+   "Kühe, Kälber und Pferde auf der Weide, Dorfstraßen, Elbmarschen und Holstein, Bauernkinder"
+  ],
+  [
+   "Werkverzeichnis",
+   "Carsten Meyer-Tönnesmann, Gemälde, Ölstudien und Aquarelle (2015)"
+  ]
+ ],
+ "marktwert": "Ölstudien aus dem Nachlass meist rund 800–3.800 € Zuschlag; Hauptwerke 12.000 bis rund {max_hammer} €",
+ "absatzmarkt": "Hamburg (Auktionshaus Stahl)",
+ "headline": "Ölstudien bringen rund 800 bis 3.800 €, sieben Werke erreichten 12.000 bis {max_hammer} €",
+ "kurz": "Thomas Herbst wird fast nur beim Auktionshaus Stahl in Hamburg versteigert: Alle {n_lots} Lose auf dieser Seite stammen von dort, die Künstlerseite des Hauses nennt seit Mai 2021 rund 40 Ergebnisse. Der Markt ist zweigeteilt. Kleine Landschafts- und Tierstudien aus dem Nachlass, meist mit Nachlassstempel statt Signatur, brachten rund 800 bis 3.800 €. Sieben Werke erreichten 12.000 bis {max_hammer} €: signierte Ölbilder mit Kühen und Kälbern, eine große Herbstlandschaft, zwei Figurenstudien von Bauernkindern und eine Gouache. Spitze war „{max_title}“ (1901). Stahl nennt nur gerundete Preise mit Aufgeld, die Zuschläge sind deshalb zurückgerechnet und ungefähr.",
+ "figs": [
+  [
+   "{max_hammer} €",
+   "höchster Zuschlag, aus dem Preis mit Aufgeld errechnet: „{max_title}“, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde und Ölstudien, {period}"
+  ],
+  [
+   "7 von {n_sold}",
+   "Zuschlägen ab rund 12.000 €"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag, alle bei Stahl in Hamburg"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Zwei Dinge entscheiden: ob ein Bild ausgeführt und signiert ist und was es zeigt. Die höchsten Preise brachten signierte Ölbilder mit Kühen und Kälbern: „Kälber an der Tränke“ (1901, 77,5 × 61 cm) rund {max_hammer} €, „Begegnung“ (1898, 36 × 43 cm) rund 15.000 €, „Kühe auf der Weide“ (74 × 100 cm) im September 2026 rund 12.000 €.",
+   "Der größte Teil des Angebots sind Ölstudien auf Karton, Papier oder Holz aus dem Nachlass. Landschafts- und Tierstudien dieser Art brachten rund 800 bis 3.800 €. Figurenstudien können deutlich mehr bringen: „Bauernmädchen mit Korb“ und „Bauernjunge“ (beide 2022) je rund 22.000 €, ein kleiner „Mädchenkopf“ (2024) dagegen rund 1.900 €.",
+   "{years_old} lag der Median bei {med_old_main} €, {years_new} bei {med_new_main} €. Ein Teil davon ist die Mischung: Bis 2023 kamen vier Gemälde und Studien ab 20.000 € zur Auktion, seit 2024 keines (die Gouache von 2024 zählt hier nicht mit); die Landschafts- und Tierstudien blieben im selben Rahmen."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Stahl laut Versteigerungsbedingungen 22 % plus Umsatzsteuer auf das Aufgeld, zusammen 26,18 %; wer online live bietet, zahlt einen weiteren Zuschlag. Stahl veröffentlicht als „Erlös“ den Preis mit Aufgeld, auf volle 100 € gerundet.",
+  "spitzen": "Vor 2021 lagen die höchsten Erlöse laut Stahl-Künstlerseite höher, jeweils mit Aufgeld: 61.900 € für „Kühe an der Tränke“ (Auktion 292), 45.400 € für „Kühe im Fluss“ (Februar 2020) und 40.900 € für „Kühe am Bach“ (November 2012)."
+ },
+ "euro_ok": [
+  "61.900",
+  "45.400",
+  "40.900",
+  "40.400",
+  "18.900",
+  "15.100",
+  "3.200",
+  "3.000",
+  "5.000",
+  "100"
+ ],
+ "absatz": {
+  "text": [
+   "Hamburg ist der Markt für Herbst, und dort das Auktionshaus Stahl. Es bietet ihn regelmäßig an, oft mehrere Werke auf einmal: In der Auktion mit norddeutscher Kunst vom Februar 2022 erhielten neun Arbeiten einen Zuschlag. Alle {n_lots} Lose auf dieser Seite stammen von Stahl.",
+   "Andere Häuser sind selten. Neumeister in München bot im Dezember 2025 eine holsteinische Landschaftsstudie an, ein Ergebnis war nicht veröffentlicht. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Hoch. {sold_rate} Losen erhielten einen Zuschlag. Ohne Ergebnis blieb im September 2024 die Studie „Stehender Junge“. Stahl zeigt unverkaufte Lose auf der Künstlerseite nicht an; die Quote ist deshalb eher zu hoch."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "„Herbst“ unten links oder rechts, bei Gemälden oft mit Jahr, etwa „Herbst 98“ oder „Herbst 1901“."
+   ],
+   [
+    "Nachlassstempel",
+    "Die meisten Studien sind nicht signiert, sondern tragen den Nachlassstempel, meist auf der Rückseite, manchmal vorn; einzelne einen Signaturstempel. Manche haben zusätzlich eine Echtheitsbestätigung des Nachlassverwalters Gustav Grundstedt."
+   ],
+   [
+    "Vorsicht bei Signaturen auf Studien",
+    "Laut Neuer Deutscher Biographie kamen nach seinem Tod in der Inflationszeit viele Studien auf den Markt; späte Kartonstudien wurden damals von einem Händler ergänzt und mit Signaturen versehen. Eine Signatur auf einer Studie beweist deshalb nichts."
+   ],
+   [
+    "Werkverzeichnisnummer",
+    "Stahl nennt bei den meisten Losen die Nummer im Werkverzeichnis von Carsten Meyer-Tönnesmann. Fehlt sie, beim Haus nachfragen."
+   ],
+   [
+    "Druck oder Unikat",
+    "Von Herbst gibt es auch Lithografien. Unter der Lupe zeigt ein Druck Raster oder eine flache Oberfläche, ein Ölbild Pinselspuren."
+   ],
+   [
+    "Zuschreibungen",
+    "Lose mit „zugeschrieben“ oder „Umkreis“ nicht mit Originalpreisen vergleichen."
+   ]
+  ],
+  "preis_drueckt": "Wichtiger als die Signatur ist das Motiv: Das unsignierte „Bauernmädchen mit Korb“ mit Nachlassstempel brachte rund 22.000 €, Landschaftsstudien mit Stempel rund 800 bis 3.800 €. Retuschen, Risse und Fehlstellen vermerkt Stahl im Katalog; die Studie „Stehender Junge“ mit kleiner Fehlstelle blieb 2024 ohne Ergebnis.",
+  "werkverzeichnis": "Carsten Meyer-Tönnesmann, „Thomas Herbst. Werkverzeichnis der Gemälde, Ölstudien und Aquarelle“, 2015 (laut Auktionshaus Stahl). Zur Retrospektive im Jenisch Haus erschien 2015 der Katalog „Thomas Herbst 1848–1915. Liebermanns Freund, Lichtwarks Hoffnung“.",
+  "provenienz": "Viele Studien stammen aus dem Nachlass, den Gustav Grundstedt verwaltete; Stahl nennt etwa die „Sammlung Grundstedt um 1917“. Die „Herbstlandschaft“ (2021) trug ein Etikett der Hamburger Galerie Commeter. Bei Bildern, die 1933–1945 den Besitzer wechselten, gehört die Herkunft geprüft."
+ },
+ "leben": {
+  "text": [
+   "Thomas Herbst wurde am 27. Juli 1848 in Hamburg geboren. Er lernte ab 1865 bei Jakob Becker am Städel in Frankfurt, ab 1866 im Berliner Atelier von Carl Steffeck, wo er Max Liebermann kennenlernte, und ab 1868 an der Kunstschule in Weimar bei Charles Verlat. Von 1873 bis 1876 lebte er in Düsseldorf.",
+   "1876/77 teilte er in Paris ein Atelier mit Liebermann. Danach arbeiteten beide in München, im Umfeld von Wilhelm Leibl. 1884 kehrte Herbst endgültig nach Hamburg zurück und unterrichtete an einer Gewerbeschule für Frauen. 1897 gehörte er zu den Gründern des Hamburgischen Künstlerclubs, 1903 trat er wieder aus.",
+   "Er malte das flache Land um Hamburg, die Elbmarschen, Holstein und Mecklenburg: Dorfstraßen und Weiden mit Kühen und Pferden, später in hellerer, impressionistischer Farbe. Wegen seiner Kuhbilder nannte man ihn „Kuhherbst“. Er starb am 19. Januar 1915 in Hamburg."
+  ],
+  "museen": "Hamburger Kunsthalle (laut Neuer Deutscher Biographie 22 Gemälde, 33 Gouachen und Zeichnungen), Kunsthalle Bremen, Schloss Oldenburg; laut Auktionshaus Stahl auch Altonaer Museum, Nationalgalerie Berlin, Kiel und Husum. 2015 zeigte das Jenisch Haus in Hamburg eine Retrospektive.",
+  "timeline": [
+   [
+    "1848",
+    "geboren in Hamburg"
+   ],
+   [
+    "1865",
+    "Städel Frankfurt, bei Jakob Becker"
+   ],
+   [
+    "1866",
+    "Berlin, Atelier Carl Steffeck; lernt Max Liebermann kennen"
+   ],
+   [
+    "1868",
+    "Kunstschule Weimar, bei Charles Verlat"
+   ],
+   [
+    "1873",
+    "Düsseldorf"
+   ],
+   [
+    "1876",
+    "Paris, gemeinsames Atelier mit Liebermann; danach München"
+   ],
+   [
+    "1884",
+    "Rückkehr nach Hamburg"
+   ],
+   [
+    "1897",
+    "Mitgründer des Hamburgischen Künstlerclubs"
+   ],
+   [
+    "1903",
+    "Austritt aus dem Künstlerclub"
+   ],
+   [
+    "1915",
+    "gestorben in Hamburg"
+   ],
+   [
+    "2015",
+    "Retrospektive im Jenisch Haus, Werkverzeichnis"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Kühe und Kälber, ausgeführte Ölbilder",
+   "d": "Signiert, oft datiert; die Spitze des Marktes.",
+   "bsp": "„Kälber an der Tränke“ (1901): rund {max_hammer} €"
+  },
+  {
+   "t": "Bauernkinder und Figuren",
+   "d": "Figurenstudien, auch mit Nachlassstempel.",
+   "bsp": "2022 je rund 22.000 €; „Mädchenkopf“ rund 1.900 €"
+  },
+  {
+   "t": "Landschafts- und Tierstudien",
+   "d": "Kleine Ölstudien auf Karton, Papier oder Holz aus dem Nachlass.",
+   "bsp": "rund 800 bis 3.800 €"
+  },
+  {
+   "t": "Gouachen",
+   "d": "Selten, teils große ausgeführte Blätter.",
+   "bsp": "„Auch ein Amateur-Photograph“ (1893): rund 25.000 €"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Thomas Herbst wert?",
+   "a": "Kleine Landschafts- und Tierstudien aus dem Nachlass brachten rund 800 bis 3.800 € Zuschlag. 12.000 bis {max_hammer} € brachten signierte Ölbilder mit Kühen und Kälbern, eine große Herbstlandschaft, zwei Figurenstudien und eine Gouache; ein kleineres signiertes Bild mit Hirte und Kühen kam auf rund 4.500 €. Der Median aller verkauften Gemälde und Studien liegt bei {med_all} €."
+  },
+  {
+   "q": "Wo verkauft man einen Herbst am besten?",
+   "a": "In Hamburg. Das Auktionshaus Stahl bietet ihn regelmäßig an und stellt alle {n_lots} Lose dieser Seite. Andere Häuser bieten ihn selten an."
+  },
+  {
+   "q": "Meine Studie hat nur einen Nachlassstempel. Ist das ein Nachteil?",
+   "a": "Nicht unbedingt. Die meisten Studien bei Stahl tragen den Stempel statt einer Signatur, auch das „Bauernmädchen mit Korb“, das rund 22.000 € brachte. Wichtig ist, ob das Werk im Werkverzeichnis von Carsten Meyer-Tönnesmann steht."
+  },
+  {
+   "q": "Ist eine Signatur auf einer Kartonstudie ein gutes Zeichen?",
+   "a": "Nicht von selbst. Laut Neuer Deutscher Biographie wurden späte Studien nach seinem Tod von einem Händler ergänzt und signiert. Den Ausschlag gibt der Abgleich mit dem Werkverzeichnis."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Ja: Carsten Meyer-Tönnesmann, Werkverzeichnis der Gemälde, Ölstudien und Aquarelle, 2015. Stahl gibt die Nummern bei den meisten Losen an."
+  },
+  {
+   "q": "Was bedeutet der „Erlös“ bei Stahl?",
+   "a": "Stahl veröffentlicht den Preis mit Aufgeld, auf volle 100 € gerundet. Das Aufgeld beträgt 22 % des Zuschlags plus Umsatzsteuer darauf, zusammen 26,18 %. Ein Erlös von 40.400 € entspricht also rund 32.000 € Zuschlag."
+  }
+ ],
+ "methodik_extra": "Stahl nennt auf Künstler- und Losseiten einen „Erlös“: den Preis mit Aufgeld, auf volle 100 € gerundet. Laut Versteigerungsbedingungen beträgt das Aufgeld 22 % zuzüglich Umsatzsteuer, zusammen 26,18 % (so auch veryimportantlot.com). Die Erlöse passen dazu: „Begegnung“ brachte 18.900 € Erlös bei 15.000 € Startpreis, „Kühe auf der Weide“ 15.100 € bei 12.000 €. Alle Zuschläge sind daher zurückgerechnet und geschätzt, auf etwa 50 bis 100 € genau; ein Aufschlag für Online-Live-Gebote ist nicht berücksichtigt. Eine Ausnahme ist „Frau mit weißer Haube“: 3.200 € Erlös liegen unter dem Startpreis von 3.000 € plus Aufgeld, der Zuschlag ist hier besonders unsicher. Bei drei Losen zeigt die Losseite nur den Startpreis, der Erlös stammt von der Künstlerseite; bei „Auch ein Amateur-Photograph“ stammen Losnummer, Technik und Maße von veryimportantlot.com. Datum laut Losseite, Künstlerseite und Katalogarchiv; bei zweitägigen Auktionen der Tag der Kunstauktion. Deutsche Titel stammen teils aus den Adressen der Stahl-Seiten, sonst sind sie aus dem Englischen übersetzt. Nicht aufgenommen sind rund 17 weitere Stahl-Ergebnisse seit 2021, deren Losseite nicht abrufbar war (darunter „Kühe mit Melker und Schemel“, Februar 2022, 5.000 € Erlös), und ein Neumeister-Los vom Dezember 2025 ohne veröffentlichtes Ergebnis.",
+ "quellen": [
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Thomas Herbst (Ergebnisse als „Erlös“)",
+   "u": "https://auktionshaus-stahl.de/en/artist/225-thomas-herbst"
+  },
+  {
+   "t": "Auktionshaus Stahl, Versteigerungsbedingungen (§ 4: 22 % Aufgeld zzgl. USt)",
+   "u": "https://www.auktionshaus-stahl.de/en/conditions-of-sale"
+  },
+  {
+   "t": "Auktionshaus Stahl, Katalogarchiv mit Auktionsdaten",
+   "u": "https://www.auktionshaus-stahl.de/en/catalogue"
+  },
+  {
+   "t": "Auktionshaus Stahl, Katalog 28. September 2024, Seite 5 (Lose 473, 474, 476)",
+   "u": "https://www.auktionshaus-stahl.de/en/catalogue/210-art-of-the-20th-and-21st-century/40"
+  },
+  {
+   "t": "veryimportantlot.com, „Auch ein Amateur-Photograph“ (Stahl, 30.11.2024, Los 399)",
+   "u": "https://veryimportantlot.com/en/lot/view/thomas-herbst-hamburg-1848-hamburg-1915-auch-1345803"
+  },
+  {
+   "t": "veryimportantlot.com, „Frau mit weißer Haube“ (Stahl, 25.05.2024, Los 553)",
+   "u": "https://veryimportantlot.com/en/lot/view/thomas-herbst-hamburg-1848-hamburg-1915-frau-1213775"
+  },
+  {
+   "t": "veryimportantlot.com, Neumeister A419, Los 287 (Dezember 2025)",
+   "u": "https://veryimportantlot.com/en/lot/view/thomas-ludwig-herbstthomas-ludwig-herbst-1512566"
+  },
+  {
+   "t": "Friedrich Ahlers-Hestermann: Herbst, Thomas. In: Neue Deutsche Biographie 8 (1969)",
+   "u": "https://www.deutsche-biographie.de/sfz29934.html"
+  },
+  {
+   "t": "Wikipedia (englisch): Thomas Herbst (painter)",
+   "u": "https://en.wikipedia.org/wiki/Thomas_Herbst_(painter)"
+  },
+  {
+   "t": "museum-digital: Thomas Ludwig Herbst (1848–1915), Normdaten",
+   "u": "https://term.museum-digital.de/md-de/persinst/57159"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Stahl",
+   "date": "2021-05-08",
+   "sale": "Kunst und Antiquitäten",
+   "lot": "543",
+   "title": "Herbstlandschaft",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80,
+   "w": 100,
+   "hammer": 20000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/100741-thomas-herbst-herbstlandschaft",
+   "note": "Stahl nennt „Erlös 25.200 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; WVZ Meyer-Tönnesmann 749; Datum laut Stahl-Künstlerseite; Keilrahmen-Etikett der Galerie Commeter; Titel aus der URL"
+  },
+  {
+   "house": "Stahl",
+   "date": "2021-05-08",
+   "sale": "Kunst und Antiquitäten",
+   "lot": "551",
+   "title": "Weidelandschaft mit Baum",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 52.5,
+   "w": 38,
+   "hammer": 2500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/100596-thomas-herbst-landscape",
+   "note": "Stahl nennt „Erlös 3.200 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; WVZ Meyer-Tönnesmann 804; rückseitig Nachlassstempel; Titel aus der URL"
+  },
+  {
+   "house": "Stahl",
+   "date": "2021-05-08",
+   "sale": "Kunst und Antiquitäten",
+   "lot": "552",
+   "title": "Bauernhof",
+   "tech": "Öl auf Papier, auf Holz",
+   "medium": "karton",
+   "h": 50.5,
+   "w": 66.5,
+   "hammer": 1500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/98238-thomas-herbst-bauernhof",
+   "note": "Stahl nennt „Erlös 1.900 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Datum laut Stahl-Künstlerseite; rückseitig Nachlassstempel"
+  },
+  {
+   "house": "Stahl",
+   "date": "2021-05-08",
+   "sale": "Kunst und Antiquitäten",
+   "lot": "555",
+   "title": "Hirte und Kühe im Halbschatten",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 36.5,
+   "w": 55.5,
+   "hammer": 4500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/101149-thomas-herbst-cows-and-boy",
+   "note": "Stahl nennt „Erlös 5.700 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; WVZ Meyer-Tönnesmann 208; signiert „Herbst“; Provenienz Privatsammlung Schleswig-Holstein; Titel aus der URL"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-02-26",
+   "sale": "Norddeutsche Kunst, Sammlungen Horst Janssen und F.C. Gundlach",
+   "lot": "127",
+   "title": "Weißes Kalb im Schatten",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 35,
+   "w": 48,
+   "hammer": 3100,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/103302-thomas-herbst-white-calf",
+   "note": "Stahl nennt „Erlös 3.900 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; WVZ Meyer-Tönnesmann 434; Datum laut Stahl-Künstlerseite; rückseitig Nachlassstempel; Titel aus der URL der Künstlerseite"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-02-26",
+   "sale": "Norddeutsche Kunst, Sammlungen Horst Janssen und F.C. Gundlach",
+   "lot": "129",
+   "title": "Bauernmädchen mit Korb",
+   "tech": "Öl auf Papier, auf Karton",
+   "medium": "karton",
+   "h": 52.5,
+   "w": 33.5,
+   "hammer": 22000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/103301-thomas-herbst-peasant-girl-with-basket",
+   "note": "Stahl nennt „Erlös 27.800 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; WVZ Meyer-Tönnesmann 187; Datum laut Stahl-Künstlerseite; Nachlassstempel unten rechts und rückseitig"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-02-26",
+   "sale": "Norddeutsche Kunst, Sammlungen Horst Janssen und F.C. Gundlach",
+   "lot": "133",
+   "title": "Wassertümpel in Heidelandschaft",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 33,
+   "w": 39,
+   "hammer": 1200,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/100595-thomas-herbst-pond",
+   "note": "Stahl nennt „Erlös 1.500 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; WVZ Meyer-Tönnesmann 1021; rückseitig Nachlassstempel; Titel aus der URL"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-02-26",
+   "sale": "Norddeutsche Kunst, Sammlungen Horst Janssen und F.C. Gundlach",
+   "lot": "134",
+   "title": "Überschwemmte Wiesen",
+   "tech": "Öl auf Papier, auf Karton",
+   "medium": "karton",
+   "h": 31,
+   "w": 48,
+   "hammer": 3800,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/103211-thomas-herbst-landscape",
+   "note": "Stahl nennt „Erlös 4.800 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; rückseitig Nachlassstempel, kleine Restaurierungen; Titel aus der URL"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-02-26",
+   "sale": "Norddeutsche Kunst, Sammlungen Horst Janssen und F.C. Gundlach",
+   "lot": "135",
+   "title": "Bootswerft",
+   "tech": "Öl auf Papier, auf Karton",
+   "medium": "karton",
+   "h": 30.5,
+   "w": 33.5,
+   "hammer": 850,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/103215-thomas-herbst-bootswerft",
+   "note": "Stahl nennt „Erlös 1.100 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (möglich: 850 oder 900 €); WVZ Meyer-Tönnesmann 1057; rückseitig Nachlassstempel, minimale Restaurierungen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-11-26",
+   "sale": "357 Kunst und Antiquitäten",
+   "lot": "438",
+   "title": "Bauernjunge",
+   "tech": "Öl auf Papier, auf Karton",
+   "medium": "karton",
+   "h": 33.5,
+   "w": 25.5,
+   "hammer": 22000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/104972-thomas-herbst-boy",
+   "note": "Stahl nennt „Erlös 27.800 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; vgl. WVZ Meyer-Tönnesmann 145; Provenienz Privatsammlung Baden-Württemberg; Auktion 25./26.11.2022, Kunst laut Katalogarchiv am 26.11.; Titel aus der URL der Künstlerseite"
+  },
+  {
+   "house": "Stahl",
+   "date": "2023-02-25",
+   "sale": "Sammlung einer norddeutschen Finanzgesellschaft",
+   "lot": "243",
+   "title": "Sonniger Weg mit Schatten",
+   "tech": "Öl auf Papier, auf Karton, auf Hartfaser",
+   "medium": "karton",
+   "h": 50.5,
+   "w": 34,
+   "hammer": 800,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/105809-thomas-herbst-sunny-path-with-shadows",
+   "note": "Stahl nennt „Erlös 1.000 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; WVZ Meyer-Tönnesmann 912; Datum laut Stahl-Künstlerseite; Signaturfragment und Nachlassstempel; Titel aus der URL der Künstlerseite"
+  },
+  {
+   "house": "Stahl",
+   "date": "2023-05-13",
+   "sale": "359 Kunstauktion",
+   "lot": "552",
+   "title": "Zwei Kühe auf der Weide",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 38,
+   "w": 59,
+   "hammer": 1700,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/106689-thomas-herbst-two-cows-on-a-meadow",
+   "note": "Stahl nennt „Erlös 2.100 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; WVZ Meyer-Tönnesmann 232; Datum laut Stahl-Künstlerseite; Nachlassstempel unten rechts und rückseitig"
+  },
+  {
+   "house": "Stahl",
+   "date": "2023-09-23",
+   "sale": "Kunstauktion",
+   "lot": "379",
+   "title": "Kälber an der Tränke",
+   "year": "1901",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 77.5,
+   "w": 61,
+   "hammer": 32000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/107034-thomas-herbst-kaelber-an-der-traenke",
+   "note": "Stahl nennt „Erlös 40.400 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Datum laut Stahl-Künstlerseite; signiert und datiert „Herbst 1901“"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-05-25",
+   "sale": "364 Kunstauktion",
+   "lot": "553",
+   "title": "Frau mit weißer Haube",
+   "tech": "Öl auf Papier, auf Karton",
+   "medium": "karton",
+   "h": 30,
+   "w": 20.5,
+   "hammer": 2500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/109130-thomas-herbst-woman-with-white-hood",
+   "note": "Stahl nennt „Erlös 3.200 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 3.000 €; WVZ Meyer-Tönnesmann 120; Datum und Startpreis laut https://veryimportantlot.com/en/lot/view/thomas-herbst-hamburg-1848-hamburg-1915-frau-1213775; der Erlös liegt unter Startpreis plus Aufgeld, vermutlich Nachverkauf unter dem Startpreis; rückseitig Nachlassstempel, laut VIL aus dem Besitz des Nachlassverwalters Gustav Grundstedt"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-05-25",
+   "sale": "364 Kunstauktion",
+   "lot": "554",
+   "title": "Schattiger Waldweg",
+   "tech": "Öl auf Papier, auf Holz",
+   "medium": "karton",
+   "h": 32.5,
+   "w": 49,
+   "hammer": 1800,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/109131-thomas-herbst-sunny-alley",
+   "note": "Stahl nennt „Erlös 2.300 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; WVZ Meyer-Tönnesmann 908; signiert „Herbst“, rückseitig Nachlassstempel; Titel aus der URL der Künstlerseite"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "365 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "473",
+   "title": "Mädchenkopf",
+   "tech": "Öl auf Papier, auf Karton",
+   "medium": "karton",
+   "h": 19.5,
+   "w": 17.5,
+   "hammer": 1900,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/109898-thomas-herbst-maedchenkopf",
+   "note": "Stahl nennt „Erlös 2.400 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; rückseitig Nachlassstempel und Echtheitsbestätigung des Nachlassverwalters Gustav Grundstedt; Provenienz Sammlung Grundstedt um 1917"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "365 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "474",
+   "title": "Boot am Flussufer",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 27.5,
+   "w": 38.5,
+   "hammer": 1600,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/109691-thomas-herbst-boat",
+   "note": "Stahl nennt „Erlös 2.000 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; WVZ Meyer-Tönnesmann 1045; Signaturstempel unten rechts, rückseitig Nachlassstempel; Titel aus der URL der Künstlerseite"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "365 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "475",
+   "title": "Stehender Junge",
+   "tech": "Öl auf Papier, auf Holz",
+   "medium": "karton",
+   "h": 50.5,
+   "w": 31,
+   "status": "n",
+   "url": "https://auktionshaus-stahl.de/en/article/109129-thomas-herbst-standing-boy",
+   "note": "WVZ Meyer-Tönnesmann 140; Losseite ohne Ergebnis, in der Ergebnisliste des Katalogs (Lose 473, 474, 476) und auf der Künstlerseite nicht genannt; Titel aus dem Englischen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "365 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "476",
+   "title": "Begegnung",
+   "year": "1898",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 36,
+   "w": 43,
+   "hammer": 15000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/109438-thomas-herbst-encounter",
+   "note": "Stahl nennt „Erlös 18.900 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 15.000 €; Erlös laut Stahl-Katalogliste; signiert und datiert „Herbst 98“; Provenienz Privatsammlung Nordrhein-Westfalen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-11-30",
+   "sale": "366 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "399",
+   "title": "Auch ein Amateur-Photograph",
+   "year": "1893",
+   "tech": "Gouache auf Papier, auf Karton",
+   "medium": "papier",
+   "h": 43,
+   "w": 76.5,
+   "hammer": 25000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/110214-thomas-herbst-auch-ein-amateur-photograph",
+   "note": "Stahl nennt „Erlös 31.500 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 18.000 €; WVZ Meyer-Tönnesmann 21; Ergebnis laut Stahl-Künstlerseite; Los, Technik, Maße und Startpreis laut https://veryimportantlot.com/en/lot/view/thomas-herbst-hamburg-1848-hamburg-1915-auch-1345803; Messingschild „Ehrenpreis des Hamburger Künstlervereins“"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-03-01",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "528",
+   "title": "Küstenszene mit Booten",
+   "tech": "Öl auf Papier, auf Karton",
+   "medium": "karton",
+   "h": 34,
+   "w": 29.5,
+   "hammer": 2500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/111012-thomas-herbst-kuestenszene-mit-booten",
+   "note": "Stahl nennt „Erlös 3.200 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 1.500 €; WVZ Meyer-Tönnesmann 974; Erlös und Datum laut Stahl-Künstlerseite (Losseite zeigt nur den Startpreis); Nachlassstempel; Risse"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "368 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "466",
+   "title": "Kälber auf dem Hof",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 33.5,
+   "w": 39,
+   "hammer": 2800,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/111370-thomas-herbst-calves-on-the-farm",
+   "note": "Stahl nennt „Erlös 3.500 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; rückseitig Nachlassstempel; winzige Retusche"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "368 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "467",
+   "title": "Marschlandschaft mit Gatter",
+   "tech": "Öl auf Karton, auf Hartfaser",
+   "medium": "karton",
+   "h": 37.5,
+   "w": 56.5,
+   "hammer": 1600,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/111154-thomas-herbst-marsh-landscape-with-fence",
+   "note": "Stahl nennt „Erlös 2.000 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 1.500 €; WVZ Meyer-Tönnesmann 1040; Erlös und Datum laut Stahl-Künstlerseite (Losseite zeigt nur den Startpreis); kleine Retuschen; Titel aus dem Englischen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-09-26",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "569",
+   "title": "Kühe auf der Weide",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 74,
+   "w": 100,
+   "hammer": 12000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/114798-thomas-herbst-cows-in-the-meadow",
+   "note": "Stahl nennt „Erlös 15.100 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 12.000 €; Erlös und Datum laut Stahl-Künstlerseite (Losseite zeigt nur den Startpreis); signiert „Herbst“; Craquelé, unauffällige Retuschen; Provenienz Privatsammlung Hamburg"
+  }
+ ]
+}
