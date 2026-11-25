@@ -1,0 +1,442 @@
+{
+ "slug": "gustav-schoenleber",
+ "name": "Gustav Schönleber",
+ "status": "published",
+ "region": "alpen",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1851-12-03",
+  "place": "Bietigheim",
+  "text": "3. Dezember 1851 Bietigheim"
+ },
+ "death": {
+  "date": "1917-02-01",
+  "place": "Karlsruhe",
+  "text": "1. Februar 1917 Karlsruhe"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Gustav_Sch%C3%B6nleber",
+  "https://en.wikipedia.org/wiki/Gustav_Sch%C3%B6nleber",
+  "https://www.wikidata.org/wiki/Q1556395",
+  "https://d-nb.info/gnd/118964399",
+  "https://www.deutsche-biographie.de/sfz45370.html",
+  "https://viaf.org/viaf/25402263/"
+ ],
+ "sort_name": "Schönleber",
+ "split_year": 2023,
+ "list_line": "Karlsruher Landschaftsmaler · Gemälde im Median {med_all} € Zuschlag",
+ "lead": "Landschaftsmaler aus Württemberg und Lehrer an der Karlsruher Kunstakademie, bekannt für Wasser, Häfen und Ufer in Venedig, Holland, an der Riviera und am Neckar. Diese Seite fasst zusammen, was seine Bilder im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Maschinenbau am Polytechnikum Stuttgart; 1870–1873 Malschule von Adolf Lier in München"
+  ],
+  [
+   "Lehrer",
+   "1880–1917 an der Karlsruher Kunstakademie; Schüler u. a. Friedrich Kallmorgen, Paul Müller-Kaempff, Ernst Eitner"
+  ],
+  [
+   "Hauptmotive",
+   "Häfen und Lagune von Venedig, Holland und Flandern, italienische Riviera, Kleinstädte an Neckar und Enz"
+  ],
+  [
+   "Werkverzeichnis",
+   "Renate Miller-Gruber, Gustav Schönleber 1851–1917. Monographie und Werkverzeichnis, Karlsruhe 1990"
+  ]
+ ],
+ "marktwert": "Gemälde seit 2021 im Median {med_all} € Zuschlag, von rund {min_all} bis {max_hammer} €; kleine Datenbasis ({n_lots} Lose)",
+ "absatzmarkt": "Stuttgart und München; daneben Köln",
+ "headline": "Ein großes Venedig-Bild brachte {max_hammer} €, die übrigen Gemälde seit 2021 rund 800 bis 4.200 €",
+ "kurz": "Für Gustav Schönleber ließen sich nur {n_lots} Lose mit Datum und Ergebnis prüfen, von {period}. Sechs davon sind Gemälde, sie brachten im Median {med_all} € Zuschlag. Weit darüber lag ein großes Venedig-Bild von 1886: „Santa Maria della Salute“ erzielte 2023 bei Karl & Faber in München {max_hammer} €. Die übrigen Gemälde brachten rund 800 bis 4.200 €. Viele Häuser im Südwesten bieten Schönleber an, ihre Ergebnisse sind aber oft nicht einzeln mit Datum prüfbar.",
+ "figs": [
+  [
+   "{max_hammer} €",
+   "höchster Zuschlag: „{max_title}“, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde, {period}"
+  ],
+  [
+   "{q1_all}–{q3_all} €",
+   "mittlere Hälfte der Gemälde-Zuschläge"
+  ],
+  [
+   "{n_lots} Lose",
+   "mit Datum und Ergebnis prüfbar, {period}"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Motiv und Format machen den Unterschied. Den höchsten Zuschlag erzielte das große Venedig-Bild „Santa Maria della Salute“ (1886, {max_size}) im Mai 2023 bei Karl & Faber in München: {max_hammer} €. Kein anderes geprüftes Los kam über rund 4.200 €.",
+   "Ketterer in München versteigerte im Dezember 2021 zwei Gemälde. „Venezianisches Fischerboot“ (1893, 71 × 104 cm) brachte bei einer Schätzung von 3.000 € rund 4.200 €. „Quinto al Mare (Genua)“ (1888) erzielte am selben Tag bei 4.000 € Schätzung 10.000 € mit Aufgeld; Technik und Maße dieses Bildes ließen sich nicht prüfen, es fehlt deshalb in der Tabelle.",
+   "Mittlere Formate und Studien brachten 1.800 bis 2.800 €: die „Stadtmühle von Dinkelsbühl“ (1906, 58 × 99 cm) bei Yves Siebers in Stuttgart 2.800 €, die „Landschaftsstudie auf Capri“ bei Van Ham in Köln 2.500 € und „Stephill Cove, Isle of Wight“ (1898) bei Hargesheimer in Düsseldorf 1.800 €, unter der unteren Schätzung von 2.000 €. Eine kleine Holztafel (12,5 × 22 cm) erzielte bei Stahl in Hamburg rund 800 €.",
+   "Alle {n_lots} Lose auf dieser Seite erhielten einen Zuschlag. Das liegt auch an den Quellen: Unverkaufte Lose sind selten veröffentlicht, und bei Schloss Ahlden, das Schönleber in den letzten Jahren mehrfach anbot, ließen sich keine Ergebnisse prüfen. Bei so wenigen Losen lässt sich kein Trend ablesen."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Karl & Faber 27 % (die veröffentlichten Ergebnisse enthalten keine Umsatzsteuer), bei Van Ham 32 % (Juni 2021 noch 29 %), bei Yves Siebers 28 % einschließlich Umsatzsteuer, bei Hargesheimer 28,56 %, bei Stahl 22 % zuzüglich Umsatzsteuer auf das Aufgeld. Ketterer berechnet seit Juni 2023 bei Differenzbesteuerung 32 %.",
+  "spitzen": "Ältere Ergebnisse lagen teils höher. Laut art.salon brachte „Ebbe in De Panne“ 2015 bei Grisebach 15.000 € und „Riva dei Schiavoni“ 2018 bei Van Ham 7.482 €, jeweils mit Aufgeld. Das höchste Ergebnis im Künstlerverzeichnis von Lempertz ist „Nordsee“ (Auktion 1020) mit 9.760 € mit Aufgeld."
+ },
+ "euro_ok": [
+  "10.000",
+  "15.000",
+  "7.482",
+  "9.760",
+  "5.500",
+  "1.400",
+  "25.400",
+  "8.000",
+  "100"
+ ],
+ "absatz": {
+  "text": [
+   "Schönleber wird vor allem im Südwesten und in München gehandelt. In Stuttgart boten ihn Nagel, Eppli und Yves Siebers mehrfach an, in Pforzheim Kiefer, in München Ketterer und Karl & Faber. Dazu kommen Van Ham in Köln (Lempertz zuletzt 2019), Hargesheimer in Düsseldorf, Stahl in Hamburg und Schloss Ahlden in Niedersachsen.",
+   "Die Stuttgarter Häuser veröffentlichen ihre Ergebnisse oft nicht so, dass sie sich einzeln mit Datum prüfen lassen. Yves Siebers nennt auf der Künstlerseite sieben Zuschläge von 1.400 bis 5.500 €, darunter „Alt-Esslingen“ (1880, 124 × 100 cm) mit 5.500 €, aber ohne Datum; nur die „Stadtmühle von Dinkelsbühl“ ließ sich datieren. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Unklar. Alle {n_lots} geprüften Lose erhielten einen Zuschlag, doch die Zahl ist klein, und unverkaufte Lose fehlen in den Quellen weitgehend."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "Meist „G. Schönleber“ unten links oder rechts, oft mit Jahr, teils mit Ortsangabe, etwa „Vlissingen“. Kleine Bilder tragen auch das Kürzel „G. Sch.“, Zeichnungen ein Monogramm."
+   ],
+   [
+    "Werkverzeichnis",
+    "Renate Miller-Gruber hat 1990 ein Werkverzeichnis veröffentlicht. Die Häuser zitieren die Nummern: Ketterer nennt für „Venezianisches Fischerboot“ Miller-Gruber 493, Siebers für die „Stadtmühle von Dinkelsbühl“ WVZ 835. Ein Bild, das dort verzeichnet ist, lässt sich leichter einordnen und verkaufen."
+   ],
+   [
+    "Name auf der Rückseite",
+    "Schönleber besaß auch Bilder anderer Maler. Ketterer bot 2022 ein Ölbild von Hermann Baisch an, auf dessen Rückseite „G. Schönleber“ handschriftlich steht, als Hinweis auf den Vorbesitzer. Ein Name auf der Rückseite ist also keine Signatur."
+   ],
+   [
+    "Alte Bestätigungen",
+    "Van Ham beschreibt bei der „Landschaftsstudie auf Capri“ ein Etikett mit einer Bestätigung von Hermann Uhde-Bernays vom 27.02.1947. Etiketten des Kunsthauses Bühler in Stuttgart kommen bei mehreren Bildern vor. Solche Spuren stützen eine Zuschreibung, ersetzen aber keine Prüfung."
+   ],
+   [
+    "Kopien und Namensvettern",
+    "Lose mit „nach“ oder „Umkreis“ sind keine Originale; Nagel bot etwa ein Blatt „Schönleber, Gustav (nach)“ an. Sein Sohn Hans Otto Schönleber (1889–1930) war Arzt und Grafiker, seine Werke sind ein eigener, kleiner Markt."
+   ]
+  ],
+  "preis_drueckt": "Doublierungen, Retuschen und nachgedunkelter Firnis kommen vor. Sie schließen hohe Preise nicht aus: Die doublierte „Santa Maria della Salute“ brachte {max_hammer} €. Zustand und Motiv wiegen schwerer als die Größe allein.",
+  "werkverzeichnis": "Renate Miller-Gruber: Gustav Schönleber 1851–1917. Monographie und Werkverzeichnis, Karlsruhe 1990. Wer heute Expertisen ausstellt, war in den geprüften Quellen nicht festzustellen. Zum Vergleich eignen sich die Bestände des Städel und der Staatlichen Kunsthalle Karlsruhe.",
+  "provenienz": "Gute Herkunftsangaben helfen. Ketterer nennt für „Venezianisches Fischerboot“ eine Kette über Geheimrat Kölle in Starnberg (1929), eine Auktion bei Hugo Helbing (1929, unverkauft) und Sotheby's München (1999). Bei Bildern, die 1933–1945 den Besitzer wechselten, gehört die Herkunft geprüft."
+ },
+ "leben": {
+  "text": [
+   "Gustav Schönleber wurde 1851 in Bietigheim in Württemberg geboren. Nach der Lateinschule in Bietigheim und dem Gymnasium in Stuttgart studierte er Maschinenbau am Polytechnikum Stuttgart. Seit einem Unfall in der Kindheit war er auf einem Auge blind. Ein Vetter empfahl ihm die private Malschule von Adolf Lier in München, wo er von 1870 bis 1873 Landschaftsmalerei lernte.",
+   "In den 1870er-Jahren reiste er nach Frankreich, Holland und Italien. Sein Thema wurde das Wasser: Kanäle und Lagune von Venedig, Ebbe in Vlissingen, die Küste der Riviera, Hochwasser am Neckar, Wehre an der Enz. 1895 vertrat er mit Max Liebermann und Fritz von Uhde Deutschland auf der ersten Biennale in Venedig.",
+   "Von 1880 bis 1917 lehrte er an der Karlsruher Kunstakademie. Zu seinen Schülern gehörten Friedrich Kallmorgen, Paul Müller-Kaempff, Gustav Kampmann, Ernst Eitner und Georg Burmester. 1911 erhielt er den Orden Pour le Mérite für Wissenschaften und Künste. Er starb 1917 in Karlsruhe."
+  ],
+  "museen": "Städel Museum, Frankfurt („Der Kai alle Zattere in Venedig“, 1871); Staatliche Kunsthalle Karlsruhe („Regatta in Venedig“, 1877); Nationalgalerie Berlin („Enzwehr bei Besigheim“, 1888); Kunsthalle Bremen („Fischerflotte bei Murano“, 1876); Staatsgalerie Stuttgart („Hochwasser am Neckar“, 1885); Lenbachhaus München.",
+  "timeline": [
+   [
+    "1851",
+    "geboren in Bietigheim"
+   ],
+   [
+    "1870",
+    "Malschule von Adolf Lier in München (bis 1873)"
+   ],
+   [
+    "1880",
+    "Lehrer an der Karlsruher Kunstakademie (bis 1917)"
+   ],
+   [
+    "1882",
+    "Ehrenmitglied der Münchner Akademie"
+   ],
+   [
+    "1888",
+    "„Enzwehr bei Besigheim“, heute in der Nationalgalerie Berlin"
+   ],
+   [
+    "1895",
+    "erste Biennale in Venedig"
+   ],
+   [
+    "1911",
+    "Pour le Mérite für Wissenschaften und Künste"
+   ],
+   [
+    "1917",
+    "gestorben in Karlsruhe"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Venedig",
+   "d": "Lagune, Kanäle und Fischerboote, auch in großen Formaten; darunter das teuerste Los seit 2021.",
+   "bsp": "„Santa Maria della Salute“: {max_hammer} €"
+  },
+  {
+   "t": "Küsten und Häfen im Norden",
+   "d": "Vlissingen, Veere, De Panne, die Nordsee und die Isle of Wight.",
+   "bsp": "„Stephill Cove, Isle of Wight“: 1.800 €"
+  },
+  {
+   "t": "Italien",
+   "d": "Riviera bei Genua und Nervi, Capri.",
+   "bsp": "„Landschaftsstudie auf Capri“: 2.500 €"
+  },
+  {
+   "t": "Kleinstädte in Württemberg und Franken",
+   "d": "Esslingen, Besigheim, Dinkelsbühl: Mühlen, Wehre, Uferhäuser.",
+   "bsp": "„Stadtmühle von Dinkelsbühl“: 2.800 €"
+  },
+  {
+   "t": "Zeichnungen",
+   "d": "Bleistiftstudien, monogrammiert oder signiert.",
+   "bsp": "zwei Blätter zusammen: 200 €"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Gustav Schönleber wert?",
+   "a": "Die sechs seit 2021 prüfbaren Gemälde brachten rund {min_all} bis {max_hammer} € Zuschlag, im Median {med_all} €. Das große Venedig-Bild von 1886 lag weit über allen anderen. Bei {n_lots} Losen ist das eine Orientierung, keine Preisliste. Beim Kauf kommt das Aufgeld hinzu, je nach Haus gut ein Viertel bis ein Drittel des Zuschlags."
+  },
+  {
+   "q": "Wo wird Schönleber versteigert?",
+   "a": "Vor allem in Stuttgart (Nagel, Eppli, Yves Siebers) und München (Ketterer, Karl & Faber), daneben in Köln bei Van Ham. Den höchsten Zuschlag seit 2021 erzielte Karl & Faber. Vor der Einlieferung lohnt der Vergleich von Schätzung, Aufgeld und Kosten."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Ja: Renate Miller-Gruber, Gustav Schönleber 1851–1917. Monographie und Werkverzeichnis, Karlsruhe 1990. Auktionshäuser geben die Nummer meist im Katalog an."
+  },
+  {
+   "q": "Ist jedes Bild mit „G. Schönleber“ auf der Rückseite von ihm?",
+   "a": "Nein. Schönleber besaß auch Werke anderer Maler, sein Name auf der Rückseite kann den Vorbesitzer meinen. Entscheidend sind Signatur, Malweise und der Abgleich mit dem Werkverzeichnis."
+  },
+  {
+   "q": "Gustav oder Hans Otto Schönleber?",
+   "a": "Hans Otto Schönleber (1889–1930) war sein Sohn, Arzt und Grafiker. Die Preise auf dieser Seite gelten nur für Gustav Schönleber."
+  },
+  {
+   "q": "Was bringen Zeichnungen von Schönleber?",
+   "a": "Wenig. Zwei Bleistiftstudien brachten bei Van Ham 2022 zusammen 200 €."
+  }
+ ],
+ "methodik_extra": "Ausnahmen von der Prüfung auf der Seite des Hauses: Das Ergebnis von „Stephill Cove“ (Hargesheimer) stammt von veryimportantlot.com, Technik, Maße und Ergebnis von „Santa Maria della Salute“ (Karl & Faber) von art.salon; die Losseiten der Häuser waren in diesem Lauf nicht abrufbar. Die 25.400 € mit 27 % Aufgeld, die art.salon für Karl & Faber nennt, ergeben genau 20.000 € Zuschlag. Ketterer nennt Ergebnisse inklusive Aufgeld; der Satz für Dezember 2021 war nicht prüfbar. Mit 25 % ergeben beide Ketterer-Ergebnisse runde Zuschläge (4.200 € und 8.000 €), mit 32 % nicht; die Zuschläge sind deshalb geschätzt. Stahl nennt einen auf 100 € gerundeten Erlös mit Aufgeld, zurückgerechnet mit 22 % zuzüglich Umsatzsteuer auf das Aufgeld (geschätzt). Van Ham nennt Preise mit Aufgeld (29 % im Juni 2021, 32 % im Januar 2022), die Zuschläge sind runde Zahlen; die Daten beider Van-Ham-Lose und der Siebers-Auktion stammen von veryimportantlot.com, das für die Van-Ham-Lose dieselben Zuschläge zeigt. Siebers nennt den Zuschlag auf der Künstlerseite ohne Datum und Losnummer. Nicht aufgenommen: „Quinto al Mare (Genua)“ (Ketterer 2021, Technik und Maße unbekannt), sechs undatierte Siebers-Zuschläge, Lose von Schloss Ahlden (ohne prüfbares Ergebnis), Nagel, Eppli und Kiefer (Ergebnisse nicht prüfbar) sowie ein Los bei Bonhams in Los Angeles (Ergebnis in US-Dollar).",
+ "quellen": [
+  {
+   "t": "Van Ham, „Landschaftsstudie auf Capri“, Auktion 466, Los 1081 (Ergebnis mit 29 % Aufgeld)",
+   "u": "https://auction.van-ham.com/en/gustav-schoenleber-landscape-study-of-capri--id-32769-item.html"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham A466 (2. Juni 2021), Los 1081 (Datum, Zuschlag)",
+   "u": "https://veryimportantlot.com/en/lot/view/landscape-study-of-capri-548921"
+  },
+  {
+   "t": "Van Ham, „Zwei Bleistiftstudien: Bootswerft / Almhütte“, Los 207 (Ergebnis mit 32 % Aufgeld)",
+   "u": "https://auction.van-ham.com/en/gustav-schoenleber-zwei-bleistiftstudien-bootswerft-almhuette--id-41316-item.html"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham A479 (26. Januar 2022), Los 207 (Datum, Zuschlag)",
+   "u": "https://veryimportantlot.com/en/lot/view/zwei-bleistiftstudien-bootswerft-almhutte-698333"
+  },
+  {
+   "t": "Yves Siebers Auktionen, Künstlerverzeichnis Gustav Schönleber (Zuschläge)",
+   "u": "https://www.siebers-auktionen.de/auktionen/kuenstlerverzeichnis/s/schoenleber-gustav"
+  },
+  {
+   "t": "veryimportantlot.com, Yves Siebers A79-2 (18. November 2021), Los 2487 „Stadtmühle von Dinkelsbühl“",
+   "u": "https://veryimportantlot.com/en/lot/view/schonleber-gustav-bietigheim-1851-1917-karlsruh-653998"
+  },
+  {
+   "t": "Ketterer Kunst, Auktion 523 (11. Dezember 2021), Los 339 „Venezianisches Fischerboot“, mit Verweis auf Los 343 „Quinto al Mare (Genua)“",
+   "u": "https://www.kettererkunst.de/kunst/kd/details.php?obnr=121001806&anummer=523&detail=1"
+  },
+  {
+   "t": "art.salon, Ketterer 523, Los 343 „Quinto al Mare (Genua)“",
+   "u": "https://www.art.salon/artwork/gustav-schoenleber_quinto-al-mare-genua_AID525700"
+  },
+  {
+   "t": "Ketterer Kunst, Katalog 546 (Dezember 2023), Versteigerungsbedingungen Stand Juni 2023 (Aufgeld)",
+   "u": "https://www.kettererkunst.de/downloads/KettererKunst-546-19thCentury.pdf"
+  },
+  {
+   "t": "Ketterer Kunst, Katalog 532 (10. Dezember 2022), Los 305 Hermann Baisch mit Rückseitenvermerk „G. Schönleber“",
+   "u": "https://www.kettererkunst.de/downloads/KettererKunst-532-AM.pdf"
+  },
+  {
+   "t": "veryimportantlot.com, Hargesheimer 126 (10. März 2023), Los 1834 „Stephill Cove, Isle of Wight“",
+   "u": "https://veryimportantlot.com/en/lot/view/gustav-schonleber-912420"
+  },
+  {
+   "t": "art.salon, Karl & Faber (25. Mai 2023), Los 143 „Venedig, Santa Maria della Salute“",
+   "u": "https://www.art.salon/artwork/gustav-schoenleber_venedig-santa-maria-della-salute_AID1151543"
+  },
+  {
+   "t": "Karl & Faber, Auktion 316, Los 143 (Losseite, in diesem Lauf nicht abrufbar)",
+   "u": "https://www.karlundfaber.de/de/auktionen/316/alte-meister-kunst-des-19-jahrhunderts/3160143/"
+  },
+  {
+   "t": "Karl & Faber, „Hof in Bebenhausen“ (Miller-Gruber 8; Hinweis: Ergebnisse inkl. 27 % Aufgeld ohne MwSt.)",
+   "u": "https://karlundfaber.de/en/auctions/815/old-masters-19th-century-art/8153059"
+  },
+  {
+   "t": "Auktionshaus Stahl, „Fischer am Strand“, Mai 2024, Los 527",
+   "u": "https://auktionshaus-stahl.de/en/article/109376-gustav-schoenleber-fischer-am-strand"
+  },
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Gustav Schönleber",
+   "u": "https://www.auktionshaus-stahl.de/en/artist/161-gustav-schoenleber"
+  },
+  {
+   "t": "Lempertz, Künstlerverzeichnis Gustav Schönleber",
+   "u": "https://www.lempertz.com/en/catalogues/artist-index/detail/schoenleber-gustav.html"
+  },
+  {
+   "t": "Lempertz, Auktion 1020, Los 1585 „Nordsee“",
+   "u": "https://www.lempertz.com/en/catalogues/lot/1020-1/1585-gustav-schoenleber.html"
+  },
+  {
+   "t": "art.salon, Künstlerseite Gustav Schönleber (ältere Ergebnisse)",
+   "u": "https://www.art.salon/artist/gustav-schoenleber"
+  },
+  {
+   "t": "veryimportantlot.com, Suche „Gustav Schönleber“ (Angebote bei Nagel, Eppli, Siebers, Kiefer, Schloss Ahlden)",
+   "u": "https://veryimportantlot.com/en/search/key/gustav+sch%C3%B6nleber"
+  },
+  {
+   "t": "Wikipedia: Gustav Schönleber",
+   "u": "https://de.wikipedia.org/wiki/Gustav_Sch%C3%B6nleber"
+  },
+  {
+   "t": "Wikipedia (englisch): Gustav Schönleber",
+   "u": "https://en.wikipedia.org/wiki/Gustav_Sch%C3%B6nleber"
+  },
+  {
+   "t": "Deutsche Biographie: Schönleber, Gustav",
+   "u": "https://www.deutsche-biographie.de/sfz45370.html"
+  },
+  {
+   "t": "Städel Museum, Sammlung: Gustav Schönleber",
+   "u": "https://sammlung.staedelmuseum.de/en/person/schoenleber-gustav"
+  },
+  {
+   "t": "Lenbachhaus, Sammlung online: Gustav Schönleber",
+   "u": "https://www.lenbachhaus.de/en/digital/collection-online/person/schoenleber-gustav-9613"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Van Ham",
+   "date": "2021-06-02",
+   "sale": "466 Fine Art",
+   "lot": "1081",
+   "title": "Landschaftsstudie auf Capri",
+   "tech": "Öl auf Leinwand, auf Karton kaschiert",
+   "medium": "lw",
+   "h": 28,
+   "w": 51,
+   "lo": 2500,
+   "hi": 3000,
+   "hammer": 2500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/gustav-schoenleber-landscape-study-of-capri--id-32769-item.html",
+   "note": "Ergebnis 3.225 € mit 29 % Aufgeld laut Losseite; Datum und Auktion laut veryimportantlot.com (A466, 02.06.2021), dort Zuschlag 2.500 €; Etikett mit Bestätigung von Hermann Uhde-Bernays, 27.02.1947"
+  },
+  {
+   "house": "Siebers",
+   "date": "2021-11-18",
+   "sale": "79-2 Kunst, Antiquitäten & Moderne Kunst",
+   "lot": "2487",
+   "title": "Stadtmühle von Dinkelsbühl",
+   "year": "1906",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 58,
+   "w": 99,
+   "hammer": 2800,
+   "status": "v",
+   "url": "https://www.siebers-auktionen.de/auktionen/kuenstlerverzeichnis/s/schoenleber-gustav",
+   "note": "Zuschlag 2.800 € laut Künstlerseite (ohne Datum und Losnummer); Auktion, Los und Datum laut veryimportantlot.com (A79-2, 18.11.2021, Aufgeld 28 % inkl. USt); signiert und datiert unten rechts 1906; Miller-Gruber WVZ 835"
+  },
+  {
+   "house": "Ketterer",
+   "date": "2021-12-11",
+   "sale": "523 Kunst des 19. Jahrhunderts",
+   "lot": "339",
+   "title": "Venezianisches Fischerboot",
+   "year": "1893",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 71,
+   "w": 104,
+   "lo": 3000,
+   "hammer": 4200,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.kettererkunst.de/kunst/kd/details.php?obnr=121001806&anummer=523&detail=1",
+   "note": "Ergebnis 5.250 € inklusive Aufgeld; Satz für Dezember 2021 nicht prüfbar, 25 % ergibt 4.200 €; links unten signiert und datiert; Miller-Gruber 493"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-01-26",
+   "sale": "479 Art & Interior",
+   "lot": "207",
+   "title": "Zwei Bleistiftstudien: Bootswerft / Almhütte",
+   "tech": "Bleistift auf Papier, ein Blatt kaschiert",
+   "medium": "papier",
+   "lo": 300,
+   "hi": 400,
+   "hammer": 200,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/gustav-schoenleber-zwei-bleistiftstudien-bootswerft-almhuette--id-41316-item.html",
+   "note": "Ergebnis 264 € mit 32 % Aufgeld laut Losseite; zwei Blätter, 12 × 20 und 24,5 × 36 cm; monogrammiert bzw. signiert und datiert; Datum und Auktion laut veryimportantlot.com (A479, 26.01.2022)"
+  },
+  {
+   "house": "Hargesheimer",
+   "date": "2023-03-10",
+   "sale": "126 Gemälde 19. Jahrhundert",
+   "lot": "1834",
+   "title": "Stephill Cove, Isle of Wight",
+   "year": "1898",
+   "tech": "Öl auf Leinwand, auf Holz",
+   "medium": "lw",
+   "h": 38,
+   "w": 51,
+   "lo": 2000,
+   "hi": 4000,
+   "hammer": 1800,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/gustav-schonleber-912420",
+   "src": "Hargesheimer 126, Los 1834 (über veryimportantlot.com)",
+   "note": "Zuschlag 1.800 € laut veryimportantlot.com (Aufgeld 28,56 %); Losseite von Hargesheimer nicht geprüft; signiert unten links „G. Schönleber“, Ortsangabe in anderer Farbe"
+  },
+  {
+   "house": "Karl & Faber",
+   "date": "2023-05-25",
+   "sale": "316 Alte Meister & Kunst des 19. Jahrhunderts",
+   "lot": "143",
+   "title": "Venedig, Santa Maria della Salute",
+   "year": "1886",
+   "tech": "Öl auf Leinwand, doubliert",
+   "medium": "lw",
+   "h": 117.4,
+   "w": 163.5,
+   "hammer": 20000,
+   "status": "v",
+   "url": "https://www.art.salon/artwork/gustav-schoenleber_venedig-santa-maria-della-salute_AID1151543",
+   "src": "Karl & Faber 316, Los 143 (über art.salon)",
+   "note": "Ergebnis 25.400 € laut art.salon; Karl & Faber veröffentlicht Ergebnisse inkl. 27 % Aufgeld ohne MwSt., ergibt genau 20.000 €; Losseite https://www.karlundfaber.de/de/auktionen/316/alte-meister-kunst-des-19-jahrhunderts/3160143/ in diesem Lauf nicht abrufbar; signiert und datiert unten rechts; Schätzung nicht angegeben"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-05-25",
+   "sale": "Kunstauktion Mai 2024",
+   "lot": "527",
+   "title": "Fischer am Strand",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 12.5,
+   "w": 22,
+   "hammer": 800,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/109376-gustav-schoenleber-fischer-am-strand",
+   "note": "Stahl nennt „Proceeds 1.000 €“, auf 100 € gerundeter Preis mit Aufgeld; zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten rechts „G. Sch.“, kleine Retuschen; Titel englisch „Fisherfolk on the Beach“, deutsch laut Adresse der Seite"
+  }
+ ]
+}

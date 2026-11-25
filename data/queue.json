@@ -100,8 +100,11 @@
    "slug": "gustav-schoenleber",
    "name": "Gustav Schönleber",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T04:12:48Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T04:12:48Z",
+   "done_at": "2026-11-25T04:40:10Z",
+   "lots": 7,
+   "note": "volle Seite; nur 7 datierte Lose (6 Gemälde). Van Ham 2, Siebers 1, Ketterer 1, Hargesheimer 1 (nur VIL), Karl & Faber 1 (nur art.salon), Stahl 1. Offen: Van-Ham-Künstlerseite (en) nicht abrufbar; Ketterer 523 Los 343 „Quinto al Mare“ (10.000 € inkl. Aufgeld, Technik/Maße fehlen); 6 undatierte Siebers-Zuschläge (u. a. Alt-Esslingen 5.500 €); Nagel, Eppli (nur JavaScript), Kiefer, Schloss Ahlden (A189–A197) ohne prüfbare Ergebnisse; VIL-Losseiten großteils nicht abrufbar"
   },
   {
    "slug": "paul-wilhelm-keller-reutlingen",
