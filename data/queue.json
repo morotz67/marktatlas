@@ -210,8 +210,11 @@
    "slug": "fritz-mackensen",
    "name": "Fritz Mackensen",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T10:31:00Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T10:31:00Z",
+   "done_at": "2026-11-25T10:44:28Z",
+   "lots": 8,
+   "note": "volle Seite; nur 8 Lose (4 Zuschläge, alle Stahl): Stahl 5, Schloss Ahlden 1, Historia 1, Van Ham 1. Offen: Van-Ham-Künstlerseite (en) nicht gefunden, Van Ham Online 29.01.2025 Los 867 ohne Ergebnis auf der Losseite; Karl & Faber 310 „Landschaft bei Worpswede“ ohne Datum/Ergebnis; Lempertz-Katalog-PDFs (1188, 1212, 1221, 1224, 1234) nicht abrufbar; Invaluable/LotSearch/artnet nicht abrufbar; Bremer Häuser (Bolland & Marotz) ohne Treffer; VIL-Suche „mackensen“ (266 Einträge) nur teilweise sichtbar"
   },
   {
    "slug": "eduard-bargheer",

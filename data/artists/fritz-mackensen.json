@@ -1,0 +1,405 @@
+{
+ "slug": "fritz-mackensen",
+ "name": "Fritz Mackensen",
+ "status": "published",
+ "region": "moor",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1866-04-08",
+  "place": "Greene",
+  "text": "8. April 1866 Greene bei Kreiensen"
+ },
+ "death": {
+  "date": "1953-05-12",
+  "place": "Bremen",
+  "text": "12. Mai 1953 Bremen"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Fritz_Mackensen",
+  "https://en.wikipedia.org/wiki/Fritz_Mackensen",
+  "https://d-nb.info/gnd/118575910"
+ ],
+ "sort_name": "Mackensen",
+ "split_year": 2024,
+ "list_line": "Mitgründer der Künstlerkolonie Worpswede · Zuschläge seit 2021 rund {min_all}–{max_hammer} €",
+ "lead": "Maler aus Greene bei Kreiensen, der 1884 Worpswede für die Malerei entdeckte und 1889 zu den Gründern der dortigen Künstlerkolonie gehörte. Diese Seite fasst zusammen, was seine Werke im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Kunstakademie Düsseldorf ab 1884 (Peter Janssen); München 1888/89 (F. A. von Kaulbach, W. von Diez); Meisterschüler von Christian Ludwig Bokelmann 1892/93"
+  ],
+  [
+   "Künstlerkolonie",
+   "Worpswede, ab 1889 mit Otto Modersohn und Hans am Ende"
+  ],
+  [
+   "Hauptmotive",
+   "Moorbauern, Gottesdienst und Trauer im Moor, Bildnisse, Landschaften um Worpswede"
+  ],
+  [
+   "Werkverzeichnis",
+   "nach Ulrike Hamm (Stahl zitiert Nummern wie „Hamm 1900/2“); Monografie Hamm/Küster 1990"
+  ]
+ ],
+ "marktwert": "Studien und späte Bilder seit 2021 rund {min_all} bis {max_hammer} € Zuschlag, im Median {med_all} €; kleine Datenbasis ({n_lots} Lose)",
+ "absatzmarkt": "Hamburg (Auktionshaus Stahl)",
+ "headline": "Im Handel vor allem Studien und späte Bilder: Zuschläge seit 2021 rund {min_all} bis {max_hammer} €",
+ "kurz": "Fritz Mackensen gehört zu den Gründern der Künstlerkolonie Worpswede, seine bekanntesten Bilder hängen in Museen. Prüfbar waren seit 2021 nur {n_lots} Lose, {n_sold} davon mit Zuschlag, alle beim Auktionshaus Stahl in Hamburg: kleine Ölstudien aus der Gegend um Worpswede für rund 2.000 und 2.500 €, ein Damenbildnis für rund 1.200 € und das Fragment „{max_title}“ (1938, {max_size}) für rund {max_hammer} €. Vier weitere Angebote, darunter ein Pastell bei Schloss Ahlden und eine Landschaft bei Van Ham, blieben ohne veröffentlichtes Ergebnis. Stahl nennt nur Preise mit Aufgeld; die Zuschläge sind zurückgerechnet und ungefähr.",
+ "figs": [
+  [
+   "ca. {max_hammer} €",
+   "höchster Zuschlag seit 2021, aus dem Preis mit Aufgeld errechnet: „{max_title}“, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "ca. {med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde, {period}"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag; ohne Ergebnis blieben Angebote bei Schloss Ahlden, Historia, Van Ham und Stahl"
+  ],
+  [
+   "32.200 €",
+   "Stahl-Ergebnis mit Aufgeld für „Herbstabend in Worpswede“ (2014), das höchste auf der Künstlerseite"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Die geprüften Zuschläge seit 2021 liegen alle zwischen rund {min_all} und {max_hammer} €. Kleine Ölstudien brachten bei Stahl rund 2.500 € („Bei Worpswede“, Öl auf Papier, 19,5 × 32,5 cm, 2022, Startpreis 1.500 €) und rund 2.000 € („Worpsweder Landschaft“, Öl auf Karton, 24,5 × 35 cm, 2024, Startpreis 1.200 €).",
+   "Das späte Fragment „{max_title}“ (1938, {max_size}) erzielte im November 2025 rund {max_hammer} € bei einem Startpreis von 2.500 €. Laut Stahl ist es der größte erhaltene Teil eines Gemäldes, das 1945 zerteilt wurde. Im März 2026 brachte die „Frau in grünem Kleid“ (Öl auf Karton, 67 × 43,5 cm) rund 1.200 €, etwa den Startpreis; eine Kohlezeichnung „Sitzender Mann“ (1900), eine Studie zum „Doodenbeer“ in der Kunsthalle Bremen, blieb in derselben Auktion ohne Ergebnis.",
+   "Bei anderen Häusern fand sich seit 2021 kein prüfbarer Zuschlag. Schloss Ahlden bot 2021 ein Kinderbildnis in Pastell (1929, Startpreis 1.400 €) an, Historia in Berlin 2023 eine Moorlandschaft auf Hartfaser (73,5 × 52,5 cm, Startpreis 700 €), Van Ham in Köln im Januar 2025 eine „Worpsweder Landschaft mit Bauernkate“ (49 × 69 cm). Für keines dieser Lose ist ein Ergebnis veröffentlicht.",
+   "Große Figurenbilder wie „Gottesdienst im Freien“ oder „Der Säugling“ hängen in Museen. Unter den geprüften Losen seit 2021 war kein vergleichbares Werk; die Zahlen dieser Seite gelten deshalb für Studien, späte Bilder und Zeichnungen."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Stahl laut Versteigerungsbedingungen 22 % plus Umsatzsteuer darauf, zusammen 26,18 %; Stahl veröffentlicht diesen Preis auf volle 100 € gerundet. Bei Van Ham beträgt das Aufgeld laut Losseite 32 %, bei Schloss Ahlden laut veryimportantlot.com 25 %.",
+  "spitzen": "Vor 2021 lagen einzelne Ergebnisse bei Stahl deutlich höher, jeweils mit Aufgeld: 32.200 € für „Herbstabend in Worpswede“ (September 2014), 7.100 € für den „Blick von der Villa Howaldt auf die Elbe“ (November 2012) und 5.400 € für „Birken“ (September 2017). Das große Bildnis „Margarethe Gocht vor dem Barkenhoff in Worpswede“ (1907, 128 × 107 cm) brachte im Februar 2019 dagegen nur 4.500 €."
+ },
+ "euro_ok": [
+  "1.500",
+  "1.400",
+  "700",
+  "100",
+  "32.200",
+  "7.100",
+  "5.400",
+  "4.500",
+  "3.200",
+  "3.800"
+ ],
+ "absatz": {
+  "text": [
+   "Prüfbare Ergebnisse gibt es seit 2021 nur aus Hamburg: Alle {n_sold} Zuschläge auf dieser Seite stammen vom Auktionshaus Stahl, das Mackensen regelmäßig anbietet. Seine Künstlerseite nennt Ergebnisse seit 2012, darunter das höchste mit 32.200 € (2014).",
+   "Daneben boten Schloss Ahlden in Niedersachsen, Historia in Berlin, Van Ham in Köln und Karl & Faber in München einzelne Werke an, ohne prüfbares Ergebnis. Eine verlässliche Zählung aller Angebote lag nicht vor; die Preisdatenbanken Invaluable, LotSearch und artnet waren nicht abrufbar."
+  ],
+  "liquiditaet": "Mittel bis gering. Nur {sold_rate} Losen erhielten einen Zuschlag, alle bei Stahl in Hamburg; bei den anderen Häusern ist kein Ergebnis veröffentlicht."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "Meist ausgeschrieben „Fritz Mackensen“, unten rechts oder links, teils mit Ort und Jahr („Fritz Mackensen Worpswede 1907“). Kleine Arbeiten auch mit dem Monogramm „F. M.“ (Stahl 2017)."
+   ],
+   [
+    "Werkverzeichnis",
+    "Stahl verweist bei Gemälden auf ein Werkverzeichnis von Ulrike Hamm, mit Nummern wie „Hamm 1900/2“. Nach der Nummer oder einem Vergleich mit Hamms Verzeichnis fragen."
+   ],
+   [
+    "Etiketten und Nachlass",
+    "Etiketten mit Verweis auf den Mackensen-Nachlass auf dem Keilrahmen (so bei „Zwei Kinder aus ‚Drei Generationen‘“, Stahl 2025) und Ausstellungsetiketten, etwa vom Kunstpalast Düsseldorf 1902 oder vom Kunstverein Leipzig, stützen die Herkunft."
+   ],
+   [
+    "Namensgleichheit",
+    "Seine Frau Hertha Mackensen (1884–1949), früher seine Schülerin, malte ebenfalls. Der zeitgenössische Maler Gerd Mackensen (geboren 1949) erscheint in Datenbanken unter demselben Nachnamen. Vorname und Lebensdaten prüfen."
+   ],
+   [
+    "Studien und Zeichnungen",
+    "Kohle-, Bleistift- und Pastellarbeiten sind oft Studien zu Gemälden, etwa zum „Doodenbeer“. Sie sind ein eigener Markt; die geprüften Zeichnungen und Pastelle seit 2021 blieben ohne Zuschlag."
+   ],
+   [
+    "Zuschreibungen",
+    "Lose mit „zugeschrieben“ oder „Umkreis“ nicht mit Originalpreisen vergleichen."
+   ]
+  ],
+  "preis_drueckt": "Fragmente und Schäden: „Zwei Kinder aus ‚Drei Generationen‘“ ist ein beschnittener Teil eines größeren Bildes (rund {max_hammer} €), bei der „Frau in grünem Kleid“ vermerkt Stahl kleine Farbverluste (rund 1.200 €). Wie stark das die Preise drückte, lässt sich aus den wenigen Losen nicht ablesen.",
+  "werkverzeichnis": "Ulrike Hamm, Studien zur Künstlerkolonie Worpswede 1889–1908 (Dissertation, München 1978); Ulrike Hamm und Bernd Küster, „Fritz Mackensen 1866–1953“ (Lilienthal 1990). Stahl zitiert Werkverzeichnisnummern nach Hamm („Hamm 1900/2“).",
+  "provenienz": "Mackensen war ab 1937 Mitglied der NSDAP und leitete 1933 bis 1935 die Nordische Kunsthochschule in Bremen. Bei Bildern, die 1933–1945 den Besitzer wechselten, gehört die Herkunft geprüft. Rückseitige Museums- und Ausstellungsetiketten, etwa der Moritzburg Halle (1954) beim Bildnis „Margarethe Gocht“, helfen dabei."
+ },
+ "leben": {
+  "text": [
+   "Fritz Mackensen wurde am 8. April 1866 in Greene bei Kreiensen geboren, als Sohn des Bäckermeisters Ludwig Mackensen. Er besuchte das Gymnasium in Holzminden und studierte ab 1884 an der Kunstakademie Düsseldorf, laut Neuer Deutscher Biographie vor allem bei Peter Janssen. Im selben Jahr kam er auf Einladung von Mimi Stolte erstmals nach Worpswede. 1888/89 lernte er in München bei Friedrich August von Kaulbach und Wilhelm von Diez, 1892/93 war er Meisterschüler von Christian Ludwig Bokelmann.",
+   "1889 folgten ihm Otto Modersohn und Hans am Ende nach Worpswede; Mackensen gilt als Mitbegründer der Künstlerkolonie. Mit „Der Säugling“ (1892, Kunsthalle Bremen) und dem großen „Gottesdienst im Freien“, für das er 1895 im Münchner Glaspalast eine Goldmedaille erhielt, wurde er bekannt. Von 1895 bis 1904 lebte er ständig in Worpswede; 1897 gründete sich die Künstlervereinigung Worpswede. Zu seinen Schülerinnen gehörten Paula Becker (später Modersohn-Becker) und Clara Westhoff. 1907 heiratete er die Malerin Hertha Stahlschmidt.",
+   "1908 wurde er Professor an der Kunstschule in Weimar, 1910 ihr Direktor; 1918 kehrte er nach Worpswede zurück. Er war Mitglied im Stahlhelm und im Kampfbund für deutsche Kultur, baute ab 1933 die Nordische Kunsthochschule in Bremen auf und wurde laut NDB nach zwei Jahren entlassen. 1937 trat er der NSDAP bei, 1944 stand er auf der „Gottbegnadeten-Liste“. Er starb am 12. Mai 1953 in Bremen und wurde in Worpswede begraben."
+  ],
+  "museen": "Kunsthalle Bremen („Der Säugling“, „Doodenbeer“), Hannover („Gottesdienst im Freien“), Große Kunstschau Worpswede, Weimar („Die Scholle“), laut Wikipedia und NDB.",
+  "timeline": [
+   [
+    "1866",
+    "geboren in Greene bei Kreiensen"
+   ],
+   [
+    "1884",
+    "Kunstakademie Düsseldorf; erster Aufenthalt in Worpswede"
+   ],
+   [
+    "1889",
+    "mit Otto Modersohn und Hans am Ende in Worpswede, Beginn der Künstlerkolonie"
+   ],
+   [
+    "1892",
+    "„Der Säugling“ (Kunsthalle Bremen)"
+   ],
+   [
+    "1895",
+    "Goldmedaille im Münchner Glaspalast für „Gottesdienst im Freien“"
+   ],
+   [
+    "1897",
+    "Künstlervereinigung Worpswede"
+   ],
+   [
+    "1908",
+    "Professor in Weimar, 1910 Direktor"
+   ],
+   [
+    "1918",
+    "zurück in Worpswede"
+   ],
+   [
+    "1933",
+    "Aufbau der Nordischen Kunsthochschule Bremen"
+   ],
+   [
+    "1953",
+    "gestorben in Bremen, begraben in Worpswede"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Landschaften um Worpswede",
+   "d": "Kleine Ölstudien auf Papier und Karton; im Handel am häufigsten.",
+   "bsp": "„Bei Worpswede“ (2022): rund 2.500 €; „Worpsweder Landschaft“ (2024): rund 2.000 €"
+  },
+  {
+   "t": "Figurenbilder und Bildnisse",
+   "d": "Moorbauern, Familien, Bildnisse; die großen Hauptwerke hängen in Museen.",
+   "bsp": "Fragment „Zwei Kinder“ (2025): rund {max_hammer} €; „Frau in grünem Kleid“ (2026): rund 1.200 €"
+  },
+  {
+   "t": "Zeichnungen und Pastelle",
+   "d": "Kohle-, Bleistift- und Pastellarbeiten, oft Studien zu Gemälden.",
+   "bsp": "seit 2021 ohne prüfbaren Zuschlag (Stahl 2026, Schloss Ahlden 2021)"
+  },
+  {
+   "t": "Abendstimmungen und frühe Werke",
+   "d": "Vor 2021 die höchsten Stahl-Ergebnisse.",
+   "bsp": "„Herbstabend in Worpswede“ (Stahl 2014): 32.200 € mit Aufgeld"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Fritz Mackensen wert?",
+   "a": "Seit 2021 brachten seine Bilder bei Stahl in Hamburg rund {min_all} bis {max_hammer} € Zuschlag, im Median {med_all} €. Das waren kleine Studien, späte Bilder und ein Fragment. Bedeutendere Werke lagen früher höher: 2014 erzielte ein „Herbstabend in Worpswede“ bei Stahl 32.200 € mit Aufgeld."
+  },
+  {
+   "q": "Wo verkauft man einen Mackensen am besten?",
+   "a": "Belegt sind Verkäufe vor allem beim Auktionshaus Stahl in Hamburg; alle {n_sold} Zuschläge dieser Seite stammen von dort. Andere Häuser wie Schloss Ahlden, Historia, Van Ham und Karl & Faber boten seit 2021 einzelne Werke an, ihre Ergebnisse waren aber nicht prüfbar."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Ulrike Hamm hat Mackensens Werk erfasst; Stahl zitiert Nummern wie „Hamm 1900/2“. Dazu gibt es die Monografie von Ulrike Hamm und Bernd Küster (Lilienthal 1990). Eine Nummer im Verzeichnis erleichtert den Verkauf."
+  },
+  {
+   "q": "Was ist das Fragment „Zwei Kinder aus ‚Drei Generationen‘“?",
+   "a": "Laut Stahl wurde das große Gemälde „Drei Generationen“ (1938) 1945 zerteilt; die zwei Kinder sind der größte erhaltene Teil. Das Fragment ({max_size}) brachte im November 2025 rund {max_hammer} €."
+  },
+  {
+   "q": "Was bedeutet das „Ergebnis“ bei Stahl?",
+   "a": "Stahl veröffentlicht den Preis mit Aufgeld, auf volle 100 € gerundet. Das Aufgeld beträgt 22 % des Zuschlags plus Umsatzsteuer darauf, zusammen 26,18 %. Ein Ergebnis von 3.800 € entspricht also rund {max_hammer} € Zuschlag."
+  }
+ ],
+ "methodik_extra": "Stahl nennt auf Künstler- und Losseiten ein „Ergebnis“: den Preis mit Aufgeld, auf volle 100 € gerundet. Laut Versteigerungsbedingungen beträgt das Aufgeld 22 % zuzüglich Umsatzsteuer, zusammen 26,18 %; die Stahl-Zuschläge sind daher zurückgerechnet und geschätzt. Die Stahl-Künstlerseite zeigt nur verkaufte Lose. Technik, Maße und Startpreise der Lose 580 (Mai 2024) und 444 (November 2025) stammen von veryimportantlot.com, die Ergebnisse von der Stahl-Künstlerseite; bei der „Frau in grünem Kleid“ (März 2026) zeigt die Losseite nur den Startpreis, das Ergebnis steht auf der Künstlerseite. Stahl-Daten nach der Auktionsliste des Hauses (Kunst jeweils am zweiten Auktionstag). Van Ham zeigt auf der Losseite der Online-Auktion (Aufruf 29. Januar 2025) kein Ergebnis; das Los steht deshalb als „ohne Zuschlag“. Historia und Schloss Ahlden nennen nur Startpreise, kein Ergebnis. Nicht aufgenommen: eine „Landschaft bei Worpswede“ bei Karl & Faber (Auktion 310; Datum, Maße und Ergebnis nicht prüfbar), eine Bleistiftzeichnung „Hohlweg Worpswede“ bei Stockholms Auktionsverk Hamburg (unverkauft, ohne Datum) sowie Lose vor 2021. Lempertz-Kataloge, Invaluable, LotSearch und artnet waren nicht abrufbar.",
+ "quellen": [
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Fritz Mackensen (Ergebnisse)",
+   "u": "https://www.auktionshaus-stahl.de/en/artist/4004-fritz-mackensen"
+  },
+  {
+   "t": "Auktionshaus Stahl, Katalog 25. Mai 2024 (Los 580)",
+   "u": "https://www.auktionshaus-stahl.de/en/catalogue/199-25-may-2024-art-auction/70"
+  },
+  {
+   "t": "Auktionshaus Stahl, Auktionen und Katalogtermine",
+   "u": "https://www.auktionshaus-stahl.de/en/auctions"
+  },
+  {
+   "t": "Auktionshaus Stahl, Versteigerungsbedingungen (§ 4: 22 % Aufgeld zzgl. USt)",
+   "u": "https://www.auktionshaus-stahl.de/en/conditions-of-sale"
+  },
+  {
+   "t": "Auktionshaus Stahl, „Margarethe Gocht vor dem Barkenhoff in Worpswede“ (2019)",
+   "u": "https://www.auktionshaus-stahl.de/en/article/93525-fritz-mackensen-margarethe-gocht-vor-dem-barkenhoff-in-worpswede"
+  },
+  {
+   "t": "Auktionshaus Stahl, „Birken“ (2017, Monogramm)",
+   "u": "https://auktionshaus-stahl.de/en/article/91150-fritz-mackensen-birches"
+  },
+  {
+   "t": "Auktionshaus Stahl, „Heidebauer“ (2017, Werkverzeichnis Hamm 1900/2)",
+   "u": "https://www.auktionshaus-stahl.de/en/article/88224-fritz-mackensen-heidebauer"
+  },
+  {
+   "t": "veryimportantlot.com, Künstlerübersicht Fritz Mackensen",
+   "u": "https://veryimportantlot.com/en/auction-wiki/author/fritz-mackensen-1866-1953"
+  },
+  {
+   "t": "veryimportantlot.com, Stahl 25.05.2024 Los 580",
+   "u": "https://veryimportantlot.com/en/lot/view/fritz-mackensen-braunschweig-1866-worpswede-195-1213802"
+  },
+  {
+   "t": "veryimportantlot.com, Stahl 29.11.2025 Los 444",
+   "u": "https://veryimportantlot.com/en/lot/view/fritz-mackensen-braunschweig-1866-worpswede-195-1520464"
+  },
+  {
+   "t": "Karl & Faber, Auktion 310, „Landschaft bei Worpswede“",
+   "u": "https://karlundfaber.de/en/auctions/310/modern-art-day-sale/3100569"
+  },
+  {
+   "t": "Stockholms Auktionsverk Hamburg, „Hohlweg Worpswede“ (unverkauft)",
+   "u": "https://www.auktionsverket.com/en/objekt/4047694-fritz-mackensen-1866-1953-hohlweg-worpswede"
+  },
+  {
+   "t": "Wikipedia (deutsch): Fritz Mackensen",
+   "u": "https://de.wikipedia.org/wiki/Fritz_Mackensen"
+  },
+  {
+   "t": "Neue Deutsche Biographie: Mackensen, Fritz (Antje Noeres, Bd. 15, 1987)",
+   "u": "https://www.deutsche-biographie.de/sfz55464.html"
+  }
+ ],
+ "ort": "Worpswede",
+ "lots": [
+  {
+   "house": "Schloss Ahlden",
+   "date": "2021-09-05",
+   "sale": "Internationale Kunstauktion",
+   "lot": "1830",
+   "title": "Porträt eines Kindes",
+   "year": "1929",
+   "tech": "Pastell auf Malkarton",
+   "medium": "papier",
+   "h": 66,
+   "w": 47,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/fritz-mackensen-596777",
+   "note": "veryimportantlot.com: Startpreis 1.400 €, Aufgeld 25 %, Auktion abgeschlossen, kein Ergebnis; oben rechts signiert und datiert"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-09-17",
+   "sale": "356 Kunst und Antiquitäten",
+   "lot": "268",
+   "title": "Bei Worpswede",
+   "tech": "Öl auf Papier",
+   "medium": "karton",
+   "h": 19.5,
+   "w": 32.5,
+   "hammer": 2500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/104234-fritz-mackensen-bei-worpswede",
+   "note": "Stahl nennt „Ergebnis 3.200 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Startpreis 1.500 € laut veryimportantlot.com; unten links signiert „Fritz Mackensen“; unter Glas gerahmt, außerhalb des Rahmens nicht geprüft"
+  },
+  {
+   "house": "Historia",
+   "date": "2023-08-29",
+   "sale": "165 Auktion",
+   "lot": "7298",
+   "title": "Landschaft mit Moorgraben und Steg",
+   "tech": "Öl auf Hartfaser",
+   "medium": "karton",
+   "h": 73.5,
+   "w": 52.5,
+   "status": "n",
+   "url": "https://historia.de/en/auction/165-auction/lot-7298-fritz-mackensen/",
+   "note": "Losseite: Startpreis 700 €, kein Ergebnis; Titel nach der (englischen) Beschreibung; unten links signiert; minimale Kratzer in der Farbe"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-05-25",
+   "sale": "364 Kunstauktion",
+   "lot": "580",
+   "title": "Worpsweder Landschaft",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 24.5,
+   "w": 35,
+   "hammer": 2000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/108874-fritz-mackensen-worpsweder-landschaft",
+   "note": "Stahl nennt „Ergebnis 2.500 €“ (Künstlerseite und Katalogliste, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Technik, Maße und Startpreis 1.200 € laut veryimportantlot.com; unten rechts signiert „Fritz Mackensen“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-01-29",
+   "sale": "Online-Auktion",
+   "lot": "867",
+   "title": "Worpsweder Landschaft mit Bauernkate",
+   "tech": "Öl auf Karton, auf Karton gelegt",
+   "medium": "karton",
+   "h": 49,
+   "w": 69,
+   "status": "n",
+   "url": "https://auction.van-ham.com/en/fritz-mackensen-worpsweder-landschaft-mit-bauernkate--id-72948-item.html",
+   "note": "Losseite: Aufruf 29.01.2025, kein Ergebnis angegeben; unten rechts signiert „Fritz Mackensen“; Aufgeld 32 %"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-11-29",
+   "sale": "370 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "444",
+   "title": "Zwei Kinder aus ‚Drei Generationen‘",
+   "year": "1938",
+   "tech": "Öl auf Leinwand, beschnitten",
+   "medium": "lw",
+   "h": 130,
+   "w": 90.5,
+   "hammer": 3000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/112833-fritz-mackensen-zwei-kinder-aus-drei-generationen",
+   "note": "Stahl nennt „Ergebnis 3.800 €“ (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Technik, Maße und Startpreis 2.500 € laut veryimportantlot.com; Fragment des 1945 zerteilten Gemäldes „Drei Generationen“; Etikett mit Verweis auf den Mackensen-Nachlass auf dem Keilrahmen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-03-07",
+   "sale": "371 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "306",
+   "title": "Frau in grünem Kleid",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 67,
+   "w": 43.5,
+   "hammer": 1200,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/112834-fritz-mackensen-lady-in-green-dress",
+   "note": "Stahl-Künstlerseite nennt „Ergebnis 1.500 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Losseite zeigt nur den Startpreis 1.200 €; unten rechts signiert „Fritz Mackensen“, rückseitig Etikett des Kunstvereins Leipzig; vereinzelte kleine Farbverluste"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-03-07",
+   "sale": "371 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "307",
+   "title": "Sitzender Mann",
+   "year": "1900",
+   "tech": "Kohlezeichnung",
+   "medium": "papier",
+   "h": 62.5,
+   "w": 35,
+   "status": "n",
+   "url": "https://www.auktionshaus-stahl.de/en/article/112835-fritz-mackensen-sitting-man",
+   "note": "Losseite ohne Ergebnis, auf der Stahl-Künstlerseite nicht genannt; Studie zum „Doodenbeer“ (Kunsthalle Bremen); Randeinrisse, Papier gebräunt"
+  }
+ ]
+}
