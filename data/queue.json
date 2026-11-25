@@ -91,7 +91,8 @@
    "slug": "christian-mali",
    "name": "Christian Mali",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T03:39:40Z"
   },
   {
    "slug": "gustav-schoenleber",
