@@ -150,7 +150,8 @@
    "slug": "ernst-eitner",
    "name": "Ernst Eitner",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T07:11:56Z"
   },
   {
    "slug": "thomas-herbst",
