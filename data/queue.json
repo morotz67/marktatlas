@@ -1,1078 +1,1079 @@
 {
- "stand": "2026-11-24",
- "regeln": "siehe CLAUDE.md",
- "grenzfaelle_offen": [
-  "Lyonel Feininger",
-  "Alexej von Jawlensky",
-  "Wassily Kandinsky",
-  "Hans Hartung",
-  "Wols",
-  "Arnold Böcklin"
- ],
- "artists": [
-  {
-   "slug": "heinrich-hermanns",
-   "name": "Heinrich Hermanns",
-   "wave": 1,
-   "status": "done",
-   "note": "volle Seite; nur 8 belegte Lose (5 Zuschläge). Offen: 2 Van-Ham-Lose 22.05.2026 und 4 Van-Ham-Onlinelose ohne prüfbares Datum/Losseite; Wettmann 13.12.2025 (Lose 279–287) ohne abrufbare Ergebnisse",
-   "claimed_at": "2026-11-24T23:12:00Z",
-   "done_at": "2026-11-24T23:39:48Z",
-   "lots": 8
-  },
-  {
-   "slug": "fritz-von-wille",
-   "name": "Fritz von Wille",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-24T23:40:06Z",
-   "done_at": "2026-11-24T23:55:22Z",
-   "lots": 28,
-   "note": "Van Ham 26, Lempertz 2; 10 Van-Ham-Onlinelose über Nachbarlose datiert; offen: Lempertz 1262 Los 59 (Okt. 2024) ohne Losdetails, Van Ham 21.11.2025 Lose 1230–1232 ohne Ergebnis"
-  },
-  {
-   "slug": "max-clarenbach",
-   "name": "Max Clarenbach",
-   "wave": 1,
-   "status": "done",
-   "note": "handgebaute Seite, nicht neu generieren"
-  },
-  {
-   "slug": "otto-pankok",
-   "name": "Otto Pankok",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T00:11:48Z",
-   "done_at": "2026-11-25T00:53:56Z",
-   "lots": 18,
-   "note": "Van Ham 8, Bassenge 5, Mehlis 3, Kloss 1, K&K 1; offen: Van-Ham-Lose ohne prüfbares Datum (Bronze Hotu id 31215, Windmühle id 33370 unverkauft, Holländer/Halbakt I ids 52465/52467, vermutl. A1161 Jan. 2023); Lempertz, Ketterer, Grisebach, Karl & Faber ohne prüfbares Los seit 2021; Van-Ham-Detailseiten /en/artist/otto-pankok/… teils nicht abrufbar"
-  },
-  {
-   "slug": "hann-trier",
-   "name": "Hann Trier",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T01:11:38Z",
-   "done_at": "2026-11-25T01:36:00Z",
-   "lots": 10,
-   "note": "volle Seite; nur 10 datierte Lose (6 Gemälde). Offen: 10 Van-Ham-Lose ohne Datum auf der Losseite (u. a. Labyrinth III, Uhu III unverkauft), Lempertz 1201 Los 302 „Brise“ (Losseite nicht abrufbar), Ketterer-Onlinelose ohne Datum"
-  },
-  {
-   "slug": "gregor-von-bochmann",
-   "name": "Gregor von Bochmann d. Ä.",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T02:12:21Z",
-   "done_at": "2026-11-25T02:43:45Z",
-   "lots": 23,
-   "note": "Van Ham 16, Wettmann 4, Stahl 3; Van-Ham-Künstlerseite nicht abrufbar, nur einzeln gefundene Losseiten; A499 (Mai 2023), Troika und Wettmann über veryimportantlot.com datiert; offen: Stahl 23.06.2023 „Fischer am Strand“ (Losseite nicht abrufbar), Mehlis Kat. 8517 Los 4306 ohne Datum, Wettmann 13.12.2025 Lose 318/319 ohne Ergebnis, Hargesheimer 08.03.2024 (Seite gesperrt), Van-Ham-Fine-Art-Auktionen 2024–2026 nicht durchsuchbar"
-  },
-  {
-   "slug": "hugo-muehlig",
-   "name": "Hugo Mühlig",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T02:43:56Z",
-   "done_at": "2026-11-25T03:09:27Z",
-   "lots": 22,
-   "note": "nur Van Ham (Suchbudget des Laufs aufgebraucht); 18 von 22 Losseiten ohne Datum, über Los-/Objektnummern datierter Nachbarlose datiert (Nov. 2021 und Nov. 2023 nicht lückenlos); offen: Van Ham 21.11.2025 Lose 1122–1125 und 16.05.2025 Los 1282 ohne Ergebnis, Los 1283 „Morgenstimmung“ nur VIL, Lücken 789/791/794/203/1311/1281; Lempertz ab 2021, Schloss Ahlden A193–A197, Stahl, Hargesheimer 126 ungeprüft; de-Wikipedia/GND nicht abrufbar"
-  },
-  {
-   "slug": "josef-wenglein",
-   "name": "Josef Wenglein",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T03:12:05Z",
-   "done_at": "2026-11-25T03:39:23Z",
-   "lots": 26,
-   "note": "Gailer 19 (Künstlerseite ohne Losnummern, Ergebnisse mit Aufgeld; 2021/22 mit 25 % geschätzt), Van Ham 5, Stahl 1, Ketterer 1; offen: Lempertz 1262 Los 67 „Herbststimmung im Moor“ (Okt. 2024, 3.780 € mit Aufgeld, Losseite nicht abrufbar), Neumeister 2022–2025 (neumeister.com nicht abrufbar; „Mühle am Bach“ 24.09.2025 laut VIL 4.290 € mit Aufgeld), Schloss Ahlden 2024–2025 ohne Ergebnisse, Ketterer 518/538 ohne Datum, Gailer-Losnummern Auktionen 2–27"
-  },
-  {
-   "slug": "christian-mali",
-   "name": "Christian Mali",
-   "wave": 1,
-   "status": "zu_wenig_daten",
-   "claimed_at": "2026-11-25T03:39:40Z",
-   "done_at": "2026-11-25T03:48:53Z",
-   "note": "nur 4 prüfbare Lose ab 2021, davon 1 Zuschlag sicher: Van Ham 524 Los 1306 „Heimkehr der Herde“ (14.11.2024, 5.280 € mit Aufgeld = 4.000), Van Ham 474 Los 1185 (Nov. 2021, ohne Ergebnis), Stahl 25.05.2024 Los 536 (Erlös 2.100 €, geschätzt), Dorotheum 10.05.2022 (10.240 € inkl. Aufgeld und USt, Satz ungeprüft). Van-Ham-Künstlerseite (en) in diesem Lauf nicht abrufbar – vermutlich Hauptquelle, Neuversuch lohnt; Neumeister und Dorotheum-Künstlerseite nicht abrufbar; Ketterer 523 Los 312 und Neumeister 21.09.2023 Los 660 nur aus Listen/VIL; Koller nur CHF; Schloss Ahlden 191 Los 1840 „passed“ ohne Datum"
-  },
-  {
-   "slug": "gustav-schoenleber",
-   "name": "Gustav Schönleber",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T04:12:48Z",
-   "done_at": "2026-11-25T04:40:10Z",
-   "lots": 7,
-   "note": "volle Seite; nur 7 datierte Lose (6 Gemälde). Van Ham 2, Siebers 1, Ketterer 1, Hargesheimer 1 (nur VIL), Karl & Faber 1 (nur art.salon), Stahl 1. Offen: Van-Ham-Künstlerseite (en) nicht abrufbar; Ketterer 523 Los 343 „Quinto al Mare“ (10.000 € inkl. Aufgeld, Technik/Maße fehlen); 6 undatierte Siebers-Zuschläge (u. a. Alt-Esslingen 5.500 €); Nagel, Eppli (nur JavaScript), Kiefer, Schloss Ahlden (A189–A197) ohne prüfbare Ergebnisse; VIL-Losseiten großteils nicht abrufbar"
-  },
-  {
-   "slug": "paul-wilhelm-keller-reutlingen",
-   "name": "Paul Wilhelm Keller-Reutlingen",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T05:12:08Z",
-   "done_at": "2026-11-25T05:31:47Z",
-   "lots": 9,
-   "note": "volle Seite; nur 9 Lose (6 Zuschläge). Gailer 3, Ketterer 2, Dorotheum 2, Mehlis 2. Offen: Schloss Ahlden 6 Gemälde 2021–2024 ohne Ergebnis (VIL); Neumeister (nicht abrufbar, laut Invaluable 23.09.2021 und 29.06.2023); Karl & Faber 302 (Juni 2021) und 815 Los 3034 (08.05.2024) ohne Ergebnis/nicht abrufbar; Hargesheimer 11.03.2022, Scheublein 2021/2022, Karrenbauer 2022, Eppli 2022, Arnold 2021 nur über Invaluable ohne Preis; Invaluable-Ergebnisseite 1 (Lose ab Mitte 2023) nicht geprüft"
-  },
-  {
-   "slug": "joseph-wopfner",
-   "name": "Joseph Wopfner",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T05:31:58Z",
-   "done_at": "2026-11-25T05:42:53Z",
-   "lots": 93,
-   "note": "Gailer 84 (Künstlerseite ohne Losnummern; Auktionen 1–7 mit 25 % geschätzt, ab Mai 2023 28 %), Ketterer 4, Van Ham 2, Stahl 1, Neumeister 1 (nur VIL), Quittenbaum 1. Offen: Lempertz 1185 Los 1710 (Nov. 2021, 12.500 € inkl.; Losseite und Katalog-PDF nicht abrufbar), Lempertz 1164 Los 173; Neumeister A419 Los 276 (Dez. 2025, VIL 3.400 €, unklar ob mit Aufgeld) und weitere Neumeister-Lose; Stahl „Mole im Sturm“ (Nachverkauf Juni 2026, widersprüchlich); Karl & Faber 302/319/324 ohne Ergebnis; Schloss Ahlden 2024/2025 ohne Ergebnis; Gailer Auktion 27 (7 Lose) noch ohne Ergebnis"
-  },
-  {
-   "slug": "max-ackermann",
-   "name": "Max Ackermann",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T06:11:48Z",
-   "done_at": "2026-11-25T06:31:34Z",
-   "lots": 12,
-   "note": "volle Seite; nur 12 datierte Lose (8 Zuschläge), fast nur Pastelle und Siebdrucke. Van Ham 9 (Online-Losseiten ohne Datum, Datum über veryimportantlot.com; Kathedrale und An die Freude nur VIL), Grisebach 2 (Ölbilder ohne Ergebnis), Mehlis 1 (nur VIL). Offen: Van-Ham-Künstlerseite (en) nicht abrufbar (PROVENANCE_REQUIRED); rund 17 Van-Ham-Lose 2021–2025 mit Ergebnis, aber ohne Datum (ids 43814, 48309, 53335–53339, 70793, 71917, 71939, 74685–74687, 77137, 77299–77301, 77759); Nagel 839 Los 73 (4.2.2026, 16.800 € inkl. 29,5 %) und Los 51 ohne Titel/Technik (Katalog-PDF 839MK nicht lesbar), Nagel 831 Lose 50/63 (5.2.2025) ohne Ergebnisliste; Sotheby's 4 Ölbilder 2021–2025 (Ergebnis nur nach Login); Van Ham „Rotation“ 4.12.2025 Los 554 ohne Ergebnis; Karl & Faber A932 Los 4503 (5.12.2025), Jeschke Jádi 160 Los 256 (11.7.2026), Eppli ohne Ergebnis"
-  },
-  {
-   "slug": "ida-kerkovius",
-   "name": "Ida Kerkovius",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T06:31:47Z",
-   "done_at": "2026-11-25T06:41:07Z",
-   "lots": 24,
-   "note": "Nagel 9 (alle nur über veryimportantlot.com, Beträge = Zuschläge), Van Ham 9 (Online-Losseiten ohne Datum; Lose 62–65 über VIL-Los 65 datiert, Der blaue See über A1208-Objektnummern; 3 Lose nur VIL, geschätzt), Ketterer 3 (552 Katalog + Künstlerseite, 27 %; Gelbe Blumen 517 über art.salon, 25 % geschätzt), Stahl 2 (Erlös geschätzt), Grisebach 1 (27 % geschätzt). Offen: unverkaufte Lose fehlen vermutlich (VIL zeigt vor allem Verkäufe); Van Ham id 35660 (Pastell um 1968, 2021, 29 %) ohne Datum; Ketterer Online Sale „Schiffe in Norwegen“ (34.290 €) und 552 Los 521 „Frauenkopf“ ohne Ergebnis/Datum; Karl & Faber „Waldlandschaft“ ohne Ergebnis; Christie's Online „Golden Twenties“ (laufend); Nagel-Auktionsnummern 2023-07/2024 nicht geprüft; Lempertz nicht geprüft"
-  },
-  {
-   "slug": "ernst-eitner",
-   "name": "Ernst Eitner",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T07:11:56Z",
-   "done_at": "2026-11-25T07:43:08Z",
-   "lots": 23,
-   "note": "volle Seite; 23 Lose (21 Zuschläge), Stahl 22, Van Ham 1. Stahl nennt nur auf 100 € gerundeten Erlös mit 26,18 % Aufgeld (Zuschläge geschätzt); 13 Stahl-Losseiten nicht abrufbar (PROVENANCE_REQUIRED), Los/Technik/Maße dann von veryimportantlot.com. Offen: rund 80 weitere Stahl-Ergebnisse 2021–2026 auf der Künstlerseite ohne prüfbare Technik/Maße, u. a. Sonnenuntergang über der Binnenalster (Feb. 2023, Erlös 30.300 €), Lampionfahrt am Uhlenhorster Fährhaus (Mai 2024, 27.800 €), Sturm auf Sylt (Mai 2022, 20.200 €), Mühlenteich (Mai 2022, 12.600 €), An der Ostsee (Feb. 2024, Los 61, 6.300 €), Stahl Juni 2026 Lose 169–174; Stahl Nov. 2026 Lose 534/535 noch ohne Ergebnis; Schloss Ahlden A195 Los 1761 ohne Titel; de-Wikipedia und Hamburger Kunsthalle (Anubis-Sperre) nicht abrufbar"
-  },
-  {
-   "slug": "thomas-herbst",
-   "name": "Thomas Herbst",
-   "wave": 1,
-   "status": "done",
-   "claimed_at": "2026-11-25T07:43:20Z",
-   "done_at": "2026-11-25T07:55:34Z",
-   "lots": 24,
-   "note": "volle Seite; 24 Lose (23 Zuschläge), nur Stahl. Erlös mit 26,18 % Aufgeld, auf 100 € gerundet (Zuschläge geschätzt; Frau mit weißer Haube: Erlös 3.200 € unter Startpreis 3.000 € + Aufgeld). Offen: rund 17 Stahl-Ergebnisse seit 2021 ohne abrufbare Losseite (u. a. Feb. 2022 Kühe mit Melker und Schemel 5.000 €, Verschatteter Weg, Baum am Wegesrand, Feldweg; Sep./Nov. 2022 Sandige Böschung, Liegende Kuh, Feldweg mit Pfützen, Dorfstraße u. a.; Sep. 2023 Häuser am Kanal 4.800 €; Feb. 2024 Bauernhaus); Stahl 27./28.11.2026 Los „Kühe mit Melkerinnen“ (Start 2.800 €) noch ohne Ergebnis; Neumeister A419 Los 287 (3.12.2025) ohne Ergebnis; Kendzia A131 (6 Lose, Datum unklar) nicht prüfbar; de-Wikipedia nicht geprüft"
-  },
-  {
-   "slug": "friedrich-kallmorgen",
-   "name": "Friedrich Kallmorgen",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "walter-moras",
-   "name": "Walter Moras",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "paul-mueller-kaempff",
-   "name": "Paul Müller-Kaempff",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "elisabeth-von-eicken",
-   "name": "Elisabeth von Eicken",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "fritz-mackensen",
-   "name": "Fritz Mackensen",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "eduard-bargheer",
-   "name": "Eduard Bargheer",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "hans-am-ende",
-   "name": "Hans am Ende",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "otto-modersohn",
-   "name": "Otto Modersohn",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "ludwig-dill",
-   "name": "Ludwig Dill",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "wilhelm-velten",
-   "name": "Wilhelm Velten",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "karl-raupp",
-   "name": "Karl Raupp",
-   "wave": 1,
-   "status": "open",
-   "eigener_bestand": true
-  },
-  {
-   "slug": "carl-reiser",
-   "name": "Carl Reiser",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "otto-ritschl",
-   "name": "Otto Ritschl",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "rupprecht-geiger",
-   "name": "Rupprecht Geiger",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "fritz-winter",
-   "name": "Fritz Winter",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "fritz-overbeck",
-   "name": "Fritz Overbeck",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "carl-vinnen",
-   "name": "Carl Vinnen",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "hans-peter-feddersen",
-   "name": "Hans Peter Feddersen",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "louis-douzette",
-   "name": "Louis Douzette",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "carl-malchin",
-   "name": "Carl Malchin",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "conrad-felixmueller",
-   "name": "Conrad Felixmüller",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "carl-lohse",
-   "name": "Carl Lohse",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "otto-niemeyer-holstein",
-   "name": "Otto Niemeyer-Holstein",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "arthur-illies",
-   "name": "Arthur Illies",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "andreas-dirks",
-   "name": "Andreas Dirks",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "heinrich-nauen",
-   "name": "Heinrich Nauen",
-   "wave": 1,
-   "status": "open",
-   "eigener_bestand": true
-  },
-  {
-   "slug": "walter-ophey",
-   "name": "Walter Ophey",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "peter-herkenrath",
-   "name": "Peter Herkenrath",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "joseph-fassbender",
-   "name": "Joseph Fassbender",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "karl-fred-dahmen",
-   "name": "Karl Fred Dahmen",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "bernard-schultze",
-   "name": "Bernard Schultze",
-   "wave": 1,
-   "status": "open"
-  },
-  {
-   "slug": "caspar-david-friedrich",
-   "name": "Caspar David Friedrich",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "carl-spitzweg",
-   "name": "Carl Spitzweg",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "adolph-menzel",
-   "name": "Adolph Menzel",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "wilhelm-leibl",
-   "name": "Wilhelm Leibl",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "hans-thoma",
-   "name": "Hans Thoma",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "franz-von-stuck",
-   "name": "Franz von Stuck",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "franz-von-lenbach",
-   "name": "Franz von Lenbach",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "andreas-achenbach",
-   "name": "Andreas Achenbach",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "oswald-achenbach",
-   "name": "Oswald Achenbach",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "carl-blechen",
-   "name": "Carl Blechen",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "anselm-feuerbach",
-   "name": "Anselm Feuerbach",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "ludwig-richter",
-   "name": "Ludwig Richter",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "carl-rottmann",
-   "name": "Carl Rottmann",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "eduard-gaertner",
-   "name": "Eduard Gaertner",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "wilhelm-truebner",
-   "name": "Wilhelm Trübner",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "carl-schuch",
-   "name": "Carl Schuch",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "fritz-von-uhde",
-   "name": "Fritz von Uhde",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "heinrich-von-zuegel",
-   "name": "Heinrich von Zügel",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "gotthardt-kuehl",
-   "name": "Gotthardt Kuehl",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "eugen-duecker",
-   "name": "Eugen Dücker",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "hans-von-marees",
-   "name": "Hans von Marées",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "johann-wilhelm-schirmer",
-   "name": "Johann Wilhelm Schirmer",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "carl-friedrich-lessing",
-   "name": "Carl Friedrich Lessing",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "ludwig-knaus",
-   "name": "Ludwig Knaus",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "eduard-von-gruetzner",
-   "name": "Eduard von Grützner",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "max-klinger",
-   "name": "Max Klinger",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "leopold-von-kalckreuth",
-   "name": "Leopold von Kalckreuth",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "walter-leistikow",
-   "name": "Walter Leistikow",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "christian-rohlfs",
-   "name": "Christian Rohlfs",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "carl-bantzer",
-   "name": "Carl Bantzer",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "karl-hagemeister",
-   "name": "Karl Hagemeister",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "heinrich-vogeler",
-   "name": "Heinrich Vogeler",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "wilhelm-von-kobell",
-   "name": "Wilhelm von Kobell",
-   "wave": 2,
-   "status": "open"
-  },
-  {
-   "slug": "max-liebermann",
-   "name": "Max Liebermann",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "lovis-corinth",
-   "name": "Lovis Corinth",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "max-slevogt",
-   "name": "Max Slevogt",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "paula-modersohn-becker",
-   "name": "Paula Modersohn-Becker",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "ernst-ludwig-kirchner",
-   "name": "Ernst Ludwig Kirchner",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "erich-heckel",
-   "name": "Erich Heckel",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "karl-schmidt-rottluff",
-   "name": "Karl Schmidt-Rottluff",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "max-pechstein",
-   "name": "Max Pechstein",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "otto-mueller",
-   "name": "Otto Mueller",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "emil-nolde",
-   "name": "Emil Nolde",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "franz-marc",
-   "name": "Franz Marc",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "august-macke",
-   "name": "August Macke",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "gabriele-muenter",
-   "name": "Gabriele Münter",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "heinrich-campendonk",
-   "name": "Heinrich Campendonk",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "paul-klee",
-   "name": "Paul Klee",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "max-beckmann",
-   "name": "Max Beckmann",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "otto-dix",
-   "name": "Otto Dix",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "george-grosz",
-   "name": "George Grosz",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "christian-schad",
-   "name": "Christian Schad",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "rudolf-schlichter",
-   "name": "Rudolf Schlichter",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "carl-grossberg",
-   "name": "Carl Grossberg",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "oskar-schlemmer",
-   "name": "Oskar Schlemmer",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "willi-baumeister",
-   "name": "Willi Baumeister",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "kurt-schwitters",
-   "name": "Kurt Schwitters",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "hannah-hoech",
-   "name": "Hannah Höch",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "kaethe-kollwitz",
-   "name": "Käthe Kollwitz",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "ernst-barlach",
-   "name": "Ernst Barlach",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "wilhelm-lehmbruck",
-   "name": "Wilhelm Lehmbruck",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "georg-kolbe",
-   "name": "Georg Kolbe",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "adolf-hoelzel",
-   "name": "Adolf Hölzel",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "alexander-kanoldt",
-   "name": "Alexander Kanoldt",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "georg-schrimpf",
-   "name": "Georg Schrimpf",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "franz-radziwill",
-   "name": "Franz Radziwill",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "werner-heldt",
-   "name": "Werner Heldt",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "karl-hofer",
-   "name": "Karl Hofer",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "august-deusser",
-   "name": "August Deusser",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "julius-bretz",
-   "name": "Julius Bretz",
-   "wave": 3,
-   "status": "open"
-  },
-  {
-   "slug": "ernst-wilhelm-nay",
-   "name": "Ernst Wilhelm Nay",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "emil-schumacher",
-   "name": "Emil Schumacher",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "k-o-goetz",
-   "name": "K. O. Götz",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "gerhard-hoehme",
-   "name": "Gerhard Hoehme",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "georg-meistermann",
-   "name": "Georg Meistermann",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "heinz-mack",
-   "name": "Heinz Mack",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "otto-piene",
-   "name": "Otto Piene",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "guenther-uecker",
-   "name": "Günther Uecker",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "hap-grieshaber",
-   "name": "HAP Grieshaber",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "horst-antes",
-   "name": "Horst Antes",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "konrad-klapheck",
-   "name": "Konrad Klapheck",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "gotthard-graubner",
-   "name": "Gotthard Graubner",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "peter-bruening",
-   "name": "Peter Brüning",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "winfred-gaul",
-   "name": "Winfred Gaul",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "bernhard-heisig",
-   "name": "Bernhard Heisig",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "werner-tuebke",
-   "name": "Werner Tübke",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "wolfgang-mattheuer",
-   "name": "Wolfgang Mattheuer",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "willi-sitte",
-   "name": "Willi Sitte",
-   "wave": 4,
-   "status": "open"
-  },
-  {
-   "slug": "gerhard-richter",
-   "name": "Gerhard Richter",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "sigmar-polke",
-   "name": "Sigmar Polke",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "georg-baselitz",
-   "name": "Georg Baselitz",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "anselm-kiefer",
-   "name": "Anselm Kiefer",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "joseph-beuys",
-   "name": "Joseph Beuys",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "markus-luepertz",
-   "name": "Markus Lüpertz",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "a-r-penck",
-   "name": "A. R. Penck",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "joerg-immendorff",
-   "name": "Jörg Immendorff",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "martin-kippenberger",
-   "name": "Martin Kippenberger",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "albert-oehlen",
-   "name": "Albert Oehlen",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "neo-rauch",
-   "name": "Neo Rauch",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "daniel-richter",
-   "name": "Daniel Richter",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "imi-knoebel",
-   "name": "Imi Knoebel",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "blinky-palermo",
-   "name": "Blinky Palermo",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "katharina-grosse",
-   "name": "Katharina Grosse",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "rosemarie-trockel",
-   "name": "Rosemarie Trockel",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "isa-genzken",
-   "name": "Isa Genzken",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "andreas-gursky",
-   "name": "Andreas Gursky",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "thomas-ruff",
-   "name": "Thomas Ruff",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "thomas-struth",
-   "name": "Thomas Struth",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "candida-hoefer",
-   "name": "Candida Höfer",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "bernd-und-hilla-becher",
-   "name": "Bernd und Hilla Becher",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "guenther-foerg",
-   "name": "Günther Förg",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "thomas-schuette",
-   "name": "Thomas Schütte",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "stephan-balkenhol",
-   "name": "Stephan Balkenhol",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "jonathan-meese",
-   "name": "Jonathan Meese",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "karin-kneffel",
-   "name": "Karin Kneffel",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "norbert-bisky",
-   "name": "Norbert Bisky",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "tim-eitel",
-   "name": "Tim Eitel",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "matthias-weischer",
-   "name": "Matthias Weischer",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "david-schnell",
-   "name": "David Schnell",
-   "wave": 5,
-   "status": "open"
-  },
-  {
-   "slug": "werner-buettner",
-   "name": "Werner Büttner",
-   "wave": 5,
-   "status": "open"
-  }
- ]
+  "stand": "2026-11-24",
+  "regeln": "siehe CLAUDE.md",
+  "grenzfaelle_offen": [
+    "Lyonel Feininger",
+    "Alexej von Jawlensky",
+    "Wassily Kandinsky",
+    "Hans Hartung",
+    "Wols",
+    "Arnold Böcklin"
+  ],
+  "artists": [
+    {
+      "slug": "heinrich-hermanns",
+      "name": "Heinrich Hermanns",
+      "wave": 1,
+      "status": "done",
+      "note": "volle Seite; nur 8 belegte Lose (5 Zuschläge). Offen: 2 Van-Ham-Lose 22.05.2026 und 4 Van-Ham-Onlinelose ohne prüfbares Datum/Losseite; Wettmann 13.12.2025 (Lose 279–287) ohne abrufbare Ergebnisse",
+      "claimed_at": "2026-11-24T23:12:00Z",
+      "done_at": "2026-11-24T23:39:48Z",
+      "lots": 8
+    },
+    {
+      "slug": "fritz-von-wille",
+      "name": "Fritz von Wille",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-24T23:40:06Z",
+      "done_at": "2026-11-24T23:55:22Z",
+      "lots": 28,
+      "note": "Van Ham 26, Lempertz 2; 10 Van-Ham-Onlinelose über Nachbarlose datiert; offen: Lempertz 1262 Los 59 (Okt. 2024) ohne Losdetails, Van Ham 21.11.2025 Lose 1230–1232 ohne Ergebnis"
+    },
+    {
+      "slug": "max-clarenbach",
+      "name": "Max Clarenbach",
+      "wave": 1,
+      "status": "done",
+      "note": "handgebaute Seite, nicht neu generieren"
+    },
+    {
+      "slug": "otto-pankok",
+      "name": "Otto Pankok",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T00:11:48Z",
+      "done_at": "2026-11-25T00:53:56Z",
+      "lots": 18,
+      "note": "Van Ham 8, Bassenge 5, Mehlis 3, Kloss 1, K&K 1; offen: Van-Ham-Lose ohne prüfbares Datum (Bronze Hotu id 31215, Windmühle id 33370 unverkauft, Holländer/Halbakt I ids 52465/52467, vermutl. A1161 Jan. 2023); Lempertz, Ketterer, Grisebach, Karl & Faber ohne prüfbares Los seit 2021; Van-Ham-Detailseiten /en/artist/otto-pankok/… teils nicht abrufbar"
+    },
+    {
+      "slug": "hann-trier",
+      "name": "Hann Trier",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T01:11:38Z",
+      "done_at": "2026-11-25T01:36:00Z",
+      "lots": 10,
+      "note": "volle Seite; nur 10 datierte Lose (6 Gemälde). Offen: 10 Van-Ham-Lose ohne Datum auf der Losseite (u. a. Labyrinth III, Uhu III unverkauft), Lempertz 1201 Los 302 „Brise“ (Losseite nicht abrufbar), Ketterer-Onlinelose ohne Datum"
+    },
+    {
+      "slug": "gregor-von-bochmann",
+      "name": "Gregor von Bochmann d. Ä.",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T02:12:21Z",
+      "done_at": "2026-11-25T02:43:45Z",
+      "lots": 23,
+      "note": "Van Ham 16, Wettmann 4, Stahl 3; Van-Ham-Künstlerseite nicht abrufbar, nur einzeln gefundene Losseiten; A499 (Mai 2023), Troika und Wettmann über veryimportantlot.com datiert; offen: Stahl 23.06.2023 „Fischer am Strand“ (Losseite nicht abrufbar), Mehlis Kat. 8517 Los 4306 ohne Datum, Wettmann 13.12.2025 Lose 318/319 ohne Ergebnis, Hargesheimer 08.03.2024 (Seite gesperrt), Van-Ham-Fine-Art-Auktionen 2024–2026 nicht durchsuchbar"
+    },
+    {
+      "slug": "hugo-muehlig",
+      "name": "Hugo Mühlig",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T02:43:56Z",
+      "done_at": "2026-11-25T03:09:27Z",
+      "lots": 22,
+      "note": "nur Van Ham (Suchbudget des Laufs aufgebraucht); 18 von 22 Losseiten ohne Datum, über Los-/Objektnummern datierter Nachbarlose datiert (Nov. 2021 und Nov. 2023 nicht lückenlos); offen: Van Ham 21.11.2025 Lose 1122–1125 und 16.05.2025 Los 1282 ohne Ergebnis, Los 1283 „Morgenstimmung“ nur VIL, Lücken 789/791/794/203/1311/1281; Lempertz ab 2021, Schloss Ahlden A193–A197, Stahl, Hargesheimer 126 ungeprüft; de-Wikipedia/GND nicht abrufbar"
+    },
+    {
+      "slug": "josef-wenglein",
+      "name": "Josef Wenglein",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T03:12:05Z",
+      "done_at": "2026-11-25T03:39:23Z",
+      "lots": 26,
+      "note": "Gailer 19 (Künstlerseite ohne Losnummern, Ergebnisse mit Aufgeld; 2021/22 mit 25 % geschätzt), Van Ham 5, Stahl 1, Ketterer 1; offen: Lempertz 1262 Los 67 „Herbststimmung im Moor“ (Okt. 2024, 3.780 € mit Aufgeld, Losseite nicht abrufbar), Neumeister 2022–2025 (neumeister.com nicht abrufbar; „Mühle am Bach“ 24.09.2025 laut VIL 4.290 € mit Aufgeld), Schloss Ahlden 2024–2025 ohne Ergebnisse, Ketterer 518/538 ohne Datum, Gailer-Losnummern Auktionen 2–27"
+    },
+    {
+      "slug": "christian-mali",
+      "name": "Christian Mali",
+      "wave": 1,
+      "status": "zu_wenig_daten",
+      "claimed_at": "2026-11-25T03:39:40Z",
+      "done_at": "2026-11-25T03:48:53Z",
+      "note": "nur 4 prüfbare Lose ab 2021, davon 1 Zuschlag sicher: Van Ham 524 Los 1306 „Heimkehr der Herde“ (14.11.2024, 5.280 € mit Aufgeld = 4.000), Van Ham 474 Los 1185 (Nov. 2021, ohne Ergebnis), Stahl 25.05.2024 Los 536 (Erlös 2.100 €, geschätzt), Dorotheum 10.05.2022 (10.240 € inkl. Aufgeld und USt, Satz ungeprüft). Van-Ham-Künstlerseite (en) in diesem Lauf nicht abrufbar – vermutlich Hauptquelle, Neuversuch lohnt; Neumeister und Dorotheum-Künstlerseite nicht abrufbar; Ketterer 523 Los 312 und Neumeister 21.09.2023 Los 660 nur aus Listen/VIL; Koller nur CHF; Schloss Ahlden 191 Los 1840 „passed“ ohne Datum"
+    },
+    {
+      "slug": "gustav-schoenleber",
+      "name": "Gustav Schönleber",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T04:12:48Z",
+      "done_at": "2026-11-25T04:40:10Z",
+      "lots": 7,
+      "note": "volle Seite; nur 7 datierte Lose (6 Gemälde). Van Ham 2, Siebers 1, Ketterer 1, Hargesheimer 1 (nur VIL), Karl & Faber 1 (nur art.salon), Stahl 1. Offen: Van-Ham-Künstlerseite (en) nicht abrufbar; Ketterer 523 Los 343 „Quinto al Mare“ (10.000 € inkl. Aufgeld, Technik/Maße fehlen); 6 undatierte Siebers-Zuschläge (u. a. Alt-Esslingen 5.500 €); Nagel, Eppli (nur JavaScript), Kiefer, Schloss Ahlden (A189–A197) ohne prüfbare Ergebnisse; VIL-Losseiten großteils nicht abrufbar"
+    },
+    {
+      "slug": "paul-wilhelm-keller-reutlingen",
+      "name": "Paul Wilhelm Keller-Reutlingen",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T05:12:08Z",
+      "done_at": "2026-11-25T05:31:47Z",
+      "lots": 9,
+      "note": "volle Seite; nur 9 Lose (6 Zuschläge). Gailer 3, Ketterer 2, Dorotheum 2, Mehlis 2. Offen: Schloss Ahlden 6 Gemälde 2021–2024 ohne Ergebnis (VIL); Neumeister (nicht abrufbar, laut Invaluable 23.09.2021 und 29.06.2023); Karl & Faber 302 (Juni 2021) und 815 Los 3034 (08.05.2024) ohne Ergebnis/nicht abrufbar; Hargesheimer 11.03.2022, Scheublein 2021/2022, Karrenbauer 2022, Eppli 2022, Arnold 2021 nur über Invaluable ohne Preis; Invaluable-Ergebnisseite 1 (Lose ab Mitte 2023) nicht geprüft"
+    },
+    {
+      "slug": "joseph-wopfner",
+      "name": "Joseph Wopfner",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T05:31:58Z",
+      "done_at": "2026-11-25T05:42:53Z",
+      "lots": 93,
+      "note": "Gailer 84 (Künstlerseite ohne Losnummern; Auktionen 1–7 mit 25 % geschätzt, ab Mai 2023 28 %), Ketterer 4, Van Ham 2, Stahl 1, Neumeister 1 (nur VIL), Quittenbaum 1. Offen: Lempertz 1185 Los 1710 (Nov. 2021, 12.500 € inkl.; Losseite und Katalog-PDF nicht abrufbar), Lempertz 1164 Los 173; Neumeister A419 Los 276 (Dez. 2025, VIL 3.400 €, unklar ob mit Aufgeld) und weitere Neumeister-Lose; Stahl „Mole im Sturm“ (Nachverkauf Juni 2026, widersprüchlich); Karl & Faber 302/319/324 ohne Ergebnis; Schloss Ahlden 2024/2025 ohne Ergebnis; Gailer Auktion 27 (7 Lose) noch ohne Ergebnis"
+    },
+    {
+      "slug": "max-ackermann",
+      "name": "Max Ackermann",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T06:11:48Z",
+      "done_at": "2026-11-25T06:31:34Z",
+      "lots": 12,
+      "note": "volle Seite; nur 12 datierte Lose (8 Zuschläge), fast nur Pastelle und Siebdrucke. Van Ham 9 (Online-Losseiten ohne Datum, Datum über veryimportantlot.com; Kathedrale und An die Freude nur VIL), Grisebach 2 (Ölbilder ohne Ergebnis), Mehlis 1 (nur VIL). Offen: Van-Ham-Künstlerseite (en) nicht abrufbar (PROVENANCE_REQUIRED); rund 17 Van-Ham-Lose 2021–2025 mit Ergebnis, aber ohne Datum (ids 43814, 48309, 53335–53339, 70793, 71917, 71939, 74685–74687, 77137, 77299–77301, 77759); Nagel 839 Los 73 (4.2.2026, 16.800 € inkl. 29,5 %) und Los 51 ohne Titel/Technik (Katalog-PDF 839MK nicht lesbar), Nagel 831 Lose 50/63 (5.2.2025) ohne Ergebnisliste; Sotheby's 4 Ölbilder 2021–2025 (Ergebnis nur nach Login); Van Ham „Rotation“ 4.12.2025 Los 554 ohne Ergebnis; Karl & Faber A932 Los 4503 (5.12.2025), Jeschke Jádi 160 Los 256 (11.7.2026), Eppli ohne Ergebnis"
+    },
+    {
+      "slug": "ida-kerkovius",
+      "name": "Ida Kerkovius",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T06:31:47Z",
+      "done_at": "2026-11-25T06:41:07Z",
+      "lots": 24,
+      "note": "Nagel 9 (alle nur über veryimportantlot.com, Beträge = Zuschläge), Van Ham 9 (Online-Losseiten ohne Datum; Lose 62–65 über VIL-Los 65 datiert, Der blaue See über A1208-Objektnummern; 3 Lose nur VIL, geschätzt), Ketterer 3 (552 Katalog + Künstlerseite, 27 %; Gelbe Blumen 517 über art.salon, 25 % geschätzt), Stahl 2 (Erlös geschätzt), Grisebach 1 (27 % geschätzt). Offen: unverkaufte Lose fehlen vermutlich (VIL zeigt vor allem Verkäufe); Van Ham id 35660 (Pastell um 1968, 2021, 29 %) ohne Datum; Ketterer Online Sale „Schiffe in Norwegen“ (34.290 €) und 552 Los 521 „Frauenkopf“ ohne Ergebnis/Datum; Karl & Faber „Waldlandschaft“ ohne Ergebnis; Christie's Online „Golden Twenties“ (laufend); Nagel-Auktionsnummern 2023-07/2024 nicht geprüft; Lempertz nicht geprüft"
+    },
+    {
+      "slug": "ernst-eitner",
+      "name": "Ernst Eitner",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T07:11:56Z",
+      "done_at": "2026-11-25T07:43:08Z",
+      "lots": 23,
+      "note": "volle Seite; 23 Lose (21 Zuschläge), Stahl 22, Van Ham 1. Stahl nennt nur auf 100 € gerundeten Erlös mit 26,18 % Aufgeld (Zuschläge geschätzt); 13 Stahl-Losseiten nicht abrufbar (PROVENANCE_REQUIRED), Los/Technik/Maße dann von veryimportantlot.com. Offen: rund 80 weitere Stahl-Ergebnisse 2021–2026 auf der Künstlerseite ohne prüfbare Technik/Maße, u. a. Sonnenuntergang über der Binnenalster (Feb. 2023, Erlös 30.300 €), Lampionfahrt am Uhlenhorster Fährhaus (Mai 2024, 27.800 €), Sturm auf Sylt (Mai 2022, 20.200 €), Mühlenteich (Mai 2022, 12.600 €), An der Ostsee (Feb. 2024, Los 61, 6.300 €), Stahl Juni 2026 Lose 169–174; Stahl Nov. 2026 Lose 534/535 noch ohne Ergebnis; Schloss Ahlden A195 Los 1761 ohne Titel; de-Wikipedia und Hamburger Kunsthalle (Anubis-Sperre) nicht abrufbar"
+    },
+    {
+      "slug": "thomas-herbst",
+      "name": "Thomas Herbst",
+      "wave": 1,
+      "status": "done",
+      "claimed_at": "2026-11-25T07:43:20Z",
+      "done_at": "2026-11-25T07:55:34Z",
+      "lots": 24,
+      "note": "volle Seite; 24 Lose (23 Zuschläge), nur Stahl. Erlös mit 26,18 % Aufgeld, auf 100 € gerundet (Zuschläge geschätzt; Frau mit weißer Haube: Erlös 3.200 € unter Startpreis 3.000 € + Aufgeld). Offen: rund 17 Stahl-Ergebnisse seit 2021 ohne abrufbare Losseite (u. a. Feb. 2022 Kühe mit Melker und Schemel 5.000 €, Verschatteter Weg, Baum am Wegesrand, Feldweg; Sep./Nov. 2022 Sandige Böschung, Liegende Kuh, Feldweg mit Pfützen, Dorfstraße u. a.; Sep. 2023 Häuser am Kanal 4.800 €; Feb. 2024 Bauernhaus); Stahl 27./28.11.2026 Los „Kühe mit Melkerinnen“ (Start 2.800 €) noch ohne Ergebnis; Neumeister A419 Los 287 (3.12.2025) ohne Ergebnis; Kendzia A131 (6 Lose, Datum unklar) nicht prüfbar; de-Wikipedia nicht geprüft"
+    },
+    {
+      "slug": "friedrich-kallmorgen",
+      "name": "Friedrich Kallmorgen",
+      "wave": 1,
+      "status": "claimed",
+      "claimed_at": "2026-11-25T08:12:04Z"
+    },
+    {
+      "slug": "walter-moras",
+      "name": "Walter Moras",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "paul-mueller-kaempff",
+      "name": "Paul Müller-Kaempff",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "elisabeth-von-eicken",
+      "name": "Elisabeth von Eicken",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "fritz-mackensen",
+      "name": "Fritz Mackensen",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "eduard-bargheer",
+      "name": "Eduard Bargheer",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "hans-am-ende",
+      "name": "Hans am Ende",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "otto-modersohn",
+      "name": "Otto Modersohn",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "ludwig-dill",
+      "name": "Ludwig Dill",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "wilhelm-velten",
+      "name": "Wilhelm Velten",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "karl-raupp",
+      "name": "Karl Raupp",
+      "wave": 1,
+      "status": "open",
+      "eigener_bestand": true
+    },
+    {
+      "slug": "carl-reiser",
+      "name": "Carl Reiser",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "otto-ritschl",
+      "name": "Otto Ritschl",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "rupprecht-geiger",
+      "name": "Rupprecht Geiger",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "fritz-winter",
+      "name": "Fritz Winter",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "fritz-overbeck",
+      "name": "Fritz Overbeck",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "carl-vinnen",
+      "name": "Carl Vinnen",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "hans-peter-feddersen",
+      "name": "Hans Peter Feddersen",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "louis-douzette",
+      "name": "Louis Douzette",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "carl-malchin",
+      "name": "Carl Malchin",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "conrad-felixmueller",
+      "name": "Conrad Felixmüller",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "carl-lohse",
+      "name": "Carl Lohse",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "otto-niemeyer-holstein",
+      "name": "Otto Niemeyer-Holstein",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "arthur-illies",
+      "name": "Arthur Illies",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "andreas-dirks",
+      "name": "Andreas Dirks",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "heinrich-nauen",
+      "name": "Heinrich Nauen",
+      "wave": 1,
+      "status": "open",
+      "eigener_bestand": true
+    },
+    {
+      "slug": "walter-ophey",
+      "name": "Walter Ophey",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "peter-herkenrath",
+      "name": "Peter Herkenrath",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "joseph-fassbender",
+      "name": "Joseph Fassbender",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "karl-fred-dahmen",
+      "name": "Karl Fred Dahmen",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "bernard-schultze",
+      "name": "Bernard Schultze",
+      "wave": 1,
+      "status": "open"
+    },
+    {
+      "slug": "caspar-david-friedrich",
+      "name": "Caspar David Friedrich",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "carl-spitzweg",
+      "name": "Carl Spitzweg",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "adolph-menzel",
+      "name": "Adolph Menzel",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "wilhelm-leibl",
+      "name": "Wilhelm Leibl",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "hans-thoma",
+      "name": "Hans Thoma",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "franz-von-stuck",
+      "name": "Franz von Stuck",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "franz-von-lenbach",
+      "name": "Franz von Lenbach",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "andreas-achenbach",
+      "name": "Andreas Achenbach",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "oswald-achenbach",
+      "name": "Oswald Achenbach",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "carl-blechen",
+      "name": "Carl Blechen",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "anselm-feuerbach",
+      "name": "Anselm Feuerbach",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "ludwig-richter",
+      "name": "Ludwig Richter",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "carl-rottmann",
+      "name": "Carl Rottmann",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "eduard-gaertner",
+      "name": "Eduard Gaertner",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "wilhelm-truebner",
+      "name": "Wilhelm Trübner",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "carl-schuch",
+      "name": "Carl Schuch",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "fritz-von-uhde",
+      "name": "Fritz von Uhde",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "heinrich-von-zuegel",
+      "name": "Heinrich von Zügel",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "gotthardt-kuehl",
+      "name": "Gotthardt Kuehl",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "eugen-duecker",
+      "name": "Eugen Dücker",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "hans-von-marees",
+      "name": "Hans von Marées",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "johann-wilhelm-schirmer",
+      "name": "Johann Wilhelm Schirmer",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "carl-friedrich-lessing",
+      "name": "Carl Friedrich Lessing",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "ludwig-knaus",
+      "name": "Ludwig Knaus",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "eduard-von-gruetzner",
+      "name": "Eduard von Grützner",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "max-klinger",
+      "name": "Max Klinger",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "leopold-von-kalckreuth",
+      "name": "Leopold von Kalckreuth",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "walter-leistikow",
+      "name": "Walter Leistikow",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "christian-rohlfs",
+      "name": "Christian Rohlfs",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "carl-bantzer",
+      "name": "Carl Bantzer",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "karl-hagemeister",
+      "name": "Karl Hagemeister",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "heinrich-vogeler",
+      "name": "Heinrich Vogeler",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "wilhelm-von-kobell",
+      "name": "Wilhelm von Kobell",
+      "wave": 2,
+      "status": "open"
+    },
+    {
+      "slug": "max-liebermann",
+      "name": "Max Liebermann",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "lovis-corinth",
+      "name": "Lovis Corinth",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "max-slevogt",
+      "name": "Max Slevogt",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "paula-modersohn-becker",
+      "name": "Paula Modersohn-Becker",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "ernst-ludwig-kirchner",
+      "name": "Ernst Ludwig Kirchner",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "erich-heckel",
+      "name": "Erich Heckel",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "karl-schmidt-rottluff",
+      "name": "Karl Schmidt-Rottluff",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "max-pechstein",
+      "name": "Max Pechstein",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "otto-mueller",
+      "name": "Otto Mueller",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "emil-nolde",
+      "name": "Emil Nolde",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "franz-marc",
+      "name": "Franz Marc",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "august-macke",
+      "name": "August Macke",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "gabriele-muenter",
+      "name": "Gabriele Münter",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "heinrich-campendonk",
+      "name": "Heinrich Campendonk",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "paul-klee",
+      "name": "Paul Klee",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "max-beckmann",
+      "name": "Max Beckmann",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "otto-dix",
+      "name": "Otto Dix",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "george-grosz",
+      "name": "George Grosz",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "christian-schad",
+      "name": "Christian Schad",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "rudolf-schlichter",
+      "name": "Rudolf Schlichter",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "carl-grossberg",
+      "name": "Carl Grossberg",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "oskar-schlemmer",
+      "name": "Oskar Schlemmer",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "willi-baumeister",
+      "name": "Willi Baumeister",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "kurt-schwitters",
+      "name": "Kurt Schwitters",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "hannah-hoech",
+      "name": "Hannah Höch",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "kaethe-kollwitz",
+      "name": "Käthe Kollwitz",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "ernst-barlach",
+      "name": "Ernst Barlach",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "wilhelm-lehmbruck",
+      "name": "Wilhelm Lehmbruck",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "georg-kolbe",
+      "name": "Georg Kolbe",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "adolf-hoelzel",
+      "name": "Adolf Hölzel",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "alexander-kanoldt",
+      "name": "Alexander Kanoldt",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "georg-schrimpf",
+      "name": "Georg Schrimpf",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "franz-radziwill",
+      "name": "Franz Radziwill",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "werner-heldt",
+      "name": "Werner Heldt",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "karl-hofer",
+      "name": "Karl Hofer",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "august-deusser",
+      "name": "August Deusser",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "julius-bretz",
+      "name": "Julius Bretz",
+      "wave": 3,
+      "status": "open"
+    },
+    {
+      "slug": "ernst-wilhelm-nay",
+      "name": "Ernst Wilhelm Nay",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "emil-schumacher",
+      "name": "Emil Schumacher",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "k-o-goetz",
+      "name": "K. O. Götz",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "gerhard-hoehme",
+      "name": "Gerhard Hoehme",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "georg-meistermann",
+      "name": "Georg Meistermann",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "heinz-mack",
+      "name": "Heinz Mack",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "otto-piene",
+      "name": "Otto Piene",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "guenther-uecker",
+      "name": "Günther Uecker",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "hap-grieshaber",
+      "name": "HAP Grieshaber",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "horst-antes",
+      "name": "Horst Antes",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "konrad-klapheck",
+      "name": "Konrad Klapheck",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "gotthard-graubner",
+      "name": "Gotthard Graubner",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "peter-bruening",
+      "name": "Peter Brüning",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "winfred-gaul",
+      "name": "Winfred Gaul",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "bernhard-heisig",
+      "name": "Bernhard Heisig",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "werner-tuebke",
+      "name": "Werner Tübke",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "wolfgang-mattheuer",
+      "name": "Wolfgang Mattheuer",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "willi-sitte",
+      "name": "Willi Sitte",
+      "wave": 4,
+      "status": "open"
+    },
+    {
+      "slug": "gerhard-richter",
+      "name": "Gerhard Richter",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "sigmar-polke",
+      "name": "Sigmar Polke",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "georg-baselitz",
+      "name": "Georg Baselitz",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "anselm-kiefer",
+      "name": "Anselm Kiefer",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "joseph-beuys",
+      "name": "Joseph Beuys",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "markus-luepertz",
+      "name": "Markus Lüpertz",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "a-r-penck",
+      "name": "A. R. Penck",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "joerg-immendorff",
+      "name": "Jörg Immendorff",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "martin-kippenberger",
+      "name": "Martin Kippenberger",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "albert-oehlen",
+      "name": "Albert Oehlen",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "neo-rauch",
+      "name": "Neo Rauch",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "daniel-richter",
+      "name": "Daniel Richter",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "imi-knoebel",
+      "name": "Imi Knoebel",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "blinky-palermo",
+      "name": "Blinky Palermo",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "katharina-grosse",
+      "name": "Katharina Grosse",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "rosemarie-trockel",
+      "name": "Rosemarie Trockel",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "isa-genzken",
+      "name": "Isa Genzken",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "andreas-gursky",
+      "name": "Andreas Gursky",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "thomas-ruff",
+      "name": "Thomas Ruff",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "thomas-struth",
+      "name": "Thomas Struth",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "candida-hoefer",
+      "name": "Candida Höfer",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "bernd-und-hilla-becher",
+      "name": "Bernd und Hilla Becher",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "guenther-foerg",
+      "name": "Günther Förg",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "thomas-schuette",
+      "name": "Thomas Schütte",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "stephan-balkenhol",
+      "name": "Stephan Balkenhol",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "jonathan-meese",
+      "name": "Jonathan Meese",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "karin-kneffel",
+      "name": "Karin Kneffel",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "norbert-bisky",
+      "name": "Norbert Bisky",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "tim-eitel",
+      "name": "Tim Eitel",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "matthias-weischer",
+      "name": "Matthias Weischer",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "david-schnell",
+      "name": "David Schnell",
+      "wave": 5,
+      "status": "open"
+    },
+    {
+      "slug": "werner-buettner",
+      "name": "Werner Büttner",
+      "wave": 5,
+      "status": "open"
+    }
+  ]
 }
