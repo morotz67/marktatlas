@@ -210,7 +210,8 @@
    "slug": "fritz-mackensen",
    "name": "Fritz Mackensen",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T10:31:00Z"
   },
   {
    "slug": "eduard-bargheer",
