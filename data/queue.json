@@ -61,7 +61,8 @@
    "slug": "gregor-von-bochmann",
    "name": "Gregor von Bochmann d. Ä.",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T02:12:21Z"
   },
   {
    "slug": "hugo-muehlig",
