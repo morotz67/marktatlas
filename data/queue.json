@@ -120,7 +120,8 @@
    "slug": "joseph-wopfner",
    "name": "Joseph Wopfner",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T05:31:58Z"
   },
   {
    "slug": "max-ackermann",
