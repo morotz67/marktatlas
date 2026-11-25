@@ -1,0 +1,446 @@
+{
+ "slug": "elisabeth-von-eicken",
+ "name": "Elisabeth von Eicken",
+ "status": "published",
+ "region": "kueste",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1862-07-18",
+  "place": "Mülheim an der Ruhr",
+  "text": "18. Juli 1862 Mülheim an der Ruhr"
+ },
+ "death": {
+  "date": "1940-07-21",
+  "place": "Potsdam",
+  "text": "21. Juli 1940 Potsdam"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Elisabeth_von_Eicken",
+  "https://en.wikipedia.org/wiki/Elisabeth_von_Eicken"
+ ],
+ "sort_name": "Eicken",
+ "split_year": 2024,
+ "list_line": "Malerin der Künstlerkolonie Ahrenshoop · Ölbilder rund {min_all}–{max_hammer} € Zuschlag",
+ "lead": "Landschaftsmalerin aus Mülheim an der Ruhr, die ab 1894 in Berlin und in der Künstlerkolonie Ahrenshoop arbeitete. Diese Seite fasst zusammen, was ihre Bilder im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer sie war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Paris, vor allem beim Landschaftsmaler Edmond Yon; Studienaufenthalte in Meran, Menton und Genf"
+  ],
+  [
+   "Künstlerkolonie",
+   "Ahrenshoop, eigenes Atelier- und Wohnhaus ab 1894; daneben Berlin"
+  ],
+  [
+   "Hauptmotive",
+   "Wald und Waldrand, Birken, Bodden, Gärten, Bauerngehöfte und Küste"
+  ],
+  [
+   "Werkverzeichnis",
+   "keines publiziert; Monografien von Ruth Negendanck (2000, 2011) und Wolf Karge (2021)"
+  ]
+ ],
+ "marktwert": "Ölbilder seit 2021 rund {min_all} bis {max_hammer} € Zuschlag, im Median {med_all} €; kleine Datenbasis ({n_lots} Lose)",
+ "absatzmarkt": "Hamburg (Stahl); daneben München und Wien",
+ "headline": "Drei Bilder brachten 5.500 bis {max_hammer} €, zwei bei Stahl zuletzt unter 2.000 €",
+ "kurz": "Für Elisabeth von Eicken ließen sich seit Dezember 2021 nur {n_lots} Lose mit Datum und Quelle prüfen, {n_sold} davon mit Zuschlag. Die höchsten Preise brachten der „{max_title}“ ({max_size}) bei Neumeister in München {max_year} rund {max_hammer} €, „Am Saaler Bodden“ im Dorotheum in Wien 2024 rund 6.500 € und ein „Waldinneres“ bei Stahl in Hamburg 2022 rund 5.500 €. Zwei weitere Bilder fanden bei Stahl seit 2024 erst im zweiten oder dritten Anlauf einen Käufer, für rund 1.600 und 1.800 €. Die Häuser nennen Preise mit Aufgeld; die Zuschläge sind zurückgerechnet und ungefähr.",
+ "figs": [
+  [
+   "ca. {max_hammer} €",
+   "höchster Zuschlag, aus dem Preis mit Aufgeld errechnet: „{max_title}“, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "ca. {med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde, {period}"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag; drei Angebote bei Stahl und eines bei Schloss Ahlden blieben ohne Ergebnis"
+  ],
+  [
+   "{n_house1} von {n_lots}",
+   "Losen beim Auktionshaus Stahl in Hamburg"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Die Spanne ist groß. Am meisten brachte der große „{max_title}“ ({max_size}, um 1905–1920) im Dezember 2021 bei Neumeister in München: rund {max_hammer} € bei einer Schätzung von 6.000 bis 8.000 €. Das Dorotheum in Wien verkaufte im Oktober 2024 „Am Saaler Bodden“ (48 × 61 cm) für rund 6.500 €, innerhalb der Schätzung von 5.000 bis 7.000 €. Bei Stahl in Hamburg erzielte ein „Waldinneres“ (33 × 51 cm) im September 2022 rund 5.500 €, fast das Siebenfache des Startpreises von 800 €.",
+   "Seit 2024 lief es bei Stahl schwächer. Ein „Waldrand“ blieb im September 2024 bei einem Startpreis von 1.800 € ohne Ergebnis; im März 2025 brachte ein Bild dieses Titels (21,5 × 32 cm, Öl auf Leinwand auf Karton) ab 1.200 € rund 1.600 €. Eine „Landschaft mit Birke“ bot Stahl im Mai und im November 2025 ab 3.500 und 2.000 € an, beide Male ohne veröffentlichtes Ergebnis. Im September 2026 ging ein Bild dieses Titels (49,5 × 74 cm, mit kleinen Restaurierungen) ab 1.500 € für rund 1.800 € weg.",
+   "Zwei weitere Angebote ergänzen das Bild. Karl & Faber in München verkaufte im Dezember 2022 einen „Herbstwald“ für 2.286 € mit 27 % Aufgeld, also 1.800 € Zuschlag; Technik und Maße ließen sich nicht prüfen, das Los fehlt deshalb in der Tabelle. Bei Schloss Ahlden blieb im September 2022 „Am Waldsee“ (60 × 80 cm, Schätzung 2.400 bis 4.800 €) ohne veröffentlichtes Ergebnis.",
+   "Bei so wenigen Losen lässt sich kein verlässlicher Trend ablesen. Die drei hohen Zuschläge kamen 2021, 2022 und 2024 von drei verschiedenen Häusern; bei Stahl fanden zwei Bilder erst nach gesenktem Startpreis einen Käufer."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Stahl laut Versteigerungsbedingungen 22 % plus Umsatzsteuer darauf, zusammen 26,18 %; Stahl veröffentlicht diesen Preis auf volle 100 € gerundet. Das Dorotheum nennt den Kaufpreis einschließlich Käufergebühr und Umsatzsteuer, laut Gebührentarif 30 % in der Auktion. Bei Neumeister gibt veryimportantlot.com 30 % an, bei Karl & Faber beträgt das Aufgeld 27 % ohne Umsatzsteuer.",
+  "spitzen": "Vor 2021 lagen einzelne Ergebnisse höher, jeweils mit Aufgeld: Christie's in Amsterdam erzielte 2012 für „A farm near the shore“ (43 × 58,5 cm) 8.125 €, Stahl im September 2016 für „Am Ziehbrunnen“ 7.400 €. Grisebach in Berlin verkaufte laut Art.Salon 2019 eine kleine „Wolkenstudie“ (20,7 × 30,8 cm) für 2.000 € und 2020 eine „Norddeutsche Landschaft“ für 3.000 €."
+ },
+ "euro_ok": [
+  "800",
+  "1.200",
+  "3.500",
+  "2.000",
+  "1.500",
+  "2.286",
+  "100",
+  "8.125",
+  "7.400",
+  "3.000",
+  "8.450",
+  "9.100"
+ ],
+ "absatz": {
+  "text": [
+   "Prüfbare Ergebnisse finden sich vor allem in Hamburg: {n_house1} der {n_lots} Lose auf dieser Seite stammen vom Auktionshaus Stahl, das sie seit 2022 mehrfach anbot. Die höchsten Zuschläge kamen aber aus München (Neumeister) und Wien (Dorotheum).",
+   "In Mecklenburg wird sie oft angeboten, aber schlecht dokumentiert. Das Auktionshaus Schwerin führte sie laut der Preisdatenbank Appraisily seit 2021 elfmal, Schmidt in Dresden bot 2024 und 2025 dreimal eine Studie „Sandweg, Darß“ an. Für diese Lose ließen sich keine Losseiten mit Ergebnis prüfen; sie fehlen in der Tabelle.",
+   "Auch im Ausland erscheinen ihre Bilder. Bukowskis in Stockholm verkaufte im Juni 2021 eine große Frühlingslandschaft (65 × 96,5 cm) für 75.000 Kronen Zuschlag, Bruun Rasmussen in Kopenhagen 2023 eine kleine Küstenszene; in den USA boten Freeman's und Hindman sie an. Ergebnisse in fremder Währung sind nicht eingerechnet. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Gering bis mittel. Nur {sold_rate} Losen erhielten einen Zuschlag; bei Stahl fanden zwei Bilder erst im zweiten und dritten Anlauf und mit niedrigerem Startpreis einen Käufer."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "Meist „E. v. Eicken“, fast immer unten rechts (so bei Stahl, Schloss Ahlden, Neumeister und Freeman's); bei Stahl auch „E. von Eicken“. Nach der Heirat 1897 hieß sie Edle von Paepcke; bekannt blieb sie unter ihrem Mädchennamen."
+   ],
+   [
+    "Werkverzeichnis und Fachleute",
+    "Ein Werkverzeichnis ist nicht publiziert. Neumeister datierte 2021 ein Bild nach Auskunft des Historikers Wolf Karge, der 2021 eine Monografie veröffentlichte und 2021/22 die Eicken-Ausstellung im Kunstmuseum Ahrenshoop kuratierte."
+   ],
+   [
+    "Rückseiten",
+    "Handschriftliche Titel und Nummern auf der Rückseite, etwa „Nr. 129“ bei „Am Saaler Bodden“ (Dorotheum 2024), helfen bei der Einordnung. Ihre Bedeutung sollte ein Fachmann prüfen."
+   ],
+   [
+    "Lebensdaten in Katalogen",
+    "Amerikanische Häuser (Freeman's, Hindman) führen sie mit dem Sterbejahr 1938. Richtig ist 1940; eine abweichende Angabe allein spricht nicht gegen das Bild."
+   ],
+   [
+    "Kunstgewerbe",
+    "Sie entwarf auch Keramik, Porzellanmalerei und Raumausstattungen. Solche Arbeiten sind im Handel kaum dokumentiert und nicht mit Gemäldepreisen vergleichbar."
+   ],
+   [
+    "Zuschreibungen",
+    "Lose mit „zugeschrieben“ oder „attr.“ (etwa ein „Sonnenaufgang“ bei Mehlis 2024, laut Appraisily) nicht mit Originalpreisen vergleichen."
+   ]
+  ],
+  "preis_drueckt": "Stahl vermerkt Farbverluste und Restaurierungen im Katalog, etwa bei der „Landschaft mit Birke“ (kleine Restaurierungen, 2026 rund 1.800 €) und beim „Waldinneres“ (minimale Farbverluste, 2022 rund 5.500 €). Neumeister beschrieb das große Gartenbild als doubliert und restauriert. Wie stark Schäden die Preise drückten, lässt sich aus den wenigen Losen nicht ablesen.",
+  "werkverzeichnis": "Kein Werkverzeichnis publiziert. Monografien: Ruth Negendanck, „Elisabeth von Eicken. Malerin in Ahrenshoop und auf dem Fischland“ (Fischerhude 2000); Ruth Negendanck und Katrin Arrieta, „Elisabeth von Eicken: malen und gestalten“ (Berlin 2011); Wolf Karge, „Elisabeth von Eicken“ (Fischerhude 2021).",
+  "provenienz": "Laut Wikipedia dürfte der größte Teil ihrer Werke in Privatbesitz sein. Bei Bildern, die 1933–1945 den Besitzer wechselten, gehört die Herkunft geprüft."
+ },
+ "leben": {
+  "text": [
+   "Elisabeth von Eicken wurde am 18. Juli 1862 in Mülheim an der Ruhr geboren, als dritte Tochter des Kaufmanns und Fabrikanten Hermann Wilhelm von Eicken. Von 1871 bis 1878 besuchte sie die Luisenschule in Mülheim. Sie ließ sich in Paris ausbilden, vor allem beim Landschaftsmaler Edmond Yon (laut Stahl ab 1882), und studierte in Meran, Menton und Genf. Die Schule von Barbizon und Alfred Sisley prägten ihre Malerei.",
+   "Ab 1894 stellte sie regelmäßig auf der Großen Berliner Kunstausstellung aus. Im selben Jahr ließ sie sich in Ahrenshoop ein Atelier- und Wohnhaus bauen, das mit Veränderungen erhalten ist. Sie arbeitete in Berlin und in der Künstlerkolonie, wo sie Paul Müller-Kaempff, Friedrich Wachenhusen, Anna Gerresheim und Fritz Grebe nahestand. Neben der Malerei entwarf sie Keramik, Porzellanmalerei und Raumausstattungen; auf der Weltausstellung 1904 in St. Louis erhielt sie für eine Werkgruppe eine Goldmedaille.",
+   "1897 heiratete sie den Gutsherrn Henry Edler von Paepcke auf Quassel in Mecklenburg; das Paar hatte zwei Töchter und einen Sohn. Nach dem Verkauf des Guts lebte die Familie in Berlin-Grunewald. Sie starb am 21. Juli 1940 in Potsdam und wurde auf eigenen Wunsch auf dem Friedhof von Ahrenshoop begraben. 2021/22 zeigte das Kunstmuseum Ahrenshoop die Ausstellung „Die Eicken – oder: Malen gegen männliche Vorurteile“."
+  ],
+  "museen": "Kunstmuseum Ahrenshoop und Kulturhistorisches Museum Rostock (laut Wikipedia); Stahl nennt außerdem Kaunas.",
+  "timeline": [
+   [
+    "1862",
+    "geboren in Mülheim an der Ruhr"
+   ],
+   [
+    "1882",
+    "Studium in Paris bei Edmond Yon (laut Stahl)"
+   ],
+   [
+    "1894",
+    "Atelierhaus in Ahrenshoop; ab jetzt auf der Großen Berliner Kunstausstellung"
+   ],
+   [
+    "1897",
+    "Heirat mit Henry Edler von Paepcke, Gut Quassel"
+   ],
+   [
+    "1904",
+    "Goldmedaille auf der Weltausstellung in St. Louis"
+   ],
+   [
+    "1940",
+    "gestorben in Potsdam, begraben in Ahrenshoop"
+   ],
+   [
+    "2021",
+    "Ausstellung im Kunstmuseum Ahrenshoop; Monografie von Wolf Karge"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Gärten und große Landschaften",
+   "d": "Blühende Gärten und Landschaften in großem Format.",
+   "bsp": "„{max_title}“ ({max_size}, Neumeister {max_year}): rund {max_hammer} €"
+  },
+  {
+   "t": "Bodden und Küste",
+   "d": "Saaler Bodden, Darß, Ostseeküste bei Ahrenshoop.",
+   "bsp": "„Am Saaler Bodden“ (Dorotheum 2024): rund 6.500 €"
+  },
+  {
+   "t": "Wald, Waldrand und Birken",
+   "d": "Ihr häufigstes Motiv im Handel, oft in kleinen und mittleren Formaten.",
+   "bsp": "„Waldinneres“ (2022): rund 5.500 €; „Waldrand“ (2025): rund 1.600 €"
+  },
+  {
+   "t": "Bauerngehöfte und Dörfer",
+   "d": "Gehöfte, Ziehbrunnen, Bauernhäuser an der Ostsee; die höchsten Ergebnisse vor 2021 (Christie's 2012, Stahl 2016).",
+   "bsp": "„Am Ziehbrunnen“ (Stahl 2016): 7.400 € mit Aufgeld"
+  },
+  {
+   "t": "Kunstgewerbe",
+   "d": "Keramik, Porzellanmalerei, Raumausstattungen; 1904 in St. Louis ausgezeichnet, im Handel kaum dokumentiert."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Elisabeth von Eicken wert?",
+   "a": "Seit 2021 lassen sich nur wenige Ergebnisse prüfen. Ölbilder brachten rund {min_all} bis {max_hammer} € Zuschlag, im Median {med_all} €. Drei Bilder erzielten 2021 bis 2024 rund 5.500 bis {max_hammer} €, zwei Bilder bei Stahl in Hamburg seit 2025 nur rund 1.600 und 1.800 €. Vor 2021 kamen einzelne Bilder mit Aufgeld auf 7.400 und 8.125 €."
+  },
+  {
+   "q": "Wo verkauft man ein Bild von Elisabeth von Eicken am besten?",
+   "a": "Die meisten prüfbaren Verkäufe gab es beim Auktionshaus Stahl in Hamburg ({n_house1} der {n_lots} Lose). Die höchsten Zuschläge seit 2021 kamen aber von Neumeister in München und vom Dorotheum in Wien. Häuser in Mecklenburg und Dresden bieten sie ebenfalls an, ihre Ergebnisse sind aber selten prüfbar."
+  },
+  {
+   "q": "Warum taucht derselbe Titel mehrmals auf?",
+   "a": "Stahl bot Bilder ohne Käufer später mit niedrigerem Startpreis erneut an, nach Titel und Ablauf vermutlich jeweils dasselbe Bild. Eine „Landschaft mit Birke“ kam ab 3.500 €, dann ab 2.000 € und zuletzt ab 1.500 €; erst dann brachte sie rund 1.800 €. Ein „Waldrand“ verkaufte sich nach einem Angebot ab 1.800 € im zweiten Anlauf ab 1.200 €."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Nein. Es gibt Monografien von Ruth Negendanck (2000, mit Katrin Arrieta 2011) und von Wolf Karge (2021). Karge kuratierte 2021/22 die Eicken-Ausstellung im Kunstmuseum Ahrenshoop; Neumeister datierte 2021 ein Bild nach seiner Auskunft."
+  },
+  {
+   "q": "Was bedeuten die Preise bei Stahl und im Dorotheum?",
+   "a": "Beide nennen den Preis mit Aufgeld. Bei Stahl sind das 26,18 % auf den Zuschlag, auf volle 100 € gerundet, im Dorotheum 30 %. Aus 8.450 € im Dorotheum werden so 6.500 € Zuschlag."
+  }
+ ],
+ "methodik_extra": "Stahl nennt auf Künstler- und Losseiten ein „Ergebnis“: den Preis mit Aufgeld, auf volle 100 € gerundet. Laut Versteigerungsbedingungen beträgt das Aufgeld 22 % zuzüglich Umsatzsteuer, zusammen 26,18 %; die Stahl-Zuschläge sind daher zurückgerechnet und geschätzt. Die Stahl-Künstlerseite zeigt nur verkaufte Lose. Die drei Stahl-Angebote ohne Ergebnis (September 2024, Mai und November 2025) stammen aus der Künstlerübersicht von veryimportantlot.com (Losnummer, Titel, Startpreis); ihre Auktionstage aus der Preisdatenbank Appraisily und der Auktionsliste von Stahl. Die Losseiten selbst waren nicht abrufbar, Technik und Maße deshalb nicht geprüft; wegen gleicher Titel und sinkender Startpreise handelt es sich vermutlich um dieselben Bilder, die später verkauft wurden. Das Dorotheum nennt den Kaufpreis inklusive Käufergebühr und Umsatzsteuer; mit dem Auktionstarif von 30 % (ab März 2023) ergibt sich ein runder Zuschlag. Das Auktionsdatum stammt von der Vorbesichtigungsseite (Auktion 23. Oktober 2024), eine Losnummer nennt die Seite nicht. Für Neumeister nennt veryimportantlot.com 9.100 € und 30 % Aufgeld; 9.100 € ÷ 1,30 ergibt genau 7.000 €, der Betrag wird deshalb als Preis mit Aufgeld gelesen. Schloss Ahlden: Datum und Schätzung von veryimportantlot.com. Nicht aufgenommen: der „Herbstwald“ bei Karl & Faber (7. Dezember 2022, 2.286 € mit Aufgeld laut Art.Salon; Losnummer, Technik und Maße nicht prüfbar), Lose in fremder Währung (Bukowskis, Bruun Rasmussen, Freeman's, Hindman, Clarke), rund elf Angebote des Auktionshauses Schwerin 2021–2025 und ein Los bei Historia Auctionata (Juni 2026), die nur Appraisily ohne prüfbare Losseite nennt, drei Angebote bei Schmidt in Dresden ohne Ergebnis sowie ein „zugeschriebenes“ Bild bei Mehlis (2024). Die Übersichten bei Invaluable, LotSearch und MutualArt waren nicht abrufbar.",
+ "quellen": [
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Elisabeth von Eicken (Ergebnisse)",
+   "u": "https://www.auktionshaus-stahl.de/en/artist/2493-elisabeth-von-eicken"
+  },
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite (deutsch)",
+   "u": "https://www.auktionshaus-stahl.de/de/kuenstler/2493-elisabeth-von-eicken"
+  },
+  {
+   "t": "Auktionshaus Stahl, Auktionen und Katalogtermine",
+   "u": "https://www.auktionshaus-stahl.de/en/auctions"
+  },
+  {
+   "t": "Auktionshaus Stahl, Versteigerungsbedingungen (§ 4: 22 % Aufgeld zzgl. USt)",
+   "u": "https://www.auktionshaus-stahl.de/en/conditions-of-sale"
+  },
+  {
+   "t": "veryimportantlot.com, Künstlerübersicht Elisabeth von Eicken (Stahl-Lose mit Startpreisen)",
+   "u": "https://veryimportantlot.com/en/auction-wiki/author/artist-elisabeth-von-eicken-1862-1940-1"
+  },
+  {
+   "t": "veryimportantlot.com, Stahl 17.09.2022 Los 523 „Waldinneres“ (Startpreis)",
+   "u": "https://veryimportantlot.com/en/lot/view/elisabeth-von-eicken-muhlheimruhr-1862-potsdam-810999"
+  },
+  {
+   "t": "veryimportantlot.com, Neumeister 02.12.2021 Los 450",
+   "u": "https://veryimportantlot.com/en/lot/view/garten-mit-bluhenden-kirschbaumen-675645"
+  },
+  {
+   "t": "Dorotheum, „Am Saaler Bodden“ (Losseite)",
+   "u": "https://www.dorotheum.com/en/l/9207055/"
+  },
+  {
+   "t": "Dorotheum, Vorbesichtigung Gemälde des 19. Jahrhunderts, Auktion 23. Oktober 2024",
+   "u": "https://www.dorotheum.com/cz/v/preview-19th-century-paintings-and-works-of-art-palais-dorotheum-auctions-23-october-2024/"
+  },
+  {
+   "t": "Dorotheum, Gebührentarif für Versteigerungen (gültig ab 1. März 2023)",
+   "u": "https://fahrzeuge.dorotheum.com:443/fileadmin/user_upload/Download/Agb/VSTGB_2023/Gebuehrentarif_Vstg_E_2023.pdf"
+  },
+  {
+   "t": "Schloss Ahlden, Auktion 185 Teil II, Los 1884 „Am Waldsee“",
+   "u": "https://www.schloss-ahlden.de/en/bidding/185-internationale-kunstauktion-teil-ii-127/1884-elisabeth-von-eicken-42507"
+  },
+  {
+   "t": "Karl & Faber, Auktion 314, „Herbstwald“ (Aufgeld 27 %)",
+   "u": "https://karlundfaber.de/en/auctions/314/modern-art-day-sale/3140558"
+  },
+  {
+   "t": "Karl & Faber, Vorbesichtigung und Auktionstermine Dezember 2022",
+   "u": "https://karlundfaber.de/en/2022/12/virtual-tour-for-preview-modern-contemporary-art-2"
+  },
+  {
+   "t": "Art.Salon, Auktionshistorie Elisabeth von Eicken (u. a. Grisebach 2019/2020, Karl & Faber 2022)",
+   "u": "https://www.art.salon/artwork/elisabeth-von-eicken_wolkenstudie_AID81179"
+  },
+  {
+   "t": "Art.Salon, Christie's Amsterdam 2012 „A farm near the shore“",
+   "u": "https://www.art.salon/artwork/elisabeth-von-eicken_a-farm-near-the-shore_AID629391"
+  },
+  {
+   "t": "Bukowskis, Auktion 633 (Juni 2021), Frühlingslandschaft",
+   "u": "https://www.bukowskis.com/en/auctions/633/633-elisabeth-von-eicken-spring-landscape"
+  },
+  {
+   "t": "Bruun Rasmussen, März 2023, Küstenszene",
+   "u": "https://bruun-rasmussen.dk/m/lots/26647BCE623B"
+  },
+  {
+   "t": "Bidsquare, Freeman's 23.02.2021 Los 41 „Frühling“",
+   "u": "https://www.bidsquare.com/online-auctions/freemans/elisabeth-von-eicken-german-1862-d-c-1938-fr-hling-spring-2099823"
+  },
+  {
+   "t": "Appraisily, Auktionsübersicht Elisabeth von Eicken (Daten, Schwerin, Schmidt, Mehlis)",
+   "u": "https://appraisily.com/api/scraper-search/artists/elisabeth-von-eicken/llm.md"
+  },
+  {
+   "t": "Art.Salon, Kunstmuseum Ahrenshoop: „Die Eicken – oder: Malen gegen männliche Vorurteile“ (2021)",
+   "u": "https://www.art.salon/kunstwelt/elisabeth-von-eicken-malerische-landschaften-und-wirtschaftliche-unabhangigkeit-im-19-jahrhundert"
+  },
+  {
+   "t": "Wikipedia (deutsch): Elisabeth von Eicken",
+   "u": "https://de.wikipedia.org/wiki/Elisabeth_von_Eicken"
+  },
+  {
+   "t": "Wikipedia (englisch): Elisabeth von Eicken",
+   "u": "https://en.wikipedia.org/wiki/Elisabeth_von_Eicken"
+  }
+ ],
+ "ort": "Ahrenshoop",
+ "lots": [
+  {
+   "house": "Neumeister",
+   "date": "2021-12-02",
+   "sale": "403 Gemälde und Grafik",
+   "lot": "450",
+   "title": "Garten mit blühenden Kirschbäumen",
+   "year": "um 1905–1920",
+   "tech": "Öl auf Leinwand, doubliert",
+   "medium": "lw",
+   "h": 103,
+   "w": 110.5,
+   "lo": 6000,
+   "hi": 8000,
+   "hammer": 7000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/garten-mit-bluhenden-kirschbaumen-675645",
+   "note": "veryimportantlot.com: „Sold“ 9.100 €, Aufgeld 30 %; 9.100 ÷ 1,30 ergibt genau 7.000 €, daher als Preis mit Aufgeld gelesen; signiert rechts unten; restauriert; Datierung laut Katalog nach Auskunft von Dr. Wolf Karge"
+  },
+  {
+   "house": "Schloss Ahlden",
+   "date": "2022-09-04",
+   "sale": "185 Internationale Kunstauktion, Teil II",
+   "lot": "1884",
+   "title": "Am Waldsee",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 60,
+   "w": 80,
+   "lo": 2400,
+   "hi": 4800,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/elisabeth-von-eicken-802344",
+   "note": "veryimportantlot.com: Schätzung 2.400–4.800 €, Auktion abgeschlossen, kein Ergebnis; Losseite von Schloss Ahlden ohne Datum und ohne lesbares Ergebnis; signiert rechts unten"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-09-17",
+   "sale": "356 Kunst und Antiquitäten",
+   "lot": "523",
+   "title": "Waldinneres",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 33,
+   "w": 51,
+   "hammer": 5500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/104175-elisabeth-von-eicken-waldinneres",
+   "note": "Stahl nennt „Ergebnis 6.900 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Startpreis 800 € laut veryimportantlot.com; signiert unten rechts „E. v. Eicken“; minimale Farbverluste"
+  },
+  {
+   "house": "Dorotheum",
+   "date": "2024-10-23",
+   "sale": "Gemälde des 19. Jahrhunderts",
+   "lot": "o. Nr. (Am Saaler Bodden)",
+   "src": "Dorotheum, Gemälde des 19. Jh.",
+   "title": "Am Saaler Bodden",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 48,
+   "w": 61,
+   "lo": 5000,
+   "hi": 7000,
+   "hammer": 6500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.dorotheum.com/en/l/9207055/",
+   "note": "Losseite: erzielter Preis 8.450 € inkl. Käufergebühr und USt; mit 30 % (Auktionstarif ab März 2023) ergibt sich genau 6.500 €; signiert „E. v. Eicken“; rückseitig handschriftlich betitelt und „Nr. 129“; Datum laut Vorbesichtigungsseite des Dorotheums (Auktion 23.10.2024); Losnummer auf der Seite nicht genannt"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "365 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "519",
+   "title": "Waldrand",
+   "tech": "Gemälde, Träger n. a.",
+   "medium": "lw",
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/elisabeth-von-eicken-muhlheimruhr-1862-potsdam-1301222",
+   "note": "Los, Titel und Startpreis 1.800 € laut Künstlerübersicht von veryimportantlot.com; Datum laut Appraisily und Stahl-Auktionsliste; Stahl-Künstlerseite nennt kein Ergebnis; vermutlich dasselbe Bild wie Los 549 im März 2025 (Technik und Maße hier nicht geprüft)"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-03-01",
+   "sale": "367 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "549",
+   "title": "Waldrand",
+   "tech": "Öl auf Leinwand, auf Karton",
+   "medium": "karton",
+   "h": 21.5,
+   "w": 32,
+   "hammer": 1600,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/109598-elisabeth-von-eicken-wood",
+   "note": "Stahl nennt „Ergebnis 2.000 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Startpreis 1.200 € laut veryimportantlot.com; signiert unten rechts „E. von Eicken“; winzige Farbverluste"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "368 Kunst und Antiquitäten",
+   "lot": "513",
+   "title": "Landschaft mit Birke",
+   "tech": "Gemälde, Träger n. a.",
+   "medium": "lw",
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/elisabeth-von-eicken-muhlheimruhr-1862-potsdam-1434750",
+   "note": "Los, Titel, Katalog und Startpreis 3.500 € laut Künstlerübersicht von veryimportantlot.com; Datum laut Appraisily und Stahl-Auktionsliste; Stahl-Künstlerseite nennt kein Ergebnis; vermutlich dasselbe Bild wie Los 572 im September 2026 (Technik und Maße hier nicht geprüft)"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-11-29",
+   "sale": "370 Kunst und Antiquitäten",
+   "lot": "457",
+   "title": "Landschaft mit Birke",
+   "tech": "Gemälde, Träger n. a.",
+   "medium": "lw",
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/elisabeth-von-eicken-muhlheimruhr-1862-potsdam-1520477",
+   "note": "Los, Titel, Katalog und Startpreis 2.000 € laut Künstlerübersicht von veryimportantlot.com; Datum laut Appraisily und Stahl-Auktionsliste; Stahl-Künstlerseite nennt kein Ergebnis; vermutlich dasselbe Bild wie Los 572 im September 2026"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-09-26",
+   "sale": "373 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "572",
+   "title": "Landschaft mit Birke",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 49.5,
+   "w": 74,
+   "hammer": 1800,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111124-elisabeth-von-eicken-landscape-with-birch",
+   "note": "Stahl nennt „Ergebnis 2.300 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Startpreis 1.500 € laut veryimportantlot.com; signiert unten rechts „E. v. Eicken“; kleine Restaurierungen"
+  }
+ ]
+}
