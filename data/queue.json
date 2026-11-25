@@ -150,8 +150,11 @@
    "slug": "ernst-eitner",
    "name": "Ernst Eitner",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T07:11:56Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T07:11:56Z",
+   "done_at": "2026-11-25T07:43:08Z",
+   "lots": 23,
+   "note": "volle Seite; 23 Lose (21 Zuschläge), Stahl 22, Van Ham 1. Stahl nennt nur auf 100 € gerundeten Erlös mit 26,18 % Aufgeld (Zuschläge geschätzt); 13 Stahl-Losseiten nicht abrufbar (PROVENANCE_REQUIRED), Los/Technik/Maße dann von veryimportantlot.com. Offen: rund 80 weitere Stahl-Ergebnisse 2021–2026 auf der Künstlerseite ohne prüfbare Technik/Maße, u. a. Sonnenuntergang über der Binnenalster (Feb. 2023, Erlös 30.300 €), Lampionfahrt am Uhlenhorster Fährhaus (Mai 2024, 27.800 €), Sturm auf Sylt (Mai 2022, 20.200 €), Mühlenteich (Mai 2022, 12.600 €), An der Ostsee (Feb. 2024, Los 61, 6.300 €), Stahl Juni 2026 Lose 169–174; Stahl Nov. 2026 Lose 534/535 noch ohne Ergebnis; Schloss Ahlden A195 Los 1761 ohne Titel; de-Wikipedia und Hamburger Kunsthalle (Anubis-Sperre) nicht abrufbar"
   },
   {
    "slug": "thomas-herbst",

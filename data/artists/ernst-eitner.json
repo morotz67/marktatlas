@@ -1,0 +1,664 @@
+{
+ "slug": "ernst-eitner",
+ "name": "Ernst Eitner",
+ "status": "published",
+ "region": "moor",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1867-08-30",
+  "place": "Hamburg",
+  "text": "30. August 1867 Hamburg"
+ },
+ "death": {
+  "date": "1955-08-28",
+  "place": "Hamburg",
+  "text": "28. August 1955 Hamburg-Hummelsbüttel"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Ernst_Eitner",
+  "https://d-nb.info/gnd/116437715",
+  "https://www.deutsche-biographie.de/116437715.html"
+ ],
+ "sort_name": "Eitner",
+ "split_year": 2024,
+ "list_line": "Hamburger Impressionist · Zuschlag meist rund {q1_all}–{q3_all} €",
+ "lead": "Hamburger Impressionist und Mitgründer des Hamburgischen Künstlerclubs von 1897, bekannt für Bilder von Alster, Elbe, Sylt und seinem Garten in Hummelsbüttel. Diese Seite fasst zusammen, was seine Bilder im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Lithografenlehre in Hamburg; Kunstakademie Karlsruhe bei Gustav Schönleber, 1891 Düsseldorf, 1892 Antwerpen bei Albrecht de Vriendt"
+  ],
+  [
+   "Gruppe",
+   "Mitgründer des Hamburgischen Künstlerclubs von 1897"
+  ],
+  [
+   "Hauptmotive",
+   "Alster, Elbe und Hamburger Stadtbilder, Garten und Familie in Hummelsbüttel, Sylt und Ostsee"
+  ],
+  [
+   "Werkverzeichnis",
+   "digitales Werkverzeichnis im Auftrag der Hamburger Sparkasse; Monografie von Ulrich Schulte-Wülwer (2017)"
+  ]
+ ],
+ "marktwert": "Gemälde und Ölstudien meist rund {q1_all}–{q3_all} € Zuschlag, im Median {med_all} €; höchster Zuschlag dieser Seite rund {max_hammer} €",
+ "absatzmarkt": "Hamburg (Auktionshaus Stahl)",
+ "headline": "Ölbilder bringen meist rund {q1_all} bis {q3_all} €, Hamburger Ansichten und große Bilder bis {max_hammer} €",
+ "kurz": "Ernst Eitner wird fast nur in Hamburg versteigert. {n_house1} der {n_lots} Lose auf dieser Seite stammen vom Auktionshaus Stahl, das auf seiner Künstlerseite für Mai 2021 bis September 2026 rund 100 Ergebnisse nennt. Gemälde und Ölstudien brachten meist rund {q1_all} bis {q3_all} € Zuschlag, im Median {med_all} €. Am meisten erzielten Hamburger Ansichten und große Bilder von Elbe und Sylt: „{max_title}“ rund {max_hammer} €, „Abend an der Elbe – Strand in Övelgönne“ rund 14.000 €. Aquarelle brachten rund 850 bis 1.700 €. Stahl nennt nur gerundete Preise mit Aufgeld, die Zuschläge sind deshalb zurückgerechnet und ungefähr.",
+ "figs": [
+  [
+   "{max_hammer} €",
+   "höchster Zuschlag dieser Seite, aus dem Preis mit Aufgeld errechnet: „{max_title}“, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde und Ölstudien, {period}"
+  ],
+  [
+   "{n_house1} von {n_lots}",
+   "Losen beim Auktionshaus Stahl in Hamburg"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag; zwei Bilder erst bei einem späteren Anlauf"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Das Motiv zählt mindestens so viel wie das Format. Den höchsten Zuschlag dieser Seite brachte ein Karton von nur {max_size}: „{max_title}“, eine Szene an der Alster, rund {max_hammer} €. Große Leinwände von der Elbe, von Sylt und mit Obstblüte folgen mit rund 10.000 bis 14.000 €. Zwei Landschaften aus Hummelsbüttel, wo Eitner ab 1903 wohnte, brachten dagegen nur rund 1.200 und 1.700 €.",
+   "Bilder seiner Familie liegen im Mittelfeld: „Maria, die Tochter des Künstlers, auf der Schaukel“ (40 × 34 cm) brachte rund 6.000 €, das Bildnis des Sohnes Alex rund 4.000 €. Ein unsigniertes Bildnis seiner Frau Antonia mit Nachlassstempel kam auf rund 1.000 €.",
+   "Ob die Preise steigen oder fallen, lässt sich aus diesen Daten nicht sagen. Der Median bei {main} lag {years_old} bei {med_old_main} € und {years_new} bei {med_new_main} €, doch vor 2024 sind es nur {n_old_main} Bilder.",
+   "Außerhalb Hamburgs kommt Eitner selten zur Auktion. Bei Van Ham in Köln brachte eine Alsteransicht (36 × 51 cm) im Mai 2025 3.000 €, bei einer Schätzung von 3.500 bis 4.500 €."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld. Bei Stahl sind es laut Versteigerungsbedingungen 22 % plus Umsatzsteuer auf das Aufgeld, zusammen 26,18 %; wer online live bietet, zahlt einen weiteren Zuschlag. Bei Van Ham sind es 32 %. Stahl veröffentlicht als „Erlös“ den Preis mit Aufgeld, auf volle 100 € gerundet.",
+  "spitzen": "Stahl nennt auf seiner Künstlerseite auch höhere Erlöse, jeweils mit Aufgeld: 30.300 € für „Sonnenuntergang über der Binnenalster“ (Februar 2023) und 27.800 € für „Lampionfahrt am Uhlenhorster Fährhaus“ (Mai 2024). Beide fehlen in der Tabelle, weil Technik und Maße nicht prüfbar waren. Vor 2021 lagen die höchsten Erlöse bei 40.900 € für einen Blick über die Außenalster (2016) und 35.300 € für ein Bild der Tochter vor dem Spiegel (2020)."
+ },
+ "euro_ok": [
+  "30.300",
+  "27.800",
+  "40.900",
+  "35.300",
+  "5.600",
+  "17.700",
+  "3.960",
+  "100"
+ ],
+ "absatz": {
+  "text": [
+   "Hamburg ist der Markt für Eitner, und dort vor allem das Auktionshaus Stahl. Es bot ihn seit 2021 in fast jeder seiner Kunstauktionen an, oft mehrere Bilder auf einmal. {n_house1} der {n_lots} Lose auf dieser Seite stammen von dort.",
+   "Andere Häuser spielen kaum eine Rolle. Van Ham in Köln versteigerte seit 2021 ein Bild, im Künstlerverzeichnis von Lempertz steht nur ein älteres Los. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Hoch. {sold_rate} Losen erhielten einen Zuschlag. Zwei Bilder brauchten mehrere Anläufe: „Vorfrühling“ blieb im Februar 2024 ohne Ergebnis und brachte im November rund 850 €. Die „Oberalster bei Hummelsbüttel“ (62 × 82 cm) kam im September 2025 und im März 2026 ohne Ergebnis und ging im September 2026 für rund 1.200 € weg. Stahl zeigt unverkaufte Lose nicht an; die Quote ist deshalb eher zu hoch."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "Meist „E. Eitner“ unten rechts oder links, oft rückseitig wiederholt und mit Titel, manchmal mit Bleistift auf dem Keilrahmen."
+   ],
+   [
+    "Rückseite ansehen",
+    "Mehrere Bilder tragen rückseitig eine zweite Ölstudie: „Am Winterhuder Fährhaus“ eine Landschaft, „Blühender Obstbaum“ eine Studie „Alsterwanderweg“, die Alsteransicht bei Van Ham einen blühenden Kirschbaum."
+   ],
+   [
+    "Nachlass",
+    "Unsignierte Werke aus dem Nachlass tragen teils einen Nachlassstempel, bei einem Aquarell mit Unterschrift des Nachlassverwalters. Auf einem Karton bestätigt die Tochter Maria Wolters-Eitner 1981 rückseitig die Echtheit. Ein Stempel ersetzt keine Prüfung des Bildes selbst."
+   ],
+   [
+    "Aquarelle",
+    "Stahl verkauft Aquarelle oft hinter Glas und vermerkt, dass sie nicht ausgerahmt geprüft wurden. Papier und Zustand vor dem Kauf ansehen."
+   ],
+   [
+    "Druck oder Unikat",
+    "Eitner war gelernter Lithograf, es gibt Druckgrafik von ihm. Unter der Lupe zeigt ein Druck Raster oder eine flache Oberfläche, ein Ölbild Pinselspuren."
+   ],
+   [
+    "Zuschreibungen",
+    "Lose mit „zugeschrieben“ oder „Umkreis“ nicht mit Originalpreisen vergleichen."
+   ]
+  ],
+  "preis_drueckt": "Retuschen und Restaurierungen, die Stahl im Katalog vermerkt, und unsignierte Nachlassarbeiten: Das Bildnis Antonia Eitner mit Nachlassstempel brachte rund 1.000 €.",
+  "werkverzeichnis": "Die Hamburger Sparkasse (Haspa), die Werke des Hamburgischen Künstlerclubs sammelt, hat laut Stiftung Historische Museen Hamburg ein digitales Werkverzeichnis erarbeiten lassen. Die Monografie ist Ulrich Schulte-Wülwer, „Ernst Eitner 1867–1955. Leben und Werk eines Hamburger Impressionisten“, Fischerhude 2017. Wer heute Expertisen ausstellt, ließ sich nicht ermitteln.",
+  "provenienz": "Ältere Provenienzen führen oft zu Hamburger Sammlern: „Abend an der Elbe – Strand in Övelgönne“ stammt aus den Sammlungen Julius Wolf und Albert Simonowski, die Alsteransicht bei Van Ham wurde direkt beim Künstler erworben. Bei Bildern, die 1933–1945 den Besitzer wechselten, gehört die Herkunft geprüft."
+ },
+ "leben": {
+  "text": [
+   "Ernst Eitner wurde am 30. August 1867 in Hamburg geboren, als Sohn eines Tischlers aus Schlesien. Nach einer Lithografenlehre und der Gewerbeschule in Hamburg studierte er an der Kunstakademie Karlsruhe bei Gustav Schönleber, 1891 in Düsseldorf und 1892 in Antwerpen bei Albrecht de Vriendt. Reisen führten ihn nach Italien, Norwegen und Paris.",
+   "1895 heiratete er Antonia Bißling aus Lübeck. Das Paar wohnte zuerst in Billwerder an der Bille, ab 1898 in Fuhlsbüttel und ab 1903 im eigenen Haus in Hummelsbüttel. 1897 gründete Eitner mit Arthur Illies, Arthur Siebelist, Friedrich Schaper, Thomas Herbst und anderen den Hamburgischen Künstlerclub, der in der Galerie Commeter ausstellte. Alfred Lichtwark förderte die Gruppe und forderte: „Meine Herren, malen Sie hamburgische Landschaft!“",
+   "Eitner malte Licht in kurzen, getupften Pinselstrichen; die Stiftung Historische Museen Hamburg nennt ihn den „Monet des Nordens“. Seine Motive fand er an Alster und Elbe, im eigenen Garten, an der Ostsee und auf Sylt, ab 1913 auch beim U-Bahn-Bau, in Ziegeleigruben und Fabriken. Von 1894 bis 1909 unterrichtete er an der Malschule von Valeska Röver, unter anderem Alma del Banco und Gretchen Wohlwill. 1917 erhielt er den Professorentitel. Er starb am 28. August 1955 in Hummelsbüttel, zwei Tage vor seinem 88. Geburtstag."
+  ],
+  "museen": "Laut Auktionshaus Stahl: Hamburger Kunsthalle, Altonaer Museum, Museum für Hamburgische Geschichte, Museum für Kunst und Gewerbe Hamburg, Landesmuseum Schleswig, St.-Annen-Museum Lübeck, Flensburg und British Museum London. 2017 zeigte das Jenisch Haus in Hamburg die Ausstellung „Ernst Eitner – Monet des Nordens“.",
+  "timeline": [
+   [
+    "1867",
+    "geboren in Hamburg"
+   ],
+   [
+    "1881",
+    "Lithografenlehre"
+   ],
+   [
+    "1892",
+    "Antwerpen, nach Karlsruhe und Düsseldorf"
+   ],
+   [
+    "1894",
+    "Lehrer an der Malschule von Valeska Röver (bis 1909)"
+   ],
+   [
+    "1895",
+    "Heirat mit Antonia Bißling, Wohnung in Billwerder"
+   ],
+   [
+    "1897",
+    "Mitgründer des Hamburgischen Künstlerclubs"
+   ],
+   [
+    "1903",
+    "eigenes Haus in Hummelsbüttel"
+   ],
+   [
+    "1917",
+    "Professorentitel"
+   ],
+   [
+    "1955",
+    "gestorben in Hummelsbüttel"
+   ],
+   [
+    "2017",
+    "Ausstellung „Monet des Nordens“, Jenisch Haus"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Alster, Elbe und Hamburg",
+   "d": "Ansichten von Alster, Elbe und Hafen; hier liegen die höchsten Ergebnisse.",
+   "bsp": "„Am Winterhuder Fährhaus“: rund {max_hammer} €"
+  },
+  {
+   "t": "Sylt und Ostsee",
+   "d": "Dünen, Kliffs, Förden und Strände.",
+   "bsp": "„Sylt – Das rote Kliff“: rund 13.000 €"
+  },
+  {
+   "t": "Garten, Obstblüte, Hummelsbüttel",
+   "d": "Garten und Umgebung seines Hauses, oft im Frühling oder Winter.",
+   "bsp": "„Blühender Obstbaum“: rund 10.000 €; Hummelsbüttel-Landschaften rund 1.200 und 1.700 €"
+  },
+  {
+   "t": "Familie und Interieur",
+   "d": "Seine Frau Antonia, die Kinder, Zimmer im Licht.",
+   "bsp": "„Maria … auf der Schaukel“: rund 6.000 €"
+  },
+  {
+   "t": "Aquarelle",
+   "d": "Kleine Blätter von Markt, Strand und Park.",
+   "bsp": "rund 850 bis 1.700 €"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Ernst Eitner wert?",
+   "a": "Gemälde und Ölstudien brachten {period} meist rund {q1_all} bis {q3_all} € Zuschlag, im Median {med_all} €. Hamburger Ansichten und große Bilder von Elbe und Sylt lagen bei rund 10.000 bis {max_hammer} €, Aquarelle bei rund 850 bis 1.700 €. Der Käufer zahlt zusätzlich das Aufgeld."
+  },
+  {
+   "q": "Wo verkauft man einen Eitner am besten?",
+   "a": "In Hamburg. Das Auktionshaus Stahl bietet ihn in fast jeder Kunstauktion an und stellt {n_house1} der {n_lots} Lose dieser Seite. Außerhalb Hamburgs kommt er selten zur Auktion; bei Van Ham in Köln blieb eine Alsteransicht 2025 unter der Schätzung."
+  },
+  {
+   "q": "Was bedeutet der „Erlös“ bei Stahl?",
+   "a": "Stahl veröffentlicht den Preis mit Aufgeld, auf volle 100 € gerundet. Das Aufgeld beträgt 22 % des Zuschlags plus Umsatzsteuer darauf, zusammen 26,18 %. Ein Erlös von 5.600 € entspricht also rund 4.400 € Zuschlag. Der Einlieferer erhält den Zuschlag abzüglich seiner Kommission."
+  },
+  {
+   "q": "Mein Bild hat keine Signatur, nur einen Stempel. Ist es echt?",
+   "a": "Aus dem Nachlass stammen unsignierte Werke mit Nachlassstempel, teils mit Unterschrift des Nachlassverwalters; Stahl hat solche Werke versteigert. Der Stempel allein beweist nichts. Vergleich mit gesicherten Werken und das Werkverzeichnis helfen weiter."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Ja, ein digitales, erarbeitet im Auftrag der Hamburger Sparkasse. Dazu kommt die Monografie von Ulrich Schulte-Wülwer (Fischerhude 2017)."
+  },
+  {
+   "q": "Warum fehlen hier viele Stahl-Ergebnisse?",
+   "a": "Stahl nennt auf seiner Künstlerseite rund 100 Ergebnisse seit Mai 2021, Technik und Maße aber nur auf den einzelnen Losseiten. Aufgenommen sind nur Lose, bei denen sich das prüfen ließ. Höhere Erlöse wie 30.300 € für „Sonnenuntergang über der Binnenalster“ (2023) fehlen deshalb in der Tabelle."
+  }
+ ],
+ "methodik_extra": "Stahl nennt auf Künstler- und Losseiten einen „Erlös“: den Preis mit Aufgeld, auf volle 100 € gerundet. Laut Versteigerungsbedingungen beträgt das Aufgeld 22 % zuzüglich Umsatzsteuer, zusammen 26,18 % (so auch veryimportantlot.com). Die Erlöse passen dazu: „Abend an der Elbe – Strand in Övelgönne“ brachte 17.700 € Erlös bei 14.000 € Startpreis, die „Oberalster bei Hummelsbüttel“ 1.500 € bei 1.200 €. Alle Stahl-Zuschläge sind daher zurückgerechnet und geschätzt, auf etwa 50 bis 100 € genau; ein Aufschlag für Online-Live-Gebote ist nicht berücksichtigt. Bei 13 Stahl-Losen war die Losseite nicht abrufbar; Losnummer, Technik und Maße stammen dann von veryimportantlot.com, das Ergebnis von der Stahl-Künstlerseite oder der Katalogliste. Der größere Teil der rund 100 Stahl-Ergebnisse seit 2021 fehlt, weil Technik und Maße nicht prüfbar waren. Die Stahl-Künstlerseite zeigt nur Ergebnisse; zwei Lose ohne Ergebnis sind über spätere Wiederangebote desselben Bildes erkennbar. Bei zweitägigen Stahl-Auktionen ist der Tag der Kunstauktion laut Katalogarchiv angegeben. Van Ham nennt den Preis mit 32 % Aufgeld (3.960 € = 3.000 € Zuschlag). Einige Titel sind aus dem Englischen übersetzt. Nicht aufgenommen: ein Lempertz-Los vor 2021 und ein Los bei Schloss Ahlden ohne prüfbare Angaben.",
+ "quellen": [
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Ernst Eitner (Ergebnisse als „Erlös“)",
+   "u": "https://www.auktionshaus-stahl.de/en/artist/68-ernst-eitner"
+  },
+  {
+   "t": "Auktionshaus Stahl, Versteigerungsbedingungen (§ 4: 22 % Aufgeld zzgl. USt)",
+   "u": "https://www.auktionshaus-stahl.de/en/conditions-of-sale"
+  },
+  {
+   "t": "Auktionshaus Stahl, Katalogarchiv mit Auktionsdaten",
+   "u": "https://www.auktionshaus-stahl.de/en/catalogue"
+  },
+  {
+   "t": "Auktionshaus Stahl, Katalog 24. Februar 2024, Seite 2 (Lose 61 und 62)",
+   "u": "https://www.auktionshaus-stahl.de/en/catalogue/200-24-februar-2024-kunst-des-20-und-21-jahrhunderts/10"
+  },
+  {
+   "t": "Auktionshaus Stahl, Top-Ergebnisse Kunst des 20. und 21. Jahrhunderts",
+   "u": "https://auktionshaus-stahl.de/en/toprankings/art-of-the-20th-and-21st-cent"
+  },
+  {
+   "t": "veryimportantlot.com, Auktionsarchiv Ernst Eitner (Losnummern und Startpreise)",
+   "u": "https://veryimportantlot.com/de/auction-wiki/author/ernst-eitner-1867-1955"
+  },
+  {
+   "t": "Van Ham, Künstlerseite Ernst Eitner",
+   "u": "https://www.van-ham.com/en/artist/ernst-eitner.html"
+  },
+  {
+   "t": "Van Ham, Los 1374 mit Angabe des Aufgelds (32 %)",
+   "u": "https://auction.van-ham.com/en/ernst-eitner-view-from-bellevue-street-over-the-outer-alster-lake-in-hamburg--id-76189-item.html"
+  },
+  {
+   "t": "Lempertz, Künstlerverzeichnis Ernst Eitner",
+   "u": "https://www.lempertz.com/de/kataloge/kuenstlerverzeichnis/detail/eitner-ernst.html"
+  },
+  {
+   "t": "Stiftung Historische Museen Hamburg, Journal: Ernst Eitner – Monet des Nordens",
+   "u": "https://www.shmh.de/journal-ernst-eitner/"
+  },
+  {
+   "t": "Stiftung Historische Museen Hamburg, Ausstellung im Jenisch Haus 2017",
+   "u": "https://www.shmh.de/ausstellungen/ernst-eitner-jh/"
+  },
+  {
+   "t": "Galerie Herold, Biografie Ernst Eitner",
+   "u": "https://galerie-herold.de/artists/65-ernst-eitner/biography/"
+  },
+  {
+   "t": "Hamburger Persönlichkeiten: Ernst Eitner",
+   "u": "http://www.hamburgerpersoenlichkeiten.de/hamburgerpersoenlichkeiten/login/person.asp?reqid=799"
+  },
+  {
+   "t": "Hamburger Straßennamen: Eitnerweg (Rita Bake)",
+   "u": "https://hamburg-strassennamen.de/item/626--eitnerweg"
+  },
+  {
+   "t": "Deutsche Biographie / GND 116437715",
+   "u": "https://www.deutsche-biographie.de/116437715.html"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Stahl",
+   "date": "2021-05-08",
+   "sale": "Kunst und Antiquitäten",
+   "lot": "508",
+   "title": "An der Flensburger Förde",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 32,
+   "w": 39.5,
+   "hammer": 4400,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/100589-ernst-eitner-at-the-flensburg-fjord",
+   "note": "Stahl nennt „Erlös 5.600 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Datum laut Stahl-Künstlerseite (8. Mai 2021); signiert „E. Eitner“, rückseitig betitelt und erneut signiert"
+  },
+  {
+   "house": "Stahl",
+   "date": "2021-09-25",
+   "sale": "352 Kunst und Antiquitäten",
+   "lot": "490",
+   "title": "Antonia Eitner, die Frau des Künstlers",
+   "tech": "Öl auf Leinwand, auf Hartfaser",
+   "medium": "lw",
+   "h": 36,
+   "w": 28,
+   "hammer": 1000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/101665-ernst-eitner-antonia-eitner-the-artist-s-wife",
+   "note": "Stahl nennt „Erlös 1.300 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; unsigniert, rückseitig Nachlassstempel"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-11-26",
+   "sale": "357 Kunst und Antiquitäten",
+   "lot": "443",
+   "title": "Wiesen an der Elbe bei Cranz",
+   "tech": "Öl auf Malpappe",
+   "medium": "karton",
+   "h": 40,
+   "w": 59.5,
+   "hammer": 4400,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/105152-ernst-eitner-landscape-near-the-elbe",
+   "note": "Stahl nennt „Erlös 5.600 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Auktion 25./26.11.2022, Kunst laut Katalog-Archiv am 26.11.; rückseitig betitelt und erneut signiert"
+  },
+  {
+   "house": "Stahl",
+   "date": "2023-05-13",
+   "sale": "359 Kunstauktion",
+   "lot": "535",
+   "title": "Abend an der Elbe",
+   "tech": "Öl auf Karton, auf Holz",
+   "medium": "karton",
+   "h": 24,
+   "w": 32,
+   "hammer": 3600,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/106054-ernst-eitner-abend-an-der-elbe",
+   "note": "Stahl nennt „Erlös 4.500 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 2.800 €; unsigniert; rückseitig Echtheitsbestätigung der Tochter Maria Wolters-Eitner (8.12.81); Startpreis laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-abend-950685"
+  },
+  {
+   "house": "Stahl",
+   "date": "2023-05-13",
+   "sale": "359 Kunstauktion",
+   "lot": "540",
+   "title": "Dünen auf Sylt",
+   "year": "1913",
+   "tech": "Aquarell",
+   "medium": "papier",
+   "h": 26,
+   "w": 36,
+   "hammer": 1500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/106085-ernst-eitner-duenen-auf-sylt",
+   "note": "Stahl nennt „Erlös 1.900 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 1.500 €; Ergebnis laut Stahl-Künstlerseite; Los, Technik und Maße laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-dunen-950690; rückseitig Nachlassstempel"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-02-24",
+   "sale": "363 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "62",
+   "title": "Am Winterhuder Fährhaus",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 34.5,
+   "w": 47,
+   "hammer": 16000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/107504-ernst-eitner-am-winterhuder-faehrhaus",
+   "note": "Stahl nennt „Erlös 20.200 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Los und Ergebnis laut Stahl-Katalogliste, Technik und Maße laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-am-win-1157795; rückseitig eine Landschaft"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-02-24",
+   "sale": "363 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "66",
+   "title": "Baumschnitt in Billwerder",
+   "year": "um 1895",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 70.5,
+   "w": 60.5,
+   "hammer": 5500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/107508-ernst-eitner-baumschnitt-in-billwerder",
+   "note": "Stahl nennt „Erlös 6.900 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Ergebnis laut Stahl-Künstlerseite; Los, Technik und Maße laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-baumsc-1157799"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-02-24",
+   "sale": "363 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "67",
+   "title": "Vorfrühling",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 27,
+   "w": 40,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-vorfru-1157800",
+   "note": "Stahl-Künstlerseite nennt für Februar 2024 kein Ergebnis; dasselbe Bild kam im November 2024 erneut (Los 400)"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-05-25",
+   "sale": "364 Kunstauktion",
+   "lot": "557",
+   "title": "Alex Eitner, der Sohn des Künstlers",
+   "year": "um 1914/15",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 41,
+   "w": 31.5,
+   "hammer": 4000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/108822-ernst-eitner-alex-eitner-der-sohn-des-kuenstlers",
+   "note": "Stahl nennt „Erlös 5.000 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 2.500 €; Ergebnis laut Stahl-Künstlerseite; Los, Technik und Maße laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-alex-e-1213779"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-05-25",
+   "sale": "364 Kunstauktion",
+   "lot": "563",
+   "title": "Sylt – Das rote Kliff",
+   "year": "1917/1919",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 56.5,
+   "w": 80,
+   "hammer": 13000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/108918-ernst-eitner-sylt-das-rote-kliff",
+   "note": "Stahl nennt „Erlös 16.400 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 12.000 €; Ergebnis laut Stahl-Künstlerseite; Los, Technik und Maße laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-sylt-1213785"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "365 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "486",
+   "title": "Festzelt am Strand",
+   "tech": "Aquarell",
+   "medium": "papier",
+   "h": 19.5,
+   "w": 25,
+   "hammer": 1500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/109445-ernst-eitner-festzelt-am-strand",
+   "note": "Stahl nennt „Erlös 1.900 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; hinter Glas gerahmt, nicht ausgerahmt geprüft"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "365 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "487",
+   "title": "Markt",
+   "tech": "Aquarell",
+   "medium": "papier",
+   "h": 25,
+   "w": 20,
+   "hammer": 850,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/109507-ernst-eitner-markt",
+   "note": "Stahl nennt „Erlös 1.100 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (möglich: 850 oder 900 €); Startpreis 800 €; Ergebnis laut Stahl-Künstlerseite; Los, Technik und Maße laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-markt-1301190"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-11-30",
+   "sale": "366 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "400",
+   "title": "Vorfrühling",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 27,
+   "w": 40,
+   "hammer": 850,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/107404-ernst-eitner-vorfruehling",
+   "note": "Stahl nennt „Erlös 1.100 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (möglich: 850 oder 900 €); Startpreis 800 €; Ergebnis laut Stahl-Künstlerseite; Los, Technik und Maße laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-vorfru-1345804; im Februar 2024 ohne Ergebnis (Los 67)"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-11-30",
+   "sale": "366 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "401",
+   "title": "Winter in Hummelsbüttel",
+   "year": "um 1910",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 60.5,
+   "w": 70.5,
+   "hammer": 1700,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/110233-ernst-eitner-winter-in-hummelsbuettel",
+   "note": "Stahl nennt „Erlös 2.100 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 1.500 €; Ergebnis laut Stahl-Künstlerseite; Los, Technik und Maße laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-winter-1345805; Retuschen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-03-01",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "527",
+   "title": "Stilleben mit Birnen",
+   "tech": "Öl auf Hartfaser",
+   "medium": "karton",
+   "h": 32.5,
+   "w": 41,
+   "hammer": 3000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/106087-ernst-eitner-stilleben-mit-birnen",
+   "note": "Stahl nennt „Erlös 3.800 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Auktion 28.2./1.3.2025, Kunst laut Katalog-Archiv am 1.3."
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "368 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "469",
+   "title": "Maria, die Tochter des Künstlers, auf der Schaukel",
+   "year": "um 1915",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 40,
+   "w": 34,
+   "hammer": 6000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111184-ernst-eitner-maria-die-tochter-des-kuenstlers-auf-der-schaukel",
+   "note": "Stahl nennt „Erlös 7.600 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 4.500 €; Ergebnis laut Stahl-Künstlerseite; Los, Technik und Maße laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-maria-1434706; Vorstudie zu „Schaukelnde Kinder“"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "368 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "470",
+   "title": "Blühender Obstbaum",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 81,
+   "w": 60.5,
+   "hammer": 10000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/111195-ernst-eitner-blooming-fruit-tree",
+   "note": "Stahl nennt „Erlös 12.600 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; rückseitig Ölstudie „Alsterwanderweg“"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "368 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "471",
+   "title": "Abend an der Elbe – Strand in Övelgönne",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 81,
+   "w": 101,
+   "hammer": 14000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/111325-ernst-eitner-abend-an-der-elbe-strand-in-oevelgoenne",
+   "note": "Stahl nennt „Erlös 17.700 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 14.000 €; Erlös laut Stahl-Künstlerseite (Losseite zeigt nur den Startpreis); Provenienz Slg. Julius Wolf, dann Slg. Albert Simonowski"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-09-27",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "502",
+   "title": "Wiese mit Bachlauf",
+   "year": "1893",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 47,
+   "w": 58.5,
+   "hammer": 3800,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111121-ernst-eitner-wiese-mit-bachlauf",
+   "note": "Stahl nennt „Erlös 4.800 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 2.800 €; Ergebnis laut Stahl-Künstlerseite; Los, Technik und Maße laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-wiese-1469808"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-09-27",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "503",
+   "title": "Oberalster bei Hummelsbüttel",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 62,
+   "w": 82,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-oberal-1469809",
+   "note": "Stahl-Künstlerseite nennt für September 2025 kein Ergebnis; laut veryimportantlot.com im März 2026 erneut angeboten (Los 459), verkauft im September 2026 (Los 578)"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-09-26",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "578",
+   "title": "Oberalster bei Hummelsbüttel",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 62,
+   "w": 82,
+   "hammer": 1200,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111182-ernst-eitner-oberalster-bei-hummelsbuettel",
+   "note": "Stahl nennt „Erlös 1.500 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 1.200 €; Ergebnis laut Stahl-Künstlerseite; Losnummer und Startpreis laut https://veryimportantlot.com/de/auction-wiki/author/ernst-eitner-1867-1955; Technik und Maße laut https://veryimportantlot.com/en/lot/view/ernst-eitner-hamburg-1867-hamburg-1955-oberal-1469809 (dasselbe Stahl-Los)"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-09-26",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "579",
+   "title": "Lichtspiel unter Bäumen",
+   "tech": "Aquarell",
+   "medium": "papier",
+   "h": 35,
+   "w": 51,
+   "hammer": 1700,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/114995-ernst-eitner-lichtspiel-unter-baeumen",
+   "note": "Stahl nennt „Erlös 2.100 €“ (auf 100 € gerundet. mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 800 €; hinter Glas gerahmt; Startpreis laut https://veryimportantlot.com/de/auction-wiki/author/ernst-eitner-1867-1955"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-05-16",
+   "sale": "532 Fine Art",
+   "lot": "1374",
+   "title": "Blick von der Straße Bellevue auf die Außenalster in Hamburg",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 36,
+   "w": 51,
+   "lo": 3500,
+   "hi": 4500,
+   "hammer": 3000,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/ernst-eitner/blick-von-der-strasse-bellevue-auf-die-aussenalster-in-hamburg.html",
+   "note": "Van Ham nennt 3.960 € mit 32 % Aufgeld (Losseite auction.van-ham.com, id 76189); rückseitig signiert und Ölstudie eines blühenden Kirschbaums; Provenienz: direkt beim Künstler erworben"
+  }
+ ]
+}
