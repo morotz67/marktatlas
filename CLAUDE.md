@@ -43,6 +43,8 @@ Ein Lauf baut **eine** neue Künstlerseite (bei viel Restzeit eine zweite) und v
 
 **Absatzmarkt (`offers`, optional):** Angebote der letzten rund zehn Monate nach Haus zählen (z. B. Invaluable-Künstlerseite, falls abrufbar), dritter Wert `true` für Häuser in der Kernregion. Ohne verlässliche Zählung `offers` weglassen und keine Kennzahl dazu im Text verwenden.
 
+**Ort auf der Karte der Startseite (`ort`):** Haupt-Wirkungsort, genau ein Name aus `PLACES` in `generator/build.py` (z. B. Düsseldorf, Hamburg, Worpswede, Berlin, Dresden, München, Chiemsee). Fehlt der Ort dort, mit Breite, Länge und Seite des Namens (`r`/`l`) ergänzen; liegen zwei Orte sehr nah beieinander, den kleineren Ort mit `l` beschriften oder den größeren Nachbarort nehmen. Danach die Startseite mobil prüfen (`check_page.py site/index.html`), ob Namen auf der Karte überlappen.
+
 **Region der Illustration (`region`):** `kueste` (Ostsee, Nordsee, Ahrenshoop, Hiddensee, Sylt) · `moor` (Worpswede, Bremen, Hamburg, Norddeutschland) · `rhein` (Düsseldorf, Köln, Rheinland, Ruhr, Westfalen) · `mitte` (Dresden, Leipzig, Berlin, Weimar, Sachsen, Thüringen, Hessen) · `alpen` (München, Murnau, Bayern, Stuttgart, Karlsruhe, Südwesten). Nach Haupt-Wirkungsort.
 
 ## Texte

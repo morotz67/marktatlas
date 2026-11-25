@@ -11,8 +11,59 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GEN, DATA, SITE = f"{ROOT}/generator", f"{ROOT}/data", f"{ROOT}/site"
 BASE = "https://marktatlas.netlify.app"
 STATIC = [  # handgebaute Seiten, die der Generator nicht anfasst
-    dict(slug="max-clarenbach", name="Max Clarenbach", dates="1880–1952", line="Düsseldorfer Malerschule · Zuschlag meist 1.550–2.900 €", sort="Clarenbach"),
+    dict(slug="max-clarenbach", name="Max Clarenbach", dates="1880–1952", line="Düsseldorfer Malerschule · Zuschlag meist 1.550–2.900 €", sort="Clarenbach", ort="Düsseldorf"),
 ]
+# Orte der Karte auf der Startseite: Name -> (Breite, Länge, Seite des Namens: r rechts, l links)
+PLACES = {
+    "Hamburg": (53.55, 9.99, "r"), "Bremen": (53.08, 8.80, "l"), "Worpswede": (53.22, 8.93, "r"), "Lübeck": (53.87, 10.69, "r"),
+    "Sylt": (54.91, 8.31, "r"), "Ahrenshoop": (54.38, 12.42, "l"), "Hiddensee": (54.55, 13.10, "r"), "Berlin": (52.52, 13.40, "r"),
+    "Hannover": (52.37, 9.73, "r"), "Düsseldorf": (51.23, 6.78, "r"), "Köln": (50.94, 6.96, "r"), "Kassel": (51.31, 9.48, "r"),
+    "Willingshausen": (50.85, 9.20, "r"), "Weimar": (50.98, 11.33, "r"), "Leipzig": (51.34, 12.37, "r"), "Dresden": (51.05, 13.74, "r"),
+    "Frankfurt": (50.11, 8.68, "r"), "Kronberg": (50.18, 8.51, "l"), "Darmstadt": (49.87, 8.65, "r"), "Karlsruhe": (49.01, 8.40, "r"),
+    "Stuttgart": (48.78, 9.18, "r"), "München": (48.14, 11.58, "r"), "Dachau": (48.26, 11.43, "l"), "Murnau": (47.68, 11.20, "l"),
+    "Chiemsee": (47.87, 12.43, "r"), "Bodensee": (47.66, 9.18, "r"),
+}
+REGION_DEFAULT = {"rhein": "Düsseldorf", "moor": "Hamburg", "kueste": "Ahrenshoop", "mitte": "Berlin", "alpen": "München"}
+
+def map_svg(counts):
+    """Karte im Stil einer Atlastafel: Nachbarländer schraffiert, Küsten mit Wellenringen, Deutschland hell, Orte als goldene Punkte."""
+    g = json.load(open(f"{GEN}/germany.json", encoding="utf-8"))
+    xy = lambda lat, lon: ((lon - g["lon_min"]) * g["k"] * g["s"], (g["lat_max"] - lat) * g["s"])
+    out = ['<svg class="map" viewBox="0 -10 660 850" role="group" aria-label="Karte Deutschlands mit den Orten der Künstler">',
+           '<defs><clipPath id="plate"><rect x="6" y="-4" width="648" height="838"/></clipPath>',
+           '<pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" class="ht"/></pattern>',
+           f'<path id="land" d="{g["land"]}"/><path id="de" d="{g["de"]}"/></defs>',
+           '<g clip-path="url(#plate)" aria-hidden="true"><rect x="0" y="-10" width="660" height="850" class="sea"/>']
+    for i, d in enumerate((21, 13, 6)):
+        out.append(f'<use href="#land" class="rp" style="opacity:{.22 + i * .16:.2f}" stroke-width="{2 * d + 1.6}"/><use href="#land" class="rpm" stroke-width="{2 * d - 1.6}"/>')
+    out.append('<use href="#land" class="nb"/><use href="#land" fill="url(#hatch)"/>')
+    out.append(f'<path class="bd" d="{g["borders"]}"/><g class="grat">')
+    for lat in (48, 50, 52, 54):
+        y = xy(lat, 0)[1]; out.append(f'<line x1="0" x2="660" y1="{y:.0f}" y2="{y:.0f}"/><text x="12" y="{y - 5:.0f}">{lat}°</text>')
+    for lon in (6, 8, 10, 12, 14):
+        x = xy(0, lon)[0]; out.append(f'<line x1="{x:.0f}" x2="{x:.0f}" y1="-10" y2="840"/><text x="{x + 4:.0f}" y="826">{lon}°</text>')
+    out.append('</g><use href="#de" class="land"/>')
+    for name, lat, lon in (("Nordsee", 54.55, 6.75), ("Ostsee", 54.85, 14.0)):
+        x, y = xy(lat, lon); out.append(f'<text class="seaname" x="{x:.0f}" y="{y:.0f}">{name}</text>')
+    out.append('<g class="scale"><line x1="22" x2="112" y1="796" y2="796"/><line x1="22" x2="22" y1="790" y2="802"/><line x1="112" x2="112" y1="790" y2="802"/><text x="22" y="784">100 km</text></g></g>')
+    out.append('<rect class="frame" x="1" y="-9" width="658" height="848"/><rect class="frame2" x="6" y="-4" width="648" height="838"/>')
+    for name, n in sorted(counts.items(), key=lambda kv: -PLACES[kv[0]][0]):
+        lat, lon, side = PLACES[name]; x, y = xy(lat, lon)
+        r = 11 + 3.2 * (n - 1) ** .5
+        tx, anchor = (x + r + 7, "start") if side == "r" else (x - r - 7, "end")
+        num = f'<text class="n" x="{x:.1f}" y="{y + 6:.1f}">{n}</text>' if n > 1 else ""
+        label = f"{name}, {n} Künstler"
+        out.append(f'<g class="pl" data-ort="{html.escape(name)}" tabindex="0" role="button" aria-pressed="false" aria-label="{html.escape(label)}">'
+                   f'<circle class="hit" cx="{x:.1f}" cy="{y:.1f}" r="{max(r + 10, 24):.0f}"/><circle class="dot" cx="{x:.1f}" cy="{y:.1f}" r="{r:.1f}"/>{num}'
+                   f'<text class="lb" x="{tx:.1f}" y="{y + 7:.1f}" text-anchor="{anchor}">{html.escape(name)}</text></g>')
+    out.append('</svg>')
+    return "".join(out)
+
+def place_of(a):
+    o = a.get("ort")
+    if o in PLACES: return o
+    if o: print(f"Warnung: {a['slug']}: Ort {o!r} fehlt in PLACES (generator/build.py) – Region als Ersatz")
+    return REGION_DEFAULT.get(a.get("region"), "Berlin")
 HOUSE_COLORS = ["var(--s1)", "var(--s2)", "var(--s3)", "var(--s4)"]
 HOUSE_SHAPES = ["circle", "square", "diamond", "triangle"]
 MED_PAINT = ("lw", "karton")
@@ -275,7 +326,7 @@ def build(check_only=False):
             else:
                 page, S = build_artist(a, env)
                 published.append(dict(slug=a["slug"], name=a["name"], dates=lifespan(a), line=fill(a.get("list_line", "{years_new}: Median {med_all} €"), S, "list_line"),
-                                      sort=a.get("sort_name", a["name"].split()[-1])))
+                                      sort=a.get("sort_name", a["name"].split()[-1]), ort=place_of(a)))
             if not check_only:
                 os.makedirs(os.path.dirname(out), exist_ok=True); open(out, "w", encoding="utf-8").write(page)
         except (BuildError, KeyError, ValueError, jinja2.TemplateError) as e:
@@ -287,10 +338,12 @@ def build(check_only=False):
     allp = STATIC + published
     allp.sort(key=lambda x: x["sort"])
     tpl = open(f"{GEN}/home.html", encoding="utf-8").read()
-    lis = "\n".join(f'<li><a href="/kuenstler/{x["slug"]}/"><b>{html.escape(x["name"])}</b><span>{html.escape(x["dates"])} · {html.escape(x["line"])}</span></a></li>' for x in allp)
+    lis = "\n".join(f'<li data-ort="{html.escape(x["ort"])}"><a href="/kuenstler/{x["slug"]}/"><span class="nm">{html.escape(x["name"])}</span><span class="yr">{html.escape(x["dates"])}</span><span class="ds">{html.escape(x["line"].replace(" · ", ". "))}</span></a></li>' for x in allp)
+    counts = {}
+    for x in allp: counts[x["ort"]] = counts.get(x["ort"], 0) + 1
     itemlist = json.dumps({"@type": "ItemList", "name": "Künstler im Marktatlas", "itemListElement": [{"@type": "ListItem", "position": i + 1, "url": f"{BASE}/kuenstler/{x['slug']}/", "name": x["name"]} for i, x in enumerate(allp)]}, ensure_ascii=False)
     n = len(allp)
-    out = tpl.replace("{{ARTISTS}}", lis).replace("{{ITEMLIST}}", itemlist).replace("{{COUNT}}", f"{n} Künstler")
+    out = tpl.replace("{{ARTISTS}}", lis).replace("{{ITEMLIST}}", itemlist).replace("{{COUNT}}", str(n)).replace("{{MAP}}", map_svg(counts)).replace("{{PLACES}}", str(len(counts)))
     open(f"{SITE}/index.html", "w", encoding="utf-8").write(out)
     for slug, title in (("impressum", "Impressum"), ("datenschutz", "Datenschutz")):
         os.makedirs(f"{SITE}/{slug}", exist_ok=True)
