@@ -51,7 +51,8 @@
    "slug": "hann-trier",
    "name": "Hann Trier",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T01:11:38Z"
   },
   {
    "slug": "gregor-von-bochmann",
