@@ -242,7 +242,7 @@ for(const v of tk){g+=`<line x1="${m.l}" x2="${W-m.r}" y1="${y(v)}" y2="${y(v)}"
 const y0=new Date(t0).getFullYear()+1,y1=new Date(t1).getFullYear();for(let yr=y0;yr<=y1;yr++){const X=x(T(yr+'-01-01'));g+=`<line x1="${X}" x2="${X}" y1="${yb}" y2="${yb+6}" stroke="var(--ink3)"/><text x="${X}" y="${yb+22}" text-anchor="middle" font-size="13" fill="var(--ink3)">${nar?'’'+String(yr).slice(2):yr}</text>`}
 g+=`<line x1="${m.l}" x2="${W-m.r}" y1="${lane}" y2="${lane}" stroke="var(--rule)"/><text x="${m.l}" y="${lane-12}" font-size="13" fill="var(--ink3)">ohne Zuschlag</text>`;
 const cnt={},idx={};for(const r of D){const k=r.date+r.status;cnt[k]=(cnt[k]||0)+1}
-pts=D.map(r=>{const k=r.date+r.status;idx[k]=(idx[k]||0)+1;return{r,x:x(T(r.date))+(idx[k]-1-(cnt[k]-1)/2)*7,y:r.status==='v'?y(r.hammer):lane}});
+pts=D.map(r=>{const k=r.date+r.status;idx[k]=(idx[k]||0)+1;const hw=(cnt[k]-1)/2*7,c=Math.min(W-m.r-6-hw,Math.max(m.l+6+hw,x(T(r.date))));return{r,x:c+(idx[k]-1-(cnt[k]-1)/2)*7,y:r.status==='v'?y(r.hammer):lane}});
 for(const p of pts)g+=p.r.status==='v'?mark(p.r.house,p.x,p.y,COL[p.r.house]||'var(--gray)','var(--paper)'):mark(p.r.house,p.x,p.y,'var(--paper)','var(--ink2)');
 s.innerHTML=g+'<circle id="hl" r="9" fill="none" stroke="var(--ink)" stroke-width="2" opacity="0"/>'};
 const ro=new ResizeObserver(draw);ro.observe(s);

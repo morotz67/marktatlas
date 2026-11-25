@@ -120,8 +120,11 @@
    "slug": "joseph-wopfner",
    "name": "Joseph Wopfner",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T05:31:58Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T05:31:58Z",
+   "done_at": "2026-11-25T05:42:53Z",
+   "lots": 93,
+   "note": "Gailer 84 (Künstlerseite ohne Losnummern; Auktionen 1–7 mit 25 % geschätzt, ab Mai 2023 28 %), Ketterer 4, Van Ham 2, Stahl 1, Neumeister 1 (nur VIL), Quittenbaum 1. Offen: Lempertz 1185 Los 1710 (Nov. 2021, 12.500 € inkl.; Losseite und Katalog-PDF nicht abrufbar), Lempertz 1164 Los 173; Neumeister A419 Los 276 (Dez. 2025, VIL 3.400 €, unklar ob mit Aufgeld) und weitere Neumeister-Lose; Stahl „Mole im Sturm“ (Nachverkauf Juni 2026, widersprüchlich); Karl & Faber 302/319/324 ohne Ergebnis; Schloss Ahlden 2024/2025 ohne Ergebnis; Gailer Auktion 27 (7 Lose) noch ohne Ergebnis"
   },
   {
    "slug": "max-ackermann",
