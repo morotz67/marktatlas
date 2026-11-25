@@ -236,8 +236,10 @@
    "slug": "otto-modersohn",
    "name": "Otto Modersohn",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T12:30:07Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T12:30:07Z",
+   "done_at": "2026-11-25T12:43:57Z",
+   "lots": 53
   },
   {
    "slug": "ludwig-dill",

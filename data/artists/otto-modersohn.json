@@ -1,0 +1,1243 @@
+{
+ "slug": "otto-modersohn",
+ "name": "Otto Modersohn",
+ "status": "published",
+ "region": "moor",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1865-02-22",
+  "place": "Soest",
+  "text": "22. Februar 1865 Soest"
+ },
+ "death": {
+  "date": "1943-03-10",
+  "place": "Rotenburg (Wümme)",
+  "text": "10. März 1943 Rotenburg (Wümme)"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Otto_Modersohn",
+  "https://en.wikipedia.org/wiki/Otto_Modersohn",
+  "https://d-nb.info/gnd/118582925"
+ ],
+ "sort_name": "Modersohn",
+ "split_year": 2024,
+ "ort": "Worpswede",
+ "list_line": "Mitgründer der Künstlerkolonie Worpswede · Gemälde meist {q1_all}–{q3_all} € Zuschlag",
+ "lead": "Landschaftsmaler aus Soest, der 1889 mit Fritz Mackensen nach Worpswede kam und ab 1908 in Fischerhude lebte. Diese Seite fasst zusammen, was seine Werke im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Kunstakademie Düsseldorf ab 1884; Winter 1888/89 in Karlsruhe bei Hermann Baisch"
+  ],
+  [
+   "Künstlerkolonie",
+   "Worpswede ab 1889, mit Fritz Mackensen und Hans am Ende; ab 1908 Fischerhude"
+  ],
+  [
+   "Hauptmotive",
+   "Moor, Birken und Kanäle um Worpswede, die Wümmewiesen bei Fischerhude, später das Allgäu; Blumenstillleben"
+  ],
+  [
+   "Echtheit",
+   "Otto-Modersohn-Museum in Fischerhude bestätigt Werke und führt ein Register; Atelierbücher des Malers"
+  ]
+ ],
+ "marktwert": "Gemälde und Ölstudien seit 2021 meist {q1_all} bis {q3_all} € Zuschlag, im Median {med_all} €; frühe Worpsweder Bilder 22.000 bis rund {max_hammer} €",
+ "absatzmarkt": "Hamburg (Stahl) und Köln (Van Ham, Lempertz)",
+ "headline": "Viele Lose, enge Spanne: Gemälde meist {q1_all} bis {q3_all} €, frühe Worpsweder Bilder bis rund {max_hammer} €",
+ "kurz": "Otto Modersohn gehört zu den Gründern der Künstlerkolonie Worpswede und ist im Auktionshandel häufig vertreten. Geprüft wurden {n_lots} Lose von {period}, {n_sold} davon mit Zuschlag, fast alle bei Stahl in Hamburg und Van Ham in Köln. Die mittlere Hälfte der Gemälde und Ölstudien brachte {q1_all} bis {q3_all} €, der Median liegt bei {med_all} €. Deutlich höher gingen große Bilder aus den Worpsweder Jahren: „{max_title}“ (1905) bei {max_house} rund {max_hammer} €, „Unter Birken“ (1902) 36.000 €. Kleine Temperabilder, Zeichnungen und Aquarelle brachten rund 900 bis 6.000 €.",
+ "figs": [
+  [
+   "rund {max_hammer} €",
+   "höchster Zuschlag: „{max_title}“ (1905), {max_size}, {max_house} {max_year}, bei 80.000–120.000 € Schätzung"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde und Ölstudien, {period}"
+  ],
+  [
+   "{q1_all}–{q3_all} €",
+   "mittlere Hälfte dieser Zuschläge (zwischen dem unteren und dem oberen Viertel)"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag; die Stahl-Künstlerseite zeigt nur verkaufte Lose"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Die höchsten Zuschläge erzielten große Bilder aus der Worpsweder Zeit bis 1907. Lempertz in Köln verkaufte im Dezember 2021 den „{max_title}“ (1905, {max_size}) für rund {max_hammer} €, deutlich unter der Schätzung von 80.000–120.000 €. Im Juni 2024 brachte „Unter Birken“ (1902, 78 × 108,5 cm) dort 36.000 € bei 20.000–30.000 € Schätzung. Bei Stahl erzielte „Haus unter Birken“ (um 1907, 79,5 × 110 cm) im Mai 2025 rund 30.000 € bei einem Startpreis von 20.000 €. Je 22.000 € brachten der „Birkenwald am Kanal“ (um 1893, Van Ham 2021) und ein „Moorkanal in Bergedorf bei Worpswede“ (Dorotheum Wien 2024).",
+   "Den Großteil des Handels machen mittelgroße Landschaften aus Fischerhude, vom Moor und aus dem Allgäu aus, meist 45 bis 75 cm breit. Sie brachten seit 2021 überwiegend {q1_all} bis {q3_all} €, bei Stahl im Median {med_house1} €, bei Van Ham {med_house2} €. Nach Entstehungsjahr unterscheiden sich die Bilder der 1910er bis 1940er Jahre in den geprüften Losen kaum: Ein „Moorgraben“ von 1939 erzielte im Juni 2026 rund 17.000 €, „Frühling in der Surheide“ von 1928 im Jahr 2022 16.000 €, eine „Abendlandschaft“ von 1942 im Jahr 2025 rund 6.000 €.",
+   "Kleine Arbeiten bringen deutlich weniger. Drei Temperabilder einer Jahreszeitenfolge (je etwa 16 × 22 cm, 1923/24) erzielten bei Stahl im Mai 2025 rund 3.600 bis 4.500 €, die Ölskizze „Landschaft bei Unterjoch“ (23 × 31,5 cm) 2023 rund 5.000 €. Zeichnungen lagen bei rund 900 € (Kohle und Kreide, 2026) und 2.500 € (Rötel und Kreide, 2021), ein Aquarell von 1914 bei rund 6.000 €. Zwei Kreidezeichnungen bei Grisebach (Schätzung je 900–1.200 €) blieben im November 2025 ohne Ergebnis.",
+   "Unter der Schätzung blieben neben dem „Brautzug“ etwa „Herbstabend im Moor“ (1902, Van Ham 2024: 15.500 € bei 20.000–30.000 €). Ohne Ergebnis blieben bei Van Ham im Juni 2025 „Sommermorgen“ (vermutlich 1904, Schätzung 10.000–15.000 €) und eine Allgäu-Landschaft, bei Stahl im November 2025 eine „Überschwemmung“ (Startpreis 9.000 €)."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Van Ham laut Losseiten 32 %, bei Stahl laut Versteigerungsbedingungen 22 % plus Umsatzsteuer darauf (zusammen 26,18 %), bei Lempertz 2024 26 %. Beim Dorotheum ergibt der veröffentlichte Preis mit Käufergebühr und Umsatzsteuer mit 30 % einen runden Zuschlag. Grisebach berechnet laut Versteigerungsbedingungen vom 15. Mai 2026 34 % bei differenzbesteuerten Losen.",
+  "spitzen": "Höhere Preise sind belegt, aber nicht alle prüfbar. Lempertz verkaufte im Juni 2020 das doppelseitige Bild „Herbst am Moorkanal“ (Rückseite: Louise Modersohn-Breling im grünen Kleid) für 55.000 € mit Aufgeld. Die Ketterer-Künstlerseite nennt ohne Datum 41.250 € für „Moorkanal mit hohem Himmel“ (1893) und 31.250 € für „Mädchen im Moor“ (1893). Laut einem Marktbericht von HENI erzielte „Early Spring (Anemones)“ (1904) im Dezember 2025 bei Sotheby's in Köln 118.300 US-Dollar einschließlich Gebühren; die Losseite wurde nicht geprüft."
+ },
+ "euro_ok": [
+  "55.000",
+  "41.250",
+  "31.250",
+  "24.130",
+  "62.621",
+  "45.360",
+  "37.900",
+  "13.900",
+  "28.600",
+  "11.400",
+  "100",
+  "15.840"
+ ],
+ "absatz": {
+  "text": [
+   "Fast der ganze geprüfte Handel läuft über zwei Häuser: Stahl in Hamburg ({n_house1} Lose) und Van Ham in Köln ({n_house2} Lose). Stahl bot Modersohn seit 2021 in zwölf Auktionen an, oft mehrere Bilder nebeneinander; Van Ham verkauft ihn in den Auktionen für Moderne Kunst, im Juni 2024 sechs Bilder in einer Abendauktion. Die höchsten Einzelpreise erzielte Lempertz in Köln mit zwei großen frühen Bildern.",
+   "Daneben verkaufte das Dorotheum in Wien 2024 ein frühes Moorbild für 22.000 €, Grisebach in Berlin bot 2025 zwei Zeichnungen ohne Ergebnis an. Ketterer und Sotheby's verkauften ebenfalls Werke, ihre Ergebnisse waren aber ohne prüfbare Losseite mit Datum. Eine verlässliche Zählung aller Angebote lag nicht vor; Invaluable und artnet wurden nicht ausgewertet."
+  ],
+  "liquiditaet": "Hoch. {sold_rate} Losen erhielten einen belegten Zuschlag, bei Van Ham 21 von 23. Die Quote ist etwas überhöht, weil die Stahl-Künstlerseite nur verkaufte Lose zeigt. Mittelgroße Bilder fanden fast immer Käufer; bei Schätzungen ab 20.000 € blieb der Zuschlag zweimal darunter."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "Meist „O Modersohn“ oder zusammengeschrieben „OModersohn“, bei frühen Bildern auch „Otto Modersohn“, oft mit Jahreszahl. Daneben das Monogramm „OM“, teils als Ligatur mit Datum wie „19 OM 02“. Studien sind oft nur datiert, etwa mit römischem Monat („VII/II“ für Juli 1911), und nicht signiert."
+   ],
+   [
+    "Otto-Modersohn-Museum",
+    "Das Museum in Fischerhude bestätigt Werke und führt ein Register; die meisten geprüften Lose nennen eine Bestätigung von Rainer Noeres, Christian Modersohn oder dem Museum. Häuser zitieren Registernummern wie „WV-OM-SW 1939, Nr. 110“."
+   ],
+   [
+    "Atelierbücher und Nachlass",
+    "Modersohn verzeichnete Bilder in Atelierbüchern (Lempertz: „Unter Birken“, Atelierbuch 1902 Nr. 108-78). Werke aus dem Nachlass tragen oft rückseitige Bestätigungen der Kinder Elsbeth, Tille oder Christian Modersohn oder der Enkelin Antje Modersohn."
+   ],
+   [
+    "Nachgezogene Signaturen",
+    "Bei „Moorkanal im Herbst“ (Stahl 2026) vermerkt das Haus eine nachgezogene Signatur. Signatur und Bestätigung getrennt prüfen."
+   ],
+   [
+    "Namensgleichheit",
+    "Paula Modersohn-Becker (seine zweite Frau), Louise Modersohn-Breling (dritte Frau) und sein Sohn Christian Modersohn malten ebenfalls. Grisebach verkaufte 2026 eine Zeichnung von Paula Modersohn-Becker, die laut Grisebach Otto Modersohn für die Künstlerin mit „PM-B“ monogrammierte; eine Handschrift Ottos auf einem Blatt heißt also nicht, dass es von ihm stammt."
+   ],
+   [
+    "Doppelseitige Bilder",
+    "Modersohn malte teils beide Seiten eines Bildträgers, etwa „Häuser bei Düvelsdorf“ (Van Ham 2023, rückseitig ein weiteres Bild). Auf die Rückseite achten."
+   ]
+  ],
+  "preis_drueckt": "Retuschen, Restaurierungen und beschnittene Bildträger sind bei vielen Losen vermerkt, ohne dass sich ein klarer Abschlag ablesen lässt: Der beschnittene „Bauernhof bei Münster“ brachte 2024 rund 11.000 €, der „Moorkanal im Herbst“ mit nachgezogener Signatur 2026 rund 13.000 €. Klar niedriger liegen kleine Formate, Temperabilder und Zeichnungen.",
+  "werkverzeichnis": "Ein gedrucktes Werkverzeichnis war in den geprüften Quellen nicht genannt. Das Otto-Modersohn-Museum in Fischerhude führt ein Register mit Nummern nach Jahr (etwa „WV-OM-SW 1942, Nr. 153“) und erstellt Bestätigungen; dazu kommen Modersohns eigene Atelierbücher.",
+  "provenienz": "Viele Werke stammen aus dem Nachlass und wurden über die Familie weitergegeben (Elsbeth, Mathilde, Louise und Christian Modersohn). Modersohn erhielt 1940 die Goethe-Medaille für Kunst und Wissenschaft; Bilder, die 1933–1945 den Besitzer wechselten, gehören wie bei allen Künstlern dieser Zeit auf ihre Herkunft geprüft."
+ },
+ "leben": {
+  "text": [
+   "Otto Modersohn wurde am 22. Februar 1865 in Soest geboren, als Sohn des Baumeisters Wilhelm Modersohn. Er ging in Soest und Münster zur Schule und studierte ab 1884 an der Kunstakademie Düsseldorf, im Winter 1888/89 in Karlsruhe bei Hermann Baisch. 1888 sah er in München laut Neuer Deutscher Biographie erstmals Originale der Schule von Barbizon.",
+   "Im Sommer 1889 kam er mit Fritz Mackensen nach Worpswede; im Herbst beschloss er mit Hans am Ende zu bleiben. 1895 stellten die Worpsweder zuerst in der Kunsthalle Bremen aus, mit wenig Erfolg, und dann im Münchner Glaspalast, wo ihnen der Durchbruch gelang; der bayerische Staat kaufte Modersohns „Sturm im Teufelsmoor“ für die Neue Pinakothek. 1899 trat er als Erster aus dem Worpsweder Künstlerverein aus.",
+   "1897 heiratete er Helene Schröder aus Bremen, die 1900 starb; ihre Tochter Elsbeth kam 1898 zur Welt. 1901 heiratete er die Malerin Paula Becker. Sie starb 1907 kurz nach der Geburt der Tochter Mathilde. Im Sommer 1908 zog Modersohn nach Fischerhude und heiratete 1909 die Sängerin und Malerin Louise Breling; aus der Ehe stammen die Söhne Ulrich und Christian.",
+   "Nach Studienreisen nach Franken und Holland malte er ab 1927 regelmäßig im Allgäu und erwarb laut NDB 1930 ein Haus auf dem Gailenberg bei Hindelang. 1936 erblindete er auf einem Auge. 1940 erhielt er die Goethe-Medaille für Kunst und Wissenschaft. Er starb am 10. März 1943 in Rotenburg (Wümme)."
+  ],
+  "museen": "Otto-Modersohn-Museum in Fischerhude, Otto-Modersohn-Haus in Worpswede, Otto-Modersohn-Museum in Tecklenburg, Kunsthalle Bremen, Neue Pinakothek München („Sturm im Teufelsmoor“), Otto-Modersohn-Kabinett im Historischen Museum Wertheim (laut NDB und Wikipedia).",
+  "timeline": [
+   [
+    "1865",
+    "geboren in Soest"
+   ],
+   [
+    "1884",
+    "Kunstakademie Düsseldorf"
+   ],
+   [
+    "1888",
+    "Karlsruhe bei Hermann Baisch (Winter 1888/89)"
+   ],
+   [
+    "1889",
+    "mit Fritz Mackensen und Hans am Ende in Worpswede"
+   ],
+   [
+    "1895",
+    "Ausstellungen in Bremen und im Münchner Glaspalast; „Sturm im Teufelsmoor“ für die Neue Pinakothek"
+   ],
+   [
+    "1899",
+    "Austritt aus dem Worpsweder Künstlerverein"
+   ],
+   [
+    "1901",
+    "Heirat mit Paula Becker (gestorben 1907)"
+   ],
+   [
+    "1908",
+    "Umzug nach Fischerhude"
+   ],
+   [
+    "1930",
+    "Haus auf dem Gailenberg bei Hindelang (laut NDB)"
+   ],
+   [
+    "1936",
+    "Erblindung eines Auges"
+   ],
+   [
+    "1943",
+    "gestorben in Rotenburg (Wümme)"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Frühe Worpsweder Bilder",
+   "d": "Moor, Birken und Kanäle der Jahre bis 1907, oft große Formate; die teuerste Werkgruppe.",
+   "bsp": "„Brautzug im Frühling“ (Lempertz 2021): rund {max_hammer} €; „Unter Birken“ (Lempertz 2024): 36.000 €"
+  },
+  {
+   "t": "Fischerhude und die Wümme",
+   "d": "Wiesen, Überschwemmungen, Dorfstraßen und Stege an der Wümme ab 1908; der größte Teil des Angebots.",
+   "bsp": "„Steg über die Wümme in Fischerhude“ (Stahl 2024): rund 12.000 €; „Dorfstraße“ (Van Ham 2023): 10.000 €"
+  },
+  {
+   "t": "Allgäu",
+   "d": "Landschaften um Hindelang und Unterjoch aus den späten 1920er und 1930er Jahren.",
+   "bsp": "„Landschaft bei Unterjoch“ (Stahl 2023): rund 5.000 €; „Landschaft im Allgäu bei Hindelang“ (Van Ham 2025) ohne Ergebnis"
+  },
+  {
+   "t": "Blumenstillleben",
+   "d": "Sträuße in Krügen und Vasen, meist Öl auf Leinwand.",
+   "bsp": "„Tulpenstrauß“ (Stahl 2021): rund 10.000 €; „Blumenstrauß im blauen Krug“ (Van Ham 2025): 9.000 €"
+  },
+  {
+   "t": "Mondnächte und Abendstimmungen",
+   "d": "Späte Moorbilder mit Mond und Abendhimmel aus den 1930er und 1940er Jahren.",
+   "bsp": "„Mondnacht im Moor“ (Van Ham 2022): 12.000 € und 13.000 €; „Mond – drei Weiden“ (Stahl 2021): rund 16.000 €"
+  },
+  {
+   "t": "Zeichnungen und Aquarelle",
+   "d": "Kreide-, Kohle- und Rötelzeichnungen, oft späte Moorskizzen; seltener Aquarelle.",
+   "bsp": "„Sturm im Moor“ (Stahl 2026): rund 900 €; „Louise in den Dünen“ (Aquarell, Stahl 2021): rund 6.000 €"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Otto Modersohn wert?",
+   "a": "Gemälde und Ölstudien brachten seit 2021 im Median {med_all} € Zuschlag, die mittlere Hälfte lag bei {q1_all} bis {q3_all} €. Große frühe Bilder aus Worpswede erreichten 22.000 bis rund {max_hammer} €. Kleine Temperabilder lagen bei rund 3.600 bis 4.500 €, Zeichnungen bei rund 900 bis 2.500 €."
+  },
+  {
+   "q": "Wo werden Werke von Otto Modersohn versteigert?",
+   "a": "Die meisten geprüften Zuschläge stammen von Stahl in Hamburg und Van Ham in Köln. Die höchsten Preise erzielte Lempertz in Köln für zwei große frühe Bilder. Einzelne Werke verkauften auch das Dorotheum in Wien, Ketterer und Sotheby's."
+  },
+  {
+   "q": "Brauche ich eine Bestätigung des Otto-Modersohn-Museums?",
+   "a": "Die meisten geprüften Lose nennen eine Bestätigung des Museums in Fischerhude, von Rainer Noeres oder von Christian Modersohn. Ältere rückseitige Bestätigungen der Familie, etwa von Elsbeth oder Tille Modersohn, kommen hinzu. Bei Angeboten ohne Bestätigung danach fragen."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Ein gedrucktes Werkverzeichnis war in den geprüften Quellen nicht genannt. Das Otto-Modersohn-Museum führt ein Register mit Nummern wie „WV-OM-SW 1939, Nr. 110“; dazu kommen Modersohns Atelierbücher."
+  },
+  {
+   "q": "Ist ein Bild mit „Modersohn“ immer von Otto Modersohn?",
+   "a": "Nein. Paula Modersohn-Becker, Louise Modersohn-Breling und Christian Modersohn malten ebenfalls. Otto Modersohn hat laut Grisebach sogar eine Zeichnung von Paula für sie mit „PM-B“ monogrammiert. Vorname, Signaturform und Bestätigung prüfen."
+  },
+  {
+   "q": "Was bedeutet das „Ergebnis“ bei Stahl?",
+   "a": "Stahl veröffentlicht den Preis mit Aufgeld, auf volle 100 € gerundet: 22 % des Zuschlags plus Umsatzsteuer darauf, zusammen 26,18 %. Bei „Spätsommer an der Wümme“ (2026) nennt die Losseite den Zuschlag von 11.000 €, die Künstlerseite ein Ergebnis von 13.900 €; das passt genau zu dieser Rechnung."
+  }
+ ],
+ "methodik_extra": "Stahl nennt auf der Künstlerseite einen auf 100 € gerundeten Preis mit Aufgeld (22 % plus Umsatzsteuer, zusammen 26,18 %); die Stahl-Zuschläge sind zurückgerechnet und geschätzt. Bestätigt wird die Rechnung durch „Spätsommer an der Wümme“ (März 2026): Losseite Zuschlag 11.000 €, Künstlerseite 13.900 €. Stahl-Daten nach den Auktionsangaben der Losseiten (Kunst am zweiten Auktionstag); die beiden Lose aus dem Nachverkauf zur Auktion vom 5./6. Juni 2026 tragen das Datum des zweiten Auktionstags. Drei Stahl-Lose (2021, 2024, 2025) sind mit Technik, Maßen und Startpreis von veryimportantlot.com und dem Ergebnis der Stahl-Künstlerseite belegt. Van Ham veröffentlicht Preise mit Aufgeld; der Zuschlag ist mit 32 % zurückgerechnet (alle Ergebnisse glatt). Viele Van-Ham-Losseiten zeigen kein Datum; Auktion und Datum stammen von veryimportantlot.com oder von Nachbarlosen derselben Auktion (Aufrufzeiten, fortlaufende Losnummern). „Fischerhude – Sommerliche Wümme-Uferlandschaft“ steht bei Van Ham zweimal als verkauft (Juni und November 2023, je 15.840 €) und ist nur einmal gezählt. „Ohne Titel“ (1908, Juni 2022) ist nur über veryimportantlot.com belegt (geschätzt). Lempertz 2021: 62.621 € mit Aufgeld ergeben mit keinem der bekannten Sätze einen runden Zuschlag (ungefähr 50.000 €); 2024: 45.360 € ÷ 1,26 = 36.000 €. Dorotheum: 28.600 € mit Gebühr und Umsatzsteuer, mit 30 % genau 22.000 € (geschätzt). Nicht aufgenommen: vier Stahl-Ergebnisse ohne geprüfte Losseite (u. a. „Der Herbst“ 2025, „Überschwemmung, Blick aus dem Atelierfenster“ und ein Blumenstrauß im März 2026), Van-Ham-Lose ohne prüfbares Datum (darunter vier mit 29 % Aufgeld, also vermutlich vor November 2021, und zwei späte Zeichnungen), Ketterer-Ergebnisse ohne Datum (u. a. „Birken am Moorgraben“, 1904, 24.130 €), das Sotheby's-Ergebnis vom Dezember 2025 (nur als US-Dollar-Betrag in einem Marktbericht), ein Karl-&-Faber-Los (Ergebnis nicht lesbar) und Ergebnisse vor 2021. Einige Titel sind aus dem Englischen übersetzt.",
+ "quellen": [
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Otto Modersohn (Ergebnisse)",
+   "u": "https://www.auktionshaus-stahl.de/en/artist/6256-otto-modersohn"
+  },
+  {
+   "t": "Auktionshaus Stahl, Versteigerungsbedingungen (§ 4: 22 % Aufgeld zzgl. USt)",
+   "u": "https://www.auktionshaus-stahl.de/en/conditions-of-sale"
+  },
+  {
+   "t": "Auktionshaus Stahl, „Spätsommer an der Wümme“ (Zuschlag 11.000 €)",
+   "u": "https://www.auktionshaus-stahl.de/en/article/113518-otto-modersohn-late-summer-at-the-wuemme"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham 475 Los 2 „Birkenwald am Kanal“ (Datum 01.12.2021)",
+   "u": "https://veryimportantlot.com/en/lot/view/birkenwald-am-kanal-659749"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham 483 Los 97 „Mondnacht im Moor“ (Datum 01.06.2022)",
+   "u": "https://veryimportantlot.com/en/lot/view/otto-modersohn-768525"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham Los 69 „Mondaufgang“ (Datum 03.11.2022)",
+   "u": "https://veryimportantlot.com/en/lot/view/otto-modersohn-841601"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham 491 Los 41 (Datum 30.11.2022)",
+   "u": "https://veryimportantlot.com/en/lot/view/otto-modersohn-849742"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham 491 Los 42 (Datum 30.11.2022)",
+   "u": "https://veryimportantlot.com/en/lot/view/otto-modersohn-849743"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham 500 Los 108 „Moorhütte“ (Datum 06.06.2023)",
+   "u": "https://veryimportantlot.com/en/lot/view/otto-modersohn-963820"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham 500 Los 112 (Datum 06.06.2023)",
+   "u": "https://veryimportantlot.com/en/lot/view/otto-modersohn-963824"
+  },
+  {
+   "t": "Van Ham, Los 109 (Juni 2023), dasselbe Bild wie Los 114 im November 2023",
+   "u": "https://auction.van-ham.com/en/otto-modersohn-fischerhude-sommerliche-wuemme-uferlanschaft--id-56569-item.html"
+  },
+  {
+   "t": "Grisebach, Paula Modersohn-Becker, Auktion 375 Los 4 (von Otto Modersohn monogrammiert)",
+   "u": "https://www.grisebach.com/en/lot/4073382"
+  },
+  {
+   "t": "Grisebach, Versteigerungsbedingungen, Stand 15.5.2026",
+   "u": "https://www.grisebach.com/assets/downloads/grisebach_versteigerungsbedingungen_150526.pdf"
+  },
+  {
+   "t": "Lempertz, Auktion 1155 Los 23 „Herbst am Moorkanal“ (Juni 2020)",
+   "u": "https://lempertz.com/en/catalogues/lot/1155-1/23-otto-modersohn.html"
+  },
+  {
+   "t": "Ketterer Kunst, Künstlerseite Otto Modersohn",
+   "u": "https://kettererkunst.com/bio/OttoModersohn-1865-1943.php"
+  },
+  {
+   "t": "HENI, Bericht zu Sotheby's Modern & Contemporary Discoveries, Köln, Dezember 2025",
+   "u": "https://heni.com/news/article/sotheby-s-modern-contemporary-discoveries-auction-in-cologne-2025-12-10"
+  },
+  {
+   "t": "Neue Deutsche Biographie: Modersohn, Otto",
+   "u": "https://www.deutsche-biographie.de/sfz63806.html"
+  },
+  {
+   "t": "Wikipedia (englisch): Otto Modersohn",
+   "u": "https://en.wikipedia.org/wiki/Otto_Modersohn"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Stahl",
+   "date": "2021-05-08",
+   "sale": "351 Kunst und Antiquitäten",
+   "lot": "295",
+   "title": "Louise in den Dünen",
+   "year": "1914",
+   "tech": "Aquarell",
+   "medium": "papier",
+   "h": 24.5,
+   "w": 33.5,
+   "hammer": 6000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/louise-in-den-dunen-530739",
+   "note": "Stahl nennt „Ergebnis“ 7.600 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Ergebnis von der Stahl-Künstlerseite, Technik, Maße und Startpreis 2.500 € laut veryimportantlot.com; links unten signiert „O. Modersohn“, datiert „VII 14“; Expertise Otto-Modersohn-Museum 2016; aus dem Nachlass über Christian Modersohn"
+  },
+  {
+   "house": "Stahl",
+   "date": "2021-05-08",
+   "sale": "351 Kunst und Antiquitäten",
+   "lot": "296",
+   "title": "Büsche am Wiesenrand",
+   "year": "1917",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 28,
+   "w": 37,
+   "hammer": 7500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/100409-otto-modersohn-bushes",
+   "note": "Stahl nennt „Ergebnis“ 9.500 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Startpreis 4.500 € laut veryimportantlot.com; links unten monogrammiert und datiert „OM 17“; Expertise Otto-Modersohn-Museum 2002; minimale Retuschen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2021-05-08",
+   "sale": "351 Kunst und Antiquitäten",
+   "lot": "297",
+   "title": "Mond – drei Weiden",
+   "year": "1941",
+   "tech": "Öl auf Leinwand, auf Hartfaser",
+   "medium": "lw",
+   "h": 50,
+   "w": 69.5,
+   "hammer": 16000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/100712-otto-modersohn-flooded-lowland",
+   "note": "Stahl nennt „Ergebnis“ 20.200 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Startpreis 9.500 € laut veryimportantlot.com; rechts unten signiert und datiert „O Modersohn 41“; Echtheit bestätigt von Rainer Noeres"
+  },
+  {
+   "house": "Stahl",
+   "date": "2021-05-08",
+   "sale": "351 Kunst und Antiquitäten",
+   "lot": "298",
+   "title": "Worpsweder Landschaft mit Bauernhaus und Schafen",
+   "year": "um 1903",
+   "tech": "Rötel und schwarze Kreide",
+   "medium": "papier",
+   "h": 25,
+   "w": 31,
+   "hammer": 2500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/99728-otto-modersohn-landscape-in-worpswede",
+   "note": "Stahl nennt „Ergebnis“ 3.200 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); unter Glas gerahmt, außerhalb des Rahmens nicht geprüft"
+  },
+  {
+   "house": "Stahl",
+   "date": "2021-09-25",
+   "sale": "352 Kunst und Antiquitäten",
+   "lot": "481",
+   "title": "Tulpenstrauß",
+   "year": "1940",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 74,
+   "w": 55.5,
+   "hammer": 10000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/102188-otto-modersohn-tulpenstrauss",
+   "note": "Stahl nennt „Ergebnis“ 12.600 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); rechts unten signiert und datiert „O. Modersohn 40“; Echtheit bestätigt von Rainer Noeres; Privatsammlung Bremen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-09-17",
+   "sale": "356 Kunst und Antiquitäten",
+   "lot": "270",
+   "title": "Moorlandschaft",
+   "year": "1926",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 46.5,
+   "w": 63.5,
+   "hammer": 9000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/103875-otto-modersohn-landscape",
+   "note": "Stahl nennt „Ergebnis“ 11.400 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); rechts unten signiert und datiert („O. Modersoh 26“, so auf der Losseite); Echtheit bestätigt von Rainer Noeres (Otto-Modersohn-Museum); Anfang der 1960er Jahre von der Tochter des Künstlers erworben, seitdem in Familienbesitz"
+  },
+  {
+   "house": "Stahl",
+   "date": "2023-05-13",
+   "sale": "359 Kunstauktion",
+   "lot": "527",
+   "title": "Landschaft bei Unterjoch",
+   "year": "um 1927",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 23,
+   "w": 31.5,
+   "hammer": 5000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/105932-otto-modersohn-landschaft-bei-unterjoch",
+   "note": "Stahl nennt „Ergebnis“ 6.300 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); rechts unten signiert „O. Modersohn“; rückseitig Etikett des Otto-Modersohn-Nachlass-Museums mit Bestätigung von Christian Modersohn; Zertifikat des Museums 1983; Datum nach der Stahl-Künstlerseite"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-02-24",
+   "sale": "363 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "103",
+   "title": "In der Surheide (Heide bei Fischerhude)",
+   "year": "um 1920",
+   "tech": "Öl auf Papier, auf Karton",
+   "medium": "karton",
+   "h": 50,
+   "w": 67.5,
+   "hammer": 7500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/otto-modersohn-soest-1865-fischerhude-1943-in-1157836",
+   "note": "Stahl nennt „Ergebnis“ 9.500 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Ergebnis von der Stahl-Künstlerseite (Artikel 108570), Los, Technik und Maße laut veryimportantlot.com; rückseitig Echtheitsbestätigung von Christian Modersohn mit Stempel des Otto-Modersohn-Museums; minimal restauriert"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-02-24",
+   "sale": "363 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "104",
+   "title": "Steg über die Wümme in Fischerhude",
+   "year": "1909/10",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 45.5,
+   "w": 64,
+   "hammer": 12000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/108199-otto-modersohn-steg-ueber-die-wuemme-in-fischerhude",
+   "note": "Stahl nennt „Ergebnis“ 15.100 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); links unten signiert „O. Modersohn“; Echtheit bestätigt von Rainer Noeres; einige Restaurierungen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-05-25",
+   "sale": "364 Kunstauktion",
+   "lot": "579",
+   "title": "Bei der Torfarbeit",
+   "year": "1902",
+   "tech": "Öl auf Papier, auf Karton",
+   "medium": "karton",
+   "h": 40.5,
+   "w": 59,
+   "hammer": 8000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/108886-otto-modersohn-making-turf",
+   "note": "Stahl nennt „Ergebnis“ 10.100 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); links unten signiert, rechts unten datiert „VII 02“; im Otto-Modersohn-Museum registriert; vom Künstler an einen Vorfahren des Einlieferers; kleine Delle"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "365 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "501",
+   "title": "Bauernhof bei Münster in Westfalen",
+   "year": "wohl 1886",
+   "tech": "Öl auf Leinwand, auf Hartfaser",
+   "medium": "lw",
+   "h": 31.5,
+   "w": 45,
+   "hammer": 11000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/109774-otto-modersohn-bauernhof-bei-muenster-in-westfalen",
+   "note": "Stahl nennt „Ergebnis“ 13.900 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Startpreis 3.500 € laut veryimportantlot.com; ohne Signatur, Etikett mit Echtheitsbestätigung von Elsbeth Modersohn; Echtheit bestätigt von Rainer Noeres; beschnitten"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "365 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "502",
+   "title": "An der Wümme",
+   "year": "1922",
+   "tech": "Öl auf Karton, auf Holz",
+   "medium": "karton",
+   "h": 60.5,
+   "w": 84,
+   "hammer": 12000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/109472-otto-modersohn-an-der-wuemme",
+   "note": "Stahl nennt „Ergebnis“ 15.100 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); links unten signiert; Echtheit bestätigt von Rainer Noeres, im Register des Otto-Modersohn-Museums und im Atelierbuch (Nr. 52); kleiner Kratzer"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "368 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "497",
+   "title": "Festtag in Worpswede",
+   "year": "um 1930",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 46.5,
+   "w": 64,
+   "hammer": 10000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/otto-modersohn-soest-1865-fischerhude-1943-fe-1434734",
+   "note": "Stahl nennt „Ergebnis“ 12.600 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Ergebnis von der Stahl-Künstlerseite (Artikel 111065), Los, Technik, Maße und Startpreis 10.000 € laut veryimportantlot.com; links unten signiert „O. Modersohn“; Echtheit bestätigt von Rainer Noeres"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "368 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "498",
+   "title": "Haus unter Birken",
+   "year": "um 1907",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 79.5,
+   "w": 110,
+   "hammer": 30000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111103-otto-modersohn-haus-unter-birken",
+   "note": "Stahl nennt „Ergebnis“ 37.900 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Startpreis 20.000 € laut veryimportantlot.com; rechts unten signiert „Otto Modersohn“; Echtheit bestätigt von Rainer Noeres; laut veryimportantlot.com 2005 bei Villa Grisebach versteigert"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "368 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "499",
+   "title": "Der Frühling",
+   "year": "1923/24",
+   "tech": "Öltempera auf Karton",
+   "medium": "karton",
+   "h": 15.5,
+   "w": 22.5,
+   "hammer": 4200,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111670-otto-modersohn-the-spring",
+   "note": "Stahl nennt „Ergebnis“ 5.300 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); rechts unten signiert „O. Modersohn“; Folge der vier Jahreszeiten (Lose 499–502); unter Glas, außerhalb des Rahmens nicht geprüft"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "368 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "500",
+   "title": "Der Sommer",
+   "year": "1923/24",
+   "tech": "Öltempera auf Karton",
+   "medium": "karton",
+   "h": 17.5,
+   "w": 22.5,
+   "hammer": 4500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111671-otto-modersohn-the-summer",
+   "note": "Stahl nennt „Ergebnis“ 5.700 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); rechts unten „O Modersohn“; unter Glas, außerhalb des Rahmens nicht geprüft"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "368 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "502",
+   "title": "Der Winter",
+   "year": "1923/24",
+   "tech": "Tempera auf Karton",
+   "medium": "karton",
+   "h": 16.5,
+   "w": 22.5,
+   "hammer": 3600,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111673-otto-modersohn-the-winter",
+   "note": "Stahl nennt „Ergebnis“ 4.500 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); keine Signatur angegeben; unter Glas, außerhalb des Rahmens nicht geprüft"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-09-27",
+   "sale": "369 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "481",
+   "title": "In der Surheide",
+   "year": "1925",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 50,
+   "w": 74.5,
+   "hammer": 12000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/112240-otto-modersohn-in-der-surheide",
+   "note": "Stahl nennt „Ergebnis“ 15.100 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Startpreis 8.000 € laut veryimportantlot.com; rechts unten signiert und datiert „O. Modersohn 25“; rückseitig Etikett des Modersohn-Museums (Christian Modersohn); unauffällige Retuschen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-11-29",
+   "sale": "370 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "439",
+   "title": "Hochzeitszug",
+   "year": "um 1926",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 49.5,
+   "w": 65.5,
+   "hammer": 11000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/112689-otto-modersohn-hochzeitszug",
+   "note": "Stahl nennt „Ergebnis“ 13.900 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); vorn keine Signatur angegeben, rückseitig Bestätigung von Antje Modersohn (Enkelin); Expertisen Christian Modersohn 1988 und Rainer Noeres 2022; kleine Retusche"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-11-29",
+   "sale": "370 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "441",
+   "title": "Überschwemmung",
+   "year": "um 1926",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 50.5,
+   "w": 80.5,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/otto-modersohn-soest-1865-fischerhude-1943-ub-1520461",
+   "note": "veryimportantlot.com: Startpreis 9.000 €, Auktion abgeschlossen, kein Ergebnis; auf der Stahl-Künstlerseite steht eine „Überschwemmung, Blick aus dem Atelierfenster“ mit Ergebnis 11.400 € im Katalog März 2026 (Losseite nicht geprüft, nicht aufgenommen); rechts unten signiert; Expertise Rainer Noeres 2013; kleine Retuschen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-11-29",
+   "sale": "370 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "442",
+   "title": "Abendlandschaft",
+   "year": "1942",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 52,
+   "w": 55,
+   "hammer": 6000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/112690-otto-modersohn-abendlandschaft",
+   "note": "Stahl nennt „Ergebnis“ 7.600 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); rechts unten signiert und datiert „Otto Modersohn 42“; Expertise Rainer Noeres 2023; Retusche"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-03-07",
+   "sale": "371 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "311",
+   "title": "Spätsommer an der Wümme",
+   "year": "1923",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 49,
+   "w": 68.5,
+   "hammer": 11000,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/113518-otto-modersohn-late-summer-at-the-wuemme",
+   "note": "Losseite: „Hammer Price: 11.000 €“; die Künstlerseite nennt dafür ein Ergebnis von 13.900 € (11.000 × 1,2618 = 13.880, gerundet 13.900) – bestätigt die Rückrechnung der übrigen Stahl-Lose; rechts unten monogrammiert und datiert „OM X 23“; Expertise Otto-Modersohn-Museum 2019; aus dem Nachlass über Christian Modersohn; ausgestellt 1977"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-03-07",
+   "sale": "371 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "312",
+   "title": "Sturm im Moor",
+   "year": "um 1939",
+   "tech": "Kohle und Kreidestift",
+   "medium": "papier",
+   "h": 16.5,
+   "w": 23,
+   "hammer": 900,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/113515-otto-modersohn-sturm-im-moor",
+   "note": "Stahl nennt „Ergebnis“ 1.100 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); keine Signatur angegeben; Expertise Otto-Modersohn-Museum 2024; Nachlass Otto Modersohn, Nachlass Christian Modersohn; Ränder unregelmäßig"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-06-06",
+   "sale": "372 Nachverkauf, Kunst des 20. und 21. Jahrhunderts",
+   "lot": "17",
+   "title": "Moorkanal im Herbst",
+   "year": "um 1928",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 56,
+   "w": 74,
+   "hammer": 13000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/114029-otto-modersohn-moorkanal-im-herbst",
+   "note": "Stahl nennt „Ergebnis“ 16.400 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Nachverkauf zur Auktion vom 5./6. Juni 2026, Datum des Auktionstags; rechts unten signiert „O. Modersohn“, laut Stahl Signatur nachgezogen; kleine Restaurierungen; Echtheit bestätigt vom Otto-Modersohn-Museum"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-06-06",
+   "sale": "372 Nachverkauf, Kunst des 20. und 21. Jahrhunderts",
+   "lot": "18",
+   "title": "Moorgraben",
+   "year": "1939",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 57,
+   "w": 74.5,
+   "hammer": 17000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/113650-otto-modersohn-moor-ditch",
+   "note": "Stahl nennt „Ergebnis“ 21.500 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Nachverkauf zur Auktion vom 5./6. Juni 2026, Datum des Auktionstags; rechts unten signiert und datiert „O. Modersohn 39“; im Otto-Modersohn-Museum als WV-OM-SW-1939, Nr. 110 verzeichnet"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2021-12-01",
+   "sale": "475 Modern – Post War – Contemporary",
+   "lot": "2",
+   "title": "Birkenwald am Kanal",
+   "year": "um 1893",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 67,
+   "w": 89,
+   "lo": 15000,
+   "hi": 20000,
+   "hammer": 22000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-birkenwald-am-kanal--id-37916-item.html",
+   "note": "Losseite: Ergebnis 29.040 € inkl. 32 % Aufgeld, 29.040 ÷ 1,32 = 22.000; Datum und Zuschlag 22.000 € auch laut veryimportantlot.com; rechts unten signiert „O Modersohn“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2021-12-01",
+   "sale": "475 Modern – Post War – Contemporary",
+   "lot": "3",
+   "title": "Fischerhude – Wümmewiesen mit Melkersteg",
+   "year": "1911",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 42,
+   "w": 51,
+   "lo": 8000,
+   "hi": 12000,
+   "hammer": 13000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-fischerhude-wuemmewiesen-mit-melkersteg--id-37917-item.html",
+   "note": "Losseite: Ergebnis 17.160 € inkl. 32 % Aufgeld, 17.160 ÷ 1,32 = 13.000; links unten datiert „VII/II“ (Juli 1911), ohne Signatur; rückseitig Bestätigung von Elsbeth Modersohn 1962; aus dem Nachlass; Datum über Nachbarlos 2 (veryimportantlot.com)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2021-12-01",
+   "sale": "475 Modern – Post War – Contemporary",
+   "lot": "4",
+   "title": "Winterlandschaft in Worpswede, Tauwetter (Blick von Paulas Fenster)",
+   "year": "1915/16",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 34,
+   "w": 43,
+   "lo": 8000,
+   "hi": 12000,
+   "hammer": 7500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-winterlandschaft-in-worpswede-tauwetter-blick-von-paulas-fenster--id-37918-item.html",
+   "note": "Losseite: Ergebnis 9.900 € inkl. 32 % Aufgeld, 9.900 ÷ 1,32 = 7.500; links unten monogrammiert „OM“; rückseitig Bestätigung von Tille Modersohn 1951; aus dem Nachlass; Datum über die Nachbarlose 2 und 3 (gleicher Einlieferer wie Los 3)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-06-01",
+   "sale": "483 Modern | Post War | Contemporary | Galerie Michael Schultz",
+   "lot": "95",
+   "title": "Ohne Titel",
+   "year": "1908",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 74.5,
+   "w": 56.5,
+   "lo": 12000,
+   "hi": 18000,
+   "hammer": 12000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/otto-modersohn-768523",
+   "note": "nur über veryimportantlot.com: „Sold“ 12.000 €, Aufgeld 32 %; bei Los 97 derselben Auktion entspricht der VIL-Wert dem Zuschlag (Van Ham: 15.840 € inkl. Aufgeld), daher als Zuschlag gelesen (geschätzt)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-06-01",
+   "sale": "483 Modern | Post War | Contemporary | Galerie Michael Schultz",
+   "lot": "97",
+   "title": "Mondnacht im Moor",
+   "year": "1938",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 64,
+   "w": 78.5,
+   "lo": 12000,
+   "hi": 18000,
+   "hammer": 12000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-mondnacht-im-moor--id-45752-item.html",
+   "note": "Losseite: Ergebnis 15.840 € inkl. 32 % Aufgeld, 15.840 ÷ 1,32 = 12.000"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-11-03",
+   "sale": "Modern Art (online)",
+   "lot": "69",
+   "title": "Mondaufgang",
+   "year": "1938",
+   "tech": "Öl auf Leinen, auf Sperrholz",
+   "medium": "lw",
+   "h": 49.5,
+   "w": 70,
+   "lo": 8000,
+   "hi": 12000,
+   "hammer": 7000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-mondaufgang--id-50177-item.html",
+   "note": "Losseite: Ergebnis 9.240 € inkl. 32 % Aufgeld, 9.240 ÷ 1,32 = 7.000; rechts unten signiert und datiert „O Modersohn 38“; WV-OM-SW 1938, Nr. 6 (Tille); Expertise Christian Modersohn 2001; Datum laut veryimportantlot.com (dort Startpreis 8.000 €)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-11-30",
+   "sale": "491 Modern, Post War & Contemporary",
+   "lot": "41",
+   "title": "Frühling in der Surheide (bei Neveln)",
+   "year": "1928",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 51,
+   "w": 73,
+   "lo": 10000,
+   "hi": 15000,
+   "hammer": 16000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-fruehling-in-der-surheide-bei-neveln--id-49748-item.html",
+   "note": "Losseite: Ergebnis 21.120 € inkl. 32 % Aufgeld, 21.120 ÷ 1,32 = 16.000; Auktion und Datum laut veryimportantlot.com; links unten signiert und datiert „O Modersohn 28“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-11-30",
+   "sale": "491 Modern, Post War & Contemporary",
+   "lot": "42",
+   "title": "Mondnacht im Moor",
+   "year": "1942",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 56.5,
+   "w": 74.5,
+   "lo": 10000,
+   "hi": 15000,
+   "hammer": 13000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-mondnacht-im-moor--id-49749-item.html",
+   "note": "Losseite: Ergebnis 17.160 € inkl. 32 % Aufgeld, 17.160 ÷ 1,32 = 13.000; Auktion und Datum laut veryimportantlot.com; rechts unten signiert und datiert „O. Modersohn 42“; WV-OM-SW 1942, Nr. 153; ausgestellt Hagen 1941"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-06-06",
+   "sale": "500 Modern, Post War & Contemporary",
+   "lot": "108",
+   "title": "Moorhütte",
+   "year": "1901",
+   "tech": "Öl auf Leinwand, doubliert",
+   "medium": "lw",
+   "h": 50,
+   "w": 80,
+   "lo": 8000,
+   "hi": 12000,
+   "hammer": 11000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-moorhuette--id-56568-item.html",
+   "note": "Losseite: Ergebnis 14.520 € inkl. 32 % Aufgeld, 14.520 ÷ 1,32 = 11.000; Auktion und Datum laut veryimportantlot.com; links unten monogrammiert und datiert „19 OM 01“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-06-06",
+   "sale": "500 Modern, Post War & Contemporary",
+   "lot": "110",
+   "title": "Dorfstraße",
+   "year": "1931",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 47,
+   "w": 57,
+   "lo": 10000,
+   "hi": 15000,
+   "hammer": 10000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-dorfstrasse--id-56570-item.html",
+   "note": "Losseite: Ergebnis 13.200 € inkl. 32 % Aufgeld, 13.200 ÷ 1,32 = 10.000; rechts unten signiert und datiert „OModersohn 31“; Datum über die Lose 108 und 112 derselben Auktion (veryimportantlot.com)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-06-06",
+   "sale": "500 Modern, Post War & Contemporary",
+   "lot": "111",
+   "title": "Blühende Heide auf dem Weyerberg",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 29,
+   "w": 37,
+   "lo": 6000,
+   "hi": 8000,
+   "hammer": 6000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-bluehende-heide-auf-dem-weyerberg--id-56571-item.html",
+   "note": "Losseite: Ergebnis 7.920 € inkl. 32 % Aufgeld, 7.920 ÷ 1,32 = 6.000; links unten signiert „OModersohn“; Datum über die Lose 108 und 112 derselben Auktion (veryimportantlot.com)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-06-06",
+   "sale": "500 Modern, Post War & Contemporary",
+   "lot": "112",
+   "title": "Häuser bei Düvelsdorf – Kätzchenbüsche",
+   "year": "1923",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 46.5,
+   "w": 59,
+   "lo": 10000,
+   "hi": 15000,
+   "hammer": 12000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-haeuser-bei-duevelsdorf-kaetzchenbuesche--id-56572-item.html",
+   "note": "Losseite: Ergebnis 15.840 € inkl. 32 % Aufgeld, 15.840 ÷ 1,32 = 12.000; Auktion und Datum laut veryimportantlot.com; rechts unten signiert „OModersohn“; rückseitig ein weiteres Bild"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-11-29",
+   "sale": "Evening Sale, Modern, Post War & Contemporary",
+   "lot": "114",
+   "title": "Fischerhude – Sommerliche Wümme-Uferlandschaft",
+   "year": "1930/31",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 46.5,
+   "w": 64,
+   "lo": 12000,
+   "hi": 18000,
+   "hammer": 12000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-fischerhude-sommerliche-wuemme-uferlandschaft--id-61046-item.html",
+   "note": "Losseite: Ergebnis 15.840 € inkl. 32 % Aufgeld, 15.840 ÷ 1,32 = 12.000; zweimal rechts und links signiert und datiert „OModersohn 30“ und „31“; dasselbe Bild steht bei Van Ham auch als Los 109 der Auktion vom Juni 2023 mit gleichem Ergebnis – nur einmal gezählt"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-06-05",
+   "sale": "Evening Sale, Modern, Post War & Contemporary",
+   "lot": "110",
+   "title": "Herbstabend im Moor – Abendsonne im Moor",
+   "year": "1902",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 68.5,
+   "w": 85.5,
+   "lo": 20000,
+   "hi": 30000,
+   "hammer": 15500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-herbstabend-im-moor-abendsonne-im-moor--id-66793-item.html",
+   "note": "Losseite: Ergebnis 20.460 € inkl. 32 % Aufgeld, 20.460 ÷ 1,32 = 15.500; links unten datiert und monogrammiert „19 OM 02“; im Atelierbuch als „Abendsonne (Boot 2 Kinder)“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-06-05",
+   "sale": "Evening Sale, Modern, Post War & Contemporary",
+   "lot": "111",
+   "title": "Frühjahr im Moor (Am Ostendorfer Schiffgraben)",
+   "year": "1906",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80,
+   "w": 64,
+   "lo": 15000,
+   "hi": 20000,
+   "hammer": 17000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-fruehjahr-im-moor-am-ostendorfer-schiffgraben--id-66794-item.html",
+   "note": "Losseite: Ergebnis 22.440 € inkl. 32 % Aufgeld, 22.440 ÷ 1,32 = 17.000; rechts unten signiert und datiert „Otto Modersohn 1906“; 1992 bei Villa Grisebach versteigert"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-06-05",
+   "sale": "Evening Sale, Modern, Post War & Contemporary",
+   "lot": "112",
+   "title": "Frühjahr an der Wümme mit Entenhäusern",
+   "year": "1911",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 41,
+   "w": 59,
+   "lo": 8000,
+   "hi": 12000,
+   "hammer": 9000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-fruehjahr-an-der-wuemme-mit-entenhaeusern--id-66795-item.html",
+   "note": "Losseite: Ergebnis 11.880 € inkl. 32 % Aufgeld, 11.880 ÷ 1,32 = 9.000; rechts unten datiert „19 IV. 11“, ohne Signatur; Expertise Christian Modersohn 1998; aus dem Nachlass"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-06-05",
+   "sale": "Evening Sale, Modern, Post War & Contemporary",
+   "lot": "113",
+   "title": "Sommerliche Dünenlandschaft in Quelkhorn bei Fischerhude",
+   "year": "um 1925",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 50,
+   "w": 70,
+   "lo": 8000,
+   "hi": 12000,
+   "hammer": 7000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-sommerliche-duenenlandschaft-in-quelkhorn-bei-fischerhude--id-66796-item.html",
+   "note": "Losseite: Ergebnis 9.240 € inkl. 32 % Aufgeld, 9.240 ÷ 1,32 = 7.000; links unten signiert „O Modersohn“; rückseitig Bestätigung von Christian Modersohn 1974; Expertise Rainer Noeres 2014"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-06-05",
+   "sale": "Evening Sale, Modern, Post War & Contemporary",
+   "lot": "114",
+   "title": "An der Wümme",
+   "year": "1911",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 56,
+   "w": 41,
+   "lo": 6000,
+   "hi": 8000,
+   "hammer": 7500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-an-der-wuemme--id-66797-item.html",
+   "note": "Losseite: Ergebnis 9.900 € inkl. 32 % Aufgeld, 9.900 ÷ 1,32 = 7.500; links unten datiert und signiert „IX/II. O Modersohn“ (Rötelstift); aus dem Nachlass über Louise Modersohn"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-06-05",
+   "sale": "Evening Sale, Modern, Post War & Contemporary",
+   "lot": "115",
+   "title": "Sommertag an der Wümme",
+   "year": "1928",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 45.5,
+   "w": 60,
+   "lo": 10000,
+   "hi": 15000,
+   "hammer": 9500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-sommertag-an-der-wuemme-an-der-wuemme-badeplatz-und-tiertraenke-in-fischerhude--id-66798-item.html",
+   "note": "Losseite: Ergebnis 12.540 € inkl. 32 % Aufgeld, 12.540 ÷ 1,32 = 9.500; Untertitel „An der Wümme – Badeplatz und Tiertränke in Fischerhude“; links unten signiert und datiert „OModersohn 28“; Expertise Christian Modersohn 1988; aus dem Nachlass"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-06-04",
+   "sale": "Modern, Post War & Contemporary",
+   "lot": "210",
+   "title": "Blumenstrauß im blauen Krug",
+   "year": "1932",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 72,
+   "w": 54,
+   "lo": 7000,
+   "hi": 9000,
+   "hammer": 9000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-blumenstrauss-im-blauen-krug--id-76710-item.html",
+   "note": "Losseite: Ergebnis 11.880 € inkl. 32 % Aufgeld, 11.880 ÷ 1,32 = 9.000; links unten signiert und datiert „O Modersohn 32“; Datum über die Aufrufzeiten der Lose 211 und 212 (04.06.2025)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-06-04",
+   "sale": "Modern, Post War & Contemporary",
+   "lot": "211",
+   "title": "Sommermorgen",
+   "year": "vermutlich 1904",
+   "tech": "Öl auf Leinwand, auf Spanplatte",
+   "medium": "lw",
+   "h": 62,
+   "w": 89,
+   "lo": 10000,
+   "hi": 15000,
+   "status": "n",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-sommermorgen--id-76711-item.html",
+   "note": "Losseite: Aufruf 04.06.2025, kein Ergebnis angegeben; links unten signiert „Otto Modersohn“; im Atelierbuch 1904/05"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-06-04",
+   "sale": "Modern, Post War & Contemporary",
+   "lot": "212",
+   "title": "Landschaft im Allgäu bei Hindelang",
+   "year": "1934",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 48,
+   "w": 68,
+   "lo": 7000,
+   "hi": 9000,
+   "status": "n",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-landschaft-im-allgaeu-bei-hindelang--id-76712-item.html",
+   "note": "Losseite: Aufruf 04.06.2025, kein Ergebnis angegeben; monogrammiert und signiert, datiert „34“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-06-04",
+   "sale": "Modern, Post War & Contemporary",
+   "lot": "213",
+   "title": "Frühling im Moor",
+   "year": "um 1937",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 29,
+   "w": 40,
+   "lo": 5000,
+   "hi": 7000,
+   "hammer": 6000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-modersohn-fruehling-im-moor--id-76713-item.html",
+   "note": "Losseite: Ergebnis 7.920 € inkl. 32 % Aufgeld, 7.920 ÷ 1,32 = 6.000; rechts unten signiert „O Modersohn“; Expertise Christian Modersohn 1993; Datum über die Aufrufzeiten der Lose 211 und 212 (04.06.2025)"
+  },
+  {
+   "house": "Lempertz",
+   "date": "2021-12-03",
+   "sale": "1187 Evening Sale",
+   "lot": "65",
+   "title": "Brautzug im Frühling",
+   "year": "1905",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 92,
+   "w": 135.5,
+   "lo": 80000,
+   "hi": 120000,
+   "hammer": 50000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.lempertz.com/en/catalogues/lot/1187-1/65-otto-modersohn.html",
+   "note": "Losseite: Ergebnis 62.621 € inkl. Aufgeld; weder 25 % (50.097) noch 26 % (49.699) ergeben einen runden Zuschlag, daher ungefähr 50.000 € (geschätzt); links unten signiert und datiert „Otto Modersohn 05“; aus dem Atelier, seit drei Generationen in Hamburger Privatbesitz"
+  },
+  {
+   "house": "Lempertz",
+   "date": "2024-06-04",
+   "sale": "1247 Evening Sale",
+   "lot": "7",
+   "title": "Unter Birken",
+   "year": "1902",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 78,
+   "w": 108.5,
+   "lo": 20000,
+   "hi": 30000,
+   "hammer": 36000,
+   "status": "v",
+   "url": "https://www.lempertz.com/en/catalogues/lot/1247-1/7-otto-modersohn.html",
+   "note": "Losseite: Ergebnis 45.360 € inkl. Aufgeld, 45.360 ÷ 1,26 = 36.000; rechts unten in Rot monogrammiert und datiert „19 OM 02“; auf dem Keilrahmen „O. Modersohn „Dämmerung im Moor““; Atelierbuch 1902 Nr. 108-78; Zertifikat Rainer Noeres"
+  },
+  {
+   "house": "Dorotheum",
+   "date": "2024-05-22",
+   "sale": "Klassische Moderne",
+   "lot": "o. Nr. (Moorkanal in Bergedorf)",
+   "src": "Dorotheum, Klassische Moderne",
+   "title": "Moorkanal in Bergedorf bei Worpswede",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 65,
+   "w": 90,
+   "lo": 12000,
+   "hi": 18000,
+   "hammer": 22000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://dorotheum.com/en/l/9038255",
+   "note": "Losseite: erzielter Preis 28.600 € inkl. Käufergebühr und USt; mit 30 % (Auktionstarif ab März 2023) ergibt sich genau 22.000 €; signiert „Otto Modersohn“; im Atelierverzeichnis 1899–1900 als „Moorkanal (Bergedorf)“; Provenienz u. a. Bruno und Paul Cassirer, Berlin (Etikett); Losnummer auf der Seite nicht genannt; Titel aus dem Englischen"
+  },
+  {
+   "house": "Grisebach",
+   "date": "2025-11-09",
+   "sale": "756 Online Only Modern & Contemporary Art",
+   "lot": "2040",
+   "title": "Moorlandschaft mit Kanal",
+   "year": "um 1936",
+   "tech": "Kreide auf bräunlichem Papier",
+   "medium": "papier",
+   "h": 18,
+   "w": 20.8,
+   "lo": 900,
+   "hi": 1200,
+   "status": "n",
+   "url": "https://www.grisebach.com/en/lot/4069850",
+   "note": "Losseite ohne Ergebnis; Titel aus dem Englischen übersetzt („Moorlands with canal“)"
+  },
+  {
+   "house": "Grisebach",
+   "date": "2025-11-09",
+   "sale": "756 Online Only Modern & Contemporary Art",
+   "lot": "2041",
+   "title": "Moorlandschaft mit Gehöft",
+   "year": "um 1940",
+   "tech": "Kreide auf bräunlichem Bütten (Rückseite eines Titelblatts der Zeitschrift „Atlantis“, 1939)",
+   "medium": "papier",
+   "h": 22.1,
+   "w": 29,
+   "lo": 900,
+   "hi": 1200,
+   "status": "n",
+   "url": "https://www.grisebach.com/en/lot/4069849?catalog=36",
+   "note": "Losseite ohne Ergebnis; Titel aus dem Englischen übersetzt („Moorlands with farm building“)"
+  }
+ ]
+}
