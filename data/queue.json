@@ -236,7 +236,8 @@
    "slug": "otto-modersohn",
    "name": "Otto Modersohn",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T12:30:07Z"
   },
   {
    "slug": "ludwig-dill",
