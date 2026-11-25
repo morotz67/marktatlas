@@ -136,7 +136,8 @@ def axis(mx):
     for i, t in enumerate(ticks_for(mx)):
         stl = f"left:{t / mx * 100:.2f}%" + (";transform:none" if i == 0 else (";transform:translateX(-100%)" if t == mx else ""))
         bs.append(f'<b style="{stl}">{de(t)} €</b>')
-    return f'<div class="rax"><span></span><div>{"".join(bs)}</div><span></span></div>'
+    dense = " dense" if mx >= 10000 and len(ticks_for(mx)) >= 5 else ""  # mobil: jede zweite Beschriftung ausblenden
+    return f'<div class="rax{dense}"><span></span><div>{"".join(bs)}</div><span></span></div>'
 
 def copyright_line(a):
     d = a.get("death", {}).get("date")

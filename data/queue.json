@@ -71,8 +71,11 @@
    "slug": "hugo-muehlig",
    "name": "Hugo Mühlig",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T02:43:56Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T02:43:56Z",
+   "done_at": "2026-11-25T03:09:27Z",
+   "lots": 22,
+   "note": "nur Van Ham (Suchbudget des Laufs aufgebraucht); 18 von 22 Losseiten ohne Datum, über Los-/Objektnummern datierter Nachbarlose datiert (Nov. 2021 und Nov. 2023 nicht lückenlos); offen: Van Ham 21.11.2025 Lose 1122–1125 und 16.05.2025 Los 1282 ohne Ergebnis, Los 1283 „Morgenstimmung“ nur VIL, Lücken 789/791/794/203/1311/1281; Lempertz ab 2021, Schloss Ahlden A193–A197, Stahl, Hargesheimer 126 ungeprüft; de-Wikipedia/GND nicht abrufbar"
   },
   {
    "slug": "josef-wenglein",
