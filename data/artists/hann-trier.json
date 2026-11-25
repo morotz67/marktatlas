@@ -1,0 +1,471 @@
+{
+ "slug": "hann-trier",
+ "name": "Hann Trier",
+ "status": "published",
+ "region": "rhein",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1915-08-01",
+  "place": "Kaiserswerth",
+  "text": "1. August 1915 Kaiserswerth bei Düsseldorf"
+ },
+ "death": {
+  "date": "1999-06-14",
+  "place": "Castiglione della Pescaia",
+  "text": "14. Juni 1999 Castiglione della Pescaia"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Hann_Trier",
+  "https://en.wikipedia.org/wiki/Hann_Trier",
+  "https://d-nb.info/gnd/118623893"
+ ],
+ "sort_name": "Trier",
+ "split_year": 2024,
+ "list_line": "Maler des Informel · Gemälde {min_all}–{max_hammer} € Zuschlag",
+ "lead": "Maler des Informel aus dem Rheinland, bekannt für seine beidhändig gemalten, bewegten Bilder und die Deckengemälde im Berliner Schloss Charlottenburg. Diese Seite fasst zusammen, was seine Werke im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Kunstakademie Düsseldorf ab 1934, Kunsterzieherexamen 1938 in Berlin"
+  ],
+  [
+   "Malweise",
+   "gestische, abstrakte Malerei des Informel, ab Mitte der 1950er Jahre oft mit beiden Händen; viele Titel aus Musik und Tanz"
+  ],
+  [
+   "Lehre",
+   "Hochschule für bildende Künste Berlin 1957–1980; Schüler u. a. Georg Baselitz"
+  ],
+  [
+   "Werkverzeichnis",
+   "Gemälde (Köln 1990 und 1995), Druckgrafik (Gerlach-Laxner, Köln 1994)"
+  ]
+ ],
+ "marktwert": "Gemälde {min_all}–{max_hammer} € Zuschlag, je nach Format; Aquarelle und Zeichnungen 850–1.800 €",
+ "absatzmarkt": "Köln (Van Ham, Lempertz) für Gemälde, Berlin (Bassenge) für Papierarbeiten",
+ "headline": "Gemälde brachten {min_all} bis {max_hammer} €, Aquarelle 1.000 bis 1.800 €",
+ "kurz": "Für Hann Trier sind nur wenige Auktionsergebnisse mit Losseite und Datum prüfbar: {n_lots} Lose von {period}, alle mit Zuschlag. Sechs davon sind Gemälde. Sie brachten zwischen {min_all} € („Gaukelei“, 1954, Van Ham 2025) und {max_hammer} € für den vierteiligen Zyklus „Le sacre du printemps I–IV“ (Van Ham 2022). Das fast zwei Meter hohe Bild „Keltern“ erzielte 2025 rund 45.000 €. Aquarelle und Zeichnungen lagen bei Bassenge in Berlin zwischen 850 und 1.800 €.",
+ "figs": [
+  [
+   "{max_hammer} €",
+   "höchster Zuschlag: „{max_title}“, vier Tafeln je {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "{min_all} €",
+   "niedrigster Zuschlag für ein Gemälde: „Gaukelei“ (1954), 65,5 × 81 cm, Van Ham 2025"
+  ],
+  [
+   "850–1.800 €",
+   "Zuschläge für Aquarelle und Zeichnungen bei Bassenge, 2021 und 2023"
+  ],
+  [
+   "{n_lots} Lose",
+   "mit Datum und Ergebnis prüfbar, {period}"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Hann Triers Gemälde kommen selten zur Auktion. Seit 2022 waren sechs mit Datum und Ergebnis prüfbar, alle in Eitempera oder Öl auf Leinwand. Die Preise hängen stark von Format und Werk ab. Den höchsten Zuschlag erzielte im Juni 2022 bei Van Ham der vierteilige Zyklus „Le sacre du printemps I–IV“ von 1979 mit {max_hammer} € bei einer Schätzung von 20.000 €. Im Dezember 2025 brachte „Keltern“ (1960, 195,5 × 129,5 cm) aus der Sammlung Jagdfeld rund 45.000 €, etwa so viel wie geschätzt.",
+   "Kleinere Bilder liegen deutlich darunter. „Oho (Interjektion)“ von 1952 (60 × 80 cm) erzielte bei Lempertz 2022 10.000 € bei einer Schätzung von 4.000–6.000 €. „Narrenkappe“ (1970, 146 × 134 cm) blieb im selben Jahr bei Van Ham mit 9.000 € knapp unter der Schätzung von 10.000 €. „Aus Javéa I“ (1963) brachte 2024 bei Ketterer rund 3.100 €, „Gaukelei“ (1954) 2025 bei Van Ham 2.500 € bei einer Schätzung von 3.500–4.500 €.",
+   "Arbeiten auf Papier sind günstiger. Bei Bassenge in Berlin erzielten zwei Aquarelle 1.000 € (1971) und 1.800 € (1982), eine kleine Wachskreidezeichnung 850 € (1965). Ein Buch mit zehn Radierungen zu Kleist von 1958 brachte 600 €."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Van Ham 32 % laut Losseiten, bei regelbesteuerten Losen 27 % zuzüglich Umsatzsteuer; bei Lempertz waren es 2022 26 %, bei Bassenge 25 % („Regelaufgeld“). Für Trier fällt bis Ende 2069 außerdem die Folgerechtsvergütung an; Van Ham nennt 1,5 % auf den Zuschlag.",
+  "spitzen": "Die englische Wikipedia nennt als Auktionsrekord 48.000 € für das Ölbild „Nymphe Echo“ (1964) bei Grisebach in Berlin am 4. Juni 2015. Ob dieser Wert mit oder ohne Aufgeld gilt, steht dort nicht. Inzwischen lagen zwei Ergebnisse darüber: „Le sacre du printemps I–IV“ 2022 bei Van Ham mit 72.600 € und „Keltern“ 2025 mit 68.009 €, jeweils mit Aufgeld."
+ },
+ "euro_ok": [
+  "48.000",
+  "72.600",
+  "68.009",
+  "3.937",
+  "3.150",
+  "3.300"
+ ],
+ "absatz": {
+  "text": [
+   "Köln ist für Triers Gemälde der wichtigste Markt in den geprüften Daten: Vier der sechs Bilder wurden bei {house1} versteigert, eines bei Lempertz. Van Ham bot die großen Formate in seinen Katalogauktionen „Modern | Post War | Contemporary“ an, 2022 im Teil „Galerie Michael Schultz“ und 2025 im Teil „Sammlung Jagdfeld“; kleinere Bilder liefen in Online-Auktionen. {house2} in Berlin stellt {n_house2} Lose, nur Aquarelle, Zeichnungen und Grafik. Ketterer verkaufte 2024 ein Gemälde in einer Online-Auktion.",
+   "Die Datenlage ist dünn. Van Ham hat weitere Trier-Lose verkauft, vor allem Aquarelle und Zeichnungen, deren Losseiten aber kein Auktionsdatum nennen; sie fehlen hier. Lempertz bietet in der laufenden Auktion 1303 zwei Werke an. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Nur eingeschränkt prüfbar. Alle {n_lots} Lose auf dieser Seite erhielten einen Zuschlag. Die Quote ist mit Vorsicht zu lesen: Zwei Van-Ham-Lose ohne prüfbares Datum blieben unverkauft, das Gemälde „Uhu III“ (1967) und die Farbradierung „Ohne Titel (Blaue Blumen)“ (1967). Die Zuschläge für Gemälde lagen teils weit über der Schätzung („Le sacre du printemps“, „Oho“), teils darunter („Narrenkappe“, „Gaukelei“)."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Monogramm auf Gemälden",
+    "Vorne meist das ligierte Monogramm „ht“ oder „hT“ mit Jahreszahl, etwa „ht 54“ auf „Gaukelei“. Auf der Rückseite stehen oft Signatur „HTrier“ (ligiert), Titel und Datum, bei „Aus Javéa I“ laut Ketterer auch eine Nummer und eine Bezeichnung auf dem Keilrahmen."
+   ],
+   [
+    "Aquarelle und Zeichnungen",
+    "Meist mit Pinsel oder Stift „HTrier“ (ligiert) signiert und datiert, etwa „htrier 73“. Manche kleine Blätter tragen nur „ht“ mit Jahr, manche eine Widmung."
+   ],
+   [
+    "Druckgrafik",
+    "Radierungen und Lithografien sind meist signiert, datiert und nummeriert, etwa 38/100. Bei der Mappe „Lob der Hand“ (1959/60, Auflage 315) sind laut Van Ham die Exemplare 21 bis 315 nur im Impressum signiert, nicht auf den Blättern."
+   ],
+   [
+    "Gouache über Offset",
+    "1994 erschienen bei der Artium Edition nummerierte Blätter in Gouache über einem Offsetdruck. Sie sind von Hand bearbeitet, haben aber einen Druck als Grundlage und sind nicht mit freien Aquarellen gleichzusetzen."
+   ],
+   [
+    "Werkverzeichnis-Nummer",
+    "Gute Losbeschreibungen nennen die Nummer im Werkverzeichnis der Gemälde, etwa Nr. 123 für „Gaukelei“ oder WVZ-Nr. 442 für „Aus Javéa I“. Fehlt sie, lohnt die Nachfrage beim Auktionshaus."
+   ]
+  ],
+  "preis_drueckt": "Kleine Formate und Mappenblätter ohne eigenhändige Signatur. Beim Gemälde zählt vor allem die Größe: „Gaukelei“ (65,5 × 81 cm) blieb 2025 mit 2.500 € unter der Schätzung, „Keltern“ (195,5 cm hoch) brachte rund 45.000 €. Bei Van Ham blieb außerdem das kleine Bild „Uhu III“ (65 × 45 cm) unverkauft.",
+  "werkverzeichnis": "Für die Gemälde zitieren die Auktionshäuser zwei Werke: „Hann Trier. Monographie und Werkverzeichnis“, herausgegeben von Sabine Fehlemann, Text Uta Gerlach-Laxner (Köln 1990), und das „Werkverzeichnis der Gemälde“ von Michael Euler-Schmidt und Uta Gerlach-Laxner (Köln 1995). Die Druckgrafik verzeichnet Uta Gerlach-Laxner (Köln 1994, Nummern mit „G“; die Deutsche Biographie nennt 1995). Laut Deutscher Biographie umfasst das Werk mehr als 850 Leinwandbilder, Hunderte Aquarelle und ein umfangreiches druckgrafisches Werk.",
+  "provenienz": "Mehrere Bilder kamen aus bekannten Sammlungen: „Le sacre du printemps I–IV“ und „Narrenkappe“ im Van-Ham-Teil „Galerie Michael Schultz“ (2022), „Keltern“ im Teil „Galerie Thomas | The Jagdfeld Collection“ (2025), „Gaukelei“ aus der Sammlung Dr. Walter Holzhausen in Bonn. „Aus Javéa I“ war schon 2004 bei Lempertz versteigert worden."
+ },
+ "leben": {
+  "text": [
+   "Hann Trier, eigentlich Hans Gerd Franz Trier, wurde 1915 in Kaiserswerth bei Düsseldorf geboren und wuchs in Köln auf. Ab 1934 studierte er an der Kunstakademie Düsseldorf, 1938 legte er in Berlin das Kunsterzieherexamen ab. Im Krieg war er Soldat und von 1941 bis 1944 technischer Zeichner in Berlin. 1946 kehrte er ins Rheinland zurück und hatte von 1947 bis 1957 Wohnung und Atelier in Bornheim bei Bonn. 1947 gründete er mit Joseph Faßbender, Hubert Berke und anderen die Donnerstag-Gesellschaft, die bis 1950 auf Schloss Alfter Veranstaltungen ausrichtete.",
+   "Anfang der 1950er Jahre wandte er sich der Darstellung von Bewegung zu. Von 1952 bis 1955 arbeitete er in Medellín in Kolumbien. Mitte der 1950er Jahre begann er, mit beiden Händen gleichzeitig zu malen; die Deutsche Biographie nennt die Serie „Vibrationen“ (1955–61) seinen künstlerischen Durchbruch. Er nahm an der documenta 1, 2 und 3 teil (1955, 1959, 1964). 1957 bis 1980 leitete er eine Malklasse an der Hochschule für bildende Künste Berlin; zu seinen Schülern gehörten Georg Baselitz, Peter Klasen und Marwan.",
+   "Ab den 1970er Jahren entstanden große Deckengemälde: 1972 und 1974 im Schloss Charlottenburg in Berlin, 1979 in der Universität Heidelberg, 1979/80 im Kölner Rathaus, 1985 in der Residenz des deutschen Botschafters beim Heiligen Stuhl in Rom. Ab 1967 lebte er zeitweise in Castiglione della Pescaia in der Toskana, ab 1972 in Mechernich-Vollem in der Eifel. 1995 wurde die Kunststiftung Hann Trier gegründet, in Zusammenarbeit mit dem Rheinischen Landesmuseum Bonn. Trier starb 1999 in Castiglione della Pescaia und wurde in Köln begraben. Sein Bruder war der Kunsthistoriker Eduard Trier."
+  ],
+  "museen": "Rheinisches Landesmuseum Bonn, Museum Ludwig Köln, Berlinische Galerie, Saarlandmuseum Saarbrücken, Kunststiftung Hann Trier; das Städel Museum in Frankfurt führt ihn in seiner Online-Sammlung.",
+  "timeline": [
+   [
+    "1915",
+    "geboren in Kaiserswerth, aufgewachsen in Köln"
+   ],
+   [
+    "1934",
+    "Studium an der Kunstakademie Düsseldorf"
+   ],
+   [
+    "1938",
+    "Kunsterzieherexamen in Berlin"
+   ],
+   [
+    "1941–44",
+    "technischer Zeichner in Berlin"
+   ],
+   [
+    "1947",
+    "Mitgründer der Donnerstag-Gesellschaft; Atelier in Bornheim bis 1957"
+   ],
+   [
+    "1952–55",
+    "Arbeit in Medellín, Kolumbien"
+   ],
+   [
+    "1955",
+    "documenta 1, später auch 1959 und 1964"
+   ],
+   [
+    "1957",
+    "Malklasse an der HfbK Berlin, bis 1980"
+   ],
+   [
+    "1966",
+    "Kunstpreis der Stadt Berlin"
+   ],
+   [
+    "1972",
+    "Deckengemälde im Schloss Charlottenburg; Wohnsitz in der Eifel"
+   ],
+   [
+    "1979/80",
+    "Deckenbild im Kölner Rathaus"
+   ],
+   [
+    "1995",
+    "Kunststiftung Hann Trier"
+   ],
+   [
+    "1999",
+    "gestorben in Castiglione della Pescaia"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Bilder der 1950er Jahre",
+   "d": "Bewegte Kompositionen in Eitempera, oft mit Titeln aus Tanz und Spiel. Meist mittlere Formate.",
+   "bsp": "„Gaukelei“ 2.500 €, „Oho (Interjektion)“ 10.000 €"
+  },
+  {
+   "t": "Große Leinwände",
+   "d": "Formate weit über einem Meter, aus den 1960er und 1970er Jahren.",
+   "bsp": "„Narrenkappe“ 9.000 €, „Keltern“ rund 45.000 €"
+  },
+  {
+   "t": "Mehrteilige Werke",
+   "d": "Zyklen aus mehreren Tafeln, selten im Angebot.",
+   "bsp": "„Le sacre du printemps I–IV“ {max_hammer} €"
+  },
+  {
+   "t": "Aquarelle und Zeichnungen",
+   "d": "Unikate auf Papier, vor allem Aquarelle, dazu Zeichnungen in Bleistift, Tusche und Kreide.",
+   "bsp": "850 € bis 1.800 € bei Bassenge"
+  },
+  {
+   "t": "Druckgrafik",
+   "d": "Farbradierungen, Lithografien und Mappenwerke, oft in Auflagen von 100 und mehr.",
+   "bsp": "Kleist-Buch mit 10 Radierungen 600 €"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Gemälde von Hann Trier wert?",
+   "a": "Das hängt vor allem vom Format ab. Die sechs Gemälde auf dieser Seite brachten zwischen {min_all} und {max_hammer} € Zuschlag. Bilder um 60 bis 80 cm lagen bei 2.500 bis 10.000 €, große Leinwände und mehrteilige Werke deutlich höher."
+  },
+  {
+   "q": "Was bringen Aquarelle und Grafik?",
+   "a": "Aquarelle und Zeichnungen erzielten bei Bassenge 850 bis 1.800 € Zuschlag, Druckgrafik meist weniger. Ein Buch mit zehn Radierungen brachte 600 €."
+  },
+  {
+   "q": "Woran erkenne ich ein Original?",
+   "a": "Gemälde tragen vorne meist das ligierte Monogramm „ht“ mit Jahreszahl, hinten oft Signatur, Titel und Datum. Die Nummer im Werkverzeichnis der Gemälde hilft bei der Bestimmung. Bei Grafik auf eigenhändige Signatur und Nummerierung achten."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Ja. Für die Gemälde: Fehlemann/Gerlach-Laxner (Köln 1990) und Euler-Schmidt/Gerlach-Laxner (Köln 1995). Für die Druckgrafik: Uta Gerlach-Laxner (Köln 1994)."
+  },
+  {
+   "q": "Wo verkauft man einen Trier am besten?",
+   "a": "In den Daten dieser Seite kamen Gemälde vor allem in Köln zur Auktion, bei Van Ham und Lempertz. Arbeiten auf Papier verkaufte Bassenge in Berlin. Vor der Einlieferung lohnt der Vergleich von Schätzung, Aufgeld und Kosten."
+  },
+  {
+   "q": "Fällt beim Kauf Folgerecht an?",
+   "a": "Ja. Trier starb 1999, seine Werke sind bis Ende 2069 urheberrechtlich geschützt. Bis dahin fällt beim Weiterverkauf im Kunsthandel die Folgerechtsvergütung an; Van Ham berechnet dafür 1,5 % auf den Zuschlag."
+  }
+ ],
+ "methodik_extra": "Van Ham, Lempertz, Bassenge und Ketterer veröffentlichen Preise mit Aufgeld. Der Zuschlag ist zurückgerechnet: Van Ham 32 % laut Losseiten, Lempertz 26 % (2022), Bassenge 25 % („Regelaufgeld“ laut Losseiten); die Ergebnisse sind runde Zahlen. Zwei Zuschläge sind geschätzt: „Keltern“ (Van Ham, Dezember 2025) steht mit 68.009 € auf der Künstlerseite, das entspricht genau 45.000 € mit 27 % Aufgeld und 19 % Umsatzsteuer, der Satz steht aber nicht auf der Seite. Ketterer nennt für „Aus Javéa I“ (Online-Auktion August 2024) 3.937 € mit Aufgeld; der Satz für diese Auktion war nicht prüfbar, 3.100 € entsprechen 27 %, bei 25 % wären es rund 3.150 €. Für „Gaukelei“ stammt das Datum (Losende 3. Juli 2025) von der Losseite und das Ergebnis (3.300 € mit Aufgeld) von der Van-Ham-Künstlerseite. Nicht aufgenommen sind zehn Van-Ham-Lose, deren Losseiten kein Auktionsdatum zeigen (darunter Aquarelle, eine Collage von 1956, das Gemälde „Labyrinth III“ und die unverkauften „Uhu III“ und „Blaue Blumen“), zwei Gouachen einer Van-Ham-Online-Auktion vom Juli 2024 ohne sichtbares Ergebnis, „Kreisel“ (Van Ham, Ergebnis unklar), das Lempertz-Los „Brise“ (2022, Losseite nicht abrufbar), ein Bassenge-Nachverkauf von 2026 und Lose, die nur bei Preisportalen auftauchen.",
+ "quellen": [
+  {
+   "t": "Van Ham, Künstlerseite Hann Trier (Ergebnisse mit Aufgeld, u. a. „Gaukelei“ und „Keltern“)",
+   "u": "https://www.van-ham.com/en/artist/hann-trier.html"
+  },
+  {
+   "t": "Van Ham, „Keltern“, Auktion 541 am 3. Dezember 2025, Los 23",
+   "u": "https://www.van-ham.com/en/artist/hann-trier/keltern.html"
+  },
+  {
+   "t": "Van Ham, „Le sacre du printemps I–IV“, Auktion 483 am 1. Juni 2022, Los 235",
+   "u": "https://www.van-ham.com/en/artist/hann-trier/le-sacre-du-printemps-i-iv.html"
+  },
+  {
+   "t": "Van Ham, „Narrenkappe“, Auktion 483 am 1. Juni 2022, Los 236",
+   "u": "https://www.van-ham.com/en/artist/hann-trier/narrenkappe.html"
+  },
+  {
+   "t": "Van Ham, „Lob der Hand“, Losseite mit Angaben zu Auflage und Signatur",
+   "u": "https://auction.van-ham.com/en/hann-trier-from-lob-der-hand-to-henri-focillon-l-eloge-de-la-main--id-79222-item.html"
+  },
+  {
+   "t": "Van Ham, „Uhu III“, Losseite (unverkauft, Fehlemann Nr. 526)",
+   "u": "https://auction.van-ham.com/en/hann-trier-uhu-iii--id-75063-item.html"
+  },
+  {
+   "t": "Van Ham, Gouache über Offset (Artium Edition, 1994), Losseite",
+   "u": "https://auction.van-ham.com/en/hann-trier-untitled--id-68130-item.html"
+  },
+  {
+   "t": "Lempertz, Künstlerverzeichnis Hann Trier",
+   "u": "https://www.lempertz.com/en/catalogues/artist-index/detail/trier-hann.html"
+  },
+  {
+   "t": "Bassenge, Künstlerverzeichnis Hann Trier (Technik, Maße, Ergebnisse)",
+   "u": "https://bassenge.com/extras/artistindexquery?search=Trier%2C+Hann&page=1&limit=15&view=list&destination=onlyCurrentCatalogues&lotFilter=bestMatch"
+  },
+  {
+   "t": "Bassenge, Katalog 117 Moderne Kunst Teil I, Auktion 12. Juni 2021",
+   "u": "https://bassenge.com/kataloge/117/MKI?page=11&limit=30&view=list"
+  },
+  {
+   "t": "Bassenge, Katalog 121 Moderne und Zeitgenössische Kunst I, Auktion 10. Juni 2023",
+   "u": "https://www.bassenge.com/catalogues/121/MKI?page=12&limit=15&view=list"
+  },
+  {
+   "t": "Ketterer Kunst, Künstlerseite Hann Trier (Biografie)",
+   "u": "https://www.kettererkunst.com/bio/HannTrier-1915-1999.php"
+  },
+  {
+   "t": "Wikipedia (englisch): Hann Trier (u. a. Auktionsrekord 2015, documenta-Teilnahmen)",
+   "u": "https://en.wikipedia.org/wiki/Hann_Trier"
+  },
+  {
+   "t": "Deutsche Biographie: Trier, Hann (NDB 26, 2016)",
+   "u": "https://www.deutsche-biographie.de/pnd118623893.html"
+  },
+  {
+   "t": "Städel Museum, Sammlung online: Hann Trier",
+   "u": "https://sammlung.staedelmuseum.de/en/person/trier-hann"
+  },
+  {
+   "t": "Berlinische Galerie, Sammlung online: Hann Trier",
+   "u": "https://sammlung-online.berlinischegalerie.de/de/artists/artist/6260"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Van Ham",
+   "date": "2022-06-01",
+   "sale": "483 Modern | Post War | Contemporary | Galerie Michael Schultz",
+   "lot": "235",
+   "title": "Le sacre du printemps I–IV",
+   "year": "1979",
+   "tech": "Eitempera auf Leinwand, vierteilig",
+   "medium": "lw",
+   "h": 116,
+   "w": 97,
+   "lo": 20000,
+   "hammer": 55000,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/hann-trier/le-sacre-du-printemps-i-iv.html",
+   "note": "Ergebnis 72.600 € mit 32 % Aufgeld; Maße je Tafel; Schätzung laut Künstlerseite nur als ein Wert"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-06-01",
+   "sale": "483 Modern | Post War | Contemporary | Galerie Michael Schultz",
+   "lot": "236",
+   "title": "Narrenkappe",
+   "year": "1970",
+   "tech": "Eitempera und Öl auf Leinwand",
+   "medium": "lw",
+   "h": 146,
+   "w": 134,
+   "lo": 10000,
+   "hammer": 9000,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/hann-trier/narrenkappe.html",
+   "note": "Ergebnis 11.880 € mit 32 % Aufgeld"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-07-03",
+   "sale": "Abstraction to Figuration (online)",
+   "lot": "16",
+   "title": "Gaukelei",
+   "year": "1954",
+   "tech": "Eitempera auf Leinwand",
+   "medium": "lw",
+   "h": 65.5,
+   "w": 81,
+   "lo": 3500,
+   "hi": 4500,
+   "hammer": 2500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/hann-trier-gaukelei--id-78145-item.html",
+   "note": "Losende 3.7.2025 laut Losseite (Startpreis 3.500 €); Ergebnis 3.300 € mit 32 % Aufgeld laut https://www.van-ham.com/en/artist/hann-trier.html; Fehlemann 1990 Nr. 123; Provenienz Sammlung Dr. Walter Holzhausen, Bonn"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-12-03",
+   "sale": "541 Modern | Post War | Contemporary | Galerie Thomas | The Jagdfeld Collection",
+   "lot": "23",
+   "title": "Keltern",
+   "year": "1960",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 195.5,
+   "w": 129.5,
+   "lo": 45000,
+   "hammer": 45000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/hann-trier/keltern.html",
+   "note": "Ergebnis 68.009 € mit Aufgeld; entspricht 45.000 € × 1,27 × 1,19 (27 % Aufgeld plus 19 % USt, Regelbesteuerung); Satz nicht auf der Seite genannt"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2021-06-12",
+   "sale": "117 Eine Berliner Privatsammlung",
+   "lot": "8094",
+   "title": "Ohne Titel",
+   "year": "1965",
+   "tech": "Farbige Wachskreiden auf Velin",
+   "medium": "papier",
+   "h": 23.8,
+   "w": 18,
+   "hammer": 850,
+   "status": "v",
+   "url": "https://bassenge.com/lots/117/80940",
+   "note": "Ergebnis 1.063 € inkl. 25 % Regelaufgeld; Technik und Maße laut Bassenge-Künstlerverzeichnis"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2021-06-12",
+   "sale": "117 Moderne Kunst Teil I",
+   "lot": "8530",
+   "title": "Ohne Titel",
+   "year": "1982",
+   "tech": "Aquarell auf BFK Rives-Velin",
+   "medium": "papier",
+   "h": 50.3,
+   "w": 65.4,
+   "hammer": 1800,
+   "status": "v",
+   "url": "https://bassenge.com/lots/117/85300",
+   "note": "Ergebnis 2.250 € inkl. 25 % Regelaufgeld; signiert „HTrier“ (ligiert) und datiert; Technik und Maße laut Katalogliste"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2023-06-09",
+   "sale": "121 Zeitgenössische Kunst II (online)",
+   "lot": "7426",
+   "title": "Heinrich von Kleist. Über die allmähliche Verfertigung der Gedanken beim Reden",
+   "year": "1958",
+   "tech": "Buch mit 10 Radierungen mit Aquatinta, davon 8 farbig",
+   "medium": "druck",
+   "h": 28,
+   "w": 28.5,
+   "hammer": 600,
+   "status": "v",
+   "url": "https://bassenge.com/lots/121/74260",
+   "note": "Ergebnis 750 € inkl. 25 % Regelaufgeld; Maße des Einbands laut Bassenge-Künstlerverzeichnis"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2023-06-10",
+   "sale": "121 Moderne und Zeitgenössische Kunst I",
+   "lot": "8169",
+   "title": "Informelle Komposition",
+   "year": "1971",
+   "tech": "Aquarell auf festem Velin",
+   "medium": "papier",
+   "h": 64.7,
+   "w": 76,
+   "hammer": 1000,
+   "status": "v",
+   "url": "https://bassenge.com/lots/121/81690",
+   "note": "Ergebnis 1.250 € inkl. 25 % Regelaufgeld; Technik und Maße laut Katalogliste; Provenienz Privatbesitz Berlin"
+  },
+  {
+   "house": "Lempertz",
+   "date": "2022-06-02",
+   "sale": "1201 Day Sale – Contemporary Art",
+   "lot": "301",
+   "title": "Oho (Interjektion)",
+   "year": "1952",
+   "tech": "Eitempera auf Leinwand",
+   "medium": "lw",
+   "h": 60,
+   "w": 80,
+   "lo": 4000,
+   "hi": 6000,
+   "hammer": 10000,
+   "status": "v",
+   "url": "https://www.lempertz.com/en/catalogues/lot/1201-2/301-hann-trier.html",
+   "note": "Ergebnis 12.600 € mit Aufgeld, 12.600 ÷ 1,26 = 10.000"
+  },
+  {
+   "house": "Ketterer",
+   "date": "2024-08-15",
+   "sale": "22 Online Sale",
+   "lot": "123001331",
+   "title": "Aus Javéa I",
+   "year": "1963",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 73,
+   "w": 60.5,
+   "lo": 3000,
+   "hammer": 3100,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.kettererkunst.de/kunst/kd/details.php?obnr=123001331&anummer=22",
+   "note": "Ergebnis 3.937 € inkl. Aufgeld; Satz für Online-Auktionen 2024 nicht prüfbar; 3.937 ÷ 1,27 = 3.100, bei 25 % rund 3.150; WVZ-Nr. 442; zuvor Lempertz 858, 4.6.2004, Los 491"
+  }
+ ]
+}

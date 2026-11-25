@@ -51,8 +51,11 @@
    "slug": "hann-trier",
    "name": "Hann Trier",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T01:11:38Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T01:11:38Z",
+   "done_at": "2026-11-25T01:36:00Z",
+   "lots": 10,
+   "note": "volle Seite; nur 10 datierte Lose (6 Gemälde). Offen: 10 Van-Ham-Lose ohne Datum auf der Losseite (u. a. Labyrinth III, Uhu III unverkauft), Lempertz 1201 Los 302 „Brise“ (Losseite nicht abrufbar), Ketterer-Onlinelose ohne Datum"
   },
   {
    "slug": "gregor-von-bochmann",
