@@ -1,0 +1,771 @@
+{
+ "slug": "josef-wenglein",
+ "name": "Josef Wenglein",
+ "status": "published",
+ "region": "alpen",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1845-10-05",
+  "place": "München",
+  "text": "5. Oktober 1845 München"
+ },
+ "death": {
+  "date": "1919-01-18",
+  "place": "Bad Tölz",
+  "text": "18. Januar 1919 Bad Tölz"
+ },
+ "same_as": [
+  "https://en.wikipedia.org/wiki/Joseph_Wenglein",
+  "https://d-nb.info/gnd/117286052",
+  "https://www.deutsche-biographie.de/117286052.html",
+  "http://vocab.getty.edu/page/ulan/500016294"
+ ],
+ "sort_name": "Wenglein",
+ "split_year": 2024,
+ "list_line": "Münchner Landschaftsmaler · Gemälde meist {q1_all}–{q3_all} € Zuschlag",
+ "lead": "Münchner Landschaftsmaler des 19. Jahrhunderts, bekannt für Moore, Jäger und Vieh am Wasser aus dem Voralpenland und dem Isartal um Tölz. Diese Seite fasst zusammen, was seine Bilder im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Schule",
+   "Münchner Landschaftsmalerei; 1866–1870 bei Johann Gottfried Steffan, 1870–1873 bei Adolf Lier"
+  ],
+  [
+   "Hauptmotive",
+   "Moore um Dachau und Murnau, Isartal um Tölz, Chiemsee, Vieh an der Tränke, Jäger"
+  ],
+  [
+   "Werkverzeichnis",
+   "in den geprüften Quellen keines genannt"
+  ],
+  [
+   "Museen",
+   "Neue Pinakothek und Lenbachhaus in München, Städel in Frankfurt"
+  ]
+ ],
+ "marktwert": "Gemälde meist {q1_all}–{q3_all} € Zuschlag, im Median {med_all} €; höchster Zuschlag {max_hammer} €",
+ "absatzmarkt": "Oberbayern, vor allem am Chiemsee; daneben Köln",
+ "headline": "Gemälde bringen meist {q1_all} bis {q3_all} €, der höchste Zuschlag seit 2021 lag bei {max_hammer} €",
+ "kurz": "Josef Wenglein wird vor allem in Oberbayern versteigert. Auf dieser Seite stehen {n_lots} Lose von {period}, {sold_rate} erhielten einen Zuschlag. {n_house1} davon bot das Auktionshaus Gailer in Breitbrunn am Chiemsee an, {n_house2} Van Ham in Köln. Gemälde brachten meist {q1_all} bis {q3_all} €, im Median {med_all} €; der höchste Zuschlag lag bei {max_hammer} €. Zeichnungen und Aquarelle brachten 50 bis 500 €.",
+ "figs": [
+  [
+   "{max_hammer} €",
+   "höchster Zuschlag: „{max_title}“, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde, {period}"
+  ],
+  [
+   "{q1_all}–{q3_all} €",
+   "mittlere Hälfte der Gemälde-Zuschläge"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag, {period}"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Das Format erklärt die Preise kaum. Den höchsten Zuschlag erzielte im September 2026 ein kleines Ölbild auf Holz: „Kühe am Wasser“ ({max_size}) brachte bei Gailer {max_hammer} €. Die große „Kuhherde an der Tränke“ (109,5 × 156 cm) erzielte dort 2022 rund 3.000 €. Hoch lagen auch zwei Jagdbilder aus dem Moor: „Moorlandschaft mit Jägern“ (1888, 61,5 × 80 cm) mit rund 3.800 € bei Gailer 2022 und „Jäger im Dachauer Moos“ (61 × 100 cm) mit rund 4.000 € bei Stahl 2021.",
+   "Bei Van Ham in Köln brachten drei Gemälde 2.200 bis 3.500 €, alle an oder unter der unteren Schätzung. „Abendstimmung am Chiemsee“ (54 × 117,5 cm) erzielte im November 2024 3.500 €. Zwei Bilder blieben ohne Zuschlag: das Winterbild „Heiligabend“ (1886) bei einer Schätzung von 5.000–10.000 € im Mai 2023 und die Studie „Hochmoor in Oberbayern“ (1889) bei 1.800–2.200 € im Mai 2024.",
+   "Im Median liegen die Gemälde-Zuschläge der Jahre {years_new} bei {med_new} €, in den Jahren {years_old} bei {med_old} €. In der jüngeren Gruppe sind mehr kleine Bilder, und die Gailer-Werte von 2021 und 2022 sind zurückgerechnet (siehe Methodik). Bei {n_paint} Gemälden lässt sich daraus kein Trend ablesen.",
+   "Zeichnungen und Aquarelle sind selten und günstig: Zwei Bleistiftzeichnungen brachten bei Gailer 50 und 120 €, das Aquarell „Angelnde Kinder am Bach“ 500 €."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Gailer 28 % einschließlich Umsatzsteuer (Bedingungen Stand Januar 2026; bei Live-Geboten über lot-tissimo zusätzlich 5,95 %), bei Van Ham 32 %, bei Stahl 22 % zuzüglich Umsatzsteuer, bei Ketterer seit Mai 2026 34 %.",
+  "spitzen": "Früher lagen Spitzenpreise höher: Van Ham versteigerte im November 2011 eine große „Weite Landschaft im Dachauer Moos“ für 16.500 € mit Aufgeld, bei einer Schätzung von 5.000 €."
+ },
+ "euro_ok": [
+  "16.500",
+  "3.780",
+  "307",
+  "64",
+  "100"
+ ],
+ "absatz": {
+  "text": [
+   "Das Auktionshaus Gailer in Breitbrunn am Chiemsee ist der wichtigste Ort für Wenglein. Es bot ihn seit Oktober 2021 in zehn Auktionen an, zuletzt im November 2026; {n_house1} der {n_lots} Lose auf dieser Seite stammen von dort. Die Motive passen zur Region: Pang bei Rosenheim, das Dachauer und das Murnauer Moos, Kühe am Wasser.",
+   "Van Ham in Köln bietet Wenglein regelmäßig an, einzelne Lose kamen 2021 bei Ketterer in München und Stahl in Hamburg. Neumeister in München bot ihn laut veryimportantlot.com 2022 bis 2025 mehrfach an, Schloss Ahlden 2024 und 2025 große Jagdlandschaften. Deren Ergebnisse ließen sich auf den Seiten der Häuser nicht prüfen und fehlen hier. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Mittel bis hoch. {sold_rate} Losen erhielten einen Zuschlag. Ohne Zuschlag blieben bei Van Ham ein hoch geschätztes Winterbild und eine Moorstudie, bei Gailer im September 2026 zwei doublierte Gemälde."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "Meist „J. Wenglein“ unten links oder rechts, oft mit Ort und Jahr: „J. Wenglein / Tölz 90“, „J. Wenglein / Chiemsee“, „J. Wenglein 24. December 1886“; Schloss Ahlden beschreibt auch die Ortsangabe „Mchn.“. Kleine Bilder tragen teils nur „Wenglein“ oder das Monogramm „JW“."
+   ],
+   [
+    "Josef oder Joseph",
+    "Beide Schreibweisen kommen in Katalogen und Museen vor. Gemeint ist derselbe Maler (1845–1919)."
+   ],
+   [
+    "Rückseiten und Herkunft",
+    "Etiketten Münchner Kunsthandlungen kommen vor, etwa der Galerie Zinckgraf und der Galerie Heinemann. Ketterer nannte 2021 eine Provenienz über E. A. Fleischmann's Hofkunsthandlung in München (Auktion 1901). Solche Spuren stützen eine Zuschreibung, ersetzen aber keine Prüfung."
+   ],
+   [
+    "Studie oder Gemälde",
+    "Wenglein malte Studien zu großen Bildern. Die Van-Ham-Studie „Hochmoor in Oberbayern“ gehört zum Gemälde von 1889 in der Neuen Pinakothek. Die Sammlungen der Pinakothek und des Lenbachhauses sind online einsehbar und eignen sich zum Vergleich."
+   ],
+   [
+    "Radierungen",
+    "Das Städel führt ihn auch als Radierer. Eine Radierung ist ein Druck in Auflage, kein Unikat; typisch ist der Plattenrand, der eingedrückte Rand der Druckplatte im Papier."
+   ]
+  ],
+  "preis_drueckt": "Viele Bilder sind doubliert, also auf eine neue Leinwand gezogen. Das schließt einen Verkauf nicht aus: „Waldlandschaft mit Mühlbach“ (doubliert) brachte 2024 2.200 €. Zwei doublierte Gemälde blieben bei Gailer im September 2026 ohne Ergebnis. Die restaurierte „Ländliche Idylle“ mit Farbverlusten brachte 2026 240 €.",
+  "werkverzeichnis": "In den geprüften Quellen ist kein Werkverzeichnis und keine Monografie genannt. Wer Expertisen ausstellt, war nicht festzustellen. Zum Vergleich dienen die Bestände der Bayerischen Staatsgemäldesammlungen (13 Werke) und des Lenbachhauses (21 Werke).",
+  "provenienz": "Belegt sind Verkäufe auf der Ausstellung im Glaspalast (1883) und über den Münchner Kunsthandel (E. A. Fleischmann's Hofkunsthandlung, 1901). Alte Etiketten von Galerien und Ausstellungen auf der Rückseite helfen, die Herkunft nachzuvollziehen. Bei Bildern, die 1933–1945 den Besitzer wechselten, gehört die Herkunft geprüft."
+ },
+ "leben": {
+  "text": [
+   "Josef Wenglein wurde 1845 in München geboren. Er studierte zunächst Jura an der Münchner Universität, entschied sich dann für die Malerei und besuchte auch die Akademie. Von 1866 bis 1870 lernte er bei dem Landschaftsmaler Johann Gottfried Steffan, von 1870 bis 1873 bei Adolf Lier, der in Frankreich Kontakt zu den Malern der Schule von Barbizon hatte.",
+   "Seine Motive fand er in der oberbayerischen Hochebene und im Isartal: Moore um Dachau und Murnau, die Gegend von Pang bei Rosenheim, die Isar bei Tölz und den Chiemsee. Oft staffierte er die Landschaften mit Jägern, Hirten oder Vieh am Wasser. 1883 erwarb die Neue Pinakothek auf der internationalen Kunstausstellung im Glaspalast sein großes Bild „Kalksteinsammlerinnen im Isarbett bei Tölz“ (136 × 209 cm).",
+   "1883 wurde er Professor, 1886 Ehrenmitglied der Münchner Akademie. Zu seinen Schülern zählte Otto Reiniger. Die Pinakothek nennt ihn einen der letzten bedeutenden Landschaftsmaler der Münchner Schule des 19. Jahrhunderts. Wenglein starb 1919 in Bad Tölz."
+  ],
+  "museen": "Bayerische Staatsgemäldesammlungen, Neue Pinakothek München (13 Werke, u. a. „Kalksteinsammlerinnen im Isarbett bei Tölz“, 1883, und „Hochmoor in Oberbayern“, 1889); Lenbachhaus München (21 Werke, u. a. „Isarlandschaft bei Föhring“, 1884, und „Häuser in Tölz“, 1881); Städel Museum, Frankfurt.",
+  "timeline": [
+   [
+    "1845",
+    "geboren in München"
+   ],
+   [
+    "1866",
+    "Schüler von Johann Gottfried Steffan (bis 1870)"
+   ],
+   [
+    "1868",
+    "„Adolf Lier beim Malen an der Kalter“"
+   ],
+   [
+    "1870",
+    "Schüler von Adolf Lier (bis 1873)"
+   ],
+   [
+    "1883",
+    "Neue Pinakothek kauft „Kalksteinsammlerinnen im Isarbett bei Tölz“; Professor"
+   ],
+   [
+    "1886",
+    "Ehrenmitglied der Münchner Akademie"
+   ],
+   [
+    "1889",
+    "„Hochmoor in Oberbayern“"
+   ],
+   [
+    "1919",
+    "gestorben in Bad Tölz"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Moore und Jagd",
+   "d": "Dachauer und Murnauer Moos mit Jägern, Entenjagd, Schilfernte.",
+   "bsp": "„Jäger im Dachauer Moos“: rund 4.000 €"
+  },
+  {
+   "t": "Vieh am Wasser",
+   "d": "Kühe an der Tränke und Herden am Ufer, groß auf Leinwand und klein auf Holz.",
+   "bsp": "„Kühe am Wasser“: {max_hammer} €"
+  },
+  {
+   "t": "Isar, Chiemsee und Seen",
+   "d": "Weite Uferlandschaften im Abendlicht.",
+   "bsp": "„Abendstimmung am Chiemsee“: 3.500 €"
+  },
+  {
+   "t": "Wald, Bach und Mühle",
+   "d": "Waldränder und Mühlbäche, oft mit Ort und Jahr bezeichnet.",
+   "bsp": "„Waldlandschaft mit Mühlbach“: 2.200 €"
+  },
+  {
+   "t": "Zeichnungen und Aquarelle",
+   "d": "Bleistiftstudien aus Pang bei Rosenheim, seltene Aquarelle.",
+   "bsp": "50 € bis 500 €"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Josef Wenglein wert?",
+   "a": "Gemälde erzielten seit 2021 meist {q1_all} bis {q3_all} € Zuschlag, im Median {med_all} €. Der höchste Zuschlag lag bei {max_hammer} €. Beim Kauf kommt das Aufgeld des Hauses hinzu, je nach Haus etwa ein Viertel bis ein Drittel des Zuschlags."
+  },
+  {
+   "q": "Wo verkauft man einen Wenglein am besten?",
+   "a": "In Oberbayern. Gailer in Breitbrunn am Chiemsee bot ihn seit 2021 am häufigsten an, Van Ham in Köln regelmäßig. Vor der Einlieferung lohnt der Vergleich von Schätzung, Aufgeld und Kosten."
+  },
+  {
+   "q": "Warum brachte ein kleines Bild mehr als ein großes?",
+   "a": "Das Format allein entscheidet nicht. „Kühe am Wasser“ ({max_size}) brachte 2026 {max_hammer} €, die „Kuhherde an der Tränke“ (109,5 × 156 cm) 2022 rund 3.000 €. Motiv, Zustand und Qualität zählen mehr als die Größe."
+  },
+  {
+   "q": "Josef oder Joseph Wenglein?",
+   "a": "Beide Schreibweisen bezeichnen denselben Münchner Maler (1845–1919). Er signierte meist „J. Wenglein“, oft mit Ort und Jahr."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "In den geprüften Quellen ist keines genannt. Zum Vergleich eignen sich die Online-Sammlungen der Pinakothek und des Lenbachhauses."
+  },
+  {
+   "q": "Was bringen Zeichnungen von Wenglein?",
+   "a": "Wenig. Zwei Bleistiftzeichnungen brachten bei Gailer 50 und 120 €, ein Aquarell 500 €."
+  }
+ ],
+ "methodik_extra": "Gailer nennt auf der Künstlerseite Ergebnisse mit Aufgeld, ohne Losnummer. Laut Versteigerungsbedingungen (Stand Januar 2026) beträgt das Aufgeld 28 % einschließlich Umsatzsteuer; die Katalogseiten der Auktion 28 zeigen für zwei Lose den Zuschlag (240 € und 50 €), die Künstlerseite dafür 307 € und 64 €, also 28 % auf volle Euro gekürzt. Die Ergebnisse von 2023 bis 2026 ergeben so runde Zuschläge. Die Ergebnisse von 2021 und 2022 passen nicht zu 28 %, aber genau zu 25 %; diese fünf Zuschläge sind deshalb geschätzt. Van Ham veröffentlicht Preise mit 32 % Aufgeld laut Losseiten; die Zuschläge sind runde Zahlen. Stahl nennt einen auf 100 € gerundeten Erlös mit Aufgeld, zurückgerechnet mit 22 % zuzüglich Umsatzsteuer auf das Aufgeld; Ketterer nennt das Ergebnis inklusive Aufgeld, der Satz für Dezember 2021 war nicht prüfbar, 25 % ergeben 2.400 €. Beide Zuschläge sind geschätzt. Das Datum von „Heiligabend“ (Van Ham) stammt von veryimportantlot.com, „Hochmoor in Oberbayern“ ist über das folgende Los derselben Auktion datiert. Nicht aufgenommen sind „Herbststimmung im Moor“ (Lempertz, Oktober 2024, laut Künstlerseite 3.780 € mit Aufgeld; Losseite nicht abrufbar, Technik und Maße unbekannt), Lose von Neumeister (Website nicht abrufbar), Lose von Schloss Ahlden ohne veröffentlichtes Ergebnis und Ketterer-Lose ohne Datum.",
+ "quellen": [
+  {
+   "t": "Gailer Kunstauktionshaus am Chiemsee, Künstlerseite Josef Wenglein (Ergebnisse)",
+   "u": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein"
+  },
+  {
+   "t": "Gailer, Auktion 28 (November 2026), Gemälde 19. Jahrhundert, Los 444 mit Zuschlag",
+   "u": "https://www.gailerauktionen.de/auktionen/auktion-28-internationale-kunst-fundstuecke/gemaelde-und-skulpturen-19-jahrhundert"
+  },
+  {
+   "t": "Gailer, Auktion 28 (November 2026), Arbeiten auf Papier 19. Jahrhundert, Los 257 mit Zuschlag",
+   "u": "https://www.gailerauktionen.de/auktionen/auktion-28-internationale-kunst-fundstuecke/arbeiten-auf-papier-19-jahrhundert"
+  },
+  {
+   "t": "Gailer, Versteigerungsbedingungen (Stand Januar 2026)",
+   "u": "https://www.gailerauktionen.de/kaufen/versteigerungsbedingungen"
+  },
+  {
+   "t": "Gailer, Auktionstermine",
+   "u": "https://www.gailerauktionen.de/auktionen/auktionstermine"
+  },
+  {
+   "t": "Gailer, Impressum (Breitbrunn am Chiemsee)",
+   "u": "https://www.gailerauktionen.de/impressum"
+  },
+  {
+   "t": "Van Ham, Künstlerseite Josef Wenglein",
+   "u": "https://www.van-ham.com/en/artist/josef-wenglein.html"
+  },
+  {
+   "t": "Van Ham, „Abendstimmung am Chiemsee“, Auktion 524 (14. November 2024)",
+   "u": "https://www.van-ham.com/en/artist/josef-wenglein/abendstimmung-am-chiemsee.html"
+  },
+  {
+   "t": "Van Ham, „Waldlandschaft mit Mühlbach“, Auktion 516 (17. Mai 2024)",
+   "u": "https://www.van-ham.com/en/artist/josef-wenglein/waldlandschaft-mit-muehlbach.html"
+  },
+  {
+   "t": "Van Ham, „Moorlandschaft mit Rehen“, Auktion 490 (17. November 2022)",
+   "u": "https://www.van-ham.com/en/artist/josef-wenglein/moorlandschaft-mit-rehen.html"
+  },
+  {
+   "t": "Van Ham, Auktion 304 (18. November 2011), Los 295, Ergebnis mit Aufgeld",
+   "u": "https://www.van-ham.com/en/artist/josef-wenglein/josef-wenglein-auktion-304-los-295.html"
+  },
+  {
+   "t": "Van Ham, „Am Ufer des Chiemsees“, Auktion 370 (2016), Signatur",
+   "u": "https://www.van-ham.com/en/artist/josef-wenglein/josef-wenglein-am-ufer-des-chiemsees.html"
+  },
+  {
+   "t": "Van Ham, „Am herbstlichen Waldrand“, Auktion 342 (2014), Monogramm „JW“",
+   "u": "https://www.van-ham.com/en/artist/josef-wenglein/josef-wenglein-am-herbstlichen-waldrand.html"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham 15. Mai 2023, Los 210 (Datum für „Heiligabend“)",
+   "u": "https://veryimportantlot.com/en/lot/view/josef-wenglein-951057"
+  },
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Josef Wenglein",
+   "u": "https://auktionshaus-stahl.de/en/artist/2914-josef-wenglein"
+  },
+  {
+   "t": "Auktionshaus Stahl, Versteigerungsbedingungen",
+   "u": "https://www.auktionshaus-stahl.de/en/conditions-of-sale"
+  },
+  {
+   "t": "Ketterer Kunst, Versteigerungsbedingungen (Stand 15.05.2026)",
+   "u": "https://www.kettererkunst.de/kaufen/versteigerungsbedingungen.php"
+  },
+  {
+   "t": "Lempertz, Künstlerverzeichnis Joseph Wenglein",
+   "u": "https://www.lempertz.com/de/kataloge/kuenstlerverzeichnis/detail/wenglein-joseph.html"
+  },
+  {
+   "t": "Lempertz, Auktion 1262 (26. Oktober 2024), Pressemitteilung",
+   "u": "https://www.lempertz.com/en/press/a-highly-important-collection-with-passion-and-expertise.html"
+  },
+  {
+   "t": "veryimportantlot.com, Neumeister, „Mühle am Bach“ (September 2025)",
+   "u": "https://veryimportantlot.com/en/lot/view/josef-wengleinjosef-wenglein-1466890"
+  },
+  {
+   "t": "veryimportantlot.com, Neumeister, „Landschaft mit Steinbrücke“ (Dezember 2022)",
+   "u": "https://veryimportantlot.com/en/lot/view/josef-wenglein-landschaft-mit-steinbrucke-858896"
+  },
+  {
+   "t": "veryimportantlot.com, Schloss Ahlden, „Frühherbstliche Landschaft mit Jägern bei der Treibjagd“ (November 2024)",
+   "u": "https://veryimportantlot.com/en/lot/view/joseph-wenglein-1340884"
+  },
+  {
+   "t": "veryimportantlot.com, Schloss Ahlden, „Entenjagd“ (Signatur mit Ortsangabe „Mchn.“)",
+   "u": "https://veryimportantlot.com/en/lot/view/joseph-wenglein-1845-munchen-1919-bad-tolz-1465159"
+  },
+  {
+   "t": "auction.fr, Schloss Ahlden, „Herbstlandschaft mit rastenden Jägern“ (April 2024), Etikett Galerie Heinemann",
+   "u": "https://www.auction.fr/en-US/lot/joseph-wenglein-1845-munchen-1919-bad-tolz-herbstlandschaft-mit-rastenden-jagern-1884-76637211"
+  },
+  {
+   "t": "Bayerische Staatsgemäldesammlungen, „Kalksteinsammlerinnen im Isarbett bei Tölz“ (1883)",
+   "u": "https://www.sammlung.pinakothek.de/en/artwork/bwx03on4m8"
+  },
+  {
+   "t": "Bayerische Staatsgemäldesammlungen, Künstlerseite Joseph Wenglein (13 Werke, Biografie)",
+   "u": "https://www.sammlung.pinakothek.de/en/artist/Qr4DwgbGpE/joseph-wenglein-1845"
+  },
+  {
+   "t": "Lenbachhaus, Sammlung online: Josef Wenglein",
+   "u": "https://www.lenbachhaus.de/en/discover/collection-online/person/wenglein-josef-7728"
+  },
+  {
+   "t": "Städel Museum, Sammlung: Josef Wenglein",
+   "u": "https://sammlung.staedelmuseum.de/en/person/wenglein-josef"
+  },
+  {
+   "t": "Deutsche Biographie: Wenglein, Joseph",
+   "u": "https://www.deutsche-biographie.de/117286052.html"
+  },
+  {
+   "t": "Wikipedia (englisch): Joseph Wenglein",
+   "u": "https://en.wikipedia.org/wiki/Joseph_Wenglein"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Stahl",
+   "date": "2021-09-25",
+   "sale": "352 Kunst und Antiquitäten",
+   "lot": "454",
+   "title": "Jäger im Dachauer Moos",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 61,
+   "w": 100,
+   "hammer": 4000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/101680-josef-wenglein-hunters-in-dachau-moss",
+   "note": "Stahl nennt „Erlös 5.000 €“, auf 100 € gerundeter Preis mit Aufgeld; zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (Satz laut Bedingungen Stand Juni 2026, für 2021 nicht prüfbar); signiert unten rechts „J. Wenglein“, kleine Restaurierungen; Titel aus dem Englischen („Hunters in Dachau Moss“), Bildname „jaeger im dachauer moos“"
+  },
+  {
+   "house": "Gailer",
+   "date": "2021-10-30",
+   "sale": "2",
+   "lot": "o. Nr. (Schilfernte im Murnauer Moor)",
+   "title": "Schilfernte im Murnauer Moor",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 43,
+   "w": 96,
+   "hammer": 1600,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 2",
+   "note": "Ergebnis 2.000 € mit Aufgeld laut Künstlerseite; 28 % (Bedingungen Stand Januar 2026) ergibt keinen runden Zuschlag. 25 % ergibt 1.600 €; Satz 2021/22 nicht prüfbar; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2021-10-30",
+   "sale": "2",
+   "lot": "o. Nr. (Schäfers Heimkehr)",
+   "title": "Schäfers Heimkehr",
+   "year": "1876",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 64,
+   "w": 53,
+   "hammer": 1200,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 2",
+   "note": "Ergebnis 1.500 € mit Aufgeld laut Künstlerseite; 28 % (Bedingungen Stand Januar 2026) ergibt keinen runden Zuschlag. 25 % ergibt 1.200 €; Satz 2021/22 nicht prüfbar; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Ketterer",
+   "date": "2021-12-11",
+   "sale": "523 Kunst des 19. Jahrhunderts",
+   "lot": "326",
+   "title": "Herbstliche Landschaft mit Jägern im Dachauer Moos",
+   "year": "um 1890",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 49,
+   "w": 67,
+   "lo": 2500,
+   "hammer": 2400,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.kettererkunst.de/kunst/kd/details.php?obnr=121001813&anummer=523&detail=1&raumbild=1",
+   "note": "Ergebnis 3.000 € inklusive Aufgeld; Satz Dezember 2021 nicht prüfbar (aktuelle Bedingungen ab 15.05.2026: 34 %); 3.000 ÷ 1,25 = 2.400; rechts unten signiert; Provenienz Sammlung Richard Braun, München (bis 1901), E. A. Fleischmann's Hofkunsthandlung, Auktion 29.3.1901, Los 17"
+  },
+  {
+   "house": "Gailer",
+   "date": "2022-04-30",
+   "sale": "4",
+   "lot": "o. Nr. (Kühe an der Tränke bei Abendstimmung)",
+   "title": "Kühe an der Tränke bei Abendstimmung",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 25.4,
+   "w": 45,
+   "hammer": 2400,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 4",
+   "note": "Ergebnis 3.000 € mit Aufgeld laut Künstlerseite; 28 % (Bedingungen Stand Januar 2026) ergibt keinen runden Zuschlag. 25 % ergibt 2.400 €; Satz 2021/22 nicht prüfbar; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2022-10-22",
+   "sale": "6",
+   "lot": "o. Nr. (Moorlandschaft mit Jägern)",
+   "title": "Moorlandschaft mit Jägern",
+   "year": "1888",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 61.5,
+   "w": 80,
+   "hammer": 3800,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 6",
+   "note": "Ergebnis 4.750 € mit Aufgeld laut Künstlerseite; 28 % (Bedingungen Stand Januar 2026) ergibt keinen runden Zuschlag. 25 % ergibt 3.800 €; Satz 2021/22 nicht prüfbar; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2022-10-22",
+   "sale": "6",
+   "lot": "o. Nr. (Kuhherde an der Tränke)",
+   "title": "Kuhherde an der Tränke",
+   "year": "1877",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 109.5,
+   "w": 156,
+   "hammer": 3000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 6",
+   "note": "Ergebnis 3.750 € mit Aufgeld laut Künstlerseite; 28 % (Bedingungen Stand Januar 2026) ergibt keinen runden Zuschlag. 25 % ergibt 3.000 €; Satz 2021/22 nicht prüfbar; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-11-17",
+   "sale": "490 Fine Art",
+   "lot": "805",
+   "title": "Moorlandschaft mit Rehen",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 33.5,
+   "w": 61,
+   "lo": 2500,
+   "hi": 3500,
+   "hammer": 2200,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/josef-wenglein/moorlandschaft-mit-rehen.html",
+   "note": "Ergebnis 2.904 € mit Aufgeld, ÷ 1,32 = 2.200; signiert unten links „Wenglein“; Schätzung 2.500–3.500 laut auction.van-ham.com (Los id-49340)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-05-15",
+   "sale": "499 Fine Art",
+   "lot": "210",
+   "title": "Heiligabend",
+   "year": "1886",
+   "tech": "Öl auf Leinwand, doubliert",
+   "medium": "lw",
+   "h": 61,
+   "w": 81,
+   "lo": 5000,
+   "hi": 10000,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/josef-wenglein-christmas-eve--id-54922-item.html",
+   "note": "„Unsold“ laut Losseite; Losseite ohne Datum, Auktion und Datum laut veryimportantlot.com (Van Ham, 15.05.2023, Los 210); Titel aus dem Englischen („Christmas Eve“), Waldhaus im verschneiten Winterwald; signiert und datiert „J. Wenglein 24. December 1886“"
+  },
+  {
+   "house": "Gailer",
+   "date": "2023-06-24",
+   "sale": "9",
+   "lot": "o. Nr. (Eichenallee bei Pang bei Rosenheim)",
+   "title": "Eichenallee bei Pang bei Rosenheim",
+   "year": "1878",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 60,
+   "w": 80,
+   "hammer": 1500,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 9",
+   "note": "Ergebnis 1.920 € mit Aufgeld laut Künstlerseite. ÷ 1.28 = 1.500 €; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2023-11-24",
+   "sale": "13",
+   "lot": "o. Nr. (Angelnde Kinder am Bach)",
+   "title": "Angelnde Kinder am Bach",
+   "tech": "Aquarell auf Papier",
+   "medium": "papier",
+   "h": 32,
+   "w": 43,
+   "hammer": 500,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 13",
+   "note": "Ergebnis 640 € mit Aufgeld laut Künstlerseite. ÷ 1.28 = 500 €; Losnummer auf der Künstlerseite nicht angegeben; Sichtmaß"
+  },
+  {
+   "house": "Gailer",
+   "date": "2024-01-13",
+   "sale": "14",
+   "lot": "o. Nr. (An der Kalten bei Pang bei Rosenheim)",
+   "title": "An der Kalten bei Pang bei Rosenheim",
+   "tech": "Bleistift, weiß gehöht, auf getöntem Papier",
+   "medium": "papier",
+   "h": 28.4,
+   "w": 37.2,
+   "hammer": 120,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 14",
+   "note": "Ergebnis 153 € mit Aufgeld laut Künstlerseite. ÷ 1.28 = 120 €; Losnummer auf der Künstlerseite nicht angegeben; Gailer kürzt die Ergebnisse auf volle Euro (120 × 1,28 = 153,6); Jahresangabe „1978“ auf der Karte offensichtlich fehlerhaft, nicht übernommen"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-05-17",
+   "sale": "516 Fine Art",
+   "lot": "1173",
+   "title": "Hochmoor in Oberbayern",
+   "year": "1889",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 40.5,
+   "w": 65,
+   "lo": 1800,
+   "hi": 2200,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/josef-wenglein-hochmoor-in-oberbayern--id-66074-item.html",
+   "note": "„Unsold“ laut Losseite; Studie zum großformatigen Gemälde in der Neuen Pinakothek; Losseite ohne Datum, Auktion über das folgende Los 1174 (Objekt-ID 66075, Auktion 516, 17.05.2024) bestimmt"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-05-17",
+   "sale": "516 Fine Art",
+   "lot": "1174",
+   "title": "Waldlandschaft mit Mühlbach",
+   "year": "1890",
+   "tech": "Öl auf Leinwand, doubliert",
+   "medium": "lw",
+   "h": 90,
+   "w": 66,
+   "lo": 2500,
+   "hi": 3500,
+   "hammer": 2200,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/josef-wenglein/waldlandschaft-mit-muehlbach.html",
+   "note": "Ergebnis 2.904 € mit Aufgeld, ÷ 1,32 = 2.200; signiert und datiert „J. Wenglein / Tölz 90“; verso Etikett Galerie Zinckgraf, München, und Ausstellungsetikett „Kunst aus Kölner Privatbesitz“ (1993)"
+  },
+  {
+   "house": "Gailer",
+   "date": "2024-07-20",
+   "sale": "17",
+   "lot": "o. Nr. (Jäger im Moor)",
+   "title": "Jäger im Moor",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 24,
+   "w": 17.7,
+   "hammer": 1000,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 17",
+   "note": "Ergebnis 1.280 € mit Aufgeld laut Künstlerseite. ÷ 1.28 = 1.000 €; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-11-14",
+   "sale": "524 Fine Art",
+   "lot": "1318",
+   "title": "Abendstimmung am Chiemsee",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 54,
+   "w": 117.5,
+   "lo": 3500,
+   "hi": 4000,
+   "hammer": 3500,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/josef-wenglein/abendstimmung-am-chiemsee.html",
+   "note": "Ergebnis 4.620 € mit Aufgeld, ÷ 1,32 = 3.500; signiert unten links „J. Wenglein“; Schätzung 3.500–4.000 laut auction.van-ham.com (Los id-69247)"
+  },
+  {
+   "house": "Gailer",
+   "date": "2024-11-23",
+   "sale": "19",
+   "lot": "o. Nr. (Kopfweiden)",
+   "title": "Kopfweiden",
+   "year": "1889",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 56,
+   "w": 75,
+   "hammer": 1800,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 19",
+   "note": "Ergebnis 2.304 € mit Aufgeld laut Künstlerseite. ÷ 1.28 = 1.800 €; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2024-11-23",
+   "sale": "19",
+   "lot": "o. Nr. (Morgenstimmung im Dachauer Moor)",
+   "title": "Morgenstimmung im Dachauer Moor",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 41,
+   "w": 86.5,
+   "hammer": 1500,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 19",
+   "note": "Ergebnis 1.920 € mit Aufgeld laut Künstlerseite. ÷ 1.28 = 1.500 €; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2024-11-23",
+   "sale": "19",
+   "lot": "o. Nr. (Rastender Hirte)",
+   "title": "Rastender Hirte",
+   "tech": "Öl auf Leinwand, auf Holz",
+   "medium": "lw",
+   "h": 22.5,
+   "w": 29.5,
+   "hammer": 800,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 19",
+   "note": "Ergebnis 1.024 € mit Aufgeld laut Künstlerseite. ÷ 1.28 = 800 €; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2026-09-26",
+   "sale": "27",
+   "lot": "o. Nr. (Kühe am Wasser)",
+   "title": "Kühe am Wasser",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 24,
+   "w": 45.2,
+   "hammer": 4500,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 27",
+   "note": "Ergebnis 5.760 € mit Aufgeld laut Künstlerseite. ÷ 1.28 = 4.500 €; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2026-09-26",
+   "sale": "27",
+   "lot": "o. Nr. (Jäger im Herbstwald)",
+   "title": "Jäger im Herbstwald",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 41,
+   "w": 35.5,
+   "hammer": 1100,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 27",
+   "note": "Ergebnis 1.408 € mit Aufgeld laut Künstlerseite. ÷ 1.28 = 1.100 €; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2026-09-26",
+   "sale": "27",
+   "lot": "o. Nr. (Waldrand am Abend)",
+   "title": "Waldrand am Abend",
+   "year": "um 1875",
+   "tech": "Öl auf Leinwand, doubliert",
+   "medium": "lw",
+   "h": 37.5,
+   "w": 58.5,
+   "hammer": 500,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 27",
+   "note": "Ergebnis 640 € mit Aufgeld laut Künstlerseite. ÷ 1.28 = 500 €; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2026-09-26",
+   "sale": "27",
+   "lot": "o. Nr. (Ochsengespann in Pang bei Rosenheim)",
+   "title": "Ochsengespann in Pang bei Rosenheim",
+   "year": "1878",
+   "tech": "Öl auf Leinwand, doubliert",
+   "medium": "lw",
+   "h": 38,
+   "w": 57.5,
+   "status": "n",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 27",
+   "note": "auf der Künstlerseite unter vergangenen Auktionen ohne Ergebnis; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2026-09-26",
+   "sale": "27",
+   "lot": "o. Nr. (Entenjagd im Dachauer Land)",
+   "title": "Entenjagd im Dachauer Land",
+   "tech": "Öl auf Leinwand, doubliert",
+   "medium": "lw",
+   "h": 41.5,
+   "w": 76,
+   "status": "n",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/josef-wenglein",
+   "src": "Gailer, Auktion 27",
+   "note": "auf der Künstlerseite unter vergangenen Auktionen ohne Ergebnis; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2026-11-19",
+   "sale": "28 Internationale Kunst & Fundstücke",
+   "lot": "257",
+   "title": "Kühe am Wasser",
+   "year": "1881",
+   "tech": "Bleistift auf getöntem Papier",
+   "medium": "papier",
+   "h": 20.5,
+   "w": 34,
+   "hammer": 50,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/auktionen/auktion-28-internationale-kunst-fundstuecke/arbeiten-auf-papier-19-jahrhundert",
+   "note": "„Zuschlag € 50“ auf der Katalogseite, Startpreis 50 €; Künstlerseite: Ergebnis 64 € mit Aufgeld; Blattgröße; Lotauktion 19.–21.11.2026"
+  },
+  {
+   "house": "Gailer",
+   "date": "2026-11-19",
+   "sale": "28 Internationale Kunst & Fundstücke",
+   "lot": "444",
+   "title": "Ländliche Idylle",
+   "tech": "Öl auf Papier, auf Holz",
+   "medium": "karton",
+   "h": 20.5,
+   "w": 45.7,
+   "hammer": 240,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/auktionen/auktion-28-internationale-kunst-fundstuecke/gemaelde-und-skulpturen-19-jahrhundert",
+   "note": "„Zuschlag € 240“ auf der Katalogseite, Startpreis 100 €; Künstlerseite: Ergebnis 307 € mit Aufgeld; restauriert, Farbverluste; Lotauktion 19.–21.11.2026"
+  }
+ ]
+}
