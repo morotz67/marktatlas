@@ -180,7 +180,8 @@
    "slug": "walter-moras",
    "name": "Walter Moras",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T09:11:46Z"
   },
   {
    "slug": "paul-mueller-kaempff",
