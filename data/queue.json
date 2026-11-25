@@ -91,8 +91,10 @@
    "slug": "christian-mali",
    "name": "Christian Mali",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T03:39:40Z"
+   "status": "zu_wenig_daten",
+   "claimed_at": "2026-11-25T03:39:40Z",
+   "done_at": "2026-11-25T03:48:53Z",
+   "note": "nur 4 prüfbare Lose ab 2021, davon 1 Zuschlag sicher: Van Ham 524 Los 1306 „Heimkehr der Herde“ (14.11.2024, 5.280 € mit Aufgeld = 4.000), Van Ham 474 Los 1185 (Nov. 2021, ohne Ergebnis), Stahl 25.05.2024 Los 536 (Erlös 2.100 €, geschätzt), Dorotheum 10.05.2022 (10.240 € inkl. Aufgeld und USt, Satz ungeprüft). Van-Ham-Künstlerseite (en) in diesem Lauf nicht abrufbar – vermutlich Hauptquelle, Neuversuch lohnt; Neumeister und Dorotheum-Künstlerseite nicht abrufbar; Ketterer 523 Los 312 und Neumeister 21.09.2023 Los 660 nur aus Listen/VIL; Koller nur CHF; Schloss Ahlden 191 Los 1840 „passed“ ohne Datum"
   },
   {
    "slug": "gustav-schoenleber",
