@@ -110,7 +110,8 @@
    "slug": "paul-wilhelm-keller-reutlingen",
    "name": "Paul Wilhelm Keller-Reutlingen",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T05:12:08Z"
   },
   {
    "slug": "joseph-wopfner",
