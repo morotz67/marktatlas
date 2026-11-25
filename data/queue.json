@@ -71,7 +71,8 @@
    "slug": "hugo-muehlig",
    "name": "Hugo Mühlig",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T02:43:56Z"
   },
   {
    "slug": "josef-wenglein",
