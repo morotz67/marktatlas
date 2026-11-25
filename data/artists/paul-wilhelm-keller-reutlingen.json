@@ -1,0 +1,514 @@
+{
+ "slug": "paul-wilhelm-keller-reutlingen",
+ "name": "Paul Wilhelm Keller-Reutlingen",
+ "status": "published",
+ "region": "alpen",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1854-02-02",
+  "place": "Reutlingen",
+  "text": "2. Februar 1854 Reutlingen"
+ },
+ "death": {
+  "date": "1920-01-10",
+  "place": "München",
+  "text": "10. Januar 1920 München"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Paul_Wilhelm_Keller-Reutlingen",
+  "https://en.wikipedia.org/wiki/Paul_Wilhelm_Keller-Reutlingen",
+  "https://catalogue.bnf.fr/ark:/12148/cb13168583t",
+  "https://www.sammlung.pinakothek.de/en/artist/28eGVErLWQ/paul-wilhelm-keller-reutlingen-1860"
+ ],
+ "sort_name": "Keller-Reutlingen",
+ "split_year": 2024,
+ "list_line": "Münchner Genre- und Landschaftsmaler · Gemälde {min_all}–{max_hammer} € Zuschlag",
+ "lead": "Landschafts- und Genremaler aus Reutlingen, der in Fürstenfeldbruck und München lebte. Bekannt ist er für Bauernkinder mit Gänsen vor dem Hof, Sommerwiesen und Landschaften an der Amper und im Dachauer Moos. Diese Seite fasst zusammen, was seine Bilder im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Holzstecherlehre in Stuttgart, Kunstschule Stuttgart bei Bernhard von Neher, Akademie München bei Otto Seitz, Malklasse Carl von Häberlin"
+  ],
+  [
+   "Hauptmotive",
+   "Bauernkinder, Gänse und Enten vor dem Hof, Sommerwiesen mit Mohn, Schafe auf der Waldlichtung, Amper und Dachauer Moos; früh Italien und Neapel"
+  ],
+  [
+   "Werkverzeichnis",
+   "in Vorbereitung durch Thomas Leon Heck (laut Ketterer 2013 und 2014)"
+  ],
+  [
+   "Museen",
+   "Neue Pinakothek München („Im Dachauer Moos“, 1892)"
+  ]
+ ],
+ "marktwert": "Gemälde seit 2022 {min_all}–{max_hammer} € Zuschlag, im Median {med_all} € ({n_paint} Verkäufe)",
+ "absatzmarkt": "Bayern (Chiemsee, München) und Wien",
+ "headline": "Gemälde brachten seit 2022 {min_all} bis {max_hammer} €, die meisten 2.500 bis 3.000 €",
+ "kurz": "Keller-Reutlingen kommt selten zur Auktion, und nicht jedes Haus veröffentlicht Ergebnisse. Auf dieser Seite stehen {n_lots} Lose von {period}, {sold_rate} erhielten einen Zuschlag. Die verkauften Gemälde brachten {min_all} bis {max_hammer} €, im Median {med_all} €. Am höchsten lagen Bauernkinder mit Gänsen vor dem Hof bei Ketterer in München und eine große Floßfahrt auf der Amper im Wiener Dorotheum. Eine kleine Ölstudie auf Malkarton brachte bei Mehlis 320 €.",
+ "figs": [
+  [
+   "{max_hammer} €",
+   "höchster Zuschlag: „{max_title}“, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde, {period}"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag, {period}"
+  ],
+  [
+   "{min_all} €",
+   "niedrigster Zuschlag: kleine Ölstudie auf Malkarton, Mehlis 2024"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Motiv und Format erklären die Preise. Die höchsten Zuschläge brachten mittelgroße Leinwände mit Kindern vor dem Hof. Bei Ketterer in München erzielten im Dezember 2022 „Spielende Kinder und Gänse vor dem Bauernhof“ (63 × 81 cm) 3.000 € und „Mutter mit spielenden Kindern“ (56 × 82,5 cm) 2.500 €, jeweils so viel wie die auf der Losseite genannte Schätzung.",
+   "Im Wiener Dorotheum brachte die große „Floßfahrt auf der Amper“ (70 × 112 cm) im Mai 2023 rund 3.000 €, weniger als die Schätzung von 4.000–6.000 €. Der Preis mit Aufgeld passt zu einem Verkauf nach der Auktion (siehe Methodik). Ein Neapel-Bild von 1889 mit einer Schätzung von 8.000–12.000 € zeigt im Oktober 2023 kein Ergebnis.",
+   "Bei Gailer in Breitbrunn am Chiemsee brachten „Mutter mit Kindern vor dem Bauernhaus“ (43,5 × 68,5 cm) im November 2023 1.600 € und „Bachufer mit weidenden Kühen“ (66 × 98 cm) im Januar 2026 2.800 €.",
+   "Kleine Studien sind günstig. Eine Ölstudie auf Malkarton (ca. 38 × 28 cm) mit Nachlassstempel fand bei Mehlis in Plauen im Mai 2024 keinen Käufer und brachte im August 2024 320 €.",
+   "Mit {n_paint} Verkäufen in vier Jahren ist die Datenlage dünn. Einen Trend lassen die Zahlen nicht erkennen."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Gailer 28 % einschließlich Umsatzsteuer, bei Ketterer im Dezember 2022 je nach Besteuerung 32 % einschließlich Umsatzsteuer oder 25 % zuzüglich Umsatzsteuer, beim Dorotheum seit März 2023 30 % einschließlich Umsatzsteuer (bei Verkäufen nach der Auktion 32 %), bei Mehlis laut veryimportantlot.com 28,56 %.",
+  "spitzen": "Vor 2021 lagen einzelne Ergebnisse höher. Das Dorotheum versteigerte 2009 eine „Gänsehirtin am Ufer“ (75 × 105 cm) für 9.840 € einschließlich Aufgeld und Steuer. Lempertz verkaufte 2012 das kleine Holzbild „Junge Italiener vor der Bucht von Neapel“ (1887, 29,5 × 46 cm) für 7.198 € mit Aufgeld. Bei Christie's in New York brachte „A Girl in a Field of Poppies“ 2011 laut art.salon 25.000 US-Dollar."
+ },
+ "euro_ok": [
+  "9.840",
+  "7.198",
+  "4.750",
+  "3.125",
+  "3.750",
+  "3.960",
+  "2.048",
+  "3.584"
+ ],
+ "absatz": {
+  "text": [
+   "Keller-Reutlingen wird vor allem in Bayern versteigert. Gailer in Breitbrunn am Chiemsee bot ihn seit 2023 dreimal an, Ketterer in München im Dezember 2022 zwei Gemälde. Das Dorotheum in Wien versteigert ihn ebenfalls, 2023 zweimal.",
+   "Schloss Ahlden in Niedersachsen bot laut veryimportantlot.com und Invaluable von 2021 bis 2024 mindestens sechs Gemälde an. Neumeister in München bot laut Invaluable 2021 und 2023 je ein Bild an, Karl & Faber 2021 und 2024. Dazu kamen Lose bei Hargesheimer, Scheublein, Karrenbauer, Eppli und anderen. Deren Ergebnisse ließen sich nicht prüfen und fehlen hier. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Gering bis mittel. Er kommt selten zur Auktion, und {sold_rate} Losen dieser Seite erhielten einen Zuschlag. Ohne Ergebnis blieben ein hoch geschätztes Neapel-Bild beim Dorotheum, eine kleine Studie bei Mehlis (im zweiten Anlauf verkauft) und ein kleines Bild bei Gailer im September 2026."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "Meist „P. W. Keller-Reutlingen“, oft rechts unten, teils links unten oder in der Mitte. Manche Bilder tragen Ort und Jahr, etwa „München 1887“ (Lempertz 2012). Schloss Ahlden beschrieb 2024 auch ein Bild mit Monogramm und rückseitiger Bezeichnung „Keller-Reutlingen“."
+   ],
+   [
+    "Nachlassstempel",
+    "Auf Rückseiten kommt ein Stempel vor: „P. W. Keller-Reutlingen, München, ausgewählter Nachlass, Albertine Keller-Reutlingen“ (Eppli). Albertine war seine Frau, die Schauspielerin Albertine Wetzel. Solche Stücke sind oft Studien auf Malkarton."
+   ],
+   [
+    "Name",
+    "Er hieß Paul Wilhelm Keller und ergänzte den Namen um seine Geburtsstadt. In Katalogen steht er auch als „Keller, Paul Wilhelm“ oder „Prof. Paul Wilhelm Keller-Reutlingen“. Bei der Suche nach Vergleichen beide Formen prüfen."
+   ],
+   [
+    "Drucke und Postkarten",
+    "Seine Bilder erschienen in der Münchner Zeitschrift „Jugend“ und als Postkarten. Ein Druck zeigt unter der Lupe ein regelmäßiges Raster und keine Pinselspuren."
+   ],
+   [
+    "Zuschreibungen",
+    "Lose mit „zugeschrieben“ (etwa bei Kiefer 2023) nicht mit Preisen gesicherter Bilder vergleichen."
+   ]
+  ],
+  "preis_drueckt": "Kleine Studien auf Malkarton bringen deutlich weniger als Bilder auf Leinwand. Die Mehlis-Studie fand erst mit niedrigerem Limit einen Käufer. Restaurierungen und Bereibungen am Rand mindern den Preis zusätzlich.",
+  "werkverzeichnis": "Ein Werkverzeichnis bereitet Thomas Leon Heck vor. Ketterer schrieb 2013 und 2014, die angebotenen Bilder würden darin aufgenommen, und dankte ihm 2022 für Hinweise. Die englische Wikipedia verweist auf biografische Daten von Thomas Leon Heck und Steffen Single auf der Website paul-wilhelm-keller-reutlingen-werkverzeichnis.de. Ob das Verzeichnis erschienen ist, ließ sich nicht prüfen.",
+  "provenienz": "Belegt sind Verkäufe auf der Jahresausstellung im Münchner Glaspalast: Die Bayerischen Staatsgemäldesammlungen erwarben dort 1892 „Im Dachauer Moos“ vom Künstler. Ein auf Drouot.com angebotenes Bild („Forest clearing with grazing sheep“) kam laut Provenienzangabe nach 1945 durch die sogenannte Schlossbergung aus Schloss Milkel in die Dresdner Sammlungen und wurde 2013 an die Erben zurückgegeben. Bei Bildern, die 1933–1945 oder nach 1945 in der sowjetischen Besatzungszone den Besitzer wechselten, gehört die Herkunft geprüft."
+ },
+ "leben": {
+  "text": [
+   "Paul Wilhelm Keller wurde 1854 in Reutlingen geboren und nannte sich später nach seiner Heimatstadt. Von 1868 bis 1872 lernte er in Stuttgart bei Adolf Cloß das Holzstechen. Danach studierte er an der Stuttgarter Kunstschule bei Bernhard von Neher, 1873/74 an der Münchner Akademie bei Otto Seitz und bis 1875 in der Malklasse von Carl von Häberlin in Stuttgart. Die Pinakothek nennt abweichend 1860 als Geburtsjahr.",
+   "Nach dem Militärdienst reiste er bis 1879 durch Italien, nach Venedig, Florenz, Rom, Neapel und Capri. Aus dieser Zeit stammen Markt- und Hafenbilder aus Neapel. Danach ließ er sich in Fürstenfeldbruck an der Amper nieder. Dort und im Dachauer Moos fand er die Motive, für die er bekannt ist: Bauernkinder, Gänse und Enten vor dem Hof, Sommerwiesen und Schafe auf der Waldlichtung.",
+   "Er stellte im Münchner Glaspalast und auf der Großen Berliner Kunstausstellung aus. 1892 erwarben die Bayerischen Staatsgemäldesammlungen sein Bild „Im Dachauer Moos“. 1893 schloss er sich der Münchener Secession an, 1899 wurde er Professor. 1902 zog er nach München zurück, wo er 1920 starb. Seine Bilder erschienen auch in der Zeitschrift „Jugend“, 1896 auf einem Titelblatt."
+  ],
+  "museen": "Bayerische Staatsgemäldesammlungen, Neue Pinakothek München: „Im Dachauer Moos“ (1892, 70,5 × 109 cm), 1892 im Glaspalast vom Künstler erworben. Laut Wikipedia auch in Museen in Stuttgart und Frankfurt am Main.",
+  "timeline": [
+   [
+    "1854",
+    "geboren in Reutlingen"
+   ],
+   [
+    "1868",
+    "Holzstecherlehre bei Adolf Cloß in Stuttgart"
+   ],
+   [
+    "1873",
+    "Akademie München bei Otto Seitz"
+   ],
+   [
+    "1879",
+    "nach Jahren in Italien Umzug nach Fürstenfeldbruck"
+   ],
+   [
+    "1892",
+    "Staatsgemäldesammlungen erwerben „Im Dachauer Moos“"
+   ],
+   [
+    "1893",
+    "Münchener Secession"
+   ],
+   [
+    "1899",
+    "Professor"
+   ],
+   [
+    "1902",
+    "Umzug nach München"
+   ],
+   [
+    "1920",
+    "gestorben in München"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Kinder und Gänse vor dem Hof",
+   "d": "Sein bekanntestes Thema: Bauernkinder, Mütter, Gänse und Enten vor Bauernhäusern, meist mittelgroß auf Leinwand.",
+   "bsp": "„Spielende Kinder und Gänse vor dem Bauernhof“: 3.000 €"
+  },
+  {
+   "t": "Amper, Bach und Moos",
+   "d": "Flussufer, Floßfahrten, Kühe am Bach, das Dachauer Moos.",
+   "bsp": "„Bachufer mit weidenden Kühen“: 2.800 €"
+  },
+  {
+   "t": "Sommerwiesen und Schafe",
+   "d": "Mädchen in Mohnwiesen, Schafe auf der Waldlichtung. Vor 2021 bei Ketterer mehrfach verkauft.",
+   "bsp": "Ketterer 2014: 4.750 € mit Aufgeld"
+  },
+  {
+   "t": "Italien und Neapel",
+   "d": "Frühe Markt-, Hafen- und Straßenbilder aus den Jahren um 1880.",
+   "bsp": "Lempertz 2012: 7.198 € mit Aufgeld"
+  },
+  {
+   "t": "Ölstudien auf Malkarton",
+   "d": "Kleine Studien, teils mit Nachlassstempel. Ein eigener, günstiger Markt.",
+   "bsp": "Mehlis 2024: 320 €"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Paul Wilhelm Keller-Reutlingen wert?",
+   "a": "Gemälde brachten seit Dezember 2022 {min_all} bis {max_hammer} € Zuschlag, im Median {med_all} €. Mittelgroße Leinwände mit Kindern und Gänsen lagen bei 2.500 bis 3.000 €. Beim Kauf kommt das Aufgeld des Hauses hinzu, je nach Haus etwa ein Viertel bis ein Drittel des Zuschlags."
+  },
+  {
+   "q": "Wo wird Keller-Reutlingen versteigert?",
+   "a": "Vor allem in Bayern und Wien. Gailer am Chiemsee, Ketterer in München und das Dorotheum in Wien versteigerten ihn seit 2022 mit veröffentlichtem Ergebnis. Vor der Einlieferung lohnt der Vergleich von Schätzung, Aufgeld und Kosten."
+  },
+  {
+   "q": "Keller oder Keller-Reutlingen?",
+   "a": "Derselbe Maler. Er hieß Paul Wilhelm Keller und hängte den Namen seiner Geburtsstadt Reutlingen an. Er signierte meist „P. W. Keller-Reutlingen“."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Thomas Leon Heck bereitet eines vor. Ketterer verwies 2013 und 2014 darauf. Ob es erschienen ist, ließ sich nicht prüfen."
+  },
+  {
+   "q": "Was bringen kleine Studien?",
+   "a": "Wenig. Eine Ölstudie auf Malkarton (ca. 38 × 28 cm) brachte bei Mehlis im August 2024 320 €, nachdem sie in der Auktion davor keinen Käufer gefunden hatte."
+  },
+  {
+   "q": "Was bedeutet der Nachlassstempel auf der Rückseite?",
+   "a": "Der Stempel „ausgewählter Nachlass, Albertine Keller-Reutlingen“ zeigt, dass das Bild aus seinem Nachlass stammt; Albertine war seine Frau. Er stützt die Zuschreibung, ersetzt aber keine Prüfung."
+  }
+ ],
+ "methodik_extra": "Ketterer nennt Ergebnisse inklusive Aufgeld. Laut Katalog der Auktion 532 (Dezember 2022) waren beide Lose als regel- oder differenzbesteuert gekennzeichnet; das Aufgeld betrug bei Differenzbesteuerung 32 % einschließlich Umsatzsteuer, bei Regelbesteuerung 25 % zuzüglich Umsatzsteuer. Die Ergebnisse 3.125 € und 3.750 € ergeben mit 25 % genau 2.500 € und 3.000 €, mit 32 % keine runden Zahlen. Das Dorotheum nennt den Preis einschließlich Käufergebühr und Steuer (3.960 €). Laut Gebührentarif (gültig ab 1. März 2023) beträgt die Käufergebühr in der Auktion 30 %, bei Verkäufen nach der Auktion 32 % (differenzbesteuert, einschließlich Umsatzsteuer). Nur 32 % ergibt einen runden Zuschlag; der Zuschlag von 3.000 € ist deshalb geschätzt. Gailer nennt auf der Künstlerseite Ergebnisse mit Aufgeld, ohne Losnummer; mit 28 % einschließlich Umsatzsteuer (Versteigerungsbedingungen Stand Januar 2026) ergeben 2.048 € und 3.584 € genau 1.600 € und 2.800 €. Mehlis nennt den Zuschlag in der Ergebnisliste; die Auktionsdaten stammen von Losen derselben Auktionen auf veryimportantlot.com. Dorotheum-Titel sind aus dem Englischen übersetzt. Nicht aufgenommen sind sechs Gemälde bei Schloss Ahlden (2021–2024, auf veryimportantlot.com ohne Ergebnis), Lose bei Neumeister (Website nicht abrufbar), Karl & Faber (Juni 2021 und Mai 2024, Losseiten ohne Ergebnis oder nicht abrufbar) sowie Lose bei Hargesheimer, Scheublein, Karrenbauer, Eppli, Arnold und dem Düsseldorfer Auktionshaus, die nur über Invaluable ohne Ergebnis auffindbar waren. Van Ham und Lempertz verkauften ihn zuletzt 2012.",
+ "quellen": [
+  {
+   "t": "Ketterer Kunst, Auktion 532 (10. Dezember 2022), Los 381 „Mutter mit spielenden Kindern“",
+   "u": "https://kettererkunst.de/kunst/kd/details.php?anummer=532&ebene=2&ext=&obnr=122002090"
+  },
+  {
+   "t": "Ketterer Kunst, Auktion 532, Los 382 „Spielende Kinder und Gänse vor dem Bauernhof“",
+   "u": "https://www.kettererkunst.de/kunst/kd/details.php?obnr=122002091&anummer=532"
+  },
+  {
+   "t": "Ketterer Kunst, Katalog 532 „19th Century Art“ mit Versteigerungsbedingungen (Aufgeld, Besteuerung)",
+   "u": "https://www.kettererkunst.de/downloads/KettererKunst-532-AM.pdf"
+  },
+  {
+   "t": "Ketterer Kunst, verkaufte Objekte Paul Wilhelm Keller-Reutlingen",
+   "u": "https://www.kettererkunst.de/result.php?limit_von_details=5&objsei=1&shw=1&kuenstlernr=922&auswahl=vk"
+  },
+  {
+   "t": "Ketterer Kunst, Auktion 402 (2013), „Strickende Gänseliesel hinterm Bauernhaus“, Hinweis Werkverzeichnis Heck",
+   "u": "https://www.kettererkunst.de/kunst/kd/details.php?obnr=113000139&anummer=402"
+  },
+  {
+   "t": "Ketterer Kunst, Auktion 413 (2014), „Mädchen mit Korb und Flasche im Mohnblumenfeld“",
+   "u": "https://www.kettererkunst.de/kunst/kd/details.php?obnr=114001351&anummer=413&detail=1"
+  },
+  {
+   "t": "Dorotheum, Gemälde des 19. Jahrhunderts, 2. Mai 2023, „A Raft Ride on the Amper“",
+   "u": "https://dorotheum.com/en/l/8502697"
+  },
+  {
+   "t": "Dorotheum, Gemälde des 19. Jahrhunderts, 24. Oktober 2023, „Market near Porta Capuana, Naples“",
+   "u": "https://dorotheum.com/en/l/8737982"
+  },
+  {
+   "t": "Dorotheum, Los 510 (tschechische Fassung, Losnummer)",
+   "u": "https://dorotheum.com/cz/l/8737982"
+  },
+  {
+   "t": "Dorotheum, Gebührentarif für Versteigerungen (gültig ab 1. März 2023)",
+   "u": "https://fahrzeuge.dorotheum.com:443/fileadmin/user_upload/Download/Agb/VSTGB_2023/Gebuehrentarif_Vstg_E_2023.pdf"
+  },
+  {
+   "t": "Dorotheum, 7. Oktober 2009, „Goose Girl on the Riverbank“",
+   "u": "https://dorotheum.com/en/l/5587374"
+  },
+  {
+   "t": "Gailer Kunstauktionshaus am Chiemsee, Künstlerseite Paul Wilhelm Keller-Reutlingen (Ergebnisse)",
+   "u": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/paul-wilhelm-keller-reutlingen"
+  },
+  {
+   "t": "Gailer, Versteigerungsbedingungen (Stand Januar 2026)",
+   "u": "https://www.gailerauktionen.de/kaufen/versteigerungsbedingungen"
+  },
+  {
+   "t": "Auktionshaus Mehlis, Katalog 11424, Gemälde, Ergebnisliste Seite 9 (Los 4511)",
+   "u": "https://www.mehlis.eu/de/catalogs/11424/15/?page=9"
+  },
+  {
+   "t": "Auktionshaus Mehlis, Katalog 11524, Gemälde, Ergebnisliste Seite 15 (Los 4565)",
+   "u": "https://www.mehlis.eu/de/catalogs/11524/15/?page=15&sort=limit"
+  },
+  {
+   "t": "veryimportantlot.com, Mehlis „114. Auktion Mai 2024“, Los 4219 (Datum)",
+   "u": "https://veryimportantlot.com/en/lot/view/rudolf-poeschmann-sommertag-in-dresden-1205534"
+  },
+  {
+   "t": "veryimportantlot.com, Mehlis 29.08.2024, Los 4588 (Datum)",
+   "u": "https://veryimportantlot.com/en/lot/view/lothar-rudolf-meilinger-seelandschaft-1269795"
+  },
+  {
+   "t": "Lempertz, Künstlerverzeichnis Paul Wilhelm Keller-Reutlingen",
+   "u": "https://www.lempertz.com/en/catalogues/artist-index/detail/keller-reutlingen-paul-wilhelm.html"
+  },
+  {
+   "t": "Lempertz, Auktion 992 (21. März 2012), Los 106 „Junge Italiener vor der Bucht von Neapel“",
+   "u": "https://www.lempertz.com/de/kataloge/lot/992-1/106-paul-wilhelm-keller-reutlingen.html"
+  },
+  {
+   "t": "Van Ham, Künstlerseite Paul Wilhelm Keller-Reutlingen (ein Los, 2012)",
+   "u": "https://www.van-ham.com/en/artist/paul-wilhelm-keller-reutlingen.html"
+  },
+  {
+   "t": "art.salon, Auktionsergebnisse Paul Wilhelm Keller-Reutlingen (u. a. Christie's 2011)",
+   "u": "https://www.art.salon/artist/paul-wilhelm-keller-reutlingen"
+  },
+  {
+   "t": "veryimportantlot.com, Schloss Ahlden, „Dame im Gartenstuhl“ (5. September 2021)",
+   "u": "https://veryimportantlot.com/en/lot/view/paul-wilhelm-keller-reutlingen-596727"
+  },
+  {
+   "t": "veryimportantlot.com, Schloss Ahlden, „Sitzendes Bauernmädchen in einer Wiese mit Klatschmohn“ (28. April 2024)",
+   "u": "https://veryimportantlot.com/en/lot/view/paul-wilhelm-keller-reutlingen-1187246"
+  },
+  {
+   "t": "veryimportantlot.com, Schloss Ahlden, „Bauernmädchen beim Hüten einer Gänseschar“ (7. September 2024)",
+   "u": "https://veryimportantlot.com/en/lot/view/paul-wilhelm-keller-reutlingen-1277615"
+  },
+  {
+   "t": "veryimportantlot.com, Schloss Ahlden, „Idyll mit Bauernkindern und Entenschar vor einem Gehöft“ (30. November 2024)",
+   "u": "https://veryimportantlot.com/en/lot/view/paul-wilhelm-keller-reutlingen-1340897"
+  },
+  {
+   "t": "veryimportantlot.com, Schloss Ahlden, „Das Haus am Fluss“ (30. November 2024, Monogramm)",
+   "u": "https://veryimportantlot.com/en/lot/view/paul-wilhelm-keller-reutlingen-1340898"
+  },
+  {
+   "t": "Invaluable, Ergebnisse Paul Wilhelm Keller, Seite 2 (Angebote 2021–2023 ohne Preise)",
+   "u": "https://www.invaluable.com/artist/keller-nw9o57kp0j/sold-at-auction-prices/?page=2"
+  },
+  {
+   "t": "Karl & Faber, Auktion 302, „Idyllic summer family scene by a cottage“",
+   "u": "https://karlundfaber.de/en/auctions/302/old-masters-19th-century-art/3020198"
+  },
+  {
+   "t": "Karl & Faber, Real-Time-Online-Auktion 815 (8. Mai 2024)",
+   "u": "https://karlundfaber.de/en/auctions/815/old-masters-19th-century-art/details"
+  },
+  {
+   "t": "Drouot.com, „Forest clearing with grazing sheep“ (Provenienz Schloss Milkel)",
+   "u": "https://www.drouot.com/en/l/25136732-paul-wilhelm-kellerreutlingenp"
+  },
+  {
+   "t": "Eppli, „Landschaft mit blühenden Sträuchern“ (Nachlassstempel)",
+   "u": "https://www.eppli.com/keller-reutlingen-paul-wilhelm-1854-1920-landschaft-mit-bluehenden-straeuchern.html"
+  },
+  {
+   "t": "Bayerische Staatsgemäldesammlungen, „Im Dachauer Moos“ (1892)",
+   "u": "https://www.sammlung.pinakothek.de/en/artwork/8MLv9oAxz3/paul-wilhelm-keller-reutlingen/im-dachauer-moos"
+  },
+  {
+   "t": "Bibliothèque nationale de France, Normdatensatz Keller-Reutlingen (Lebensdaten)",
+   "u": "https://catalogue.bnf.fr/ark:/12148/cb13168583t"
+  },
+  {
+   "t": "Wikipedia: Paul Wilhelm Keller-Reutlingen",
+   "u": "https://de.wikipedia.org/wiki/Paul_Wilhelm_Keller-Reutlingen"
+  },
+  {
+   "t": "Wikipedia (englisch): Paul Wilhelm Keller-Reutlingen",
+   "u": "https://en.wikipedia.org/wiki/Paul_Wilhelm_Keller-Reutlingen"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Ketterer",
+   "date": "2022-12-10",
+   "sale": "532 19th Century Art",
+   "lot": "381",
+   "title": "Mutter mit spielenden Kindern",
+   "year": "um 1900",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 56,
+   "w": 82.5,
+   "lo": 2500,
+   "hammer": 2500,
+   "status": "v",
+   "url": "https://kettererkunst.de/kunst/kd/details.php?anummer=532&ebene=2&ext=&obnr=122002090",
+   "note": "Losseite: Ergebnis 3.125 € inklusive Aufgeld; Katalog 532: Los als R/D (regel- oder differenzbesteuert) gekennzeichnet, Regelbesteuerung 25 % Aufgeld zzgl. USt; 3.125 ÷ 1,25 = 2.500; signiert rechts unten; Provenienz Privatsammlung Deutschland"
+  },
+  {
+   "house": "Ketterer",
+   "date": "2022-12-10",
+   "sale": "532 19th Century Art",
+   "lot": "382",
+   "title": "Spielende Kinder und Gänse vor dem Bauernhof",
+   "year": "um 1900",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 63,
+   "w": 81,
+   "lo": 3000,
+   "hammer": 3000,
+   "status": "v",
+   "url": "https://www.kettererkunst.de/kunst/kd/details.php?obnr=122002091&anummer=532",
+   "note": "Losseite: Ergebnis 3.750 € inklusive Aufgeld; zurückgerechnet mit 25 % (Regelbesteuerung, Katalog 532); signiert links unten"
+  },
+  {
+   "house": "Dorotheum",
+   "date": "2023-05-02",
+   "sale": "Gemälde des 19. Jahrhunderts",
+   "lot": "o. Nr. (Floßfahrt auf der Amper)",
+   "src": "Dorotheum, Gemälde des 19. Jahrhunderts",
+   "title": "Floßfahrt auf der Amper",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 70,
+   "w": 112,
+   "lo": 4000,
+   "hi": 6000,
+   "hammer": 3000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://dorotheum.com/en/l/8502697",
+   "note": "Losseite: Realized price 3.960 € inkl. Käufergebühr und USt; Gebührentarif ab 1. März 2023: Auktion 30 %, Nachverkauf 32 % (differenzbesteuert, inkl. USt); nur 32 % ergibt einen runden Zuschlag (3.000 €), Verkauf nach der Auktion vermutet; Titel aus dem Englischen („A Raft Ride on the Amper“); signiert „P. W. Keller-Reutlingen“; abgebildet in „Jugend“ 17 (1912), Nr. 2, S. 32; Losnummer auf der Seite nicht angegeben"
+  },
+  {
+   "house": "Dorotheum",
+   "date": "2023-10-24",
+   "sale": "Gemälde des 19. Jahrhunderts",
+   "lot": "510",
+   "title": "Markt an der Porta Capuana, Neapel",
+   "year": "1889",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 45,
+   "w": 64,
+   "lo": 8000,
+   "hi": 12000,
+   "status": "n",
+   "url": "https://dorotheum.com/en/l/8737982",
+   "note": "Losseite ohne Ergebnis (verkaufte Lose zeigen dort einen „Realized price“); Titel aus dem Englischen („Market near Porta Capuana, Naples“); signiert und datiert, laut englischer Seite „P. W. Keller Reutlingen, Munich 1889“; Losnummer laut tschechischer Fassung der Seite"
+  },
+  {
+   "house": "Gailer",
+   "date": "2023-11-24",
+   "sale": "13",
+   "lot": "o. Nr. (Mutter mit Kindern vor dem Bauernhaus)",
+   "src": "Gailer, Auktion 13",
+   "title": "Mutter mit Kindern vor dem Bauernhaus",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 43.5,
+   "w": 68.5,
+   "hammer": 1600,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/paul-wilhelm-keller-reutlingen",
+   "note": "Künstlerseite: Ergebnis 2.048 € (mit Aufgeld); 28 % inkl. USt ergibt 1.600 €; Losnummer auf der Künstlerseite nicht angegeben. Ein Bild gleichen Titels bot Neumeister laut Invaluable im Juni 2023 an; ob es dasselbe ist, ließ sich nicht prüfen"
+  },
+  {
+   "house": "Mehlis",
+   "date": "2024-05-23",
+   "sale": "114. Auktion",
+   "lot": "4511",
+   "title": "Am Flussufer",
+   "year": "um 1900",
+   "tech": "Öl auf Malkarton",
+   "medium": "karton",
+   "h": 38,
+   "w": 28,
+   "status": "u",
+   "url": "https://www.mehlis.eu/de/catalogs/11424/15/?page=9",
+   "note": "Ergebnisliste des Hauses: Limit 450 €, „Zuschlag: 0,00 €“; im folgenden Katalog erneut angeboten (Los 4565). Losseite https://www.mehlis.eu/de/catalogs/11424/item/4511/; Maße Falzmaß ca.; signiert links unten „P. W. Keller-Reutlingen“, rückseitig Nachlassstempel; Datum über die Lose 4219 und 4335 derselben Auktion („114. Auktion Mai 2024“, 23.05.2024, veryimportantlot.com)"
+  },
+  {
+   "house": "Mehlis",
+   "date": "2024-08-29",
+   "sale": "115. Auktion",
+   "lot": "4565",
+   "title": "Am Flussufer",
+   "year": "um 1900",
+   "tech": "Öl auf Malkarton",
+   "medium": "karton",
+   "h": 38,
+   "w": 28,
+   "hammer": 320,
+   "status": "v",
+   "url": "https://www.mehlis.eu/de/catalogs/11524/15/?page=15&sort=limit",
+   "note": "Ergebnisliste des Hauses: Limit 320 €, Zuschlag 320 €; Losseite https://www.mehlis.eu/de/catalogs/11524/item/4565/; Beschreibung wortgleich mit Los 4511 der Auktion davor (Falzmaß ca. 38 × 28 cm, Nachlassstempel); Datum über die Lose 4134 und 4588 desselben Katalogs (29.08.2024, veryimportantlot.com), Auktionsnummer aus der Katalognummer 11524"
+  },
+  {
+   "house": "Gailer",
+   "date": "2026-01-17",
+   "sale": "24",
+   "lot": "o. Nr. (Bachufer mit weidenden Kühen)",
+   "src": "Gailer, Auktion 24",
+   "title": "Bachufer mit weidenden Kühen",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 66,
+   "w": 98,
+   "hammer": 2800,
+   "status": "v",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/paul-wilhelm-keller-reutlingen",
+   "note": "Künstlerseite: Ergebnis 3.584 € (mit Aufgeld); 28 % inkl. USt ergibt 2.800 €; Losnummer auf der Künstlerseite nicht angegeben"
+  },
+  {
+   "house": "Gailer",
+   "date": "2026-09-26",
+   "sale": "27",
+   "lot": "o. Nr. (Sommerliche Idylle)",
+   "src": "Gailer, Auktion 27",
+   "title": "Sommerliche Idylle",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 27,
+   "w": 35,
+   "status": "n",
+   "url": "https://www.gailerauktionen.de/kuenstlersuche/unsere-kuenstler/paul-wilhelm-keller-reutlingen",
+   "note": "auf der Künstlerseite unter vergangenen Auktionen ohne Ergebnis; gleiches Format (27 × 35 cm) wie „Idyll mit Bauernkindern und Entenschar vor einem Gehöft“ bei Schloss Ahlden (30.11.2024, Los 1726); ob es dasselbe Bild ist, ließ sich nicht prüfen"
+  }
+ ]
+}
