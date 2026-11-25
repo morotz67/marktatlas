@@ -1,0 +1,668 @@
+{
+ "slug": "hans-am-ende",
+ "name": "Hans am Ende",
+ "status": "published",
+ "region": "moor",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1864-12-31",
+  "place": "Trier",
+  "text": "31. Dezember 1864 Trier"
+ },
+ "death": {
+  "date": "1918-07-09",
+  "place": "Stettin",
+  "text": "9. Juli 1918 Stettin"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Hans_am_Ende",
+  "https://en.wikipedia.org/wiki/Hans_am_Ende",
+  "https://d-nb.info/gnd/118502468"
+ ],
+ "sort_name": "Am Ende",
+ "split_year": 2024,
+ "ort": "Worpswede",
+ "list_line": "Maler der ersten Worpsweder Generation · Gemälde seit 2021 meist {q1_all}–{q3_all} € Zuschlag",
+ "lead": "Maler und Radierer aus Trier, der sich 1889 auf Anregung seines Freundes Fritz Mackensen in Worpswede niederließ und zu den ersten Künstlern der dortigen Kolonie gehörte. Diese Seite fasst zusammen, was seine Werke im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Schule in Schulpforta; Akademie München 1884–1889 (1886/87 in Karlsruhe), zuletzt bei Wilhelm von Diez; 1892/93 bei Otto Knille in Berlin"
+  ],
+  [
+   "Künstlerkolonie",
+   "Worpswede ab 1889, auf Anregung von Fritz Mackensen"
+  ],
+  [
+   "Hauptmotive",
+   "Moor, Heide und Birken um Worpswede, Torfkähne auf der Hamme; später das Schweizer Hochgebirge"
+  ],
+  [
+   "Druckgrafik",
+   "Radierungen der Worpsweder Landschaft, darunter die Folgen „Vom Weyersberg“ und „Aus Worpswede, Neue Folge“"
+  ]
+ ],
+ "marktwert": "Gemälde seit 2021 rund {min_all} bis {max_hammer} € Zuschlag, im Median {med_all} €; kleine Ölstudien auf Karton und Holz rund {min_all} bis 3.500 €, Radierungen wenige hundert Euro",
+ "absatzmarkt": "Köln (Van Ham) und Hamburg (Stahl)",
+ "headline": "Große Moorbilder bis {max_hammer} €, kleine Ölstudien rund {min_all} bis 3.500 € Zuschlag",
+ "kurz": "Hans am Ende gehört zu den ersten Malern der Künstlerkolonie Worpswede. Geprüft wurden {n_lots} Lose von {period}, {n_sold} davon mit Zuschlag. Ölbilder auf Leinwand brachten meist 7.000 bis 26.000 €, das große Moorbild „{max_title}“ ({max_size}) bei {max_house} in Köln 2024 sogar {max_hammer} €. Kleine Ölstudien auf Karton und Holz lagen bei rund {min_all} bis 3.500 €, eine Radierung bei 450 €. Mehrere Angebote blieben ohne veröffentlichtes Ergebnis, darunter alle sechs bei Schloss Ahlden, das keine Ergebnisse nennt.",
+ "figs": [
+  [
+   "{max_hammer} €",
+   "höchster Zuschlag: „{max_title}“, {max_size}, {max_house} {max_year} (mit Aufgeld 72.600 €, Schätzung 15.000–25.000 €)"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde und Ölstudien, {period}"
+  ],
+  [
+   "{min_all}–3.500 €",
+   "Zuschläge für kleine Ölstudien auf Karton und Holz, Stahl und Van Ham 2024–2025"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag; Schloss Ahlden (6 Lose) veröffentlicht keine Ergebnisse"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Die höchsten Zuschläge erzielten große Ölbilder auf Leinwand bei Van Ham in Köln. „{max_title}“ (um 1900, {max_size}) brachte im Mai 2024 {max_hammer} € bei einer Schätzung von 15.000–25.000 €; in derselben Auktion ging „Segelfahrt“ (1899, 70 × 106 cm) für 26.000 € weg. Im November 2024 folgte „Blühende Heide“ (75 × 100 cm) mit 16.000 €, obwohl Van Ham die Signatur als möglicherweise nicht eigenhändig beschreibt.",
+   "Bei Stahl in Hamburg lagen die Leinwandbilder niedriger: „Abendstimmung im Moor“ (131 × 187 cm) 2021 rund 19.000 €, „Blühende Wiesen“ (60 × 79,5 cm) 2022 rund 13.000 €, „Frühling“ (76 × 60,5 cm) 2023 rund 11.000 €. Ein „Moor bei Worpswede“ (73,5 × 85 cm, kleine Retuschen) brachte im November 2025 nur rund 3.300 €. Grisebach in Berlin verkaufte im Juni 2026 ein kleines „Weizenfeld“ (um 1897, 33 × 52 cm) für rund 11.000 € bei 5.000–7.000 € Schätzung.",
+   "Kleine Ölstudien auf Karton und Holz bringen deutlich weniger: zwischen rund {min_all} € („Abend im Moor“, 19 × 27 cm, Stahl 2024) und rund 3.500 € („Kornfeld in der Dämmerung“, 43 × 61,5 cm, Van Ham 2025). Mehrere sind nur mit „H.a.E.“ bezeichnet oder mit „HaE“ monogrammiert. Radierungen sind ein eigener, kleiner Markt: Van Ham erzielte im Januar 2025 für „Feierabend. Torfkähne an der Hammehütte“ 450 €.",
+   "Ohne veröffentlichtes Ergebnis blieben zwei Ölbilder auf Karton und Holz bei Van Ham im November 2024 (Schätzungen 3.000–5.000 und 8.000–10.000 €), eine Hochgebirgslandschaft bei Grisebach im Juni 2026 (75,5 × 125,5 cm, Schätzung 18.000–24.000 €) und alle sechs Angebote bei Schloss Ahlden, darunter „Felsiger Berghang mit Lärchen im Schnee“ (Startpreis 3.900 €) und drei Radierungen mit Startpreisen von 180 und 240 €."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Van Ham laut Losseiten 32 %, bei Stahl laut Versteigerungsbedingungen 22 % plus Umsatzsteuer darauf (zusammen 26,18 %), bei Schloss Ahlden laut veryimportantlot.com 25 %. Grisebach berechnet laut Versteigerungsbedingungen vom 15. Mai 2026 bei differenzbesteuerten Losen 34 % einschließlich Umsatzsteuer, bei regelbesteuerten Losen 29 % plus Umsatzsteuer.",
+  "spitzen": "Vor 2021 nennt die Stahl-Künstlerseite Ergebnisse mit Aufgeld von bis zu 13.000 € („Birke im Herbstlaub“, September 2014) und 12.100 € („Birkenallee“, November 2015). Im Februar 2020 versteigerte Stahl mehrere Arbeiten von der Westfront des Ersten Weltkriegs, darunter zwei Konvolute „Zeichnungen an der Westfront“ (800 und 1.400 € mit Aufgeld) und „Ruine in Angres“ (1.500 €)."
+ },
+ "euro_ok": [
+  "72.600",
+  "3.900",
+  "180",
+  "240",
+  "12.100",
+  "800",
+  "1.400",
+  "1.500",
+  "2.000",
+  "14.190",
+  "2.800",
+  "24.000",
+  "100"
+ ],
+ "absatz": {
+  "text": [
+   "Die belegten Zuschläge stammen vor allem von zwei Häusern: Van Ham in Köln (sechs Zuschläge, darunter die beiden höchsten) und Stahl in Hamburg (sieben). Van Ham erzielte für große Leinwandbilder die höchsten Preise; Stahl verkauft regelmäßig mittlere Bilder und kleine Studien. Grisebach in Berlin bot im Juni 2026 zwei Bilder an, eines davon mit Zuschlag.",
+   "Schloss Ahlden in Niedersachsen bot seit 2022 sechs Werke an, Gemälde und Radierungen, veröffentlicht aber keine Ergebnisse. Bei Lempertz, Ketterer, Dorotheum und Bolland & Marotz fand die Suche keine prüfbaren Lose seit 2021. Eine verlässliche Zählung aller Angebote lag nicht vor; Invaluable und artnet wurden nicht ausgewertet."
+  ],
+  "liquiditaet": "Mittel. {sold_rate} Losen erhielten einen belegten Zuschlag; ohne die sechs Ahlden-Lose, für die kein Ergebnis veröffentlicht ist, sind es 14 von 17. Die drei Leinwandbilder bei Van Ham fanden alle einen Käufer, zwei Bilder auf Karton und Holz dort und ein Hochgebirgsbild bei Grisebach blieben ohne Ergebnis. Die Stahl-Künstlerseite zeigt nur verkaufte Lose."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "Meist ausgeschrieben „Hans am Ende“ unten rechts, teils mit „Worpswede“ (Van Ham 2025). Kleine Studien tragen oft nur das Monogramm „HaE“ oder die Bezeichnung „H.a.E.“, die Stahl als Bezeichnung, nicht als Signatur aufführt."
+   ],
+   [
+    "Fremde Signaturen",
+    "Bei „Blühende Heide“ (Van Ham 2024) hält das Haus die Signatur „H. am Ende“ für möglicherweise nicht eigenhändig, die Aufschrift auf dem Keilrahmen dagegen vermutlich für eigenhändig. Stahl zitiert bei „Frühling“ (2023) Rainer Noeres, es sei eines der seltenen frühen, eigenhändig signierten Werke. Eine Signatur allein belegt die Echtheit daher nicht."
+   ],
+   [
+    "Bestätigungen",
+    "Stahl ließ mehrere Gemälde von Rainer Noeres bestätigen, den das Haus mit dem Modersohn-Museum in Fischerhude nennt, 2022 zusätzlich von Hans-G. Pawelcik. Nach einer solchen Bestätigung fragen."
+   ],
+   [
+    "Rückseiten und Etiketten",
+    "Etiketten von Kunstvereinen und eigenhändige Titel auf dem Keilrahmen stützen die Herkunft, etwa das Etikett des Leipziger Kunstvereins (Nr. 3427) auf „Sommer im Moor“ oder die Aufschriften „Blühende Wiesen“ und „Worpswede im Frühling“ (Stahl)."
+   ],
+   [
+    "Radierungen",
+    "Radierungen sind in Auflage gedruckt. Blätter mit Bleistiftsignatur und Nummer (etwa „Nr. 35 … Hans am Ende / Worpswede“, Van Ham 2025) unterscheiden sich von Drucken, die nur in der Platte signiert sind (Schloss Ahlden 2022). Ein Druck ist kein Unikat."
+   ],
+   [
+    "Zuschreibungen",
+    "Lose mit „zugeschrieben“ nicht mit Originalpreisen vergleichen. Van Ham bot im Januar 2025 ein zugeschriebenes Bild „Birken im Moor“ bei 2.000–3.000 € an, es blieb unverkauft; Stahl führt für zugeschriebene Werke eine eigene Künstlerseite."
+   ]
+  ],
+  "preis_drueckt": "Fragliche Signaturen und Schäden: „Blühende Heide“ brachte trotz möglicherweise fremder Signatur 16.000 €, das retuschierte „Moor bei Worpswede“, für das Stahl keine Signatur nennt, nur rund 3.300 €. Wie stark einzelne Punkte die Preise drücken, lässt sich aus den wenigen Losen nicht ablesen.",
+  "werkverzeichnis": "In den geprüften Quellen ist kein Werkverzeichnis der Gemälde oder Radierungen genannt. Stahl stützt sich auf Bestätigungen von Rainer Noeres. Wichtige Literatur: Rainer Maria Rilke, „Worpswede“ (1903), mit einem eigenen Kapitel über am Ende; das Buch bildet laut Van Ham auch „Sommer im Moor“ ab. Dazu die Neue Deutsche Biographie, Band 1 (1953).",
+  "provenienz": "Van Ham nennt bei „Segelfahrt“ Privatbesitz; „Kornfeld in der Dämmerung“ wurde laut Van Ham 1980 bei der Galerie Rosenbach in Hannover erworben, „Blühende Wiesen“ kam laut Stahl aus einer Bremer Privatsammlung. Zeitgenössische Abbildungen wie bei Rilke und Ausstellungsetiketten helfen, die Herkunft großer Bilder zu belegen."
+ },
+ "leben": {
+  "text": [
+   "Hans am Ende wurde am 31. Dezember 1864 in Trier geboren, als Sohn des Divisionspfarrers Christoph Am Ende. Er besuchte die Schule in Schulpforta und studierte 1884 bis 1889 an der Münchner Akademie, mit einer Unterbrechung 1886/87 in Karlsruhe, zuletzt bei Wilhelm von Diez.",
+   "1889 ließ er sich auf Anregung seines Freundes Fritz Mackensen in Worpswede nieder; 1892/93 lernte er noch einmal bei Otto Knille in Berlin. Mit den Worpsweder Malern stellte er 1895 in der Kunsthalle Bremen und im Münchner Glaspalast aus, was der Gruppe laut Wikipedia landesweite Anerkennung brachte. Er erhielt Goldmedaillen in Wien (1896) und St. Louis (1904). Verheiratet war er mit Magdalene Willatzen aus Bremen.",
+   "Am Ende malte großformatige, farbstarke Landschaften, vor allem das Moor um Worpswede, später auch das Schweizer Hochgebirge. Bekannt wurde er laut Rilke zunächst durch große Radierungen; Rilke widmete ihm 1903 in seinem Buch „Worpswede“ ein eigenes Kapitel. Er radierte auch Bildnisse, etwa von Georg Ebers und Hermann Allmers, und schuf einige Skulpturen. Zu seinen Schülerinnen gehörte Anna Feldhusen.",
+   "Zu Beginn des Ersten Weltkriegs meldete er sich freiwillig und diente in einem Infanterieregiment. Am 10. April 1918 wurde er bei Mesen schwer verwundet; er starb am 9. Juli 1918 in einem Lazarett in Stettin. Sein Grab liegt auf dem Friedhof in Worpswede."
+  ],
+  "museen": "Kunsthalle Bremen sowie Museen in Braunschweig, München, Mannheim, Chemnitz und Weimar; die Skulptur „Worpsweder Kind“ im Albertinum Dresden (laut NDB).",
+  "timeline": [
+   [
+    "1864",
+    "geboren in Trier"
+   ],
+   [
+    "1884",
+    "Akademie München (bis 1889, 1886/87 in Karlsruhe)"
+   ],
+   [
+    "1889",
+    "Umzug nach Worpswede"
+   ],
+   [
+    "1892",
+    "Studium bei Otto Knille in Berlin (bis 1893)"
+   ],
+   [
+    "1895",
+    "Ausstellungen in der Kunsthalle Bremen und im Münchner Glaspalast"
+   ],
+   [
+    "1896",
+    "Goldmedaille in Wien"
+   ],
+   [
+    "1903",
+    "eigenes Kapitel in Rilkes Buch „Worpswede“"
+   ],
+   [
+    "1904",
+    "Goldmedaille in St. Louis"
+   ],
+   [
+    "1914",
+    "Kriegsfreiwilliger"
+   ],
+   [
+    "1918",
+    "bei Mesen verwundet, gestorben in Stettin, begraben in Worpswede"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Große Moorlandschaften",
+   "d": "Bilder über einen Meter Breite: Bäche, Torfkähne und Abendstimmungen im Teufelsmoor; die teuerste Werkgruppe.",
+   "bsp": "„Sommer im Moor“ (Van Ham 2024): {max_hammer} €; „Abendstimmung im Moor“ (Stahl 2021): rund 19.000 €"
+  },
+  {
+   "t": "Wiesen, Heide und Frühling",
+   "d": "Mittelgroße Landschaften um Worpswede auf Leinwand.",
+   "bsp": "„Blühende Heide“ (Van Ham 2024): 16.000 €; „Frühling“ (Stahl 2023): rund 11.000 €"
+  },
+  {
+   "t": "Ölstudien",
+   "d": "Kleine Studien auf Karton und Holz, oft nur monogrammiert oder bezeichnet.",
+   "bsp": "„Abend im Moor“ (Stahl 2024): rund {min_all} €; „Kornfeld in der Dämmerung“ (Van Ham 2025): rund 3.500 €"
+  },
+  {
+   "t": "Hochgebirge",
+   "d": "Spätere Bilder aus der Schweiz, selten im Handel.",
+   "bsp": "Grisebach 2026 (Schätzung 18.000–24.000 €) und Schloss Ahlden 2024 ohne Ergebnis"
+  },
+  {
+   "t": "Radierungen",
+   "d": "Worpsweder Landschaften, Torfkähne und Birken, in Auflage gedruckt.",
+   "bsp": "„Feierabend. Torfkähne an der Hammehütte“ (Van Ham 2025): 450 €"
+  },
+  {
+   "t": "Arbeiten von der Westfront",
+   "d": "Zeichnungen und Studien aus dem Ersten Weltkrieg; seit 2021 nicht im geprüften Handel.",
+   "bsp": "Stahl 2020: zwei Konvolute „Zeichnungen an der Westfront“, 800 und 1.400 € mit Aufgeld"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Hans am Ende wert?",
+   "a": "Das hängt stark von Größe und Bildträger ab. Leinwandbilder brachten seit 2021 meist 7.000 bis 26.000 € Zuschlag, ein großes Moorbild 2024 bei Van Ham {max_hammer} €. Kleine Ölstudien auf Karton oder Holz lagen bei rund {min_all} bis 3.500 €, Radierungen bei wenigen hundert Euro."
+  },
+  {
+   "q": "Wo werden Werke von Hans am Ende versteigert?",
+   "a": "Die meisten belegten Zuschläge stammen von Van Ham in Köln und Stahl in Hamburg. Die höchsten Preise erzielte Van Ham für große Leinwandbilder; Stahl verkauft regelmäßig auch kleine Studien. Grisebach in Berlin und Schloss Ahlden bieten einzelne Werke an, Schloss Ahlden ohne veröffentlichte Ergebnisse."
+  },
+  {
+   "q": "Ist ein Bild mit „H.a.E.“ ein echter Hans am Ende?",
+   "a": "Kleine Studien tragen oft nur „H.a.E.“ oder „HaE“. Stahl beschreibt das als Bezeichnung, nicht als Signatur. Bei einem größeren Bild hielt Van Ham sogar die ausgeschriebene Signatur für möglicherweise fremd. Mehr Sicherheit gibt eine Bestätigung durch einen Kenner wie Rainer Noeres, auf den sich Stahl beruft."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "In den geprüften Quellen ist keines genannt. Auktionshäuser stützen sich auf Bestätigungen von Rainer Noeres; Rilkes Buch „Worpswede“ (1903) bildet einzelne Werke ab."
+  },
+  {
+   "q": "Was ist eine Radierung von Hans am Ende wert?",
+   "a": "Belegt ist ein Zuschlag von 450 € bei Van Ham im Januar 2025 (Schätzung 400–600 €). Schloss Ahlden bot Radierungen mit Startpreisen von 180 und 240 € an, ohne veröffentlichtes Ergebnis. Auf Bleistiftsignatur und Nummer achten; manche Drucke sind nur in der Platte signiert."
+  },
+  {
+   "q": "Was bedeutet das „Ergebnis“ bei Stahl?",
+   "a": "Stahl veröffentlicht den Preis mit Aufgeld, auf volle 100 € gerundet: 22 % des Zuschlags plus Umsatzsteuer darauf, zusammen 26,18 %. Ein Ergebnis von 24.000 € entspricht rund 19.000 € Zuschlag."
+  }
+ ],
+ "methodik_extra": "Van Ham veröffentlicht Preise mit Aufgeld; der Zuschlag ist mit 32 % zurückgerechnet (Satz laut Losseiten, alle Ergebnisse glatt). Die Van-Ham-Losseiten der Fine-Art-Auktionen zeigen teils kein Datum: „Sommer im Moor“ ist über das Nachbarlos „Segelfahrt“ datiert (Auktion 516, 17. Mai 2024, laut veryimportantlot.com), „Blühende Heide“ über die Aufrufzeit der Nachbarlose 1363 und 1364 (14. November 2024). Für „Kornfeld in der Dämmerung“ (November 2025) zeigt die Van-Ham-Losseite kein Ergebnis; es stammt von veryimportantlot.com, der Zuschlag ist geschätzt. Stahl nennt auf der Künstlerseite einen auf 100 € gerundeten Preis mit Aufgeld (22 % plus Umsatzsteuer, zusammen 26,18 %); die Stahl-Zuschläge sind daher zurückgerechnet und geschätzt. Stahl-Daten nach den Auktions- und Katalogangaben der Losseiten (Kunst am zweiten Auktionstag), „Moor bei Worpswede“ wie das Nachbarlos 444 (Auktion 370, 29. November 2025). Grisebach nennt 14.190 € mit Aufgeld ohne Satz; mit 29 % (regelbesteuert, Bedingungen vom 15. Mai 2026) ergibt das genau 11.000 €, der Zuschlag ist geschätzt. Schloss Ahlden nennt nur Startpreise; Daten und Startpreise stammen von veryimportantlot.com. Einige Titel sind aus dem Englischen übersetzt. Nicht aufgenommen: „Heidelandschaft bei Handorf“ (Stahl, September 2026, Ergebnis 2.800 € mit Aufgeld; Losseite nicht abrufbar, Technik und Maße unbekannt), zugeschriebene Werke (Van Ham Januar 2025, Schloss Ahlden September 2021), ein undatiertes Ahlden-Los („Waldiger Abhang“) und Ergebnisse vor 2021. Bei Lempertz, Ketterer, Dorotheum und Bolland & Marotz fand die Suche keine prüfbaren Lose seit 2021.",
+ "quellen": [
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Hans am Ende (Ergebnisse)",
+   "u": "https://www.auktionshaus-stahl.de/en/artist/6082-hans-am-ende"
+  },
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Hans am Ende, zugeschrieben",
+   "u": "https://www.auktionshaus-stahl.de/en/artist/5429-hans-am-ende"
+  },
+  {
+   "t": "Auktionshaus Stahl, Versteigerungsbedingungen (§ 4: 22 % Aufgeld zzgl. USt)",
+   "u": "https://www.auktionshaus-stahl.de/en/conditions-of-sale"
+  },
+  {
+   "t": "Auktionshaus Stahl, Fritz Mackensen, Los 444 der Auktion 370 (Datum Nachbarlos)",
+   "u": "https://www.auktionshaus-stahl.de/en/article/112833-fritz-mackensen-zwei-kinder-aus-drei-generationen"
+  },
+  {
+   "t": "veryimportantlot.com, Stahl 26.02.2022 Los 126 „Blühende Wiesen“ (Datum, Startpreis)",
+   "u": "https://veryimportantlot.com/en/lot/view/hans-am-ende-trier-1864-stettin-1918-bluhende-712493"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham 516 Los 1201 „Segelfahrt“ (Datum 17.05.2024)",
+   "u": "https://veryimportantlot.com/en/lot/view/hans-am-ende-segelfahrthans-am-ende-segelfahrt-1208184"
+  },
+  {
+   "t": "Van Ham, Los 1204 „Cornfield at Dusk“ (Losseite ohne Ergebnis)",
+   "u": "https://auction.van-ham.com/en/hans-am-ende-cornfield-at-dusk--id-79950-item.html"
+  },
+  {
+   "t": "Van Ham, Los 782 „Birken im Moor“, zugeschrieben (unverkauft, nicht aufgenommen)",
+   "u": "https://auction.van-ham.com/en/hans-am-ende-birken-im-moor--id-72864-item.html"
+  },
+  {
+   "t": "Grisebach, Versteigerungsbedingungen, Stand 15.5.2026",
+   "u": "https://www.grisebach.com/assets/downloads/grisebach_versteigerungsbedingungen_150526.pdf"
+  },
+  {
+   "t": "veryimportantlot.com, Schloss Ahlden 182 Los 2609, zugeschrieben (nicht aufgenommen)",
+   "u": "https://veryimportantlot.com/en/lot/view/hans-am-ende-597559"
+  },
+  {
+   "t": "veryimportantlot.com, Schloss Ahlden Los 2456 „Waldiger Abhang“ (ohne Datum, nicht aufgenommen)",
+   "u": "https://veryimportantlot.com/en/lot/view/hans-am-ende-857369"
+  },
+  {
+   "t": "Neue Deutsche Biographie: Am Ende, Hans (Margarete Braun-Ronsdorf, Bd. 1, 1953)",
+   "u": "https://www.deutsche-biographie.de/sfz804.html"
+  },
+  {
+   "t": "Wikipedia (englisch): Hans am Ende",
+   "u": "https://en.wikipedia.org/wiki/Hans_am_Ende"
+  },
+  {
+   "t": "Rainer Maria Rilke, Worpswede, Kapitel „Hans am Ende“ (Projekt Gutenberg)",
+   "u": "https://projekt-gutenberg.org/authors/rainer-maria-rilke/books/worpswede/chapter/6"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Stahl",
+   "date": "2021-09-25",
+   "sale": "352 Kunst und Antiquitäten",
+   "lot": "480",
+   "title": "Abendstimmung im Moor",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 131,
+   "w": 187,
+   "hammer": 19000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/102060-hans-am-ende-abendstimmung-im-moor",
+   "note": "Stahl nennt „Ergebnis“ 24.000 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); rechts unten signiert „Hans am Ende“; minimal restauriert"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-02-26",
+   "sale": "354 Norddeutsche Kunst, Sammlungen Horst Janssen und F. C. Gundlach",
+   "lot": "126",
+   "title": "Blühende Wiesen",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 60,
+   "w": 79.5,
+   "hammer": 13000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/103122-hans-am-ende-bluehende-wiesen",
+   "note": "Stahl nennt „Ergebnis“ 16.400 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); Startpreis 5.000 € und Datum laut veryimportantlot.com; rechts unten ritzsigniert „Hans am Ende“ und bezeichnet „H. am Ende“, auf dem Keilrahmen signiert und eigenhändig betitelt; Echtheit bestätigt von Rainer Noeres und Hans-G. Pawelcik; Privatsammlung Bremen; minimale Farbabplatzungen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2023-05-13",
+   "sale": "359 Kunstauktion",
+   "lot": "526",
+   "title": "Frühling",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 76,
+   "w": 60.5,
+   "hammer": 11000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/105390-hans-am-ende-spring",
+   "note": "Stahl nennt „Ergebnis“ 13.900 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); rechts unten signiert „Hans am Ende“, auf dem Keilrahmen bezeichnet „Worpswede im Frühling“; laut Rainer Noeres eines der seltenen frühen, eigenhändig signierten Werke; minimal restauriert; Privatsammlung Hassia"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-05-25",
+   "sale": "364 Kunstauktion",
+   "lot": "577",
+   "title": "Abend im Moor",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 19,
+   "w": 27,
+   "hammer": 1900,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/109112-hans-am-ende-abend-im-moor",
+   "note": "Stahl nennt „Ergebnis“ 2.400 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); rechts unten bezeichnet „H.a.E.“ (nicht signiert)"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-05-25",
+   "sale": "364 Kunstauktion",
+   "lot": "578",
+   "title": "Abendhimmel über dem Moor",
+   "tech": "Öl auf Leinwand, auf Karton",
+   "medium": "lw",
+   "h": 37,
+   "w": 52,
+   "hammer": 7000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/108981-hans-am-ende-evening",
+   "note": "Stahl nennt „Ergebnis“ 8.800 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); rechts unten signiert „Hans am Ende“; deutscher Titel nach der Künstlerseite"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "365 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "499",
+   "title": "Gewitterstimmung",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 12,
+   "w": 18,
+   "hammer": 2400,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/109848-hans-am-ende-gewitterstimmung",
+   "note": "Stahl nennt „Ergebnis“ 3.000 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); rechts unten bezeichnet „H.a.E.“; ungerahmt"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-11-29",
+   "sale": "370 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "443",
+   "title": "Moor bei Worpswede",
+   "tech": "Öl auf Leinwand, auf Holz",
+   "medium": "lw",
+   "h": 73.5,
+   "w": 85,
+   "hammer": 3300,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/112839-hans-am-ende-moor-bei-worpswede",
+   "note": "Stahl nennt „Ergebnis“ 4.200 € (Künstlerseite, auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld (26,18 %); kleine Retuschen; Echtheit bestätigt von Rainer Noeres; Losseite nennt keine Signatur; Datum wie Nachbarlos 444 (Mackensen, Auktion 370)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-05-17",
+   "sale": "516 Fine Art",
+   "lot": "1200",
+   "title": "Sommer im Moor",
+   "year": "um 1900",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 137,
+   "w": 202,
+   "lo": 15000,
+   "hi": 25000,
+   "hammer": 55000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/hans-am-ende-sommer-im-moor--id-66101-item.html",
+   "note": "Untertitel „Bach bei Worpswede“; Losseite: Ergebnis 72.600 € inkl. 32 % Aufgeld, 72.600 ÷ 1,32 = 55.000; rechts unten signiert „Hans am Ende“; Keilrahmen mit Etikett des Leipziger Kunstvereins (Nr. 3427); abgebildet in Rilke, „Worpswede“ (1903), S. 99; Datum über Nachbarlos 1201 (veryimportantlot.com, Auktion 516, 17.05.2024)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-05-17",
+   "sale": "516 Fine Art",
+   "lot": "1201",
+   "title": "Segelfahrt",
+   "year": "1899",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 70,
+   "w": 106,
+   "lo": 15000,
+   "hi": 20000,
+   "hammer": 26000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/hans-am-ende-segelfahrt--id-66102-item.html",
+   "note": "Untertitel „Torfkähne im Teufelsmoor“; Losseite: Ergebnis 34.320 € inkl. 32 % Aufgeld, 34.320 ÷ 1,32 = 26.000; Auktion und Datum laut veryimportantlot.com; rechts unten signiert „Hans am Ende“; ausgestellt Kunsthalle Bremen 2003"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-11-14",
+   "sale": "524 Fine Art",
+   "lot": "1363",
+   "title": "Vor Tagesanbruch",
+   "tech": "Öl auf Karton, auf Karton gelegt",
+   "medium": "karton",
+   "h": 37.4,
+   "w": 53,
+   "lo": 3000,
+   "hi": 5000,
+   "status": "n",
+   "url": "https://auction.van-ham.com/en/hans-am-ende-before-dawn--id-69292-item.html",
+   "note": "Losseite: Aufruf 14.11.2024, kein Ergebnis angegeben; Titel aus dem Englischen übersetzt („Before Dawn“); rechts unten signiert „Ha.E…“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-11-14",
+   "sale": "524 Fine Art",
+   "lot": "1364",
+   "title": "Quell im Herbst",
+   "tech": "Öl auf Holz, parkettiert",
+   "medium": "karton",
+   "h": 73,
+   "w": 60,
+   "lo": 8000,
+   "hi": 10000,
+   "status": "n",
+   "url": "https://auction.van-ham.com/en/hans-am-ende-quell-im-herbst--id-69293-item.html",
+   "note": "Losseite: Aufruf 14.11.2024, kein Ergebnis angegeben; links unten signiert „Hans am Ende“, rückseitig betitelt"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-11-14",
+   "sale": "524 Fine Art",
+   "lot": "1365",
+   "title": "Blühende Heide",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 75,
+   "w": 100,
+   "lo": 12000,
+   "hi": 18000,
+   "hammer": 16000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/hans-am-ende-heath-in-bloom--id-69294-item.html",
+   "note": "Losseite: Ergebnis 21.120 € inkl. 32 % Aufgeld, 21.120 ÷ 1,32 = 16.000; Signatur „H. am Ende“ rechts unten laut Van Ham möglicherweise von fremder Hand, auf dem Keilrahmen vermutlich eigenhändig „Hans am Ende Worpswede ‚blühende Heide‘“; Datum über die Nachbarlose 1363 und 1364 (Aufruf 14.11.2024)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-01-29",
+   "sale": "528 Art & Interior",
+   "lot": "781",
+   "title": "Am Waldrand (Blick vom Weyerberg)",
+   "tech": "Öl auf Karton, auf Karton gelegt",
+   "medium": "karton",
+   "h": 36.5,
+   "w": 54,
+   "lo": 3000,
+   "hi": 5000,
+   "hammer": 2400,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/hans-am-ende-am-waldrand--id-72863-item.html",
+   "note": "Losseite: Ergebnis 3.168 € inkl. 32 % Aufgeld, 3.168 ÷ 1,32 = 2.400; rechts unten monogrammiert „HaE“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-01-29",
+   "sale": "528 Art & Interior",
+   "lot": "783",
+   "title": "Feierabend. Torfkähne an der Hammehütte",
+   "tech": "Radierung",
+   "medium": "druck",
+   "lo": 400,
+   "hi": 600,
+   "hammer": 450,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/hans-am-ende-feierabend-torfkaehne-an-der-hammehuette--id-72865-item.html",
+   "note": "Losseite: Ergebnis 594 € inkl. 32 % Aufgeld, 594 ÷ 1,32 = 450; unten bezeichnet und signiert „Nr. 35 (…) Hans am Ende / Worpswede“; Maße nur im Passepartout angegeben (70 × 96 cm)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-11-21",
+   "sale": "540 Fine Art",
+   "lot": "1204",
+   "title": "Kornfeld in der Dämmerung",
+   "tech": "Öl auf Karton, auf Karton gelegt (Ölstudie)",
+   "medium": "karton",
+   "h": 43,
+   "w": 61.5,
+   "lo": 3000,
+   "hi": 6000,
+   "hammer": 3500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/hans-am-ende-cornfield-at-dusk-1493223",
+   "note": "veryimportantlot.com: „Sold“ 4.620 €, Aufgeld 32 %; 4.620 ÷ 1,32 = 3.500 (geschätzt, die Van-Ham-Losseite https://auction.van-ham.com/en/hans-am-ende-cornfield-at-dusk--id-79950-item.html zeigt kein Ergebnis); Aufruf 21.11.2025; rechts unten signiert „Hans am Ende / Worpswede“; erworben 1980 bei der Galerie Rosenbach, Hannover; Titel aus dem Englischen übersetzt"
+  },
+  {
+   "house": "Grisebach",
+   "date": "2026-06-05",
+   "sale": "376",
+   "lot": "327",
+   "title": "Winterliche Gebirgslandschaft am St. Moritzer See",
+   "year": "vermutlich 1910",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 75.5,
+   "w": 125.5,
+   "lo": 18000,
+   "hi": 24000,
+   "status": "n",
+   "url": "https://www.grisebach.com/en/lot/4073733",
+   "note": "Losseite ohne Ergebnis; rechts unten signiert „Hans am Ende“; Titel aus dem Englischen übersetzt („View of the Winter Mountain Scenery from Lake St. Moritzer“)"
+  },
+  {
+   "house": "Grisebach",
+   "date": "2026-06-05",
+   "sale": "376",
+   "lot": "332",
+   "title": "Weizenfeld",
+   "year": "um 1897",
+   "tech": "Öl auf Leinwand, auf Karton",
+   "medium": "lw",
+   "h": 33,
+   "w": 52,
+   "lo": 5000,
+   "hi": 7000,
+   "hammer": 11000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.grisebach.com/en/lot/4072689",
+   "note": "Losseite: „Sold for 14,190 EUR (incl. premium)“, Satz nicht genannt; mit 29 % (Regelbesteuerung laut Versteigerungsbedingungen vom 15.5.2026) genau 11.000 €, mit dem Regelsatz 34 % kein runder Zuschlag (geschätzt); rechts unten signiert „Hans am Ende“; Titel aus dem Englischen übersetzt („Field of Wheat“)"
+  },
+  {
+   "house": "Schloss Ahlden",
+   "date": "2022-12-04",
+   "sale": "186 Teil III: Gemälde, Grafik",
+   "lot": "2683",
+   "title": "Torfkähne auf der Hamme",
+   "year": "um 1898",
+   "tech": "Radierung",
+   "medium": "druck",
+   "h": 32.2,
+   "w": 43,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/hans-am-ende-857596",
+   "note": "veryimportantlot.com: Startpreis 240 €, Aufgeld 25 %, Auktion abgeschlossen, kein Ergebnis; Plattenmaß; in der Platte signiert; Knitterungen"
+  },
+  {
+   "house": "Schloss Ahlden",
+   "date": "2022-12-04",
+   "sale": "186 Teil III: Gemälde, Grafik",
+   "lot": "2684",
+   "title": "Dämmerstunde",
+   "tech": "Radierung",
+   "medium": "druck",
+   "h": 30,
+   "w": 65,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/hans-am-ende-857597",
+   "note": "veryimportantlot.com: Startpreis 240 €, Auktion abgeschlossen, kein Ergebnis; Plattenmaß; in der Platte bezeichnet und betitelt, ohne Handsignatur"
+  },
+  {
+   "house": "Schloss Ahlden",
+   "date": "2023-05-07",
+   "sale": "187 Internationale Kunst und Antiquitäten, Teil II",
+   "lot": "1854",
+   "title": "Worpsweder Bauernhaus",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 59.5,
+   "w": 50,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/hans-am-ende-942473",
+   "note": "veryimportantlot.com: Startpreis 2.000 €, Aufgeld 25 %, Auktion abgeschlossen, kein Ergebnis; am linken Rand monogrammiert „H. a. E“"
+  },
+  {
+   "house": "Schloss Ahlden",
+   "date": "2023-09-08",
+   "sale": "188 Internationale Kunstauktion, Teil I",
+   "lot": "660",
+   "title": "Worpsweder Landschaft mit Birken und Kate im Moor",
+   "tech": "Radierung und Aquatinta auf Bütten",
+   "medium": "druck",
+   "h": 23.8,
+   "w": 17.5,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/hans-am-ende-1004157",
+   "note": "veryimportantlot.com: Startpreis 180 €, Auktion abgeschlossen, kein Ergebnis; Plattenmaß; rechts unten handsigniert und mit „Worpswede“ bezeichnet"
+  },
+  {
+   "house": "Schloss Ahlden",
+   "date": "2024-04-28",
+   "sale": "190 Internationale Kunstauktion, Teil II",
+   "lot": "1799",
+   "title": "Felsiger Berghang mit Lärchen im Schnee",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 75,
+   "w": 75,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/hans-am-ende-1187289",
+   "note": "veryimportantlot.com: Startpreis 3.900 €, Aufgeld 25 %, Auktion abgeschlossen, kein Ergebnis; links unten signiert"
+  },
+  {
+   "house": "Schloss Ahlden",
+   "date": "2024-04-28",
+   "sale": "190 Internationale Kunstauktion, Teil II",
+   "lot": "1800",
+   "title": "Bäume im Vorfrühling",
+   "tech": "Öl auf Malkarton",
+   "medium": "karton",
+   "h": 41,
+   "w": 30.5,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/hans-am-ende-1187290",
+   "note": "veryimportantlot.com: Startpreis 900 €, Auktion abgeschlossen, kein Ergebnis; keine Signatur angegeben"
+  }
+ ]
+}

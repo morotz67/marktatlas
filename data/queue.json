@@ -227,8 +227,10 @@
    "slug": "hans-am-ende",
    "name": "Hans am Ende",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T12:13:00Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T12:13:00Z",
+   "done_at": "2026-11-25T12:29:55Z",
+   "lots": 23
   },
   {
    "slug": "otto-modersohn",
