@@ -1,0 +1,589 @@
+{
+ "slug": "otto-pankok",
+ "name": "Otto Pankok",
+ "status": "published",
+ "region": "rhein",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1893-06-06",
+  "place": "Mülheim an der Ruhr",
+  "text": "6. Juni 1893 Mülheim-Saarn"
+ },
+ "death": {
+  "date": "1966-10-20",
+  "place": "Wesel",
+  "text": "20. Oktober 1966 Wesel"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Otto_Pankok",
+  "https://en.wikipedia.org/wiki/Otto_Pankok",
+  "https://d-nb.info/gnd/118591533"
+ ],
+ "sort_name": "Pankok",
+ "split_year": 2024,
+ "list_line": "Holzschneider und Zeichner · Zuschlag meist {q1_all}–{q3_all} €",
+ "lead": "Zeichner und Grafiker aus dem Rheinland, bekannt für seine Bilder der Düsseldorfer Sinti und den Zyklus „Die Passion“. Diese Seite fasst zusammen, was seine Werke im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Kunstakademie Düsseldorf und Kunsthochschule Weimar 1913, im Frühjahr 1914 abgebrochen"
+  ],
+  [
+   "Hauptmotive",
+   "Sinti im Düsseldorfer Heinefeld, Landschaften, Tiere, Bildnisse; „Die Passion“ (60 Kohlezeichnungen)"
+  ],
+  [
+   "Werkverzeichnis",
+   "Holzschnitte (Zimmermann 1985), Radierungen (Jäger 1990), Lithographien (Timm 1994); keines für die Kohlezeichnungen"
+  ]
+ ],
+ "marktwert": "Holzschnitte meist 100–500 € Zuschlag, frühe Radierungen bis 2.000 €, große Kohlezeichnungen 4.000–{max_hammer} €",
+ "absatzmarkt": "Köln für Zeichnungen, Grafik bundesweit",
+ "headline": "Holzschnitte bringen meist 100 bis 500 €, große Kohlezeichnungen bis {max_hammer} €",
+ "kurz": "Otto Pankok ist vor allem mit Druckgrafik auf dem Markt. {n_sold} der {n_lots} Lose auf dieser Seite erhielten einen Zuschlag, im Median {med_all} €. Holzschnitte brachten meist 100 bis 500 €, seltene frühe Radierungen bis 2.000 €. Große Kohlezeichnungen kommen selten zur Auktion: Bei Van Ham in Köln erzielten zwei davon 4.000 und {max_hammer} €, eine dritte blieb unverkauft.",
+ "figs": [
+  [
+   "{max_hammer} €",
+   "höchster Zuschlag: „{max_title}“, Kohle, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_sold} verkauften Lose, fast alle Druckgrafik"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag, {period}"
+  ],
+  [
+   "{n_house1} von {n_lots}",
+   "Losen bei {house1} in Köln, dem einzigen Haus mit großen Kohlezeichnungen in den Daten"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Pankoks Markt hat zwei Ebenen. Große Kohlezeichnungen, Unikate von gut einem Meter Breite, kamen in den letzten fünf Jahren nur bei Van Ham zur Auktion. Ein Blatt von 1926 brachte im Dezember 2021 {max_hammer} €, eines von 1913 im Dezember 2025 4.000 € bei einer unteren Schätzung von 5.000 €. Die „Krumme Kiefer“ von 1940 blieb im Juni 2024 unverkauft.",
+   "Druckgrafik ist viel häufiger und deutlich günstiger. Holzschnitte erzielten 100 bis 850 €, die meisten nicht mehr als 500 €. Mehr brachten seltene frühe Blätter: die Kaltnadelradierung „Hellmers IV“ von 1921, von der laut Katalogtext nur ein Abzug bekannt war, 1.800 € bei Bassenge, und die Mappe „10 Landschaften“ mit zehn Radierungen 2.000 € bei Van Ham.",
+   "Bei {main} lagen {years_new} {below_est_new_main} von {n_est_new_main} Zuschlägen unter der unteren Schätzung, darunter zwei Radierungen von 1920 und 1921 mit je 350 € bei einer Schätzung ab 400 €."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Van Ham 32 % laut Losseiten, bei regelbesteuerten Losen 27 % zuzüglich Umsatzsteuer, bei Bassenge 25 % laut Losseiten. Van Ham nennt außerdem die Folgerechtsvergütung von 1,5 % auf den Zuschlag, die für Pankok bis Ende 2036 anfällt.",
+  "spitzen": "Früher lagen Spitzenpreise höher, jeweils mit Aufgeld: 14.520 € für die Kohlezeichnung „Weite Landschaft“ (96 × 122 cm, Van Ham, Juni 2016) und 11.880 € für „Schwarze Vögel“ (Van Ham, Auktion 401)."
+ },
+ "euro_ok": [
+  "14.520",
+  "11.880"
+ ],
+ "absatz": {
+  "text": [
+   "Van Ham in Köln stellt {n_house1} der {n_lots} Lose auf dieser Seite und ist das einzige Haus, bei dem in den geprüften Quellen seit 2021 große Kohlezeichnungen mit Ergebnis nachweisbar sind. Druckgrafik verteilt sich auf viele Häuser: Bassenge in Berlin bietet sie in den Online-Katalogen „Moderne Kunst II“ an, dazu kommen Regionalhäuser wie Mehlis in Plauen, Kloss in Berlin und K&K in Heidelberg.",
+   "Diese Verteilung ist auch eine Folge der Quellenlage. Bei Lempertz, Ketterer, Grisebach und Karl & Faber war kein Pankok-Los aus den letzten fünf Jahren mit Ergebnis auf der Seite des Hauses prüfbar. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Bei Grafik hoch, bei großen Zeichnungen begrenzt. {sold_rate} Losen erhielten einen Zuschlag; ohne Zuschlag blieb nur die Kohlezeichnung „Krumme Kiefer“ 2024. Die Quote ist mit Vorsicht zu lesen: Bei kleineren Häusern ließen sich fast nur verkaufte Lose finden, und vier ältere Van-Ham-Lose ohne prüfbares Datum fehlen, darunter eine unverkaufte Kohlezeichnung."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur auf Grafik",
+    "Eigenhändig mit Bleistift „Otto Pankok“, meist rechts unten unter der Darstellung. Viele Holzschnitte tragen zusätzlich das Monogramm „OP“ im Stock, Radierungen in der Platte. Eine gedruckte Signatur („drucksigniert“) ersetzt die Bleistiftsignatur nicht."
+   ],
+   [
+    "Nachlass-Signatur und späte Abzüge",
+    "Manche Blätter tragen eine „Nachlass-Signatur“, die nicht von Pankok selbst stammt, andere beschreibt das Auktionshaus als „späteren Abzug“. Solche Blätter brachten in den Daten dieser Seite 100 bis 180 €."
+   ],
+   [
+    "Auflagen",
+    "Manche Holzschnitte wurden in großer Auflage gedruckt, etwa „Lauschende Kinder“ (1947) für die Griffelkunst-Vereinigung Hamburg in 891 Exemplaren. Andere sind selten: „Warnender Hahn“ (1960) hatte laut Bassenge eine Auflage von 5 Exemplaren."
+   ],
+   [
+    "Kohlezeichnungen",
+    "Meist signiert und datiert, etwa „Otto Pankok 26“, oder nur mit „OP“ monogrammiert; rückseitig teils Werknummern. Für eine große Windmühlen-Zeichnung dankte Van Ham dem Pankok Museum Haus Esselt und der Otto-Pankok-Stiftung für die Bestätigung der Echtheit."
+   ],
+   [
+    "Otto oder Bernhard Pankok",
+    "Nicht mit dem Jugendstil-Künstler Bernhard Pankok verwechseln. Auktionshäuser führen beide getrennt, Lose mit „Pankok“ allein genau prüfen."
+   ]
+  ],
+  "preis_drueckt": "Nachlass-Signaturen, späte Abzüge und hohe Auflagen. Der Holzschnitt „Zigeuner vor Wolkenhimmel“ mit Nachlass-Signatur brachte im September 2024 bei Kloss 100 € bei einer Schätzung von 150–250 €. Bei Zeichnungen zählen Zustand und Motiv; die „Krumme Kiefer“ blieb 2024 trotz Format von 100 × 119 cm ohne Zuschlag.",
+  "werkverzeichnis": "Das Werkverzeichnis ist auf zehn Bände angelegt, bis 2024 erschienen vier: die Holzschnitte (Rainer Zimmermann, 1985), die Radierungen (Rolf Jäger, 1990), die Lithographien, Steinätzungen und Monotypien (Susanne Timm, 1994) und die Pressezeichnungen (Wolfgang Fenner, 2002). Die Plastiken verzeichnet ein Katalog von 1968. Für die rund 6000 Kohlezeichnungen gibt es kein Werkverzeichnis. Auktionshäuser zitieren die Nummern als „Zimmermann WH“ (Holzschnitte) und „WR“ (Radierungen).",
+  "provenienz": "Der Großteil des Werks liegt im Pankok Museum Haus Esselt. Die 2025 versteigerte Zeichnung von 1913 war dort laut Losseite als Dauerleihgabe; die Radierung „Hellmers IV“ stammte aus dem Nachlass der Galerie Otto Stangl, München. 1937 wurden 56 Werke Pankoks aus deutschen Museen beschlagnahmt; bei Blättern, die 1933–1945 den Besitzer wechselten, gehört die Herkunft geprüft."
+ },
+ "leben": {
+  "text": [
+   "Otto Pankok wurde 1893 in Mülheim-Saarn geboren. 1913 begann er ein Studium an der Kunstakademie Düsseldorf und an der Kunsthochschule in Weimar, brach es im Frühjahr 1914 ab und bildete sich selbst weiter, unter anderem in Dötlingen und für zwei Monate in Paris. 1919 ließ er sich in Düsseldorf nieder und gehörte zur Künstlergruppe „Junges Rheinland“ um Johanna Ey.",
+   "Ab 1931 zeichnete er die Sinti im Düsseldorfer Heinefeld, ein Thema bis an sein Lebensende. 1933/34 entstand „Die Passion“, ein Zyklus von 60 großformatigen Kohlezeichnungen; die Buchausgabe wurde vor dem Verkauf eingezogen. Pankoks Kunst galt als „entartet“, 1936 erhielt er Arbeitsverbot, 1937 wurden 56 seiner Werke aus Museen beschlagnahmt. Er zog sich ins Münsterland, ins Emsland und in die Eifel zurück. Yad Vashem ehrte ihn und seine Frau Hulda später als Gerechte unter den Völkern, weil sie den Maler Mathias Barz und dessen jüdische Frau versteckt hatten.",
+   "1947 bis 1958 lehrte er an der Kunstakademie Düsseldorf; zu seinen Schülern gehörten Günter Grass und Günther Uecker. 1950 entstand der Holzschnitt „Christus zerbricht das Gewehr“. 1958 zog er nach Haus Esselt in Drevenack. Er starb 1966 in Wesel. Sein Werk umfasst laut Wikipedia etwa 6000 Kohlezeichnungen, 800 Holzschnitte, 800 Radierungen, 500 Lithographien, Steinschnitte und Monotypien und über 200 Plastiken."
+  ],
+  "museen": "Pankok Museum Haus Esselt in Hünxe-Drevenack, das einen Großteil der Arbeiten bewahrt; Otto-Pankok-Museum in Gildehaus, Bad Bentheim. Das Städel Museum in Frankfurt führt ein Werk in seiner Online-Sammlung.",
+  "timeline": [
+   [
+    "1893",
+    "geboren in Mülheim-Saarn"
+   ],
+   [
+    "1913",
+    "Studium in Düsseldorf und Weimar, 1914 abgebrochen"
+   ],
+   [
+    "1919",
+    "in Düsseldorf, Junges Rheinland"
+   ],
+   [
+    "1921",
+    "Heirat mit Hulda Droste"
+   ],
+   [
+    "1931",
+    "Freundschaft mit den Sinti im Heinefeld"
+   ],
+   [
+    "1933/34",
+    "„Die Passion“, 60 Kohlezeichnungen"
+   ],
+   [
+    "1936",
+    "Arbeitsverbot; 1937 Beschlagnahme von 56 Werken"
+   ],
+   [
+    "1947",
+    "Professor an der Kunstakademie Düsseldorf, bis 1958"
+   ],
+   [
+    "1950",
+    "Holzschnitt „Christus zerbricht das Gewehr“"
+   ],
+   [
+    "1958",
+    "Haus Esselt in Drevenack"
+   ],
+   [
+    "1966",
+    "gestorben in Wesel"
+   ],
+   [
+    "1968",
+    "Eröffnung des Museums in Haus Esselt"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Große Kohlezeichnungen",
+   "d": "Unikate, oft um 100 × 120 cm, Landschaften und Figuren. Selten im Angebot.",
+   "bsp": "Van Ham 2021 und 2025: {max_hammer} € und 4.000 €"
+  },
+  {
+   "t": "Holzschnitte",
+   "d": "Der größte Teil des Angebots: Bildnisse, Tiere, Sinti-Motive, auch farbig.",
+   "bsp": "verkauft für 100 € bis 850 €"
+  },
+  {
+   "t": "Frühe Radierungen",
+   "d": "Blätter und Mappen um 1920, oft in kleiner Zahl gedruckt.",
+   "bsp": "350 € bis 2.000 €"
+  },
+  {
+   "t": "Nachlass-Signaturen und späte Abzüge",
+   "d": "Blätter mit Nachlass-Signatur oder vom Haus als späterer Abzug beschrieben.",
+   "bsp": "100 € bis 180 €"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Werk von Otto Pankok wert?",
+   "a": "Das hängt vor allem von der Technik ab. Die Hälfte der verkauften Lose auf dieser Seite lag zwischen {q1_all} und {q3_all} € Zuschlag, fast alle davon Druckgrafik. Große Kohlezeichnungen erzielten bei Van Ham 4.000 und {max_hammer} €, eine blieb unverkauft."
+  },
+  {
+   "q": "Ist mein Holzschnitt ein Original?",
+   "a": "Ein Holzschnitt ist ein Originaldruck, aber Abzüge unterscheiden sich. Achten Sie auf eine eigenhändige Bleistiftsignatur. Blätter mit Nachlass-Signatur, gedruckter Signatur oder als „späterer Abzug“ beschrieben brachten in den Daten dieser Seite 100 bis 180 €. Die Nummer im Werkverzeichnis von Zimmermann hilft bei der Bestimmung."
+  },
+  {
+   "q": "Wo verkauft man einen Pankok am besten?",
+   "a": "In den Daten dieser Seite kamen große Kohlezeichnungen nur bei Van Ham in Köln zur Auktion. Grafik wird bundesweit angeboten, etwa bei Bassenge in Berlin und bei Regionalhäusern. Vor der Einlieferung lohnt der Vergleich von Schätzung, Aufgeld und Kosten."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Für die Druckgrafik ja: Holzschnitte (Zimmermann, 1985), Radierungen (Jäger, 1990) und Lithographien (Timm, 1994). Für die Kohlezeichnungen gibt es keines. Van Ham ließ die Echtheit einer großen Zeichnung vom Pankok Museum Haus Esselt und der Otto-Pankok-Stiftung bestätigen."
+  },
+  {
+   "q": "Warum sind manche Holzschnitte so günstig?",
+   "a": "Oft wegen hoher Auflagen oder später Abzüge. „Lauschende Kinder“ erschien 1947 in 891 Exemplaren und brachte bei Van Ham 2025 350 €. Seltene Blätter liegen höher, etwa „Sitzender Mann“ (1942) mit 850 € bei Bassenge."
+  },
+  {
+   "q": "Ist das Otto oder Bernhard Pankok?",
+   "a": "Bernhard Pankok war ein Jugendstil-Künstler; die Auktionshäuser führen beide getrennt. Diese Seite erfasst nur Otto Pankok."
+  }
+ ],
+ "methodik_extra": "Van Ham und Bassenge veröffentlichen Preise mit Aufgeld. Der Zuschlag ist zurückgerechnet: Van Ham 32 % laut Losseiten, Bassenge 25 % („Regelaufgeld“ laut Losseiten). Die Ergebnisse sind runde Zahlen, bis auf ein regelbesteuertes Van-Ham-Los (27 % Aufgeld plus 7 % Umsatzsteuer), dessen Zuschlag geschätzt ist. Mehlis, Kloss und K&K nennen den Zuschlag direkt. Vier Lose der Van-Ham-Online-Auktion A1208 tragen kein Datum auf der Losseite; sie sind über ein Los derselben Auktion mit fortlaufender Objektnummer zugeordnet, als Datum gilt das Auktionsende am 29. Februar 2024. Bei mehrtägigen Auktionen ohne Tagesangabe (Mehlis, K&K) gilt der erste Auktionstag. Das K&K-Los umfasst zwei Holzschnitte. Nicht aufgenommen sind vier Van-Ham-Lose ohne prüfbares Datum (die Bronze „Hotu hochblickend“, die Kohlezeichnung „Windmühle“ und zwei Radierungen), ein Buch und Lose, die nur bei Preisportalen auftauchen.",
+ "quellen": [
+  {
+   "t": "Van Ham, Künstlerseite Otto Pankok (u. a. Ergebnisse mit Aufgeld für „Schwarze Vögel“, Auktion 401, und die Zeichnung von 1913, Objekt 81794-1)",
+   "u": "https://www.van-ham.com/en/artist/otto-pankok.html"
+  },
+  {
+   "t": "Van Ham, „Weite Landschaft“, Auktion 372 (1. Juni 2016), Ergebnis mit Aufgeld",
+   "u": "https://www.van-ham.com/en/artist/otto-pankok/otto-pankok-weite-landschaft.html"
+  },
+  {
+   "t": "Van Ham, Kohlezeichnung von 1926: Auktion 475 am 1. Dezember 2021, Los 36",
+   "u": "https://www.van-ham.com/en/artist/otto-pankok/ohne-titel-1000237.html"
+  },
+  {
+   "t": "Van Ham, Katalog A1208 Modern Art, Online-Auktion 21.–29. Februar 2024",
+   "u": "https://www.van-ham.com/en/auctioncatalogue/a1208-modern-art.html"
+  },
+  {
+   "t": "Van Ham, A1208 Los 4 (Poliakoff) als Bezug für die Zuordnung der Pankok-Lose",
+   "u": "https://auction.van-ham.com/en/serge-poliakoff-composition-lie-de-vin-jaune-et-noire--id-64138-item.html"
+  },
+  {
+   "t": "Van Ham, „Windmühle“ (1930), Losseite mit Dank an Pankok Museum und Otto-Pankok-Stiftung für die Echtheitsbestätigung",
+   "u": "https://auction.van-ham.com/en/otto-pankok-windmuehle--id-33370-item.html"
+  },
+  {
+   "t": "Bassenge, Künstlerverzeichnis Otto Pankok (Technik, Maße, Werkverzeichnis)",
+   "u": "https://bassenge.com/extras/artistindexquery?search=Pankok%2C+Otto&page=1&limit=50&view=list&destination=onlyCurrentCatalogues&lotFilter=bestMatch"
+  },
+  {
+   "t": "Bassenge, Katalog 125 Moderne Kunst II, Auktion 31. Mai 2025",
+   "u": "https://bassenge.com/kataloge/125/MKII?limit=30"
+  },
+  {
+   "t": "Mehlis, Auktionsübersicht mit Daten der 105., 118. und 121. Auktion",
+   "u": "https://www.mehlis.eu/de/catalogs/"
+  },
+  {
+   "t": "K&K Auktionen in Heidelberg, 305. Versteigerung am 3.–4. Juli 2026",
+   "u": "https://www.auktionen-in-heidelberg.de/kategorie/auktion-305/"
+  },
+  {
+   "t": "Lempertz, Künstlerverzeichnis Otto Pankok (neuestes Los aus Auktion 1121)",
+   "u": "https://www.lempertz.com/en/catalogues/artist-index/detail/otto-pankok.html"
+  },
+  {
+   "t": "Wikipedia: Otto Pankok",
+   "u": "https://de.wikipedia.org/wiki/Otto_Pankok"
+  },
+  {
+   "t": "Wikipedia: Otto-Pankok-Museum",
+   "u": "https://de.wikipedia.org/wiki/Otto-Pankok-Museum"
+  },
+  {
+   "t": "Wikipedia: Hulda Pankok",
+   "u": "https://de.wikipedia.org/wiki/Hulda_Pankok"
+  },
+  {
+   "t": "Deutsche Biographie: Pankok, Otto",
+   "u": "https://www.deutsche-biographie.de/pnd118591533.html"
+  },
+  {
+   "t": "Städel Museum, Sammlung online: Otto Pankok",
+   "u": "https://sammlung.staedelmuseum.de/en/person/pankok-otto"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Van Ham",
+   "date": "2021-12-01",
+   "sale": "475 Modern – Post War – Contemporary",
+   "lot": "36",
+   "title": "Ohne Titel",
+   "year": "1926",
+   "tech": "Kohle auf leichtem Karton",
+   "medium": "papier",
+   "h": 100,
+   "w": 120,
+   "lo": 7000,
+   "hi": 9000,
+   "hammer": 6000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-pankok-untitled--id-37950-item.html",
+   "note": "Ergebnis 7.920 € mit 32 % Aufgeld; Auktionsdatum laut https://www.van-ham.com/en/artist/otto-pankok/ohne-titel-1000237.html"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-02-29",
+   "sale": "1208 Modern Art (online)",
+   "lot": "68",
+   "title": "Fischerbildnis",
+   "year": "1951",
+   "tech": "Farbholzschnitt auf Japan",
+   "medium": "druck",
+   "h": 60,
+   "w": 48,
+   "lo": 100,
+   "hi": 150,
+   "hammer": 260,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-pankok-fischerbildnis--id-64202-item.html",
+   "note": "Ergebnis 354 € inkl. 27 % Aufgeld und 7 % Umsatzsteuer (Regelbesteuerung), 354 ÷ 1,27 ÷ 1,07 ≈ 260; Auflage 12; Zimmermann WH 401; Datum über A1208 Los 4 (Objektnummer fortlaufend)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-02-29",
+   "sale": "1208 Modern Art (online)",
+   "lot": "101",
+   "title": "Leuchtturm (aus: Die Schaffenden)",
+   "year": "1921",
+   "tech": "Radierung auf Bütten",
+   "medium": "druck",
+   "h": 23.5,
+   "w": 31.5,
+   "lo": 400,
+   "hi": 600,
+   "hammer": 350,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-pankok-leuchtturm-from-die-schaffenden--id-64235-item.html",
+   "note": "Ergebnis 462 € mit 32 % Aufgeld; Auflage 125; Jäger WR 228; Datum über A1208 Los 4"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-02-29",
+   "sale": "1208 Modern Art (online)",
+   "lot": "102",
+   "title": "Regenteich",
+   "year": "1920",
+   "tech": "Radierung auf Velin",
+   "medium": "druck",
+   "h": 13,
+   "w": 13,
+   "lo": 400,
+   "hi": 600,
+   "hammer": 350,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-pankok-regenteich--id-64236-item.html",
+   "note": "Ergebnis 462 € mit 32 % Aufgeld; laut Losseite einer von zwei bekannten Abzügen; Datum über A1208 Los 4"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-02-29",
+   "sale": "1208 Modern Art (online)",
+   "lot": "106",
+   "title": "10 Landschaften (Mappe)",
+   "year": "1924",
+   "tech": "Mappe mit 10 Radierungen auf Bütten, Nr. 15/25",
+   "medium": "druck",
+   "h": 41,
+   "w": 30,
+   "lo": 2000,
+   "hi": 3000,
+   "hammer": 2000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-pankok-10-landschaften--id-64240-item.html",
+   "note": "Ergebnis 2.640 € mit 32 % Aufgeld; Jäger WR 194; Datum über A1208 Los 4"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-06-05",
+   "sale": "Evening Sale Modern, Post War & Contemporary",
+   "lot": "156",
+   "title": "Krumme Kiefer",
+   "year": "1940",
+   "tech": "Kohle und Grafit auf Papier",
+   "medium": "papier",
+   "h": 100,
+   "w": 119,
+   "lo": 5000,
+   "hi": 7000,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/otto-pankok-krumme-kiefer--id-66839-item.html",
+   "note": "Losseite: „Unsold“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-09-04",
+   "sale": "1268 Modern Art (online)",
+   "lot": "63",
+   "title": "Lauschende Kinder",
+   "year": "1947",
+   "tech": "Farbholzschnitt auf Bütten",
+   "medium": "druck",
+   "h": 29.5,
+   "w": 15,
+   "lo": 300,
+   "hammer": 350,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/otto-pankok/lauschende-kinder.html",
+   "note": "Ergebnis 462 € mit Aufgeld, ÷ 1,32 = 350; Auflage 891 (Griffelkunst-Vereinigung Hamburg); Zimmermann WH 213"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-12-04",
+   "sale": "Modern | Post War | Contemporary",
+   "lot": "109",
+   "title": "Ohne Titel",
+   "year": "1913",
+   "tech": "Kohlezeichnung auf Papier",
+   "medium": "papier",
+   "h": 116,
+   "w": 165,
+   "lo": 5000,
+   "hi": 7000,
+   "hammer": 4000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/otto-pankok-untitled--id-81279-item.html",
+   "note": "Aufruf laut Losseite 04.12.2025; die Losseite zeigt kein Ergebnis; Ergebnis 5.280 € mit 32 % Aufgeld laut https://www.van-ham.com/en/artist/otto-pankok.html (Objekt 81794-1); Maße ca."
+  },
+  {
+   "house": "Bassenge",
+   "date": "2024-05-31",
+   "sale": "123 Moderne Kunst II (online)",
+   "lot": "7098",
+   "title": "Hellmers IV",
+   "year": "1921",
+   "tech": "Kaltnadel auf Velin",
+   "medium": "druck",
+   "h": 16.3,
+   "w": 13.9,
+   "hammer": 1800,
+   "status": "v",
+   "url": "https://bassenge.com/lots/123/70980",
+   "note": "Ergebnis 2.250 € inkl. 25 % Aufgeld; Technik und Maße laut Bassenge-Künstlerverzeichnis; WR 239, laut Katalogtext nur ein Abzug bekannt"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2024-11-30",
+   "sale": "124 Moderne Kunst II (online)",
+   "lot": "7128",
+   "title": "Warnender Hahn",
+   "year": "1960",
+   "tech": "Holzschnitt auf faserigem Japan",
+   "medium": "druck",
+   "h": 64.5,
+   "w": 44.5,
+   "hammer": 200,
+   "status": "v",
+   "url": "https://bassenge.com/lots/124/71280",
+   "note": "Ergebnis 250 € inkl. 25 % Aufgeld; Auflage 5; Zimmermann WH 620"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2025-05-31",
+   "sale": "125 Moderne Kunst II (online)",
+   "lot": "8143",
+   "title": "Sitzender Mann",
+   "year": "1942",
+   "tech": "Holzschnitt auf hauchdünnem Japanbütten",
+   "medium": "druck",
+   "h": 36.4,
+   "w": 26.3,
+   "hammer": 850,
+   "status": "v",
+   "url": "https://bassenge.com/lots/125/81430",
+   "note": "Ergebnis 1.063 € inkl. 25 % Aufgeld (850 × 1,25 = 1.062,50); Zimmermann WH 130; Datum laut Katalogseite 125 MKII"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2025-05-31",
+   "sale": "125 Moderne Kunst II (online)",
+   "lot": "8144",
+   "title": "Selbst mit Mütze",
+   "year": "1944",
+   "tech": "Holzschnitt auf Chinabütten",
+   "medium": "druck",
+   "h": 29.8,
+   "w": 36.6,
+   "hammer": 440,
+   "status": "v",
+   "url": "https://bassenge.com/lots/125/81440",
+   "note": "Ergebnis 550 € inkl. 25 % Aufgeld; Zimmermann WH 179 A; Datum laut Katalogseite 125 MKII"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2026-04-15",
+   "sale": "127 Moderne Literatur und Kunstdokumentation",
+   "lot": "3259",
+   "title": "Die Nova Mahala-Türkinnen",
+   "year": "1957",
+   "tech": "Holzschnitt in Schwarz auf festem Velin",
+   "medium": "druck",
+   "h": 71,
+   "w": 51,
+   "hammer": 500,
+   "status": "v",
+   "url": "https://bassenge.com/lots/127/32590",
+   "note": "„Zuschlag“ 500 €; Blattmaß; eines von 500 Exemplaren; Zimmermann WH 537"
+  },
+  {
+   "house": "Mehlis",
+   "date": "2022-02-24",
+   "sale": "105. Auktion",
+   "lot": "4008",
+   "title": "Gestreifte Katze",
+   "year": "1952",
+   "tech": "Steinschnitt, drucksigniert",
+   "medium": "druck",
+   "h": 39,
+   "w": 12.5,
+   "hammer": 170,
+   "status": "v",
+   "url": "https://www.mehlis.eu/de/catalogs/10522/14/?page=4&sort=limit",
+   "note": "Ergebnisliste des Hauses, Losseite https://www.mehlis.eu/de/catalogs/10522/item/4008/; Auktion 24.–26.02.2022, Tag nicht angegeben; Limit 80 €; Technik laut Rahmenetikett"
+  },
+  {
+   "house": "Mehlis",
+   "date": "2025-05-22",
+   "sale": "118. Auktion",
+   "lot": "3583",
+   "title": "Marabu",
+   "year": "1947",
+   "tech": "Holzschnitt, vermutlich späterer Abzug",
+   "medium": "druck",
+   "h": 28,
+   "w": 15,
+   "hammer": 122,
+   "status": "v",
+   "url": "https://www.mehlis.eu/de/catalogs/11825/item/3583/",
+   "note": "Auktion 22.–24.05.2025, Tag nicht angegeben; Limit 100 €; bezeichnet „E.A.“; Zimmermann 232"
+  },
+  {
+   "house": "Mehlis",
+   "date": "2026-02-26",
+   "sale": "121. Auktion",
+   "lot": "3647",
+   "title": "Lauschende Kinder",
+   "year": "1947",
+   "tech": "Farbholzschnitt auf Velin, späterer Abzug",
+   "medium": "druck",
+   "h": 29.7,
+   "w": 15,
+   "hammer": 180,
+   "status": "v",
+   "url": "https://www.mehlis.eu/en/catalogs/12126/14/?page=5&sort=caption",
+   "note": "Ergebnisliste des Hauses, Losseite https://www.mehlis.eu/en/catalogs/12126/item/3647/; Auktion 26.–28.02.2026, Tag nicht angegeben; Limit 180 €; Zimmermann 213"
+  },
+  {
+   "house": "Kloss",
+   "date": "2024-09-29",
+   "sale": "Herbstauktion (online)",
+   "lot": "527",
+   "title": "Zigeuner vor Wolkenhimmel",
+   "year": "1953",
+   "tech": "Holzschnitt, Nachlass-Signatur",
+   "medium": "druck",
+   "h": 78.5,
+   "w": 56.5,
+   "lo": 150,
+   "hi": 250,
+   "hammer": 100,
+   "status": "v",
+   "url": "https://www.auktionshaus-kloss.de/bildende-kunst/otto-pankok-1893-1966--id-9046-item.html",
+   "note": "„Zuschlag“ 100 €; Datum: erstes Los endet 29.09.2024"
+  },
+  {
+   "house": "K&K Heidelberg",
+   "date": "2026-07-03",
+   "sale": "305. Versteigerung",
+   "lot": "368",
+   "title": "Lauschende Kinder; Papelon II (2 Blatt)",
+   "year": "1947/1960",
+   "tech": "Farbholzschnitt und Holzschnitt, signiert",
+   "medium": "druck",
+   "h": 29.7,
+   "w": 15,
+   "hammer": 190,
+   "status": "v",
+   "url": "https://www.auktionen-in-heidelberg.de/produkt/0368-otto-pankok-lauschende-kinder-sign-farbholzschnitt-papelon-ii-sign-holzschnitt/",
+   "note": "„Zuschlag“ 190 €; Limit 20 €; Maße des ersten Blatts, Papelon II 42 × 22 cm; Auktion 3.–4.07.2026, Tag nicht angegeben"
+  }
+ ]
+}

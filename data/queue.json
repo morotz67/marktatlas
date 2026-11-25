@@ -41,8 +41,11 @@
    "slug": "otto-pankok",
    "name": "Otto Pankok",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T00:11:48Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T00:11:48Z",
+   "done_at": "2026-11-25T00:53:56Z",
+   "lots": 18,
+   "note": "Van Ham 8, Bassenge 5, Mehlis 3, Kloss 1, K&K 1; offen: Van-Ham-Lose ohne prüfbares Datum (Bronze Hotu id 31215, Windmühle id 33370 unverkauft, Holländer/Halbakt I ids 52465/52467, vermutl. A1161 Jan. 2023); Lempertz, Ketterer, Grisebach, Karl & Faber ohne prüfbares Los seit 2021; Van-Ham-Detailseiten /en/artist/otto-pankok/… teils nicht abrufbar"
   },
   {
    "slug": "hann-trier",
