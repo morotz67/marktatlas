@@ -61,8 +61,11 @@
    "slug": "gregor-von-bochmann",
    "name": "Gregor von Bochmann d. Ä.",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T02:12:21Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T02:12:21Z",
+   "done_at": "2026-11-25T02:43:45Z",
+   "lots": 23,
+   "note": "Van Ham 16, Wettmann 4, Stahl 3; Van-Ham-Künstlerseite nicht abrufbar, nur einzeln gefundene Losseiten; A499 (Mai 2023), Troika und Wettmann über veryimportantlot.com datiert; offen: Stahl 23.06.2023 „Fischer am Strand“ (Losseite nicht abrufbar), Mehlis Kat. 8517 Los 4306 ohne Datum, Wettmann 13.12.2025 Lose 318/319 ohne Ergebnis, Hargesheimer 08.03.2024 (Seite gesperrt), Van-Ham-Fine-Art-Auktionen 2024–2026 nicht durchsuchbar"
   },
   {
    "slug": "hugo-muehlig",

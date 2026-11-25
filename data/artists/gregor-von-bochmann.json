@@ -1,0 +1,664 @@
+{
+ "slug": "gregor-von-bochmann",
+ "name": "Gregor von Bochmann d. Ä.",
+ "status": "published",
+ "region": "rhein",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1850-06-01",
+  "place": "Nehatu, Estland",
+  "text": "1. Juni 1850 Hof Nehhat (Nehatu), Estland"
+ },
+ "death": {
+  "date": "1930-02-12",
+  "place": "Hösel",
+  "text": "12. Februar 1930 Hösel bei Düsseldorf"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Gregor_von_Bochmann_(Maler)",
+  "https://en.wikipedia.org/wiki/Gregor_von_Bochmann",
+  "https://d-nb.info/gnd/116213051",
+  "https://www.wikidata.org/wiki/Q884043"
+ ],
+ "sort_name": "Bochmann",
+ "split_year": 2024,
+ "list_line": "Estland und Holland, Düsseldorfer Malerschule · Gemälde {min_all}–{max_hammer} € Zuschlag",
+ "lead": "Deutsch-baltischer Maler der Düsseldorfer Malerschule, bekannt für Dorfszenen, Märkte und Fuhrwerke aus Estland und Fischer an der holländischen Küste. Diese Seite fasst zusammen, was seine Bilder im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Schule",
+   "Kunstakademie Düsseldorf 1868–1871, 1869 in der Landschaftsklasse von Oswald Achenbach"
+  ],
+  [
+   "Hauptmotive",
+   "Estnische Dörfer, Märkte, Gehöfte und Pferdewagen; Fischer und Strände in Holland"
+  ],
+  [
+   "Werkverzeichnis",
+   "keines gedruckt; Monografie von Julia Hümme (2007)"
+  ]
+ ],
+ "marktwert": "Gemälde rund {min_all}–{max_hammer} € Zuschlag, im Median {med_all} €; Aquarelle und Gouachen 350–900 €",
+ "absatzmarkt": "Köln und das Rheinland, daneben Hamburg",
+ "headline": "Gemälde brachten rund {min_all} bis {max_hammer} €, Aquarelle 350 bis 900 €",
+ "kurz": "Gregor von Bochmann kommt regelmäßig zur Auktion, meist mit kleinen und mittleren Formaten. Auf dieser Seite stehen {n_lots} Lose von {period} aus {n_houses} Häusern, {sold_rate} erhielten einen Zuschlag. Die {n_paint} verkauften Gemälde brachten zwischen rund {min_all} und rund {max_hammer} €, im Median {med_all} €. Aquarelle und Gouachen lagen zwischen 350 und 900 €. Ohne Käufer blieben ein größeres Ölbild 2022 und eine Gruppe kleiner Zeichnungen und Scherenschnitte 2023, beide bei {main}.",
+ "figs": [
+  [
+   "ca. {max_hammer} €",
+   "höchster Zuschlag: „{max_title}“, {max_size}, {max_house} {max_year}, aus dem Ergebnis mit Aufgeld zurückgerechnet"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde, {period}"
+  ],
+  [
+   "350–900 €",
+   "Zuschläge für Aquarelle und Gouachen"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag, {period}"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Format und Technik entscheiden. Das größte Bild in den Daten, „Fischer an der Kurischen Nehrung“ (Öl auf Leinwand, 76 × 102 cm), brachte im Februar 2024 bei Stahl in Hamburg rund {max_hammer} €. Die übrigen verkauften Gemälde, kleinere Leinwände und Ölbilder auf Holz, lagen zwischen 1.500 und 2.200 €. Nur das kleinste, „Auf der Brücke“ (15 × 18,5 cm), brachte weniger, rund 900 €.",
+   "Kleine Tafeln können die Schätzung deutlich übertreffen: „Fuhrwerk auf sandigem Weg am Kanal“ (Öl auf Holz, 18 × 24 cm, 1904) erzielte im Januar 2024 bei Van Ham 1.700 € bei einer unteren Schätzung von 600 €. Größere Formate sind dagegen kein Selbstläufer. „Krabbenfischer am Strand“ (Öl auf Holz, 59 × 72,5 cm) blieb im November 2022 bei einer Schätzung von 3.500–4.500 € unverkauft. In derselben Auktion brachte „Estnische Bauern am Gehöft“ (58 × 80 cm) 1.800 € und blieb damit unter der Schätzung von 2.000–4.000 €.",
+   "Arbeiten auf Papier sind günstiger. Aquarelle und Gouachen mit estnischen Dörfern, Gehöften und Pferdegespannen brachten 350 bis 900 €, alle sieben fanden einen Käufer. Im Mai 2023 bot Van Ham sieben kleine Bleistiftzeichnungen und Scherenschnitte mit Schätzungen von je 400–600 € an. Keine davon wurde verkauft."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Van Ham 32 % laut Losseiten, bei Wettmann 30 % laut Versteigerungsbedingungen. Stahl nennt nur einen auf volle Hundert Euro gerundeten „Erlös“; er passt im Februar 2024 zu 22 % Aufgeld zuzüglich Umsatzsteuer auf das Aufgeld.",
+  "spitzen": "Ältere Ergebnisse auf Van-Ham-Losseiten, jeweils mit Aufgeld: 4.356 € für „Ruhende Schafherde am Waldrand“ (Öl auf Leinwand, 56 × 80 cm, November 2012) und 3.432 € für „Estnische Landschaft mit schnellem Pferdegespann“ (56,5 × 87 cm, November 2018). Das Künstlerverzeichnis von Lempertz führt 29 verkaufte Lose, das jüngste aus der Zeit vor 2021."
+ },
+ "euro_ok": [
+  "4.356",
+  "3.432"
+ ],
+ "absatz": {
+  "text": [
+   "Köln ist in den geprüften Daten der wichtigste Ort für Bochmann: {n_house1} der {n_lots} Lose stammen von {house1}. Das Haus bot ihn 2022 und 2023 in den Fine-Art-Auktionen an, seit 2024 in den Art-&-Interior-Auktionen im Januar. {house2} in Mülheim an der Ruhr verkaufte 2024 und 2025 vier Arbeiten, {house3} in Hamburg bot ihn dreimal an und erzielte 2024 den höchsten Zuschlag.",
+   "Die Datenlage hat Lücken. Die Künstlerseite von Van Ham war für diese Auswertung nicht abrufbar; erfasst sind nur Lose, deren Losseite sich einzeln prüfen ließ. Weitere Angebote bei Hargesheimer, der Antikauktion Krefeld und Historia Auctionata waren nur auf Vergleichsportalen zu finden und sind nicht aufgenommen. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Mittel. Insgesamt erhielten {sold_rate} Losen einen Zuschlag. Gemälde, Aquarelle und Gouachen fanden meist Käufer. Ohne Zuschlag blieben ein größeres Ölbild 2022, alle sieben kleinen Zeichnungen und Scherenschnitte 2023 und eine kleine Ölstudie, für die Stahl 2021 kein Ergebnis nennt."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "Meist „G. v. Bochmann“, „G.v. Bochmann“ oder „GvBochmann“ unten links oder rechts, oft mit Jahreszahl („GvBochmann. 1904“). Kleine Studien und Zeichnungen tragen auch das Monogramm „GvB“ oder „G.vB“, teils mit zweistelliger Jahreszahl („G.vB 76“)."
+   ],
+   [
+    "Vater und Sohn",
+    "Sein gleichnamiger Sohn Gregor von Bochmann d. J. (1878–1914) war Bildhauer und fiel im September 1914. Arbeiten, die nach 1914 datiert sind, können nicht von ihm stammen. Auktionshäuser kennzeichnen den Maler oft mit „d. Ä.“."
+   ],
+   [
+    "Zuschreibungen",
+    "Van Ham bot 2023 neben signierten Zeichnungen auch mehrere Scherenschnitte und Blätter als „zugeschrieben“ an. Solche Lose sind hier nicht erfasst und nicht mit Originalpreisen zu vergleichen."
+   ],
+   [
+    "Druckprüfung mit Lupe und Streiflicht",
+    "Ein Druck zeigt ein regelmäßiges Raster und eine flache Oberfläche, ein Ölbild Pinselspuren und oft feines Craquelé."
+   ]
+  ],
+  "preis_drueckt": "Schwach waren in den Daten vor allem kleine Bleistiftzeichnungen und Scherenschnitte aus einem Konvolut. Zustandsmängel wie gebräuntes Papier oder Craquelé nennen die Häuser im Katalog; ein Preisabschlag dafür lässt sich aus den wenigen Losen nicht belegen.",
+  "werkverzeichnis": "Ein gedrucktes Werkverzeichnis ist nicht bekannt. Grundlegend ist die Dissertation von Julia Hümme, „Gregor von Bochmann (1850–1930). Leben und Werk eines deutsch-baltischen Malers in Düsseldorf“ (Kiel 2007). Laut englischer Wikipedia führt ein Urenkel online ein unvollständiges Werkverzeichnis.",
+  "provenienz": "Das Suermondt-Ludwig-Museum in Aachen führt sein Bild „Gehöft in Estland“ (1900) als Kriegsverlust, heute im Kunstmuseum Simferopol auf der Krim. Bei Bildern, die 1933–1945 den Besitzer wechselten, gehört die Herkunft geprüft."
+ },
+ "leben": {
+  "text": [
+   "Gregor von Bochmann wurde 1850 auf dem Hof Nehhat (Nehatu) in Estland geboren, als Sohn eines Forstbeamten der Krondomänen. Er besuchte das Gymnasium in Reval (Tallinn) und erhielt 1868 ein Stipendium der Revaler Schiller-Stiftung für die Kunstakademie Düsseldorf. Dort durchlief er rasch die Zeichen- und Antikenklasse und war 1869 ein halbes Jahr in der Landschaftsklasse von Oswald Achenbach.",
+   "Ab 1871 arbeitete er mit eigenem Atelier in Düsseldorf. Seine Themen fand er in Estland und an der holländischen Küste: Dorfleben, Märkte, Häfen, Fischer und Pferdewagen. Die Figuren sind bei ihm mehr als Staffage. 1874 erhielt er in Berlin die Kleine Goldene Medaille, 1878 kaufte die Nationalgalerie „Werft in Südholland“. 1877 heiratete er Emilie Poensgen, Tochter des Industriellen Julius Poensgen.",
+   "1893 wurde er Mitglied der Akademie der Künste in Berlin, 1895 erhielt er den preußischen Professorentitel, 1899 bestätigte Wilhelm II. den russischen Adel der Familie für Preußen. Er gehörte zur Freien Vereinigung Düsseldorfer Künstler und war Vorstandsmitglied im Deutschen Künstlerbund. Sein Sohn, der Bildhauer Gregor von Bochmann d. J., fiel 1914. Bochmann starb 1930 in Hösel bei Düsseldorf; im selben Jahr zeigte der Kunstverein für die Rheinlande und Westfalen eine Gedächtnisausstellung."
+  ],
+  "museen": "Kunstpalast Düsseldorf („Alter Fischmarkt in Reval“, 1886), Alte Nationalgalerie Berlin („Werft in Südholland“, 1878), Neue Pinakothek München („Holländisches Strandbild“, 1894), Estnisches Kunstmuseum Tallinn. Laut NDB und Wikipedia auch Staatsgalerie Stuttgart und Gemäldegalerie Dresden.",
+  "timeline": [
+   [
+    "1850",
+    "geboren auf Hof Nehhat (Nehatu), Estland"
+   ],
+   [
+    "1868",
+    "Kunstakademie Düsseldorf, Stipendium der Revaler Schiller-Stiftung"
+   ],
+   [
+    "1871",
+    "eigenes Atelier in Düsseldorf"
+   ],
+   [
+    "1874",
+    "Kleine Goldene Medaille, Berlin"
+   ],
+   [
+    "1878",
+    "Nationalgalerie kauft „Werft in Südholland“"
+   ],
+   [
+    "1893",
+    "Mitglied der Akademie der Künste, Berlin"
+   ],
+   [
+    "1895",
+    "preußischer Professorentitel"
+   ],
+   [
+    "1899",
+    "Adel in Preußen bestätigt"
+   ],
+   [
+    "1914",
+    "Sohn Gregor fällt in Frankreich"
+   ],
+   [
+    "1930",
+    "gestorben in Hösel bei Düsseldorf"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Ölbilder auf Holz",
+   "d": "Kleine und mittlere Tafeln mit Dorf-, Küsten- und Fuhrwerkszenen, oft signiert und datiert.",
+   "bsp": "verkauft für rund 900 € bis 2.200 €"
+  },
+  {
+   "t": "Leinwandbilder",
+   "d": "Größere Formate mit Bauern, Fischern und Booten.",
+   "bsp": "1.700 € bis rund {max_hammer} €"
+  },
+  {
+   "t": "Aquarelle und Gouachen",
+   "d": "Estnische Dorfstraßen, Gehöfte und Pferdegespanne, teils mit der Feder gezeichnet.",
+   "bsp": "350 € bis 900 €"
+  },
+  {
+   "t": "Zeichnungen und Scherenschnitte",
+   "d": "Kleine Bleistiftstudien und Silhouetten mit Figuren und Pferden.",
+   "bsp": "Schätzung je 400–600 €, 2023 alle unverkauft"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Gregor von Bochmann wert?",
+   "a": "Die {n_paint} verkauften Gemälde auf dieser Seite brachten zwischen rund {min_all} und rund {max_hammer} € Zuschlag, im Median {med_all} €. Aquarelle und Gouachen lagen bei 350 bis 900 €. Beim Kauf kommt das Aufgeld des Hauses hinzu."
+  },
+  {
+   "q": "Wo verkauft man einen Bochmann am besten?",
+   "a": "Im Rheinland. Van Ham in Köln bietet ihn regelmäßig an und stellt die meisten Lose auf dieser Seite; Wettmann in Mülheim an der Ruhr verkaufte alle vier hier erfassten Arbeiten. Den höchsten Zuschlag erzielte 2024 Stahl in Hamburg. Vor der Einlieferung lohnt der Vergleich von Schätzung, Aufgeld und Kosten."
+  },
+  {
+   "q": "Ist mein Bild vom Vater oder vom Sohn?",
+   "a": "Der Maler ist Gregor von Bochmann d. Ä. (1850–1930). Sein Sohn Gregor von Bochmann d. J. (1878–1914) war Bildhauer. Arbeiten, die nach 1914 datiert sind, können nicht vom Sohn stammen. Alle Lose auf dieser Seite führen die Häuser unter dem Vater."
+  },
+  {
+   "q": "Sind Aquarelle und Zeichnungen gefragt?",
+   "a": "Aquarelle und Gouachen mit Dorf- und Pferdemotiven fanden in den Daten dieser Seite alle einen Käufer, für 350 bis 900 €. Kleine Bleistiftzeichnungen und Scherenschnitte blieben 2023 bei Van Ham bei Schätzungen von je 400–600 € alle unverkauft."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Ein gedrucktes Werkverzeichnis ist nicht bekannt. Grundlegend ist die Monografie von Julia Hümme (Kiel 2007). Ein unvollständiges Verzeichnis führt die Familie online."
+  },
+  {
+   "q": "Woher kommen die estnischen Motive?",
+   "a": "Bochmann stammte aus Estland, das damals zum Russischen Reich gehörte, und reiste regelmäßig dorthin. Er brachte Skizzen, Studien und Fotografien mit; laut Neuer Deutscher Biographie malte er oft aus der Erinnerung im Düsseldorfer Atelier."
+  }
+ ],
+ "methodik_extra": "Van Ham und Wettmann veröffentlichen Preise mit Aufgeld. Der Zuschlag ist zurückgerechnet: Van Ham 32 % laut Losseiten, Wettmann 30 % laut Versteigerungsbedingungen; alle Ergebnisse sind runde Zahlen. Stahl nennt einen auf volle Hundert Euro gerundeten „Erlös“. Die Ergebnisse der Stahl-Auktion vom Februar 2024 passen zu 22 % Aufgeld zuzüglich 19 % Umsatzsteuer auf das Aufgeld (zusammen 26,18 %); die beiden Stahl-Zuschläge sind deshalb geschätzt, „Auf der Brücke“ kann 850 oder 900 € erzielt haben. Die Van-Ham-Losseiten der Auktion 499 (Mai 2023) und von „Troika“ nennen kein Datum; Auktion und Datum stammen von veryimportantlot.com und passen zu den fortlaufenden Los- und Objektnummern. Auch die Wettmann-Losseiten nennen kein Datum; es stammt von derselben Plattform. Bei mehrtägigen Auktionen ist der erste Auktionstag angegeben. Nicht aufgenommen sind sechs Van-Ham-Lose, die das Haus als „zugeschrieben“ anbot, ein Stahl-Los vom Juni 2023 ohne abrufbare Losseite, ein Mehlis-Los ohne Datum und Lose, die nur auf Vergleichsportalen zu finden waren.",
+ "quellen": [
+  {
+   "t": "Van Ham, „Fischerboote vor einem estnischen Gehöft“, Auktion 528 (Januar 2025)",
+   "u": "https://www.van-ham.com/en/artist/gregor-von-bochmann/fischerboote-vor-einem-estnischen-gehoeft.html"
+  },
+  {
+   "t": "Van Ham, „Ruhende Schafherde am Waldrand“, Auktion 315 (November 2012), Ergebnis mit Aufgeld",
+   "u": "https://www.van-ham.com/en/artist/gregor-von-bochmann/gregor-von-bochmann-auktion-315-los-877.html"
+  },
+  {
+   "t": "Van Ham, „Estnische Landschaft mit schnellem Pferdegespann“, Auktion 418 (November 2018), Ergebnis mit Aufgeld",
+   "u": "https://www.van-ham.com/en/artist/gregor-von-bochmann/gregor-von-bochmann-estnische-landschaft-mit-schnellem-pferdegespann.html"
+  },
+  {
+   "t": "Van Ham, Auktionen und Ergebnisse 2024 (Auktion 512: 30. und 31. Januar 2024)",
+   "u": "https://van-ham.com/en/auctions/auctions-and-results/catalogues-and-results-2024-van-ham-kunstauktionen.html"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham A512 Los 1133 „Troika“ (Datum)",
+   "u": "https://veryimportantlot.com/en/lot/view/gregor-von-bochmann-troika-1142004"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham A499 Fine Art, 15.05.2023, Los 164 (Datum)",
+   "u": "https://veryimportantlot.com/en/lot/view/gregor-von-bochmann-951011"
+  },
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Gregor von Bochmann",
+   "u": "https://www.auktionshaus-stahl.de/en/artist/7725-gregor-von-bochmann"
+  },
+  {
+   "t": "Auktionshaus Stahl, Katalog 200 (24. Februar 2024), Ergebnisse",
+   "u": "https://www.auktionshaus-stahl.de/en/catalogue/200-24-february-2024-art-of-the-20th-and-21st-century/60?sort=preis"
+  },
+  {
+   "t": "Wettmann, Versteigerungsbedingungen",
+   "u": "https://wettmann.com/agb/"
+  },
+  {
+   "t": "Lempertz, Künstlerverzeichnis Gregor von Bochmann",
+   "u": "https://www.lempertz.com/de/kataloge/kuenstlerverzeichnis/detail/bochmann-gregor-von.html"
+  },
+  {
+   "t": "Wikipedia: Gregor von Bochmann (Maler)",
+   "u": "https://de.wikipedia.org/wiki/Gregor_von_Bochmann_(Maler)"
+  },
+  {
+   "t": "Wikipedia: Gregor von Bochmann d. J.",
+   "u": "https://de.wikipedia.org/wiki/Gregor_von_Bochmann_d._J."
+  },
+  {
+   "t": "Wikipedia (englisch): Gregor von Bochmann",
+   "u": "https://en.wikipedia.org/wiki/Gregor_von_Bochmann"
+  },
+  {
+   "t": "Neue Deutsche Biographie: Bochmann, Alexander Heinrich Gregor von",
+   "u": "https://www.deutsche-biographie.de/sfz4845.html"
+  },
+  {
+   "t": "Akademie der Künste, Archiv: Wahl zum Mitglied 1893",
+   "u": "https://www-p2.archivportal-d.de/item/QP5S54XICSRBC4QHJDONRB72U4JLZVMF"
+  },
+  {
+   "t": "Kunstpalast Düsseldorf: „Alter Fischmarkt in Reval“ (1886)",
+   "u": "https://sammlung.kunstpalast.de/en/objects/details/141828"
+  },
+  {
+   "t": "Staatliche Museen zu Berlin: „Werft in Südholland“ (1878)",
+   "u": "https://smb.museum-digital.de/pdf/object/142975.pdf?lang=de"
+  },
+  {
+   "t": "Pinakothek München: „Holländisches Strandbild“ (1894)",
+   "u": "https://www.sammlung.pinakothek.de/en/artwork/5RGQjz84z3"
+  },
+  {
+   "t": "Estnisches Kunstmuseum, digitale Sammlung",
+   "u": "https://digikogu.ekm.ee/eng/no_category/oid-10029"
+  },
+  {
+   "t": "Suermondt-Ludwig-Museum Aachen: Kriegsverlust „Gehöft in Estland“",
+   "u": "https://suermondt-ludwig-museum.de/scha-ga/boxcontent/content/178/index_eng.html"
+  },
+  {
+   "t": "Gedächtnis-Ausstellung Gregor von Bochmann, Düsseldorf 1930 (Katalog)",
+   "u": "https://public-content.library.mcgill.ca/digitization/rbsc_stern_gedachtnis-ausstellung-fur-gregor-bochmann_D588B59A41930.pdf"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Stahl",
+   "date": "2021-02-26",
+   "sale": "350 Decorative Art",
+   "lot": "389",
+   "title": "Fuhrwerk",
+   "year": "1876",
+   "tech": "Öl auf Papier, auf Holz",
+   "medium": "karton",
+   "h": 21.5,
+   "w": 15.5,
+   "status": "n",
+   "url": "https://www.auktionshaus-stahl.de/en/article/99141-gregor-von-bochmann-cart",
+   "note": "Losseite ohne Erlös; Titel aus dem Englischen („Cart“) übersetzt; monogrammiert und datiert „G.vB 76“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-11-17",
+   "sale": "490 Fine Art",
+   "lot": "806",
+   "title": "Krabbenfischer am Strand",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 59,
+   "w": 72.5,
+   "lo": 3500,
+   "hi": 4500,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/gregor-von-bochmann-crab-fishermen-on-the-beach--id-49341-item.html",
+   "note": "Losseite: „Unsold“; Titel aus dem Englischen übersetzt"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-11-17",
+   "sale": "490 Fine Art",
+   "lot": "807",
+   "title": "Weite estnische Landschaft mit Bauern auf Pferdewagen",
+   "tech": "Gouache auf Papier, montiert",
+   "medium": "papier",
+   "h": 51,
+   "w": 73,
+   "lo": 800,
+   "hi": 1200,
+   "hammer": 800,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/gregor-von-bochmann/weite-estnische-landschaft-mit-bauern-auf-pferdewagen.html",
+   "note": "Ergebnis 1.056 € mit Aufgeld"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-11-17",
+   "sale": "490 Fine Art",
+   "lot": "808",
+   "title": "Estnische Bauern am Gehöft",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 58,
+   "w": 80,
+   "lo": 2000,
+   "hi": 4000,
+   "hammer": 1800,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/gregor-von-bochmann-estonian-farmers-at-the-farmstead--id-49343-item.html",
+   "note": "Ergebnis 2.376 € mit Aufgeld; Datum über Los 807 derselben Auktion"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-05-15",
+   "sale": "499 Fine Art",
+   "lot": "159",
+   "title": "Tänzelndes Pferd",
+   "tech": "Scherenschnitt auf Karton",
+   "medium": "papier",
+   "h": 9,
+   "w": 12,
+   "lo": 400,
+   "hi": 600,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/gregor-von-bochmann-prancing-horse--id-54871-item.html",
+   "note": "Datum und Auktion laut veryimportantlot.com (Auktion A499, 15.05.2023, Lose 158–172); die Van-Ham-Losseite nennt kein Datum, Los- und Objektnummern laufen fortlaufend; Titel aus dem Englischen übersetzt"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-05-15",
+   "sale": "499 Fine Art",
+   "lot": "164",
+   "title": "Portrait eines Schneiders in Konz am Rhein",
+   "year": "1870",
+   "tech": "Bleistift auf Papier",
+   "medium": "papier",
+   "h": 26,
+   "w": 23,
+   "lo": 400,
+   "hi": 600,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/gregor-von-bochmann-portrait-of-a-tailor--id-54876-item.html",
+   "note": "Datum und Auktion laut veryimportantlot.com (Auktion A499, 15.05.2023, Lose 158–172); die Van-Ham-Losseite nennt kein Datum, Los- und Objektnummern laufen fortlaufend; Titel aus dem Englischen übersetzt"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-05-15",
+   "sale": "499 Fine Art",
+   "lot": "166",
+   "title": "Huckepack",
+   "tech": "Bleistift auf Papier",
+   "medium": "papier",
+   "h": 12.5,
+   "w": 7.5,
+   "lo": 400,
+   "hi": 600,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/gregor-von-bochmann-piggyback--id-54878-item.html",
+   "note": "Datum und Auktion laut veryimportantlot.com (Auktion A499, 15.05.2023, Lose 158–172); die Van-Ham-Losseite nennt kein Datum, Los- und Objektnummern laufen fortlaufend; Titel aus dem Englischen übersetzt"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-05-15",
+   "sale": "499 Fine Art",
+   "lot": "167",
+   "title": "Studien zu einem Wanderer",
+   "tech": "Bleistift auf Papier",
+   "medium": "papier",
+   "h": 16,
+   "w": 31,
+   "lo": 400,
+   "hi": 600,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/gregor-von-bochmann-studies-on-a-wanderer--id-54879-item.html",
+   "note": "Datum und Auktion laut veryimportantlot.com (Auktion A499, 15.05.2023, Lose 158–172); die Van-Ham-Losseite nennt kein Datum, Los- und Objektnummern laufen fortlaufend; Titel aus dem Englischen übersetzt"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-05-15",
+   "sale": "499 Fine Art",
+   "lot": "168",
+   "title": "Wanderweg",
+   "tech": "Bleistift auf Karton",
+   "medium": "papier",
+   "h": 8,
+   "w": 12,
+   "lo": 400,
+   "hi": 600,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/gregor-von-bochmann-hiking-trail--id-54880-item.html",
+   "note": "Datum und Auktion laut veryimportantlot.com (Auktion A499, 15.05.2023, Lose 158–172); die Van-Ham-Losseite nennt kein Datum, Los- und Objektnummern laufen fortlaufend; Titel aus dem Englischen übersetzt"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-05-15",
+   "sale": "499 Fine Art",
+   "lot": "171",
+   "title": "Kutscher bei der Rast",
+   "tech": "Bleistift auf Papier",
+   "medium": "papier",
+   "h": 7.5,
+   "w": 12.5,
+   "lo": 400,
+   "hi": 600,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/gregor-von-bochmann-coachman-at-the-rest--id-54883-item.html",
+   "note": "Datum und Auktion laut veryimportantlot.com (Auktion A499, 15.05.2023, Lose 158–172); die Van-Ham-Losseite nennt kein Datum, Los- und Objektnummern laufen fortlaufend; Titel aus dem Englischen übersetzt"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-05-15",
+   "sale": "499 Fine Art",
+   "lot": "174",
+   "title": "Am Hafen",
+   "tech": "Bleistift auf Karton",
+   "medium": "papier",
+   "h": 8,
+   "w": 12,
+   "lo": 400,
+   "hi": 600,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/gregor-von-bochmann-at-the-harbour--id-54886-item.html",
+   "note": "Datum und Auktion laut veryimportantlot.com (Auktion A499, 15.05.2023, Lose 158–172); die Van-Ham-Losseite nennt kein Datum, Los- und Objektnummern laufen fortlaufend; Titel aus dem Englischen übersetzt"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-01-30",
+   "sale": "512 Art & Interior",
+   "lot": "1133",
+   "title": "Troika",
+   "tech": "Aquarell auf Papier",
+   "medium": "papier",
+   "h": 36,
+   "w": 48.5,
+   "lo": 600,
+   "hi": 800,
+   "hammer": 850,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/gregor-von-bochmann-troika--id-63105-item.html",
+   "note": "Ergebnis 1.122 € mit Aufgeld; Maß des Passepartout-Ausschnitts; Losseite ohne Datum, Auktion A512 laut veryimportantlot.com (2. Auktionstag, 31.01.2024)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-01-30",
+   "sale": "512 Art & Interior",
+   "lot": "1134",
+   "title": "Estnische Dorfstraße",
+   "tech": "Aquarell auf Papier, kaschiert",
+   "medium": "papier",
+   "h": 49,
+   "w": 64.5,
+   "lo": 600,
+   "hammer": 900,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/gregor-von-bochmann/estnische-dorfstrasse.html",
+   "note": "Ergebnis 1.188 € mit Aufgeld"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-01-30",
+   "sale": "512 Art & Interior",
+   "lot": "1135",
+   "title": "Fuhrwerk auf sandigem Weg am Kanal (Estland?)",
+   "year": "1904",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 18,
+   "w": 24,
+   "lo": 600,
+   "hammer": 1700,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/gregor-von-bochmann/fuhrwerk-auf-sandigem-weg-am-kanal-estland.html",
+   "note": "Ergebnis 2.244 € mit Aufgeld"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-02-24",
+   "sale": "363 Kunst des 20. und 21. Jahrhunderts",
+   "lot": "91",
+   "title": "Fischer an der Kurischen Nehrung",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 76,
+   "w": 102,
+   "hammer": 2700,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/108396-gregor-von-bochmann-fishermen-on-the-curonian-coast",
+   "note": "Stahl nennt „Erlös 3.400 €“, auf 100 € gerundet mit Aufgeld; zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; im Katalog „Kuhrischen“"
+  },
+  {
+   "house": "Wettmann",
+   "date": "2024-05-25",
+   "sale": "Alte, Moderne & Zeitgenössische Kunst",
+   "lot": "320",
+   "title": "Reiter trifft Ziegenhirte",
+   "year": "1908",
+   "tech": "Aquarell auf Papier, montiert",
+   "medium": "papier",
+   "h": 35.5,
+   "w": 46.5,
+   "hammer": 550,
+   "status": "v",
+   "url": "https://wettmann.com/los/gregor-von-bochmann-1850-gut-nehhat-estland-1930-hoesel-bei-duesseldorf-75609/",
+   "note": "Limitpreis 500 €; Ergebnis 715 € mit Aufgeld (30 %); Sichtmaß; Losseite ohne Datum, Datum laut veryimportantlot.com"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-11-30",
+   "sale": "366 Alte Meister und Kunst des 19. Jh.",
+   "lot": "452",
+   "title": "Auf der Brücke",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 15,
+   "w": 18.5,
+   "hammer": 900,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/109496-gregor-von-bochmann-on-the-bridge",
+   "note": "Stahl nennt „Erlös 1.100 €“, auf 100 € gerundet mit Aufgeld; Zuschlag 850 oder 900 €"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-01-29",
+   "sale": "528 Art & Interior",
+   "lot": "740",
+   "title": "Fischerboote vor einem estnischen Gehöft",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 48,
+   "w": 41.5,
+   "lo": 1500,
+   "hi": 2000,
+   "hammer": 1700,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/gregor-von-bochmann/fischerboote-vor-einem-estnischen-gehoeft.html",
+   "note": "Ergebnis 2.244 € mit Aufgeld"
+  },
+  {
+   "house": "Wettmann",
+   "date": "2025-05-24",
+   "sale": "Alte Kunst & Antiquitäten",
+   "lot": "233",
+   "title": "Baltische Bauern",
+   "tech": "Aquarell auf Papier",
+   "medium": "papier",
+   "h": 35,
+   "w": 47,
+   "hammer": 900,
+   "status": "v",
+   "url": "https://wettmann.com/los/gregor-von-bochmann-1850-gut-nesat-1930-hoesel-84075/",
+   "note": "Limitpreis 600 €; Ergebnis 1.170 € mit Aufgeld (30 %); Sichtmaß; Datum laut veryimportantlot.com"
+  },
+  {
+   "house": "Wettmann",
+   "date": "2025-05-24",
+   "sale": "Alte Kunst & Antiquitäten",
+   "lot": "234",
+   "title": "Baltische Bauern",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 28,
+   "w": 44,
+   "hammer": 1500,
+   "status": "v",
+   "url": "https://wettmann.com/los/gregor-von-bochmann-1850-gut-nesat-1930-hoesel-84075-2/",
+   "note": "Limitpreis 1.200 €; Ergebnis 1.950 € mit Aufgeld (30 %); Datum laut veryimportantlot.com"
+  },
+  {
+   "house": "Wettmann",
+   "date": "2025-05-24",
+   "sale": "Alte Kunst & Antiquitäten",
+   "lot": "235",
+   "title": "Die baltische See",
+   "year": "1894",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 20,
+   "w": 27,
+   "hammer": 2200,
+   "status": "v",
+   "url": "https://wettmann.com/los/gregor-von-bochmann-1850-gut-nesat-1930-hoesel-84075-3/",
+   "note": "Limitpreis 2.200 €; Ergebnis 2.860 € mit Aufgeld (30 %); Datum laut veryimportantlot.com"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2026-01-28",
+   "sale": "544 Art & Interior",
+   "lot": "730",
+   "title": "Gehöft mit Ziehbrunnen",
+   "tech": "Aquarell, Feder und Tusche auf Papier, kaschiert",
+   "medium": "papier",
+   "h": 20,
+   "w": 26.5,
+   "lo": 300,
+   "hammer": 350,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/gregor-von-bochmann/farmstead-with-draw-well.html",
+   "note": "Ergebnis 462 € mit Aufgeld; Maß im Passepartout"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2026-01-28",
+   "sale": "544 Art & Interior",
+   "lot": "731",
+   "title": "Pferdekutsche mit Fohlen",
+   "tech": "Aquarell und Feder auf Papier, auf Holz kaschiert",
+   "medium": "papier",
+   "h": 38,
+   "w": 52,
+   "lo": 400,
+   "hammer": 550,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/gregor-von-bochmann/horse-drawn-carriage-with-foal.html",
+   "note": "Ergebnis 726 € mit Aufgeld"
+  }
+ ]
+}
