@@ -245,7 +245,8 @@
    "slug": "ludwig-dill",
    "name": "Ludwig Dill",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T13:16:09Z"
   },
   {
    "slug": "wilhelm-velten",
