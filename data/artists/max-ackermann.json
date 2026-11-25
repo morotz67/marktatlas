@@ -1,0 +1,561 @@
+{
+ "slug": "max-ackermann",
+ "name": "Max Ackermann",
+ "status": "published",
+ "region": "alpen",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1887-10-05",
+  "place": "Berlin",
+  "text": "5. Oktober 1887 Berlin"
+ },
+ "death": {
+  "date": "1975-11-14",
+  "place": "Unterlengenhardt",
+  "text": "14. November 1975 Unterlengenhardt bei Bad Liebenzell"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Max_Ackermann",
+  "https://en.wikipedia.org/wiki/Max_Ackermann",
+  "https://d-nb.info/gnd/118500473"
+ ],
+ "sort_name": "Ackermann",
+ "split_year": 2024,
+ "list_line": "Abstrakter Maler aus dem Hölzel-Kreis · Pastelle 700–{max_hammer} € Zuschlag",
+ "lead": "Maler der abstrakten Moderne aus dem Kreis um Adolf Hölzel in Stuttgart, bekannt für seine „absolute Malerei“ und farbige Pastelle. Diese Seite fasst zusammen, was seine Werke im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Weimar (Henry van de Velde), Dresden (Gotthardt Kuehl), München (Franz von Stuck); ab 1912 in Stuttgart bei Adolf Hölzel"
+  ],
+  [
+   "Malweise",
+   "abstrakte Bilder und Pastelle, oft mit Titeln aus der Musik („Jubelrhythmus“, „Vivace“); bis in die 1940er Jahre auch gegenständliche Bilder vom Bodensee"
+  ],
+  [
+   "Im Handel",
+   "vor allem Pastelle und Farbserigrafien, seltener Ölbilder auf Leinwand oder Holz"
+  ],
+  [
+   "Werkverzeichnis",
+   "Siebdrucke: Bayer/Enßlin-List 2006; sonst Nummern des Max-Ackermann-Archivs (ACK)"
+  ]
+ ],
+ "marktwert": "Pastelle 700–{max_hammer} € Zuschlag, Siebdrucke 200–400 €; für Gemälde seit 2021 kein Zuschlag prüfbar",
+ "absatzmarkt": "Köln (Van Ham) für Pastelle und Grafik",
+ "headline": "Pastelle brachten 700 bis {max_hammer} €, Siebdrucke 200 bis 400 €",
+ "kurz": "Für Max Ackermann waren seit 2022 nur {n_lots} Lose mit Datum und Quelle prüfbar, {n_house1} davon bei {house1} in Köln. Fast alle sind Pastelle und Farbserigrafien. Das Pastell „Jubelrhythmus“ von 1957 brachte 2022 {max_hammer} €, vier weitere Pastelle von 1958 bis 1974 lagen bei rund 700 bis 900 €. Siebdrucke erzielten 200 bis 400 €. Für Ölbilder liegt in den geprüften Quellen seit 2021 kein belegter Zuschlag vor; zwei Bilder bei Grisebach blieben ohne Ergebnis.",
+ "figs": [
+  [
+   "{max_hammer} €",
+   "höchster Zuschlag: Pastell „{max_title}“ (1957), {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "700–900 €",
+   "Zuschläge für vier weitere Pastelle bei Van Ham und Mehlis, 2023–2025, zum Teil geschätzt"
+  ],
+  [
+   "200–400 €",
+   "Zuschläge für Farbserigrafien bei Van Ham, 2023"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag, {period}"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Die Lose mit prüfbarem Ergebnis sind fast alle Arbeiten auf Papier. Den höchsten Zuschlag erzielte im Januar 2022 bei Van Ham das Pastell „Jubelrhythmus“ von 1957 (24 × 31 cm) mit {max_hammer} € bei einer Schätzung von 2.000–3.000 €. Es stammte aus der Stuttgarter Galerie Döbele.",
+   "Späte Pastelle liegen deutlich darunter. Zwei Blätter von 1974 brachten im Oktober 2023 bei Van Ham 900 € und 700 €, beide unter der unteren Schätzung. „An die Freude“ (1960) erzielte im November 2025 rund 900 €, ein Pastell von 1958 bei Mehlis in Plauen rund 800 €. Zwei Arbeiten blieben bei Van Ham unverkauft: eine Mischtechnik von 1968 (2022, Schätzung 1.800–2.000 €) und ein Pastell von 1959 (2025, Schätzung 2.000–3.000 €).",
+   "Farbserigrafien sind die günstigste Werkgruppe. Sie erschienen in Auflagen von 100 bis 200 Blatt und brachten bei Van Ham 2023 zwischen 200 und 400 € je Los.",
+   "Ölbilder kommen zur Auktion, ihre Ergebnisse waren aber nicht prüfbar. Sotheby's bot von 2021 bis 2025 in Online-Auktionen vier große Bilder der 1950er und 1960er Jahre an, mit Schätzungen zwischen 6.000 und 15.000 €; die Ergebnisse sind nur nach Anmeldung sichtbar. Van Ham rief im Dezember 2025 „Rotation“ (1967, 150 × 120 cm) mit 12.000–18.000 € auf; die Losseite zeigt kein Ergebnis. Nagel in Stuttgart verkaufte im Februar 2026 ein Ackermann-Los für 16.800 € einschließlich Aufgeld bei einer Schätzung von 5.000–7.000 €; Titel und Technik waren nicht abrufbar, deshalb fehlt es in der Tabelle."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Van Ham 32 % laut Losseiten, bei regelbesteuerten Losen 27 % zuzüglich Umsatzsteuer; Nagel nennt in der Ergebnisliste vom Februar 2026 Preise mit 29,5 % Aufgeld. Weil Ackermann 1975 starb, fällt bis Ende 2045 außerdem die Folgerechtsvergütung an; Van Ham berechnet dafür 1,5 % auf den Zuschlag.",
+  "spitzen": "Ältere Ergebnisse zeigen, was Ölbilder bringen können. Van Ham verkaufte im November 2015 „Komposition 27.X.65“ (65,5 × 50,5 cm) für 21.120 € mit Aufgeld. Bei Nagel erzielte „An die Freude VII“ (1958, 120 × 90 cm mit Rahmen) im November 2019 laut veryimportantlot.com 29.000 €; ob mit Aufgeld, steht dort nicht."
+ },
+ "euro_ok": [
+  "6.000",
+  "15.000",
+  "12.000",
+  "18.000",
+  "16.800",
+  "21.120",
+  "29.000"
+ ],
+ "absatz": {
+  "text": [
+   "{house1} in Köln stellt {n_house1} der {n_lots} Lose, fast alle aus Online-Auktionen mit Pastellen und Grafik der Nachkriegszeit. Grisebach in Berlin bot 2025 und 2026 zwei kleinere Ölbilder an, Mehlis in Plauen ein Pastell.",
+   "Auch in Stuttgart, wo Ackermann lange lebte, kommen seine Werke zur Auktion: Nagel bot im Februar 2025 und im Februar 2026 je zwei Lose an. Titel und Ergebnisse ließen sich nur teilweise prüfen. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Nur eingeschränkt prüfbar. {sold_rate} Losen erhielten einen Zuschlag. Pastelle und Siebdrucke fanden meist Käufer, oft unter der unteren Schätzung. Zwei Arbeiten auf Papier blieben bei Van Ham unverkauft, zwei Ölbilder bei Grisebach ohne Ergebnis."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur und Datum",
+    "Pastelle tragen vorne meist „Ackermann“ mit Jahreszahl, oft zweistellig wie „Ackermann 74“; frühe Arbeiten auch das Monogramm „M.A.“ mit Jahr, etwa „M.A. 40“. Ölbilder sind häufig rückseitig oder auf dem Keilrahmen signiert und tagesgenau datiert, etwa „Ackermann 24.1.1964“."
+   ],
+   [
+    "Archivnummer",
+    "Die Auktionshäuser nennen meist eine Nummer des Max-Ackermann-Archivs in Bietigheim-Bissingen mit dem Kürzel ACK, etwa ACK 2858. Für ein Pastell bei Van Ham lag eine Bestätigung des Archivs vom September 2024 vor. Fehlt die Nummer, lohnt die Nachfrage beim Archiv."
+   ],
+   [
+    "Siebdruck oder Pastell",
+    "Die Farbserigrafien sind signiert, datiert und meist nummeriert (etwa 1/100 oder 69/150), Probedrucke tragen „E.A.“. Das Werkverzeichnis der Siebdrucke führt sie mit „S“ und Nummer, etwa S 7332 für „Spätsommer“. Manche Pastelle dienten als Vorlage für einen Siebdruck; ein Druck ist trotz gleichem Motiv kein Unikat."
+   ],
+   [
+    "Nachlass",
+    "Werke aus dem Besitz seiner Frau Gertrud tragen rückseitig den Stempel „Eigentum Gertrud Ackermann“, etwa ein Ölbild von 1937 bei Grisebach. Viele Arbeiten nennen als Herkunft den Nachlass des Künstlers und die Galerie Döbele in Stuttgart."
+   ],
+   [
+    "Namensgleichheit",
+    "Franz Ackermann (geb. 1963) ist ein anderer, lebender Künstler; seine Gouachen werden ebenfalls bei Grisebach angeboten. Auf den Vornamen achten."
+   ]
+  ],
+  "preis_drueckt": "Späte Pastelle der 1970er Jahre: Zwei Blätter von 1974 lagen 2023 unter der unteren Schätzung. Deutlich weniger bringen Siebdrucke (200 bis 400 €). Ohne Archivnummer und klare Herkunft wird ein Blatt schwerer verkäuflich.",
+  "werkverzeichnis": "Für die Siebdrucke gibt es ein Werkverzeichnis: Bayer/Enßlin-List, „Max Ackermann – Siebdrucke“ (Bietigheim-Bissingen 2006). Für Gemälde und Arbeiten auf Papier nennen die Auktionshäuser die Nummern des Max-Ackermann-Archivs in Bietigheim-Bissingen; ein gedrucktes Werkverzeichnis der Gemälde zitieren die geprüften Losbeschreibungen nicht.",
+  "provenienz": "Häufige Herkunftsangaben sind der Nachlass des Künstlers, die Galerie Döbele in Stuttgart und Privatsammlungen in Süd- und Westdeutschland. Drei der Sotheby's-Bilder kamen aus einer europäischen Sammlung, die sie 1983 und 1991 in Stuttgart erworben hatte; „Sieg der Heiterkeit II“ (1952) stammte aus der Sammlung Karl Ströher in Darmstadt."
+ },
+ "leben": {
+  "text": [
+   "Max Ackermann wurde am 5. Oktober 1887 in Berlin geboren. Er lernte bei Henry van de Velde in Weimar, an der Akademie in Dresden bei Gotthardt Kuehl und kurz bei Franz von Stuck in München. 1912 kam er nach Stuttgart zu Adolf Hölzel, der ihn zur abstrakten Malerei anregte. Gegenständliche Bilder malte er daneben bis in die 1940er Jahre.",
+   "In seinem Stuttgarter Atelier richtete er eine „Lehrwerkstätte für Neue Kunst“ ein, 1924 hatte er dort seine erste Einzelausstellung. 1930 gründete er an der Volkshochschule ein Seminar für „absolute Malerei“. Die Nationalsozialisten verboten ihm 1933 das Ausstellen und 1936 das Unterrichten. Er zog sich nach Hornstaad am Bodensee zurück, wo später auch Otto Dix, Erich Heckel und Helmuth Macke lebten. 1937 wurde ein Bild aus der Staatsgalerie Stuttgart als „entartet“ beschlagnahmt. Bei einem Luftangriff wurde sein Stuttgarter Atelier zerstört, viele frühe Werke verbrannten.",
+   "Nach dem Krieg stellte er im Pariser Salon des Réalités Nouvelles aus und 1949 in Zürich in der Schau „Kunst in Deutschland 1930–49“. 1952 hielt er in Hornstaad ein Seminar über Malerei und Musik. 1956 folgte er Willi Baumeister im „Rat der Zehn“ des Künstlerbunds Baden-Württemberg, 1957 verlieh ihm das Land den Professorentitel. Zum 80. Geburtstag 1967 zeigten Koblenz, Kaiserslautern, Konstanz, Wolfsburg und Köln eine Retrospektive. Ackermann starb am 14. November 1975 in Unterlengenhardt bei Bad Liebenzell."
+  ],
+  "museen": "Staatsgalerie Stuttgart, Kunstmuseum Stuttgart, Kunsthalle Mannheim, Wilhelm-Hack-Museum Ludwigshafen, Staatsgalerie moderner Kunst München (laut Südwest-Galerie); das Städel Museum in Frankfurt zeigt 34 Werke in seiner Online-Sammlung.",
+  "timeline": [
+   [
+    "1887",
+    "geboren am 5. Oktober in Berlin"
+   ],
+   [
+    "1905–07",
+    "in Weimar bei Henry van de Velde"
+   ],
+   [
+    "1908–09",
+    "Akademie Dresden, bei Gotthardt Kuehl"
+   ],
+   [
+    "1909",
+    "kurz bei Franz von Stuck in München"
+   ],
+   [
+    "1912",
+    "Stuttgart, Begegnung mit Adolf Hölzel, Hinwendung zur Abstraktion"
+   ],
+   [
+    "1924",
+    "erste Einzelausstellung in Stuttgart"
+   ],
+   [
+    "1926",
+    "Aufenthalt in Paris"
+   ],
+   [
+    "1930",
+    "Seminar für „absolute Malerei“ an der Volkshochschule Stuttgart"
+   ],
+   [
+    "1933",
+    "Ausstellungsverbot"
+   ],
+   [
+    "1936",
+    "Lehrverbot, Rückzug nach Hornstaad am Bodensee"
+   ],
+   [
+    "1949",
+    "Ausstellung „Kunst in Deutschland 1930–49“ in Zürich"
+   ],
+   [
+    "1956",
+    "„Rat der Zehn“ des Künstlerbunds Baden-Württemberg"
+   ],
+   [
+    "1957",
+    "Professorentitel des Landes Baden-Württemberg"
+   ],
+   [
+    "1967",
+    "Retrospektive zum 80. Geburtstag"
+   ],
+   [
+    "1975",
+    "gestorben am 14. November in Unterlengenhardt"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Pastelle der 1950er und 1960er Jahre",
+   "d": "Abstrakte Kompositionen auf Papier, oft mit Titeln aus der Musik.",
+   "bsp": "„Jubelrhythmus“ (1957) {max_hammer} €, „An die Freude“ (1960) rund 900 €"
+  },
+  {
+   "t": "Späte Pastelle",
+   "d": "Schmale Hochformate um 48 × 31 cm, häufig auf schwarzem, grauem oder farbigem Papier, signiert etwa „Ackermann 74“.",
+   "bsp": "zwei Blätter von 1974: 900 € und 700 €"
+  },
+  {
+   "t": "Ölbilder",
+   "d": "Abstrakte Bilder in Öl und Tempera auf Leinwand, Holz oder Rupfen, oft auf dem Keilrahmen datiert. Seit 2021 ohne prüfbaren Zuschlag.",
+   "bsp": "Sotheby's-Schätzungen 6.000–15.000 €"
+  },
+  {
+   "t": "Frühe und gegenständliche Arbeiten",
+   "d": "Figuren, Badende und Bodensee-Motive der 1920er bis 1940er Jahre, oft mit „M.A.“ monogrammiert.",
+   "bsp": "Ölbild von 1937 bei Grisebach, Schätzung 4.000–5.000 €"
+  },
+  {
+   "t": "Farbserigrafien",
+   "d": "Siebdrucke, signiert und nummeriert, in Auflagen von 100 bis 200 Blatt.",
+   "bsp": "200–400 € je Los"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Pastell von Max Ackermann wert?",
+   "a": "In den geprüften Daten brachten Pastelle seit 2022 rund 700 bis {max_hammer} € Zuschlag. Späte Blätter lagen bei 700 bis 900 €, das Pastell „Jubelrhythmus“ von 1957 erzielte {max_hammer} €. Hinzu kommt beim Kauf das Aufgeld."
+  },
+  {
+   "q": "Was bringt ein Ölbild?",
+   "a": "Dafür war seit 2021 kein Zuschlag mit Quelle prüfbar. Sotheby's schätzte große Ölbilder der 1950er und 1960er Jahre auf 6.000 bis 15.000 €, Van Ham „Rotation“ (150 × 120 cm) auf 12.000 bis 18.000 €. Ältere Ergebnisse: 21.120 € mit Aufgeld bei Van Ham 2015, 29.000 € bei Nagel 2019."
+  },
+  {
+   "q": "Ist mein Blatt ein Pastell oder ein Siebdruck?",
+   "a": "Siebdrucke sind fast immer nummeriert (etwa 69/150) oder als „E.A.“ bezeichnet und im Werkverzeichnis der Siebdrucke mit „S“-Nummer verzeichnet. Pastell liegt als kreidiger Strich auf dem Papier, das zeigt eine Lupe. Siebdrucke brachten 200 bis 400 €."
+  },
+  {
+   "q": "Wer bestätigt die Echtheit?",
+   "a": "Das Max-Ackermann-Archiv in Bietigheim-Bissingen. Die Auktionshäuser nennen dessen ACK-Nummern; für ein Pastell bei Van Ham lag 2024 eine Bestätigung des Archivs vor."
+  },
+  {
+   "q": "Wo verkauft man einen Ackermann am besten?",
+   "a": "In den Daten dieser Seite liefen Pastelle und Grafik vor allem über Van Ham in Köln. Ölbilder boten Sotheby's, Grisebach, Van Ham und Nagel in Stuttgart an. Vor der Einlieferung lohnt der Vergleich von Schätzung, Aufgeld und Kosten."
+  },
+  {
+   "q": "Fällt beim Kauf Folgerecht an?",
+   "a": "Ja. Ackermann starb 1975, seine Werke sind bis Ende 2045 urheberrechtlich geschützt. Bis dahin fällt beim Weiterverkauf im Kunsthandel die Folgerechtsvergütung an; Van Ham berechnet dafür 1,5 % auf den Zuschlag."
+  }
+ ],
+ "methodik_extra": "Van Ham veröffentlicht Preise mit Aufgeld. Der Zuschlag ist mit 32 % zurückgerechnet (laut Losseiten), bei einem regelbesteuerten Los mit 27 % plus 7 % Umsatzsteuer (geschätzt). Die Van-Ham-Losseiten der Online-Auktionen zeigen kein Datum; Auktion und Datum stammen von veryimportantlot.com, beim unverkauften Pastell von 1959 (Juli 2025) von einem Los derselben Online-Auktion mit fortlaufender Los- und Objektnummer. Zwei Van-Ham-Lose („Kathedrale“ 2023, „An die Freude“ 2025) und das Mehlis-Los sind nur über veryimportantlot.com belegt; ihre Zuschläge sind geschätzt. Grisebach zeigt für zwei Ölbilder kein Ergebnis. Nicht aufgenommen sind vier Ölbilder bei Sotheby's (2021–2025, Ergebnisse nur nach Anmeldung), „Rotation“ bei Van Ham (Dezember 2025, Losseite ohne Ergebnis), vier Nagel-Lose (Februar 2025 und 2026; Titel und Technik nicht abrufbar, für 2025 keine Ergebnisliste), weitere Van-Ham-Lose der Jahre 2021 bis 2025 mit Ergebnis, aber ohne prüfbares Datum (darunter „Komposition mit grünem Pfeil“ von 1947 und mehrere Pastelle der 1970er Jahre), Angebote bei Karl & Faber, Eppli und Jeschke Jádi ohne sichtbares Ergebnis sowie ältere Ergebnisse vor 2021.",
+ "quellen": [
+  {
+   "t": "Van Ham, „Jubelrhythmus“ (1957), Losseite mit Ergebnis",
+   "u": "https://auction.van-ham.com/en/max-ackermann1887-berlin-1975-unterlengenhardt-jubelrhythmus--id-42332-item.html"
+  },
+  {
+   "t": "veryimportantlot.com, „Jubelrhythmus“: Van Ham A1120 German Post War, 20.01.2022, Los 1",
+   "u": "https://veryimportantlot.com/en/lot/view/jubelrhythmus-700140"
+  },
+  {
+   "t": "Van Ham, Pastell 1974 auf schwarzem Velin, Losseite",
+   "u": "https://auction.van-ham.com/en/max-ackermann-untitled--id-58925-item.html"
+  },
+  {
+   "t": "Van Ham, „Schwarze Schwünge“ (1974), Losseite",
+   "u": "https://auction.van-ham.com/en/max-ackermann-schwarze-schwuenge--id-58926-item.html"
+  },
+  {
+   "t": "Van Ham, „Spätsommer“ (1973), Farbserigrafie, Losseite",
+   "u": "https://auction.van-ham.com/en/max-ackermann-spaetsommer--id-57921-item.html"
+  },
+  {
+   "t": "Van Ham, Pastell 1959, Losseite (unverkauft, ACK 2858)",
+   "u": "https://auction.van-ham.com/en/max-ackermann-untitled--id-78157-item.html"
+  },
+  {
+   "t": "Van Ham, Pastell 1974, Losseite mit Bestätigung des Max-Ackermann-Archivs (September 2024)",
+   "u": "https://auction.van-ham.com/en/max-ackermann-ohne-titel--id-70793-item.html"
+  },
+  {
+   "t": "Van Ham, „Rotation“ (1967), Auktion Modern | Post War | Contemporary, 3./4.12.2025, Los 554",
+   "u": "https://auction.van-ham.com/en/max-ackermann-rotation--id-81612-item.html"
+  },
+  {
+   "t": "Van Ham, „Komposition 27.X.65“, Auktion 363 am 25.11.2015, Los 1",
+   "u": "https://www.van-ham.com/en/artist/max-ackermann/max-ackermann-komposition-27x65.html"
+  },
+  {
+   "t": "Van Ham, Pastell 1972 als Vorlage für einen Siebdruck, Auktion 317 (2012), Los 4",
+   "u": "https://www.van-ham.com/en/artist/max-ackermann/max-ackermann-auktion-317-los-4.html"
+  },
+  {
+   "t": "Grisebach, Ölbild 1937, Auktion 756, Los 2000",
+   "u": "https://www.grisebach.com/en/lot/4071351"
+  },
+  {
+   "t": "Grisebach, Ölbild 1964, Auktion 762, Los 2020",
+   "u": "https://www.grisebach.com/en/lot/4073281"
+  },
+  {
+   "t": "Grisebach, Franz Ackermann (anderer Künstler), Auktion 759",
+   "u": "https://www.grisebach.com/en/lot/4072772"
+  },
+  {
+   "t": "Sotheby's, „Sieg der Heiterkeit II“ (1952), Modern & Contemporary Art, September 2021",
+   "u": "https://www.sothebys.com/en/buy/auction/2021/modern-contemporary-art/sieg-der-heiterkeit-ii-victory-of-serenity-ii"
+  },
+  {
+   "t": "Sotheby's, „Komposition 5.8.1962“, Modern & Contemporary Discoveries, November 2024",
+   "u": "https://www.sothebys.com/en/buy/auction/2024/modern-contemporary-discoveries-2/komposition-5-8-1962"
+  },
+  {
+   "t": "Sotheby's, „Roter Akzent II“ (1954), Modern & Contemporary Discoveries, November 2024",
+   "u": "https://www.sothebys.com/buy/2b199ba8-ddb6-4afe-ba93-47c22b2179fa/lots/b9296713-fae2-465f-a437-8301bb63363a"
+  },
+  {
+   "t": "Sotheby's, „Komposition 8.VII.1962“, Modern & Contemporary Discoveries, Juni 2025",
+   "u": "https://www.sothebys.com/en/buy/auction/2025/modern-contemporary-discoveries-de2510/komposition-8-vii-1962"
+  },
+  {
+   "t": "Nagel, Auktion 839 Modern & Contemporary Art, 4.2.2026 (Lose 51 und 73)",
+   "u": "https://www.auction.de/en/?p=23285"
+  },
+  {
+   "t": "Nagel, Ergebnisliste 839M (Preise mit 29,5 % Aufgeld)",
+   "u": "https://www.auction.de/Result/839.pdf"
+  },
+  {
+   "t": "Nagel, Auktion 831 Modern & Contemporary Art, 5.2.2025 (Lose 50 und 63)",
+   "u": "https://www.auction.de/en/?p=20154"
+  },
+  {
+   "t": "veryimportantlot.com, Nagel 783, „An die Freude VII“ (1958), 20.11.2019",
+   "u": "https://veryimportantlot.com/en/lot/view/an-die-freude-vii-1958-254187"
+  },
+  {
+   "t": "Wikipedia (englisch): Max Ackermann",
+   "u": "https://en.wikipedia.org/wiki/Max_Ackermann"
+  },
+  {
+   "t": "Südwest-Galerie, Kunstlexikon: Max Ackermann",
+   "u": "https://www.suedwestgalerie.de/kunstlexikon/kuenstler/ackermann-max"
+  },
+  {
+   "t": "Ketterer Kunst, Künstlerseite Max Ackermann (Biografie)",
+   "u": "https://www.kettererkunst.com/bio/MaxAckermann-1887-1975.php"
+  },
+  {
+   "t": "Städel Museum, Sammlung online: Max Ackermann",
+   "u": "https://sammlung.staedelmuseum.de/en/person/ackermann-max"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Van Ham",
+   "date": "2022-01-20",
+   "sale": "A1120 German Post War (online)",
+   "lot": "1",
+   "title": "Jubelrhythmus",
+   "year": "1957",
+   "tech": "Pastell auf Papier",
+   "medium": "papier",
+   "h": 24,
+   "w": 31,
+   "lo": 2000,
+   "hi": 3000,
+   "hammer": 3500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/max-ackermann1887-berlin-1975-unterlengenhardt-jubelrhythmus--id-42332-item.html",
+   "note": "Ergebnis 4.620 € mit 32 % Aufgeld laut Losseite; Losseite ohne Datum, Auktion und Losende 20.01.2022 laut https://veryimportantlot.com/en/lot/view/jubelrhythmus-700140; rückseitig signiert, betitelt und datiert; Provenienz Galerie Döbele, Stuttgart"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-02-23",
+   "sale": "A1126 From Albers to Vasarely (online)",
+   "lot": "3",
+   "title": "Ohne Titel",
+   "year": "1968",
+   "tech": "Mischtechnik auf Karton",
+   "medium": "papier",
+   "h": 24.5,
+   "w": 18.5,
+   "lo": 1800,
+   "hi": 2000,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/max-ackermann-untitled--id-43038-item.html",
+   "note": "Losseite: „Lot closed“, ohne Ergebnis; Auktion und Datum laut https://veryimportantlot.com/de/lot/view/untitled-718932; rückseitig signiert und datiert „MAckermann 28. II. 68“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-09-21",
+   "sale": "Online-Auktion",
+   "lot": "1",
+   "title": "Spätsommer",
+   "year": "1973",
+   "tech": "Farbserigrafie auf Büttenkarton, E.A. (Auflage 150)",
+   "medium": "druck",
+   "h": 50,
+   "w": 32.5,
+   "lo": 300,
+   "hi": 500,
+   "hammer": 200,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/max-ackermann-spaetsommer--id-57921-item.html",
+   "note": "Ergebnis 264 € mit 32 % Aufgeld laut Losseite; Datum laut https://veryimportantlot.com/en/lot/view/max-ackermann-1029810; WVZ Bayer/Enßlin-List S 7332"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-09-21",
+   "sale": "Online-Auktion",
+   "lot": "2",
+   "title": "Kathedrale",
+   "year": "1974",
+   "tech": "Farbserigrafie auf Büttenkarton, E.A.",
+   "medium": "druck",
+   "h": 48,
+   "w": 31,
+   "lo": 300,
+   "hi": 500,
+   "hammer": 300,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/max-ackermann-1029811",
+   "note": "nur über veryimportantlot.com belegt: „Sold € 396“; bei Los 1 derselben Auktion entspricht der dort genannte Preis dem Ergebnis mit 32 % Aufgeld laut Van-Ham-Losseite, daher 300 € Zuschlag (geschätzt); Verlag Büchergilde Gutenberg"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-10-12",
+   "sale": "German Post War (online)",
+   "lot": "1",
+   "title": "Ohne Titel",
+   "year": "1974",
+   "tech": "Pastell auf schwarzem Velin",
+   "medium": "papier",
+   "h": 48,
+   "w": 31,
+   "lo": 1500,
+   "hi": 2000,
+   "hammer": 900,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/max-ackermann-untitled--id-58925-item.html",
+   "note": "Ergebnis 1.188 € mit 32 % Aufgeld laut Losseite; Losseite ohne Datum, Auktion und Datum laut https://veryimportantlot.com/en/lot/view/max-ackermann-untitled-1045834; signiert „MA Ackermann 74“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-10-12",
+   "sale": "German Post War (online)",
+   "lot": "2",
+   "title": "Schwarze Schwünge",
+   "year": "1974",
+   "tech": "Pastell auf blauem Velin",
+   "medium": "papier",
+   "h": 32,
+   "w": 48,
+   "lo": 1000,
+   "hi": 1500,
+   "hammer": 700,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/max-ackermann-schwarze-schwuenge--id-58926-item.html",
+   "note": "Ergebnis 924 € mit 32 % Aufgeld laut Losseite; Datum laut https://veryimportantlot.com/en/lot/view/max-ackermann-schwarze-schwunge-1045835"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-11-09",
+   "sale": "Ways of Seeing Abstraction (online)",
+   "lot": "26",
+   "title": "Zwei Farbserigrafien: Spätsommer; Deklination in Grün",
+   "year": "1973",
+   "tech": "Farbserigrafie auf Bütten, signiert, datiert, nummeriert 69/150 und 145/150",
+   "medium": "druck",
+   "h": 50,
+   "w": 32.5,
+   "lo": 300,
+   "hi": 500,
+   "hammer": 400,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/max-ackermann-mixed-lot-of-2-silkscreens--id-60902-item.html",
+   "note": "Ergebnis 544 € mit 27 % Aufgeld und 7 % USt (Regelbesteuerung) laut Losseite, entspricht rund 400 € Zuschlag; veryimportantlot.com nennt 528 € (= 400 € mit 32 %); Datum laut https://veryimportantlot.com/en/lot/view/max-ackermann-mixed-lot-of-2-silkscreens-1072778; Maße des größeren Blatts; WVZ S 7332 und S 7314"
+  },
+  {
+   "house": "Mehlis",
+   "date": "2024-08-29",
+   "sale": "115. Auktion",
+   "lot": "4033",
+   "title": "Abstrakte Komposition",
+   "year": "1958",
+   "tech": "Pastellkreiden auf hellem Bütten",
+   "medium": "papier",
+   "h": 30.5,
+   "w": 24.5,
+   "hammer": 800,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/max-ackermann-abstrakte-komposition-1269370",
+   "note": "nur über veryimportantlot.com belegt: „Sold € 800“, ohne Angabe, ob mit Aufgeld (daher geschätzt); Blattmaß ca.; signiert und datiert „Ackermann 1958“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-07-03",
+   "sale": "Abstraction to Figuration (online)",
+   "lot": "28",
+   "title": "Ohne Titel",
+   "year": "1959",
+   "tech": "Pastell auf chamoisfarbenem Bütten",
+   "medium": "papier",
+   "h": 36.5,
+   "w": 18,
+   "lo": 2000,
+   "hi": 3000,
+   "status": "u",
+   "url": "https://auction.van-ham.com/en/max-ackermann-untitled--id-78157-item.html",
+   "note": "Losseite: „Unsold“; Maße des Passepartoutausschnitts; Losseite ohne Datum, Datum über Los 16 derselben Online-Auktion (Hann Trier, „Gaukelei“, Objekt-ID 78145, Losende 3.7.2025) bei fortlaufenden Los- und Objektnummern; Archivnummer ACK 2858"
+  },
+  {
+   "house": "Grisebach",
+   "date": "2025-11-09",
+   "sale": "756 Online Only Modern & Contemporary Art",
+   "lot": "2000",
+   "title": "Ohne Titel",
+   "year": "1937",
+   "tech": "Öl auf Sperrholz, Fragment eines größeren Motivs",
+   "medium": "karton",
+   "h": 25,
+   "w": 29.5,
+   "lo": 4000,
+   "hi": 5000,
+   "status": "n",
+   "url": "https://www.grisebach.com/en/lot/4071351",
+   "note": "Losseite ohne Ergebnis; rückseitig „M. ACKERMANN STUTTGART 1937“ und Stempel „Eigentum Gertrud Ackermann“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-11-13",
+   "sale": "Art Informel. From a German Private Collection (online)",
+   "lot": "17",
+   "title": "An die Freude",
+   "year": "1960",
+   "tech": "Pastell auf dünnem Velin, auf Karton",
+   "medium": "papier",
+   "h": 53.5,
+   "w": 26.5,
+   "lo": 1000,
+   "hi": 1500,
+   "hammer": 900,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/max-ackermann-an-die-freude-1508492",
+   "note": "nur über veryimportantlot.com belegt: „Sold € 1 188“, entspricht 900 € mit 32 % Aufgeld (geschätzt); Van-Ham-Losseite nicht gefunden"
+  },
+  {
+   "house": "Grisebach",
+   "date": "2026-08-16",
+   "sale": "762 Online Only",
+   "lot": "2020",
+   "title": "Ohne Titel",
+   "year": "1964",
+   "tech": "Öl auf Leinwand, im Künstlerrahmen",
+   "medium": "lw",
+   "h": 65.5,
+   "w": 50.5,
+   "lo": 5000,
+   "hi": 7000,
+   "status": "n",
+   "url": "https://www.grisebach.com/en/lot/4073281",
+   "note": "Losseite ohne Ergebnis; auf dem Keilrahmen signiert und datiert „Ackermann 24.1.1964“"
+  }
+ ]
+}

@@ -130,8 +130,11 @@
    "slug": "max-ackermann",
    "name": "Max Ackermann",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T06:11:48Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T06:11:48Z",
+   "done_at": "2026-11-25T06:31:34Z",
+   "lots": 12,
+   "note": "volle Seite; nur 12 datierte Lose (8 Zuschläge), fast nur Pastelle und Siebdrucke. Van Ham 9 (Online-Losseiten ohne Datum, Datum über veryimportantlot.com; Kathedrale und An die Freude nur VIL), Grisebach 2 (Ölbilder ohne Ergebnis), Mehlis 1 (nur VIL). Offen: Van-Ham-Künstlerseite (en) nicht abrufbar (PROVENANCE_REQUIRED); rund 17 Van-Ham-Lose 2021–2025 mit Ergebnis, aber ohne Datum (ids 43814, 48309, 53335–53339, 70793, 71917, 71939, 74685–74687, 77137, 77299–77301, 77759); Nagel 839 Los 73 (4.2.2026, 16.800 € inkl. 29,5 %) und Los 51 ohne Titel/Technik (Katalog-PDF 839MK nicht lesbar), Nagel 831 Lose 50/63 (5.2.2025) ohne Ergebnisliste; Sotheby's 4 Ölbilder 2021–2025 (Ergebnis nur nach Login); Van Ham „Rotation“ 4.12.2025 Los 554 ohne Ergebnis; Karl & Faber A932 Los 4503 (5.12.2025), Jeschke Jádi 160 Los 256 (11.7.2026), Eppli ohne Ergebnis"
   },
   {
    "slug": "ida-kerkovius",
