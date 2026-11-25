@@ -245,8 +245,11 @@
    "slug": "ludwig-dill",
    "name": "Ludwig Dill",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T13:16:09Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T13:16:09Z",
+   "done_at": "2026-11-25T13:58:54Z",
+   "lots": 10,
+   "note": "volle Seite; nur 10 belegte Lose (7 Zuschläge). Offen: Gailer (Juli 2024, 4–5 Lose), Hargesheimer (2025/2026, Website per robots.txt gesperrt), Hampel A132 Los 1134 (nur Ergebnis-PDF), Scheublein, Kiefer, Siebers – nur über Portale bekannt; WebSearch-Budget (200 pro Lauf) war aufgebraucht"
   },
   {
    "slug": "wilhelm-velten",
