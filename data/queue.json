@@ -160,7 +160,8 @@
    "slug": "thomas-herbst",
    "name": "Thomas Herbst",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T07:43:20Z"
   },
   {
    "slug": "friedrich-kallmorgen",
