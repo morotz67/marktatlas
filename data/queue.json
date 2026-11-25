@@ -100,7 +100,8 @@
    "slug": "gustav-schoenleber",
    "name": "Gustav Schönleber",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T04:12:48Z"
   },
   {
    "slug": "paul-wilhelm-keller-reutlingen",
