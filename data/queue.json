@@ -200,7 +200,8 @@
    "slug": "elisabeth-von-eicken",
    "name": "Elisabeth von Eicken",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T10:12:00Z"
   },
   {
    "slug": "fritz-mackensen",
