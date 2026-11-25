@@ -1,0 +1,733 @@
+{
+ "slug": "ida-kerkovius",
+ "name": "Ida Kerkovius",
+ "status": "published",
+ "region": "alpen",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1879-08-31",
+  "place": "Riga",
+  "text": "31. August 1879 Riga"
+ },
+ "death": {
+  "date": "1970-06-08",
+  "place": "Stuttgart",
+  "text": "8. Juni 1970 Stuttgart"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Ida_Kerkovius",
+  "https://en.wikipedia.org/wiki/Ida_Kerkovius"
+ ],
+ "sort_name": "Kerkovius",
+ "split_year": 2024,
+ "list_line": "Hölzel-Schülerin in Stuttgart · Ölbilder {min_all}–{max_hammer} € Zuschlag",
+ "lead": "Malerin der Stuttgarter Moderne, Meisterschülerin von Adolf Hölzel und Bauhaus-Studentin, bekannt für leuchtende Farben in Ölbildern und Pastellen. Diese Seite fasst zusammen, was ihre Werke im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer sie war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Malschule in Riga; Malschule von Adolf Hölzel in Dachau, ab 1908 Meisteratelier an der Stuttgarter Akademie; 1920–1923 Bauhaus Weimar (Weberei)"
+  ],
+  [
+   "Malweise",
+   "kräftige Farben, Figuren, Landschaften und Blumen, ab den 1950er Jahren zunehmend abstrakt"
+  ],
+  [
+   "Im Handel",
+   "Ölbilder auf Leinwand und Holz, Pastelle und Wachskreide auf farbigem Velourpapier, Zeichnungen, Siebdrucke"
+  ],
+  [
+   "Werkverzeichnis",
+   "in Vorbereitung (Uwe Jourdan, Stuttgart)"
+  ]
+ ],
+ "marktwert": "Ölbilder {min_all}–{max_hammer} € Zuschlag, Median {med_all} €; Pastelle meist 1.500–4.000 €",
+ "absatzmarkt": "Stuttgart (Nagel) und München (Ketterer) für Ölbilder",
+ "headline": "Ölbilder brachten {min_all} bis rund {max_hammer} €, Pastelle meist 1.500 bis 4.000 €",
+ "kurz": "Für Ida Kerkovius sind {n_lots} Lose von {period} mit Quelle prüfbar, alle mit Zuschlag. Sieben davon sind Ölbilder. Sie brachten zwischen {min_all} € („Schmetterling“, 1962, Van Ham) und rund {max_hammer} € für „Gelbe Blumen“ (Ketterer 2021); der Median liegt bei {med_all} €. Die höchsten Zuschläge erzielten Bilder von 1915 bis 1944. Pastelle und Wachskreidebilder lagen meist bei 1.500 bis 4.000 €, kleine Zeichnungen bei 360 bis 1.100 €, Siebdrucke bei 150 bis 350 €.",
+ "figs": [
+  [
+   "{max_hammer} €",
+   "höchster Zuschlag (geschätzt): „{max_title}“, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_paint} Ölbilder, {period}"
+  ],
+  [
+   "1.500–4.000 €",
+   "Zuschläge für die meisten Pastelle und Wachskreidebilder"
+  ],
+  [
+   "{n_houses} Häuser",
+   "Nagel, Van Ham, Ketterer, Stahl, Grisebach; {n_lots} Lose"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Den höchsten Zuschlag erzielte im Juni 2021 bei Ketterer in München „Gelbe Blumen“ (1934/40, 66,5 × 85 cm): rund {max_hammer} € bei einer Schätzung von 9.000 €. Im Dezember 2023 versteigerte Ketterer zwei Bilder aus der Sammlung Bunte: „Am Lago Maggiore“ (1930, Öl auf Holz) für 24.000 € und den frühen „Porträtkopf“ von 1915 für 14.000 €, beide im Rahmen der Schätzung.",
+   "Bei Nagel in Stuttgart brachte das kleine Bild „Zynien“ (um 1925, 31,5 × 39,5 cm) 2022 17.000 €, deutlich über der oberen Schätzung von 10.000 €. „Blick ins Heslacher Tal vom Hasenberg aus“ (1944, 66 × 96 cm) erzielte 2024 16.000 € am unteren Rand der Schätzung, ein Bauernhof mit Schimmel von 1934 im Jahr 2023 7.000 €. Das späte Ölbild „Schmetterling“ (1962) brachte 2022 bei Van Ham 5.000 €.",
+   "Arbeiten auf Papier sind günstiger. Pastelle und Wachskreidebilder, oft auf farbigem Velours- oder Flockpapier, erzielten bei Van Ham, Nagel, Grisebach und Stahl meist 1.500 bis 4.000 €. Kleine Kreidezeichnungen lagen bei 360 bis 1.100 €. Eine große Mischtechnik von 1960 (120 × 96 cm) brachte bei Nagel 2024 10.000 €. Farbsiebdrucke der 1960er Jahre gingen für 150 bis 350 € weg."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Nagel 29,5 %, bei Van Ham 32 %, bei Ketterer 32 % mit Differenzbesteuerung oder 27 % zuzüglich Umsatzsteuer mit Regelbesteuerung (Katalog Dezember 2023). Kerkovius starb 1970; bis Ende 2040 fällt beim Weiterverkauf außerdem die Folgerechtsvergütung an, laut Ketterer 4 % auf Zuschläge bis 50.000 €.",
+  "spitzen": "Ketterer nennt auf seiner Künstlerseite weitere Ergebnisse mit Aufgeld, ohne Datum: 39.040 € für ein „Blumenstillleben“ von 1950 und 34.290 € für „Schiffe in Norwegen / Blumenstillleben vor einem Gemälde“ (1930) aus einer Online-Auktion."
+ },
+ "euro_ok": [
+  "50.000",
+  "39.040",
+  "34.290",
+  "4.318",
+  "100"
+ ],
+ "absatz": {
+  "text": [
+   "Stuttgart, wo Kerkovius ab 1908 lebte, ist in den geprüften Daten ein Hauptmarkt: {house1} stellt {n_house1} der {n_lots} Lose, darunter drei Ölbilder und eine große Mischtechnik. Die höchsten Preise erzielte aber Ketterer in München mit drei Bildern aus Sammlungen. {house2} in Köln verkaufte vor allem Pastelle und Zeichnungen in Online-Auktionen.",
+   "Dazu kommen einzelne Lose bei Grisebach in Berlin und bei Stahl in Hamburg. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Gut, aber mit Vorsicht zu lesen: Alle {n_lots} Lose erhielten einen Zuschlag. Ein Teil der Daten stammt von einem Preisportal, das vor allem verkaufte Lose zeigt; unverkaufte Lose fehlen deshalb wahrscheinlich. Mehrere Arbeiten auf Papier lagen über der Schätzung, etwa „Zirkuspferd mit Reiter in Manege“ (1965) bei Van Ham und eine Gebirgslandschaft von 1940 bei Grisebach."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Monogramm",
+    "Kerkovius monogrammierte meist mit „IK“ oder „ik“, oft ligiert und mit zweistelliger Jahreszahl, etwa „ik. 66“ oder „40 IK“. Manche Arbeiten sind voll signiert, etwa „I. Kerkovius“ oder „Ida Kerkovius 45“."
+   ],
+   [
+    "Werkverzeichnis-Nummer",
+    "Uwe Jourdan in Stuttgart bereitet ein Werkverzeichnis vor. Ketterer nannte 2023 dessen Nummern (WVZ-Nr. 390 und 1068). Bei Ölbildern lohnt die Frage, ob das Werk dort verzeichnet ist."
+   ],
+   [
+    "Nachlass",
+    "Arbeiten aus dem Nachlass tragen rückseitig einen Nachlassstempel und ein Etikett „PROFESSOR IDA KERKOVIUS“ mit Nummer, etwa ein Aquarell bei Van Ham 2014."
+   ],
+   [
+    "Papier und Technik",
+    "Typisch sind Pastelle und Wachskreidebilder auf farbigem Velours- oder Flockpapier. Siebdrucke und Lithografien sind signiert und meist nummeriert, etwa 11/200, und bringen nur einen Bruchteil."
+   ],
+   [
+    "Beidseitig bemalt",
+    "Manche Leinwände tragen zwei Bilder: Der „Porträtkopf“ von 1915 hat auf der Rückseite ein Blumenstillleben."
+   ]
+  ],
+  "preis_drueckt": "Späte, kleine Formate und Grafik. Das Ölbild „Schmetterling“ von 1962 brachte 5.000 €, Siebdrucke 150 bis 350 €. Einzelne Lose blieben unter der Schätzung, etwa der Siebdruck „Figürliches auf Rotorange“ (150 € bei 250–450 €) und das Pastell „Der blaue See“ (2.500 € bei 4.000–6.000 €).",
+  "werkverzeichnis": "Ein Werkverzeichnis von Uwe Jourdan, Stuttgart, ist in Vorbereitung; Ketterer zitierte im Dezember 2023 dessen Nummern. Ein gedrucktes Werkverzeichnis nennen die geprüften Losbeschreibungen nicht.",
+  "provenienz": "Viele Bilder kamen über Stuttgarter und Münchner Galerien: Galerie Valentien und Galerie Günther Franke („Gelbe Blumen“), Kunsthaus Schaller („Schmetterling“), Galerie Thomas („Porträtkopf“), Galerie Schlichtenmaier („Am Lago Maggiore“). Die Kunsthändlerin Hanna Bekker vom Rath verkaufte laut Wikipedia heimlich Werke von Kerkovius."
+ },
+ "leben": {
+  "text": [
+   "Ida Kerkovius wurde am 31. August 1879 in Riga geboren, als eines von zwölf Kindern einer deutschbaltischen Familie. Mit zwanzig besuchte sie eine private Malschule in Riga. Nach einer Ausstellung eines Hölzel-Schülers 1902 ging sie nach Dachau an die Malschule von Adolf Hölzel und wurde seine Meisterschülerin. 1908 folgte sie ihm nach Stuttgart, bekam ein Meisteratelier an der Akademie und arbeitete als seine Assistentin. Ab 1911 war sie freie Künstlerin.",
+   "Im Ersten Weltkrieg verlor sie ihre Staatsangehörigkeit und damit den Platz an der Akademie. Von 1920 bis 1923 war sie am Bauhaus in Weimar, traf dort Johannes Itten, Paul Klee und Wassily Kandinsky und arbeitete in der Weberei. 1922 wurde sie in Württemberg eingebürgert. 1930 reiste sie mit der Kunsthändlerin Hanna Bekker vom Rath nach Ascona. Ab 1933 stand sie auf der Liste „entarteter“ Künstler. Ihr Stuttgarter Atelier wurde im Krieg bei einem Luftangriff zerstört, viele Bilder gingen verloren.",
+   "Nach 1945 malte sie weiter und reiste viel, vor allem nach Italien. 1954 erhielt sie das Bundesverdienstkreuz 1. Klasse, 1958 den Professorentitel des Landes Baden-Württemberg. Sie starb am 8. Juni 1970 in Stuttgart. Große Ausstellungen folgten 1979 in der Galerie der Stadt Stuttgart, 2001 in Riga und Regensburg und 2020 in der Staatsgalerie Stuttgart („Die ganze Welt ist Farbe“)."
+  ],
+  "museen": "Werke unter anderem im Städel Museum Frankfurt, in den Kunstsammlungen Chemnitz und in der Kunstsammlung der Deutschen Bundesbank (laut deren Online-Sammlungen).",
+  "timeline": [
+   [
+    "1879",
+    "geboren am 31. August in Riga"
+   ],
+   [
+    "nach 1902",
+    "Malschule von Adolf Hölzel in Dachau, Meisterschülerin"
+   ],
+   [
+    "1908",
+    "mit Hölzel nach Stuttgart, Meisteratelier an der Akademie"
+   ],
+   [
+    "1911",
+    "freie Künstlerin"
+   ],
+   [
+    "1920–23",
+    "Bauhaus Weimar, Weberei"
+   ],
+   [
+    "1922",
+    "Einbürgerung in Württemberg"
+   ],
+   [
+    "1930",
+    "Reise nach Ascona mit Hanna Bekker vom Rath"
+   ],
+   [
+    "1933",
+    "auf der Liste „entarteter“ Künstler"
+   ],
+   [
+    "1954",
+    "Bundesverdienstkreuz 1. Klasse"
+   ],
+   [
+    "1958",
+    "Professorentitel des Landes Baden-Württemberg"
+   ],
+   [
+    "1970",
+    "gestorben am 8. Juni in Stuttgart"
+   ],
+   [
+    "1979",
+    "Retrospektive Galerie der Stadt Stuttgart"
+   ],
+   [
+    "2020",
+    "Ausstellung Staatsgalerie Stuttgart"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Frühe Ölbilder",
+   "d": "Porträts, Landschaften und Figuren der 1910er bis 1930er Jahre in kräftigen Farben, oft kleine Formate auf Leinwand oder Holz.",
+   "bsp": "„Am Lago Maggiore“ (1930) 24.000 €, „Zynien“ (um 1925) 17.000 €"
+  },
+  {
+   "t": "Blumenbilder",
+   "d": "Blumenstillleben und Blüten; bei Ketterer die teuersten Bilder.",
+   "bsp": "„Gelbe Blumen“ (1934/40) rund {max_hammer} €"
+  },
+  {
+   "t": "Landschaften der 1940er Jahre",
+   "d": "Stuttgarter Umgebung und Berge, in Öl und Ölkreide.",
+   "bsp": "„Blick ins Heslacher Tal“ (1944) 16.000 €"
+  },
+  {
+   "t": "Späte Bilder und Mischtechniken",
+   "d": "Ab den 1950er Jahren abstraktere Kompositionen aus Farbflächen, teils sehr groß auf Papier.",
+   "bsp": "„Komposition“ (1960, 120 × 96 cm) 10.000 €, „Schmetterling“ (1962) 5.000 €"
+  },
+  {
+   "t": "Pastelle und Wachskreide",
+   "d": "Figuren, Landschaften und Atelierszenen auf farbigem Velours- oder Flockpapier.",
+   "bsp": "meist 1.500–4.000 €"
+  },
+  {
+   "t": "Druckgrafik",
+   "d": "Farbsiebdrucke und Lithografien der 1960er Jahre, signiert und nummeriert.",
+   "bsp": "150–350 €"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Ölbild von Ida Kerkovius wert?",
+   "a": "Die sieben Ölbilder auf dieser Seite brachten {min_all} bis rund {max_hammer} € Zuschlag, im Median {med_all} €. Bilder von 1915 bis 1944 lagen bei 7.000 bis 24.000 €, „Gelbe Blumen“ deutlich darüber. Das späte Bild „Schmetterling“ (1962) erzielte 5.000 €."
+  },
+  {
+   "q": "Was bringen Pastelle und Zeichnungen?",
+   "a": "Pastelle und Wachskreidebilder meist 1.500 bis 4.000 € Zuschlag, kleine Kreidezeichnungen 360 bis 1.100 €. Eine große Mischtechnik von 120 × 96 cm brachte 10.000 €."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Es ist in Vorbereitung: Uwe Jourdan in Stuttgart erfasst das Werk, Ketterer nennt bereits seine Nummern. Bei einem Ölbild lohnt die Nachfrage, ob es dort verzeichnet ist."
+  },
+  {
+   "q": "Woran erkenne ich ein Original?",
+   "a": "Typisch ist das Monogramm „IK“ oder „ik“ mit zweistelliger Jahreszahl, bei Papierarbeiten oft farbiges Velourspapier. Nachlassarbeiten tragen einen Stempel und ein Etikett „PROFESSOR IDA KERKOVIUS“. Grafik ist nummeriert."
+  },
+  {
+   "q": "Wo verkauft man ein Werk am besten?",
+   "a": "In den Daten dieser Seite liefen Ölbilder vor allem über Nagel in Stuttgart und Ketterer in München, Arbeiten auf Papier zusätzlich über Van Ham in Köln. Vor der Einlieferung lohnt der Vergleich von Schätzung, Aufgeld und Kosten."
+  },
+  {
+   "q": "Fällt beim Kauf Folgerecht an?",
+   "a": "Ja. Kerkovius starb 1970, ihre Werke sind bis Ende 2040 urheberrechtlich geschützt. Bis dahin fällt beim Weiterverkauf im Kunsthandel die Folgerechtsvergütung an."
+  }
+ ],
+ "methodik_extra": "Die Nagel-Ergebnisse stammen von veryimportantlot.com, das Nagels Katalogdaten mit Ergebnis zeigt; die Beträge (etwa 150, 330 und 360 €) passen zu Zuschlagsstufen, nicht zu Preisen mit 29,5 % Aufgeld. Van Ham veröffentlicht Preise mit Aufgeld; der Zuschlag ist mit 32 % zurückgerechnet. Die Van-Ham-Losseiten der Online-Auktionen zeigen kein Datum: Die Lose 62 bis 65 (April 2022) sind über Los 65 auf veryimportantlot.com datiert, „Der blaue See“ über die fortlaufenden Objektnummern der Auktion A1208 (Ende 29. Februar 2024). Drei Van-Ham-Lose (Januar 2024 und Juni 2025) sind nur über veryimportantlot.com belegt, ihre Zuschläge geschätzt. Ketterer nennt Ergebnisse mit Aufgeld: Die beiden Lose vom Dezember 2023 ergeben mit 27 % (Regelbesteuerung laut Katalog 552) genau 14.000 und 24.000 €; „Gelbe Blumen“ (Juni 2021, Ergebnis laut art.salon und Ketterer-Künstlerseite) ergibt mit 25 % genau 70.000 €, der Satz für diese Auktion war nicht prüfbar. Grisebach nennt 4.318 € mit Aufgeld, das entspricht genau 3.400 € mit 27 % (geschätzt). Stahl nennt einen auf 100 € gerundeten Erlös mit Aufgeld; zurückgerechnet mit 22 % plus Umsatzsteuer auf das Aufgeld (geschätzt). Einige Titel sind aus dem Englischen übersetzt. Nicht aufgenommen: Van-Ham-Lose ohne prüfbares Datum (u. a. ein Pastell um 1968 aus dem Jahr 2021), Ketterer-Ergebnisse ohne Datum, ein Karl-&-Faber-Los ohne Ergebnis, ein laufendes Christie's-Online-Los und Ergebnisse vor Juni 2021.",
+ "quellen": [
+  {
+   "t": "Ketterer Kunst, Künstlerseite Ida Kerkovius (Biografie, Ergebnisse mit Aufgeld)",
+   "u": "https://kettererkunst.com/bio/IdaKerkovius-1879-1970.php"
+  },
+  {
+   "t": "Ketterer Kunst, Katalog 552 Sammlung Bunte, 9. Dezember 2023 (Lose 507 und 549, Versteigerungsbedingungen)",
+   "u": "https://www.kettererkunst.de/downloads/KettererKunst-552-Sammlung-Bunte.pdf"
+  },
+  {
+   "t": "art.salon, „Gelbe Blumen“, Ketterer Moderne Kunst II, 18. Juni 2021, Los 218",
+   "u": "https://www.art.salon/artwork/ida-kerkovius_gelbe-blumen_AID382212"
+  },
+  {
+   "t": "veryimportantlot.com, Nagel 801, „Zynien“, 23.02.2022",
+   "u": "https://veryimportantlot.com/en/lot/view/ida-kerkovius-riga-1879-stuttgart-1970-708616"
+  },
+  {
+   "t": "veryimportantlot.com, Nagel, „Blick ins Heslacher Tal vom Hasenberg aus“, 07.02.2024",
+   "u": "https://veryimportantlot.com/en/lot/view/kerkovius-ida-1142670"
+  },
+  {
+   "t": "veryimportantlot.com, Nagel, „Komposition“ (1960), 07.02.2024",
+   "u": "https://veryimportantlot.com/en/lot/view/kerkovius-ida-1142735"
+  },
+  {
+   "t": "Van Ham, „Schmetterling“ (1962), Losseite",
+   "u": "https://auction.van-ham.com/en/ida-kerkovius-schmetterling--id-44230-item.html"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham, Pastell um 1954, 21.04.2022, Los 65",
+   "u": "https://veryimportantlot.com/en/lot/view/untitled-744505"
+  },
+  {
+   "t": "Van Ham, „Der blaue See“ (1966), Losseite",
+   "u": "https://auction.van-ham.com/en/ida-kerkovius-der-blaue-see--id-64176-item.html"
+  },
+  {
+   "t": "Van Ham, „Kleinformat 158“, Auktion 344 (2014), Nachlassetikett",
+   "u": "https://www.van-ham.com/en/artist/ida-kerkovius/ida-kerkovius-kleinformat-158.html"
+  },
+  {
+   "t": "Van Ham, Farblithografie Ex. 11/200, Auktion 1045 (2020)",
+   "u": "https://www.van-ham.com/en/artist/ida-kerkovius/ida-kerkovius-ohne-titel.html"
+  },
+  {
+   "t": "Grisebach, Gebirgslandschaft 1940, Auktion 751, Los 1131",
+   "u": "https://grisebach.com/en/lot/4068448?catalog=25"
+  },
+  {
+   "t": "Auktionshaus Stahl, „Auf der Alp“ (1945), Mai 2024",
+   "u": "https://www.auktionshaus-stahl.de/en/article/109351-ida-kerkovius-auf-der-alp"
+  },
+  {
+   "t": "Wikipedia (englisch): Ida Kerkovius",
+   "u": "https://en.wikipedia.org/wiki/Ida_Kerkovius"
+  },
+  {
+   "t": "Städel Museum, Sammlung online: Ida Kerkovius",
+   "u": "https://sammlung.staedelmuseum.de/en/person/kerkovius-ida"
+  },
+  {
+   "t": "Deutsche Bundesbank, Kunstsammlung: Ida Kerkovius, Komposition, 1955",
+   "u": "https://www.bundesbank.de/de/bundesbank/kunst/malerei-und-papierarbeiten/ida-kerkovius-komposition-1955-607064"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Nagel",
+   "date": "2022-02-23",
+   "sale": "801 Moderne & Zeitgenössische Kunst, Design",
+   "lot": "48",
+   "title": "Zynien",
+   "year": "um 1925",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 31.5,
+   "w": 39.5,
+   "lo": 7000,
+   "hi": 10000,
+   "hammer": 17000,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/ida-kerkovius-riga-1879-stuttgart-1970-708616",
+   "note": "Zuschlag laut veryimportantlot.com (Nagel, Aufgeld 29,5 %); oben rechts in Öl monogrammiert, rückseitig Etikett mit Titel und Datum"
+  },
+  {
+   "house": "Nagel",
+   "date": "2022-02-23",
+   "sale": "801 Moderne & Zeitgenössische Kunst, Design",
+   "lot": "134",
+   "title": "Figurenkomposition",
+   "year": "um 1960",
+   "tech": "Schwarze Kreide auf Papier",
+   "medium": "papier",
+   "h": 12,
+   "w": 15.5,
+   "lo": 500,
+   "hi": 700,
+   "hammer": 1100,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/ida-kerkovius-riga-1879-stuttgart-1970-708702",
+   "note": "Zuschlag laut veryimportantlot.com (Nagel, Aufgeld 29,5 %)"
+  },
+  {
+   "house": "Nagel",
+   "date": "2023-02-08",
+   "sale": "811 Moderne & Zeitgenössische Kunst, Design",
+   "lot": "32",
+   "title": "Bauernhof mit Schimmel",
+   "year": "1934",
+   "tech": "Öl auf Leinwand, auf Hartfaser",
+   "medium": "lw",
+   "h": 30,
+   "w": 31.5,
+   "lo": 5000,
+   "hi": 8000,
+   "hammer": 7000,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/kerkovius-ida-892528",
+   "note": "Zuschlag laut veryimportantlot.com (Nagel, Aufgeld 29,5 %); Titel aus dem Englischen („Farm with white horse“) übersetzt"
+  },
+  {
+   "house": "Nagel",
+   "date": "2023-02-08",
+   "sale": "811 Moderne & Zeitgenössische Kunst, Design",
+   "lot": "587",
+   "title": "Figürliches auf Rotorange",
+   "year": "1963",
+   "tech": "Farbsiebdruck auf Velin",
+   "medium": "druck",
+   "h": 41,
+   "w": 51,
+   "lo": 250,
+   "hi": 450,
+   "hammer": 150,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/kerkovius-ida-893083",
+   "note": "Zuschlag laut veryimportantlot.com (Nagel, Aufgeld 29,5 %); Blatt 79 × 70,5 cm"
+  },
+  {
+   "house": "Nagel",
+   "date": "2023-02-08",
+   "sale": "811 Moderne & Zeitgenössische Kunst, Design",
+   "lot": "589",
+   "title": "Garten in Hofheim",
+   "year": "1964",
+   "tech": "Farbsiebdruck auf Velin",
+   "medium": "druck",
+   "h": 50,
+   "w": 61.5,
+   "lo": 300,
+   "hi": 500,
+   "hammer": 330,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/kerkovius-ida-893085",
+   "note": "Zuschlag laut veryimportantlot.com (Nagel, Aufgeld 29,5 %); Blatt 60 × 74 cm"
+  },
+  {
+   "house": "Nagel",
+   "date": "2023-07-12",
+   "sale": "Auktion Juli 2023",
+   "lot": "24",
+   "title": "Flieger am Himmel",
+   "year": "um 1940",
+   "tech": "Schwarze Kreide und Kohle auf Papier",
+   "medium": "papier",
+   "h": 10.1,
+   "w": 14.2,
+   "lo": 500,
+   "hi": 800,
+   "hammer": 360,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/kerkovius-ida-991733",
+   "note": "Zuschlag laut veryimportantlot.com (Nagel, Aufgeld 29,5 %); Titel aus dem Englischen („Flyers in the sky“) übersetzt"
+  },
+  {
+   "house": "Nagel",
+   "date": "2024-02-07",
+   "sale": "Moderne & Zeitgenössische Kunst, Design",
+   "lot": "495",
+   "title": "Blick ins Heslacher Tal vom Hasenberg aus",
+   "year": "1944",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 66,
+   "w": 96,
+   "lo": 16000,
+   "hi": 22000,
+   "hammer": 16000,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/kerkovius-ida-1142670",
+   "note": "Zuschlag laut veryimportantlot.com (Nagel, Aufgeld 29,5 %)"
+  },
+  {
+   "house": "Nagel",
+   "date": "2024-02-07",
+   "sale": "Moderne & Zeitgenössische Kunst, Design",
+   "lot": "562",
+   "title": "Komposition",
+   "year": "1960",
+   "tech": "Mischtechnik auf Papierbögen",
+   "medium": "papier",
+   "h": 120,
+   "w": 96,
+   "lo": 8000,
+   "hi": 12000,
+   "hammer": 10000,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/kerkovius-ida-1142735",
+   "note": "Zuschlag laut veryimportantlot.com (Nagel, Aufgeld 29,5 %)"
+  },
+  {
+   "house": "Nagel",
+   "date": "2024-09-25",
+   "sale": "Moderne & Zeitgenössische Kunst, Design",
+   "lot": "220",
+   "title": "Atelierszene",
+   "year": "1950",
+   "tech": "Pastell auf Velourpapier",
+   "medium": "papier",
+   "h": 24.5,
+   "w": 29.5,
+   "lo": 4000,
+   "hi": 6000,
+   "hammer": 4000,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/kerkovius-ida-1294296",
+   "note": "Zuschlag laut veryimportantlot.com (Nagel, Aufgeld 29,5 %)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-04-21",
+   "sale": "Online-Auktion",
+   "lot": "62",
+   "title": "Schmetterling",
+   "year": "1962",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 40.5,
+   "w": 50.5,
+   "lo": 4000,
+   "hi": 6000,
+   "hammer": 5000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/ida-kerkovius-schmetterling--id-44230-item.html",
+   "note": "Ergebnis 6.600 € mit 32 % Aufgeld laut Losseite; monogrammiert „IK“; Etikett Kunsthaus Schaller, Stuttgart; Datum über Los 65 derselben Auktion (fortlaufende Los- und Objektnummern 62–65, 44230–44233), das laut veryimportantlot.com am 21.04.2022 endete"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-04-21",
+   "sale": "Online-Auktion",
+   "lot": "63",
+   "title": "Aquarium",
+   "tech": "Pastell auf grünem, beflocktem Papier, auf Papier",
+   "medium": "papier",
+   "h": 31,
+   "w": 37,
+   "lo": 1500,
+   "hi": 2000,
+   "hammer": 1500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/ida-kerkovius-aquarium--id-44231-item.html",
+   "note": "Ergebnis 1.980 € mit 32 % Aufgeld laut Losseite; signiert „I. KERKOVIUS“; Datum wie Los 62"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-04-21",
+   "sale": "Online-Auktion",
+   "lot": "64",
+   "title": "Ohne Titel",
+   "tech": "Pastell auf schwarzem Velin",
+   "medium": "papier",
+   "h": 33.5,
+   "w": 47,
+   "lo": 2500,
+   "hi": 3500,
+   "hammer": 2500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/ida-kerkovius-untitled--id-44232-item.html",
+   "note": "Ergebnis 3.300 € mit 32 % Aufgeld laut Losseite; Maße des Passepartoutausschnitts; Datum wie Los 62"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-04-21",
+   "sale": "Online-Auktion",
+   "lot": "65",
+   "title": "Ohne Titel",
+   "year": "um 1954",
+   "tech": "Pastell und Grafit auf chamoisfarbenem Papier",
+   "medium": "papier",
+   "h": 10.5,
+   "w": 14.5,
+   "lo": 400,
+   "hi": 600,
+   "hammer": 400,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/ida-kerkovius-untitled--id-44233-item.html",
+   "note": "Ergebnis 528 € mit 32 % Aufgeld laut Losseite; Datum laut https://veryimportantlot.com/en/lot/view/untitled-744505"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-01-11",
+   "sale": "A1202 Modern Art (online)",
+   "lot": "9",
+   "title": "Abstrakte Figur",
+   "tech": "Wachskreide auf Karton",
+   "medium": "papier",
+   "h": 29,
+   "w": 23,
+   "lo": 1000,
+   "hi": 1500,
+   "hammer": 1600,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/ida-kerkovius-abstrakte-figur-1129474",
+   "note": "nur über veryimportantlot.com belegt: „Sold € 2 112“ (Aufgeld 32 %), entspricht 1.600 € Zuschlag (geschätzt)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-01-11",
+   "sale": "A1202 Modern Art (online)",
+   "lot": "11",
+   "title": "Zirkuspferd mit Reiter in Manege",
+   "year": "1965",
+   "tech": "Wachskreide auf grünem Velourpapier",
+   "medium": "papier",
+   "h": 29,
+   "w": 25,
+   "lo": 1800,
+   "hi": 2400,
+   "hammer": 3000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/ida-kerkovius-zirkuspferd-mit-reiter-in-manege-1129476",
+   "note": "nur über veryimportantlot.com belegt: „Sold € 3 960“ (Aufgeld 32 %), entspricht 3.000 € Zuschlag (geschätzt)"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-01-11",
+   "sale": "A1202 Modern Art (online)",
+   "lot": "61",
+   "title": "Abstrahierte Figuren",
+   "tech": "Grafit und Gouache auf Velin, auf Karton",
+   "medium": "papier",
+   "h": 28.5,
+   "w": 16,
+   "lo": 500,
+   "hi": 700,
+   "hammer": 500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/ida-kerkovius-abstrahierte-figuren--id-63403-item.html",
+   "note": "Ergebnis 660 € mit 32 % Aufgeld laut Losseite; Datum laut https://veryimportantlot.com/en/lot/view/ida-kerkovius-abstrahierte-figuren-1129525 (dort 635 €); monogrammiert „ik“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-02-29",
+   "sale": "A1208 Modern Art (online)",
+   "lot": "42",
+   "title": "Der blaue See",
+   "year": "1966",
+   "tech": "Pastell auf Flockpapier",
+   "medium": "papier",
+   "h": 36.5,
+   "w": 50,
+   "lo": 4000,
+   "hi": 6000,
+   "hammer": 2500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/ida-kerkovius-der-blaue-see--id-64176-item.html",
+   "note": "Ergebnis 3.300 € mit 32 % Aufgeld laut Losseite; monogrammiert und datiert „ik. 66“; Losseite ohne Datum, Auktion A1208 über die fortlaufenden Objektnummern (Los = Objekt-ID − 64134, wie bei den Pankok-Losen 68–106), Auktionsende 29.02.2024"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-06-23",
+   "sale": "Online-Auktion",
+   "lot": "67",
+   "title": "Schlange",
+   "year": "1963",
+   "tech": "Farbserigrafie auf Bütten",
+   "medium": "druck",
+   "h": 24.5,
+   "w": 32,
+   "lo": 300,
+   "hi": 500,
+   "hammer": 350,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/ida-kerkovius-schlangeida-kerkovius-schlange-1449477",
+   "note": "nur über veryimportantlot.com belegt: „Sold € 462“ (Aufgeld 32 %), entspricht 350 € Zuschlag (geschätzt); Blatt 43 × 60,5 cm"
+  },
+  {
+   "house": "Ketterer",
+   "date": "2021-06-18",
+   "sale": "517 Moderne Kunst II",
+   "lot": "218",
+   "title": "Gelbe Blumen",
+   "year": "1934/40",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 66.5,
+   "w": 85,
+   "lo": 9000,
+   "hammer": 70000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.art.salon/artwork/ida-kerkovius_gelbe-blumen_AID382212",
+   "note": "Ergebnis 87.500 € laut art.salon und Ketterer-Künstlerseite (https://kettererkunst.com/bio/IdaKerkovius-1879-1970.php); mit 25 % Aufgeld genau 70.000 €, Satz für diese Auktion nicht geprüft; rechts unten signiert und datiert; Provenienz Galerie Valentien, Stuttgart; Galerie Günther Franke, München"
+  },
+  {
+   "house": "Ketterer",
+   "date": "2023-12-09",
+   "sale": "552 Sammlung Bunte",
+   "lot": "507",
+   "title": "Porträtkopf",
+   "year": "1915",
+   "tech": "Öl auf Leinwand, rückseitig Blumenstillleben",
+   "medium": "lw",
+   "h": 65,
+   "w": 47,
+   "lo": 14000,
+   "hi": 18000,
+   "hammer": 14000,
+   "status": "v",
+   "url": "https://kettererkunst.com/bio/IdaKerkovius-1879-1970.php",
+   "note": "Ergebnis 17.780 € laut Künstlerseite; Los R/D, laut Katalog 27 % Aufgeld bei Regelbesteuerung, ergibt genau 14.000 €; Katalog https://www.kettererkunst.de/downloads/KettererKunst-552-Sammlung-Bunte.pdf (Aufruf 9.12.2023); WVZ Jourdan (in Vorbereitung) Nr. 1068"
+  },
+  {
+   "house": "Ketterer",
+   "date": "2023-12-09",
+   "sale": "552 Sammlung Bunte",
+   "lot": "549",
+   "title": "Am Lago Maggiore",
+   "year": "1930",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 30,
+   "w": 36.9,
+   "lo": 20000,
+   "hi": 25000,
+   "hammer": 24000,
+   "status": "v",
+   "url": "https://kettererkunst.com/bio/IdaKerkovius-1879-1970.php",
+   "note": "Ergebnis 30.480 € laut Künstlerseite; mit 27 % Aufgeld (Regelbesteuerung) genau 24.000 €; rechts unten monogrammiert; WVZ Jourdan Nr. 390; Provenienz u. a. Sammlung Rolf Deyhle, Stuttgart"
+  },
+  {
+   "house": "Grisebach",
+   "date": "2025-04-13",
+   "sale": "751 Online Only Modern & Contemporary Art",
+   "lot": "1131",
+   "title": "Gebirgslandschaft mit See und Kapelle",
+   "year": "1940",
+   "tech": "Pastellkreide über Bleistift auf Papier",
+   "medium": "papier",
+   "h": 20.3,
+   "w": 26.2,
+   "lo": 1500,
+   "hi": 2000,
+   "hammer": 3400,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://grisebach.com/en/lot/4068448?catalog=25",
+   "note": "„Sold for 4.318 EUR (incl. premium)“; mit 27 % genau 3.400 €, Satz nicht auf der Losseite (geschätzt); datiert und monogrammiert „40 IK“; Titel aus dem Englischen übersetzt"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-05-25",
+   "sale": "364 Kunstauktion",
+   "lot": "350",
+   "title": "Auf der Alp",
+   "year": "1945",
+   "tech": "Ölkreide",
+   "medium": "papier",
+   "h": 18,
+   "w": 20,
+   "hammer": 2400,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/109351-ida-kerkovius-auf-der-alp",
+   "note": "Stahl nennt „Erlös 3.000 €“, auf 100 € gerundet mit Aufgeld; zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert und datiert „Ida Kerkovius 45“"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-27",
+   "sale": "365 Kunstauktion",
+   "lot": "343",
+   "title": "Landschaft mit Frauen",
+   "tech": "Pastell",
+   "medium": "papier",
+   "h": 17,
+   "w": 22,
+   "hammer": 1500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/109794-ida-kerkovius-landscape-with-women",
+   "note": "Stahl nennt „Erlös 1.900 €“, auf 100 € gerundet mit Aufgeld; zurückgerechnet wie oben; Auktion 27./28.09.2024, Tag nicht angegeben; Titel aus dem Englischen übersetzt; monogrammiert „IK“"
+  }
+ ]
+}

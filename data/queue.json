@@ -140,8 +140,11 @@
    "slug": "ida-kerkovius",
    "name": "Ida Kerkovius",
    "wave": 1,
-   "status": "claimed",
-   "claimed_at": "2026-11-25T06:31:47Z"
+   "status": "done",
+   "claimed_at": "2026-11-25T06:31:47Z",
+   "done_at": "2026-11-25T06:41:07Z",
+   "lots": 24,
+   "note": "Nagel 9 (alle nur über veryimportantlot.com, Beträge = Zuschläge), Van Ham 9 (Online-Losseiten ohne Datum; Lose 62–65 über VIL-Los 65 datiert, Der blaue See über A1208-Objektnummern; 3 Lose nur VIL, geschätzt), Ketterer 3 (552 Katalog + Künstlerseite, 27 %; Gelbe Blumen 517 über art.salon, 25 % geschätzt), Stahl 2 (Erlös geschätzt), Grisebach 1 (27 % geschätzt). Offen: unverkaufte Lose fehlen vermutlich (VIL zeigt vor allem Verkäufe); Van Ham id 35660 (Pastell um 1968, 2021, 29 %) ohne Datum; Ketterer Online Sale „Schiffe in Norwegen“ (34.290 €) und 552 Los 521 „Frauenkopf“ ohne Ergebnis/Datum; Karl & Faber „Waldlandschaft“ ohne Ergebnis; Christie's Online „Golden Twenties“ (laufend); Nagel-Auktionsnummern 2023-07/2024 nicht geprüft; Lempertz nicht geprüft"
   },
   {
    "slug": "ernst-eitner",
