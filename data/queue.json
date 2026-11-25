@@ -190,7 +190,8 @@
    "slug": "paul-mueller-kaempff",
    "name": "Paul Müller-Kaempff",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T09:37:45Z"
   },
   {
    "slug": "elisabeth-von-eicken",
