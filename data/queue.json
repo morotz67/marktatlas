@@ -220,7 +220,8 @@
    "slug": "eduard-bargheer",
    "name": "Eduard Bargheer",
    "wave": 1,
-   "status": "open"
+   "status": "claimed",
+   "claimed_at": "2026-11-25T11:12:10Z"
   },
   {
    "slug": "hans-am-ende",
