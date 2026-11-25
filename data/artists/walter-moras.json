@@ -1,0 +1,748 @@
+{
+ "slug": "walter-moras",
+ "name": "Walter Moras",
+ "status": "published",
+ "region": "mitte",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1856-01-20",
+  "place": "Berlin",
+  "text": "20. Januar 1856 Berlin"
+ },
+ "death": {
+  "date": "1925-03-04",
+  "place": "Bad Harzburg",
+  "text": "4. März 1925 Bad Harzburg"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Walter_Moras",
+  "https://en.wikipedia.org/wiki/Walter_Moras",
+  "https://viaf.org/viaf/95868465/"
+ ],
+ "sort_name": "Moras",
+ "split_year": 2024,
+ "list_line": "Berliner Maler von Winterwald und Spreewald · Zuschlag im Median {med_all} €",
+ "lead": "Berliner Landschaftsmaler, bekannt für verschneite Wälder, den Spreewald und die Ostseeküste. Diese Seite fasst zusammen, was seine Bilder im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "im Berliner Atelier des Marine- und Landschaftsmalers Hermann Eschke"
+  ],
+  [
+   "Hauptmotive",
+   "Winterwälder, Spreewald und Mark Brandenburg, Ostseeküste mit Rügen und Mecklenburg, Abend- und Mondscheinstimmungen"
+  ],
+  [
+   "Ausstellungen",
+   "ab 1876 in Berlin, bis 1912 fast jährlich auf der Großen Berliner Kunstausstellung"
+  ],
+  [
+   "Werkverzeichnis",
+   "keines veröffentlicht; Biografien von Alfried Nehring (2010, 2025)"
+  ]
+ ],
+ "marktwert": "Große Winterbilder (rund 80 × 120 cm) meist 1.800–7.000 € Zuschlag, Spitze rund {max_hammer} €; kleine Ölstudien 400–2.600 €",
+ "absatzmarkt": "Köln, Wien und Hamburg; kleine Studien in Berlin",
+ "headline": "Große Winterbilder bringen meist 1.800 bis 7.000 €, ein Bild im November 2025 rund {max_hammer} €",
+ "kurz": "Walter Moras kommt regelmäßig zur Auktion, bei vielen Häusern. Diese Seite zählt {n_lots} Lose von {period} bei {n_houses} Häusern, die meisten bei Van Ham in Köln, Bassenge in Berlin und Stahl in Hamburg. Den Markt tragen große Winterwälder und Spreewaldbilder im Format von rund 80 × 120 cm. Sie brachten meist 1.800 bis 7.000 € Zuschlag, am meisten in Wien (im Kinsky 4.000 bis 7.000 €) und zuletzt bei Stahl, wo „{max_title}“ im November 2025 rund {max_hammer} € erreichte. Kleine Ölstudien und Skizzen brachten 400 bis 2.600 €. Bei Van Ham, dem Haus mit den meisten Losen, lagen große Bilder 2021 und 2022 bei 4.500 und 5.000 €, seit 2023 bei 1.800 bis 2.800 €.",
+ "figs": [
+  [
+   "ca. {max_hammer} €",
+   "höchster Zuschlag, aus dem Preis mit Aufgeld errechnet: „{max_title}“, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde und Ölstudien, {period}"
+  ],
+  [
+   "4.000 €",
+   "Median der 13 verkauften großen Bilder ab 100 cm Breite"
+  ],
+  [
+   "{sold_rate}",
+   "Losen mit Zuschlag, bei {n_houses} Häusern"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Den größten Unterschied macht das Format. Die großen Winterwälder und Spreewaldbilder, fast immer rund 80 × 120 cm, bringen die höchsten Preise: im Kinsky in Wien 2021 und 2022 „Jäger im Winterwald“ 6.500 €, „Winterlandschaft“ 7.000 € und „Herbstwald“ 4.000 €, bei Stahl im November 2025 „{max_title}“ rund {max_hammer} €. Der Median der 13 verkauften Bilder ab 100 cm Breite liegt bei 4.000 €.",
+   "Kleine Ölstudien auf Karton, Papier oder Holz sind deutlich günstiger. Bei Bassenge in Berlin brachten sie 400 bis 1.600 €, eine kleine Seelandschaft auf Leinwand 2.600 € (2021). Die datierte Studie „Wintertag an der Memel“ (1889) brachte im Dorotheum rund 2.200 €.",
+   "Bei Van Ham sind die Preise für große Bilder gesunken. 2021 brachte ein „Winterwald“ 5.000 €, 2022 eine „Spreewaldlandschaft im Sommer“ 4.500 €. Seit 2023 lagen große Waldbilder dort bei 2.500, 2.800 und 1.800 €, jeweils unter der unteren Schätzung. Der Median aller Van-Ham-Zuschläge sank von {med_old_main} € ({years_old}) auf {med_new_main} € ({years_new}). Insgesamt blieben 8 von 17 Losen mit veröffentlichter Schätzung darunter."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld, je nach Haus verschieden: bei Van Ham 32 % (laut Losseiten), bei Bassenge 25 % zuzüglich Umsatzsteuer, bei Stahl 22 % plus Umsatzsteuer auf das Aufgeld (zusammen 26,18 %). Im Kinsky lag der Kaufpreis bei allen drei Losen 28 % über dem Zuschlag, einschließlich österreichischer Umsatzsteuer. Für Online-Live-Gebote berechnen manche Häuser einen weiteren Zuschlag, Bassenge etwa 3 %.",
+  "spitzen": "Vor 2021 lagen die Ergebnisse im selben Rahmen. Bei Van Ham brachten große Bilder im November 2019 („Spreewalddorf im Herbst“) und im November 2020 („Sonniger Wintertag im verschneiten Wald“) je 7.260 € mit Aufgeld. Bei Stahl erzielte ein „Bachlauf im Herbstwald“ im Februar 2011 ein Ergebnis von 10.900 € mit Aufgeld."
+ },
+ "euro_ok": [
+  "7.260",
+  "10.900",
+  "6.600",
+  "2.860",
+  "3.960",
+  "100"
+ ],
+ "absatz": {
+  "text": [
+   "Moras wird in ganz Deutschland und in Wien versteigert, ohne klaren Schwerpunkt. Van Ham in Köln bot die meisten Bilder an ({n_house1} Lose), vor allem große Winterwälder und Spreewaldbilder. Bassenge in Berlin verkauft regelmäßig kleine Ölstudien, meist für unter 2.000 €. Stahl in Hamburg erzielte im November 2025 den höchsten Zuschlag dieser Seite.",
+   "Die besten Preise für große Winterbilder kamen aus Wien: Das Auktionshaus im Kinsky verkaufte 2021 und 2022 drei Bilder für 4.000 bis 7.000 €, auch das Dorotheum bietet ihn regelmäßig an. Daneben erscheinen seine Bilder bei vielen kleineren Häusern, etwa Wettmann, Wendl, Schloss Ahlden, Leo Spik, Hampel und Schmidt in Dresden. Deren Ergebnisse waren nur teilweise prüfbar; eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Mittel bis hoch. {sold_rate} Losen auf dieser Seite erhielten einen Zuschlag. Bassenge und Stahl zeigen unverkaufte Lose aber nicht in ihren Ergebnislisten, die Quote ist deshalb zu hoch. Auffällig ist, wie oft Zuschläge unter der unteren Schätzung lagen: bei 8 von 17 Losen mit Schätzung."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "Meist „W. Moras“ unten links oder rechts, selten mit Jahr („W.Moras.89“). Studien tragen manchmal Ort und Datum, etwa „Klingsborn 10/4 84“ oder „Memelufer bei Unter-Eisseln“."
+   ],
+   [
+    "Vater oder Sohn",
+    "Sein Sohn Bruno Moras (1883–1939) war ebenfalls Maler. Van Ham bot im Mai 2025 eine „Herbstliche Allee mit Spreewaldgehöft“ als Werk Brunos an; laut Katalogtext war die Signatur „B. Moras“ nachträglich zu „W. Moras“ geändert worden."
+   ],
+   [
+    "Ergänzte Signaturen",
+    "Bei einer „Winterlandschaft“ (Van Ham 2021) waren laut Katalog Teile der Signatur später ergänzt; das Bild blieb ohne Zuschlag. Eine Untersuchung unter UV-Licht kann solche Ergänzungen sichtbar machen."
+   ],
+   [
+    "Format",
+    "Die großen Winterbilder haben fast immer rund 80 × 120 cm. Kleine Studien sind meist Öl auf Karton oder Papier, oft auf Karton oder Holz aufgezogen."
+   ],
+   [
+    "Stempel auf der Rückseite",
+    "Stempel alter Kunsthandlungen sprechen für eine frühe Herkunft, etwa „M. Baruch, Hamburg“ auf zwei Studien bei Bassenge 2022."
+   ],
+   [
+    "Zuschreibungen",
+    "Lose mit „zugeschrieben“ oder nur dem Monogramm „W. M.“ (so bei Schloss Ahlden 2023) nicht mit gesicherten Werken vergleichen."
+   ]
+  ],
+  "preis_drueckt": "Doublierungen, Restaurierungen und ergänzte Signaturen vermerken die Häuser im Katalog. Der doublierte „Sonnendurchflutete Winterwald“ (71 × 101 cm) brachte bei Bassenge 2024 1.000 €, unter der Schätzung; die „Winterlandschaft“ mit teils ergänzter Signatur blieb 2021 bei Van Ham ohne Zuschlag. Den größten Unterschied macht aber das Format: Studien bis 50 cm Breite brachten meist unter 2.000 €.",
+  "werkverzeichnis": "Ein veröffentlichtes Werkverzeichnis war nicht zu finden. Alfried Nehring hat Leben und Werk in zwei Büchern beschrieben: „Walter Moras. Spuren eines Malerlebens“ (2010) und „Walter Moras. Zwischen Ostsee und Spreewald“ (2025). Van Ham dankte 2025 André Matthes aus Lübben für Hilfe bei der Katalogisierung.",
+  "provenienz": "Kataloge nennen meist nur „Privatbesitz“. Alte Händlerstempel und Ausstellungsetiketten helfen bei der Einordnung. Bei Bildern, die 1933–1945 den Besitzer wechselten, gehört die Herkunft geprüft."
+ },
+ "leben": {
+  "text": [
+   "Walter Moras wurde am 20. Januar 1856 in Berlin geboren. Er lernte im Berliner Atelier des Marine- und Landschaftsmalers Hermann Eschke und malte auf dessen Rat zunächst vor allem auf Rügen und in Mecklenburg. 1876 stellte er zum ersten Mal an der Berliner Akademie aus, danach bis 1912 fast jedes Jahr auf den Großen Berliner Kunstausstellungen, außerdem in Bremen, Oldenburg, Königsberg und 1890 in München.",
+   "Obwohl er sein Leben lang in Berlin wohnte, malte er die Stadt kaum. Seine Motive fand er an der Ostsee, in der Mark Brandenburg und vor allem im Spreewald; als Spreewaldmaler wurde er bekannt. Reisen führten ihn nach Norwegen, Italien und Holland, Studien entstanden auch an der Memel in Ostpreußen. Einem Künstlerverein oder einer Künstlerkolonie schloss er sich nicht an.",
+   "1883 heiratete er Ida Balluschek; im selben Jahr kam der Sohn Bruno zur Welt, der ebenfalls Maler wurde. Ab 1917 war Moras wegen eines Lungenleidens zur Kur im Harz, 1921 zog er ganz nach Bad Harzburg. Die Inflation zehrte sein Vermögen auf. Er starb dort am 4. März 1925 (die englische Wikipedia nennt den 6. März)."
+  ],
+  "museen": "Laut Wikipedia: Nationalgalerie Berlin („Heidelandschaft“), Kulturhistorisches Museum Magdeburg, Museum im Steintor Anklam, Museum Schloss Lübben, Kunstforum Ostdeutsche Galerie Regensburg. Außerdem Historisches Museum der Pfalz, Speyer („Winterwald“, 1900).",
+  "timeline": [
+   [
+    "1856",
+    "geboren in Berlin"
+   ],
+   [
+    "1876",
+    "erste Ausstellung an der Akademie der Künste, Berlin"
+   ],
+   [
+    "1883",
+    "Heirat mit Ida Balluschek, Sohn Bruno geboren"
+   ],
+   [
+    "1889",
+    "datierte Studien an der Memel"
+   ],
+   [
+    "1890",
+    "Münchner Jahresausstellung"
+   ],
+   [
+    "1912",
+    "zuletzt auf der Großen Berliner Kunstausstellung"
+   ],
+   [
+    "1917",
+    "Kuraufenthalte im Harz"
+   ],
+   [
+    "1921",
+    "Umzug nach Bad Harzburg"
+   ],
+   [
+    "1925",
+    "gestorben in Bad Harzburg"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Große Winterwälder",
+   "d": "Verschneite Wälder mit Bach oder Jäger, im Morgen- oder Abendlicht, meist rund 80 × 120 cm; sein bekanntestes Motiv.",
+   "bsp": "„{max_title}“ (Stahl 2025): rund {max_hammer} €; sonst meist 1.800–7.000 €"
+  },
+  {
+   "t": "Spreewald und Mark Brandenburg",
+   "d": "Fließe, Gehöfte und Dörfer im Sommer und Herbst.",
+   "bsp": "„Spreewaldlandschaft im Sommer“ (Van Ham 2022): 4.500 €"
+  },
+  {
+   "t": "Ostsee, Memel und Reisen",
+   "d": "Fischerdörfer, Buchten und Häfen, oft als kleine Studien.",
+   "bsp": "„Bucht mit Seglern“ (Stahl 2025): rund 1.600 €; „Fischreusen in der Ostsee“: 650 €"
+  },
+  {
+   "t": "Kleine Ölstudien",
+   "d": "Ölskizzen auf Karton oder Papier, teils mit Ort und Datum bezeichnet.",
+   "bsp": "Bassenge 2022–2025: 400 bis 1.600 €"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Walter Moras wert?",
+   "a": "Das hängt vor allem vom Format ab. Große Winterwälder und Spreewaldbilder (rund 80 × 120 cm) brachten seit 2021 meist 1.800 bis 7.000 € Zuschlag, im Median 4.000 €; Spitze war rund {max_hammer} € bei Stahl 2025. Kleine Ölstudien brachten 400 bis 2.600 €. Der Median aller {n_paint} verkauften Bilder liegt bei {med_all} €."
+  },
+  {
+   "q": "Wo verkauft man einen Moras am besten?",
+   "a": "Große Winterbilder erzielten die höchsten Preise im Kinsky in Wien und zuletzt bei Stahl in Hamburg. Van Ham in Köln bietet ihn am häufigsten an, dort lagen die Zuschläge seit 2023 aber meist unter der Schätzung. Für kleine Studien ist Bassenge in Berlin ein regelmäßiger Markt."
+  },
+  {
+   "q": "Ist mein Bild von Walter oder von Bruno Moras?",
+   "a": "Sein Sohn Bruno Moras (1883–1939) war ebenfalls Maler. Van Ham führte 2025 ein Bild unter Brunos Namen, dessen Signatur laut Katalog von „B. Moras“ zu „W. Moras“ geändert worden war. Bei Zweifeln die Signatur von einem Restaurator prüfen lassen und ein Haus fragen, das Moras regelmäßig anbietet."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Ein veröffentlichtes Werkverzeichnis war nicht zu finden. Zu Leben und Werk hat Alfried Nehring zwei Bücher veröffentlicht (2010 und 2025). Van Ham nennt bei einem Los von 2025 André Matthes aus Lübben als Helfer bei der Katalogisierung."
+  },
+  {
+   "q": "Warum nennen die Häuser höhere Preise als diese Seite?",
+   "a": "Viele Häuser veröffentlichen den Preis mit Aufgeld. Van Ham etwa nennt 6.600 € für den „Winterwald“ von 2021; das sind 5.000 € Zuschlag plus 32 % Aufgeld. Auf dieser Seite stehen immer die Zuschläge."
+  }
+ ],
+ "methodik_extra": "Van Ham nennt auf Künstler- und Losseiten das Ergebnis mit Aufgeld; die Online-Losseiten geben 32 % an, alle Zuschläge sind damit glatte Beträge. Bassenge nennt das Ergebnis inklusive 25 % Regelaufgeld ohne Umsatzsteuer. Stahl nennt ein auf volle 100 € gerundetes Ergebnis mit 22 % Aufgeld zuzüglich Umsatzsteuer darauf (zusammen 26,18 %, laut Versteigerungsbedingungen); die Stahl-Zuschläge sind deshalb geschätzt. Im Kinsky nennt die Losseite den Zuschlag. Das Dorotheum nennt den Preis einschließlich Käufergebühr und Steuer; laut Gebührentarif (ab März 2023) beträgt die Gebühr 30 % in der Auktion und 32 % im Nachverkauf. 2.860 € ergeben mit 30 % genau 2.200 €, 3.960 € nur mit 32 % einen runden Betrag (3.000 €); beide Zuschläge sind als geschätzt markiert. Die Ergebnisse bei Wendl und Wettmann stammen nur von veryimportantlot.com, ohne Angabe, ob das Aufgeld enthalten ist; zurückgerechnet ergäben sie keine runden Beträge, sie sind daher als Zuschläge übernommen und als geschätzt markiert. Wo die Losseite eines Hauses nicht abrufbar war, stammen Datum, Losnummer, Technik oder Maße von veryimportantlot.com oder Invaluable (im Los vermerkt). Den „Winterwald“ vom Mai 2025 nennt Van Ham nur auf der Künstlerseite; Datum und Maße stammen aus dem Invaluable-Eintrag mit gleicher Schätzung, die Losnummer ist unbekannt. Bei zweitägigen Auktionen (Van Ham Januar 2026, Stahl November 2025) gilt der Tag laut Invaluable. Nicht aufgenommen: drei Stahl-Lose mit Ergebnis, deren Losseite nicht abrufbar war („Hafen von Amsterdam“, Mai 2022; „Fischerbrücke und Parochialkirche“, September 2022; „Bach im Wald“, Mai 2023), die „Herbstliche Allee mit Spreewaldgehöft“ (Van Ham, Mai 2025), die Van Ham unter Bruno Moras führt, ein „zugeschriebenes“, nur monogrammiertes Bild bei Schloss Ahlden (2023) und zahlreiche Angebote kleinerer Häuser (darunter Leo Spik, Hampel, Schmidt, Hargesheimer, Dannenberg, Schloss Hagenburg), die nur über Invaluable ohne Ergebnis zu finden waren. Bassenge und Stahl zeigen unverkaufte Lose nicht in ihren Ergebnislisten.",
+ "quellen": [
+  {
+   "t": "Van Ham, Künstlerseite Walter Moras (Ergebnisse mit Aufgeld)",
+   "u": "https://www.van-ham.com/en/artist/walter-moras.html"
+  },
+  {
+   "t": "Van Ham, Online-Losseite „Winter Forest“ (474 Fine Art, 18.11.2021, Los 1203, 32 % Aufgeld)",
+   "u": "https://auction.van-ham.com/en/walter-moras-winter-forest--id-37590-item.html"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham A540 Los 1210 „Dusk in Wintry Forest“ (21.11.2025)",
+   "u": "https://veryimportantlot.com/en/lot/view/walter-moras-dusk-in-wintry-forest-1493229"
+  },
+  {
+   "t": "veryimportantlot.com, Van Ham A540 Los 1211 „Autumn Forest by the Lakeshore“ (21.11.2025)",
+   "u": "https://veryimportantlot.com/en/lot/view/walter-moras-autumn-forest-by-the-lakeshore-1493230"
+  },
+  {
+   "t": "Bassenge, Künstlerverzeichnis Walter Moras (Technik, Maße, Ergebnisse inkl. 25 % Aufgeld)",
+   "u": "https://bassenge.com/extras/artistindexquery?search=Moras%2C+Walter&page=1&limit=15&view=list&destination=onlyCurrentCatalogues&lotFilter=bestMatch"
+  },
+  {
+   "t": "Bassenge, Katalog 117 Gemälde Alter und Neuerer Meister, Auktion 10. Juni 2021",
+   "u": "https://bassenge.com/kataloge/117/GM?page=7&limit=30&view=list"
+  },
+  {
+   "t": "Bassenge, Katalog 119 Gemälde Alter und Neuerer Meister, Auktion 2. Juni 2022",
+   "u": "https://bassenge.com/kataloge/119/GM?page=4&limit=50&view=list"
+  },
+  {
+   "t": "Bassenge, Katalog 123 Gemälde Alter und Neuerer Meister, Auktion 30. Mai 2024",
+   "u": "https://bassenge.com/kataloge/123/GM?page=3&limit=50&view=list"
+  },
+  {
+   "t": "Bassenge, Katalog 125 Gemälde Alter und Neuerer Meister, Auktion 29. Mai 2025",
+   "u": "https://bassenge.com/kataloge/125/GEM?page=6&limit=30&view=list"
+  },
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Walter Moras (Ergebnisse)",
+   "u": "https://www.auktionshaus-stahl.de/en/artist/10421-walter-moras"
+  },
+  {
+   "t": "Auktionshaus Stahl, Katalog Alte Meister und Kunst des 19. Jahrhunderts, November 2025 (Lose 414, 419)",
+   "u": "https://www.auktionshaus-stahl.de/de/katalog/264-alte-meister-und-kunst-des-19-jahrhunderts"
+  },
+  {
+   "t": "Auktionshaus Stahl, Versteigerungsbedingungen (§ 4: 22 % Aufgeld zzgl. USt)",
+   "u": "https://www.auktionshaus-stahl.de/en/conditions-of-sale"
+  },
+  {
+   "t": "Dorotheum, Gebührentarif für Versteigerungen (gültig ab 1. März 2023)",
+   "u": "https://fahrzeuge.dorotheum.com:443/fileadmin/user_upload/Download/Agb/VSTGB_2023/Gebuehrentarif_Vstg_E_2023.pdf"
+  },
+  {
+   "t": "Invaluable, Walter Moras: Angebote 2024–2026 (Daten, Schätzungen, Bruno-Moras-Los bei Van Ham)",
+   "u": "https://www.invaluable.com/artist/moras-walter-uj8x6kdlfx/sold-at-auction-prices/"
+  },
+  {
+   "t": "Wikipedia (deutsch): Walter Moras",
+   "u": "https://de.wikipedia.org/wiki/Walter_Moras"
+  },
+  {
+   "t": "Wikipedia (englisch): Walter Moras",
+   "u": "https://en.wikipedia.org/wiki/Walter_Moras"
+  },
+  {
+   "t": "Nordkurier: „Er liebte die Farben der Ostsee-Wellen“ (zu Alfried Nehrings Moras-Biografie 2025)",
+   "u": "https://www.nordkurier.de/kultur/er-liebte-die-farben-der-ostsee-wellen-3366160"
+  },
+  {
+   "t": "museum-digital: Historisches Museum der Pfalz, Speyer, „Winterwald“ (1900)",
+   "u": "https://rlp.museum-digital.de/pdf/object/22961.pdf?lang=en"
+  },
+  {
+   "t": "museum-digital: Museum Schloss Lübben, „Partie in Lübben“",
+   "u": "https://brandenburg.museum-digital.de/pdf/object/83502.pdf?lang=de"
+  },
+  {
+   "t": "VIAF: Moras, Walter",
+   "u": "https://viaf.org/viaf/95868465/"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Van Ham",
+   "date": "2021-11-18",
+   "sale": "474 Fine Art",
+   "lot": "1203",
+   "title": "Winterwald",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80.5,
+   "w": 121,
+   "lo": 4000,
+   "hi": 6000,
+   "hammer": 5000,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/walter-moras/winterwald.html",
+   "note": "Ergebnis 6.600 € mit Aufgeld (32 % laut Online-Losseite https://auction.van-ham.com/en/walter-moras-winter-forest--id-37590-item.html); signiert unten rechts „W. Moras“; Privatbesitz Deutschland"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2021-11-18",
+   "sale": "474 Fine Art",
+   "lot": "1204",
+   "title": "Winterlandschaft",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 71,
+   "w": 101,
+   "lo": 2500,
+   "hi": 3500,
+   "status": "n",
+   "url": "https://auction.van-ham.com/en/walter-moras-winter-landscape--id-37591-item.html",
+   "note": "Losseite „Lot closed“ ohne Ergebnis, auf der Van-Ham-Künstlerseite nicht unter den Ergebnissen; laut Losseite signiert unten links „W. Moras“, Teile der Signatur später ergänzt; Titel aus dem Englischen"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-01-26",
+   "sale": "479 Art & Interior",
+   "lot": "176",
+   "title": "Gehöft am Dorfrand",
+   "tech": "Öl auf Papier, auf Holz kaschiert",
+   "medium": "karton",
+   "h": 31,
+   "w": 45.5,
+   "lo": 1200,
+   "hi": 1500,
+   "hammer": 1000,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/walter-moras-gehoeft-am-dorfrand--id-41286-item.html",
+   "note": "Ergebnis 1.320 € mit Aufgeld (32 %); veryimportantlot.com nennt 1.000 €; signiert unten rechts „W. Moras“; Auktion 26./27.01.2022, Datum laut Losseite"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2022-05-19",
+   "sale": "482 Fine Art",
+   "lot": "702",
+   "title": "Spreewaldlandschaft im Sommer",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 83,
+   "w": 121,
+   "lo": 3000,
+   "hi": 4000,
+   "hammer": 4500,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/walter-moras/spreewaldlandschaft-im-sommer.html",
+   "note": "Ergebnis 5.940 € mit Aufgeld (32 % laut Online-Losseite https://auction.van-ham.com/en/walter-moras-spreewald-landscape-in-summer--id-45041-item.html); signiert unten rechts „W. Moras“; Privatbesitz Deutschland"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2023-05-15",
+   "sale": "499 Fine Art",
+   "lot": "300",
+   "title": "Heller Winterwald",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 81,
+   "w": 120,
+   "lo": 4000,
+   "hi": 6000,
+   "hammer": 2500,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/walter-moras/heller-winterwald.html",
+   "note": "Ergebnis 3.300 € mit Aufgeld (32 %); Schätzung laut Online-Losseite https://auction.van-ham.com/en/walter-moras-bright-winter-forest--id-55012-item.html; signiert unten links „W. Moras“; Privatbesitz Deutschland"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-05-16",
+   "sale": "Fine Art",
+   "lot": "o. Nr. (Winterwald)",
+   "src": "Van Ham, Fine Art Mai 2025",
+   "title": "Winterwald",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 81,
+   "w": 122,
+   "lo": 3000,
+   "hi": 5000,
+   "hammer": 2800,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/walter-moras/winterwald-1.html",
+   "note": "Ergebnis 3.696 € mit Aufgeld (32 %) und Schätzung ab 3.000 € laut Van-Ham-Künstlerseite (Objekt 81153-3); Losseite nicht abrufbar, Losnummer unbekannt; Datum, Maße und obere Schätzung laut Invaluable („Wintry Forest“, Van Ham, 16.05.2025); dieselbe Objektnummernserie 81153 hat Los 1390 am 16.05.2025"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-11-21",
+   "sale": "540 Fine Art",
+   "lot": "1210",
+   "title": "Abenddämmerung im Winterwald",
+   "year": "um 1890",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 58,
+   "w": 95,
+   "lo": 2500,
+   "hi": 4000,
+   "hammer": 2400,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/walter-moras/abenddaemmerung-im-winterwald.html",
+   "note": "Ergebnis 3.168 € mit Aufgeld (32 %) laut Van-Ham-Künstlerseite; Losseite nicht abrufbar; Los, Datum, Technik, Maße und Schätzung laut https://veryimportantlot.com/en/lot/view/walter-moras-dusk-in-wintry-forest-1493229; signiert unten links „W. Moras“"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2025-11-21",
+   "sale": "540 Fine Art",
+   "lot": "1211",
+   "title": "Herbstwald am Seeufer",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 82,
+   "w": 120,
+   "lo": 2000,
+   "hi": 3000,
+   "hammer": 1800,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/walter-moras/herbstwald-am-seeufer.html",
+   "note": "Ergebnis 2.376 € mit Aufgeld (32 %); obere Schätzung laut https://veryimportantlot.com/en/lot/view/walter-moras-autumn-forest-by-the-lakeshore-1493230; signiert unten links „W. Moras“; Van Ham dankt André Matthes, Lübben, für die Hilfe bei der Katalogisierung"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2026-01-29",
+   "sale": "544 Art & Interior",
+   "lot": "844",
+   "title": "Winterlandschaft bei Sonnenuntergang",
+   "year": "1889",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 60.5,
+   "w": 90.5,
+   "lo": 1000,
+   "hi": 2000,
+   "hammer": 2400,
+   "status": "v",
+   "url": "https://www.van-ham.com/en/artist/1/winter-landscape-at-sunset.html",
+   "note": "Ergebnis 3.168 € mit Aufgeld (32 %); signiert und datiert unten links „W.Moras.89“; Van Ham führt das Los ohne Künstlernamen; Auktion 28./29.01.2026, Tag und obere Schätzung laut Invaluable"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-02-26",
+   "sale": "Norddeutsche Kunst, Sammlungen Horst Janssen und F.C. Gundlach",
+   "lot": "114",
+   "title": "Mühle im Mondlicht",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 62,
+   "w": 91.5,
+   "hammer": 3500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/103006-walter-moras-muehle-im-mondlicht",
+   "note": "Stahl nennt „Ergebnis 4.400 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten rechts „W. Moras“; minimale Restaurierungen"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-02-26",
+   "sale": "Norddeutsche Kunst, Sammlungen Horst Janssen und F.C. Gundlach",
+   "lot": "115",
+   "title": "Sonniger Winterwald",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80,
+   "w": 120,
+   "status": "n",
+   "url": "https://www.auktionshaus-stahl.de/en/article/103262-walter-moras-sunlit-winter-wood",
+   "note": "Losseite ohne Ergebnis, auf der Stahl-Künstlerseite nicht genannt; signiert unten links „W. Moras“; Titel aus dem Englischen („Sunlit Winter Wood“)"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-11-29",
+   "sale": "Alte Meister und Kunst des 19. Jahrhunderts",
+   "lot": "414",
+   "title": "Winterwald in der Morgensonne",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80.5,
+   "w": 120,
+   "hammer": 9000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111956-walter-moras-winterwald-in-der-morgensonne",
+   "note": "Stahl nennt „Ergebnis 11.400 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links „W. Moras“; kleine Restaurierung; Auktion 28./29.11.2025, Tag laut Invaluable"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-11-29",
+   "sale": "Alte Meister und Kunst des 19. Jahrhunderts",
+   "lot": "419",
+   "title": "Bucht mit Seglern",
+   "tech": "Öl auf Holz",
+   "medium": "karton",
+   "h": 14,
+   "w": 29,
+   "hammer": 1600,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/112266-walter-moras-bucht-mit-seglern",
+   "note": "Stahl nennt „Ergebnis 2.000 €“ (auf 100 € gerundet, mit Aufgeld) auf Künstlerseite und Katalogliste; zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Losseite nicht abrufbar, Technik und Maße laut Invaluable („Boats on the Beach“, signiert unten rechts)"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2021-06-10",
+   "sale": "117 Gemälde Alter und Neuerer Meister",
+   "lot": "6186",
+   "title": "Wolkenverhangener Himmel über einem See",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 24.6,
+   "w": 35.1,
+   "hammer": 2600,
+   "status": "v",
+   "url": "https://bassenge.com/lots/117/61860",
+   "note": "Ergebnis 3.250 € inkl. 25 % Regelaufgeld; Technik und Maße laut Katalogliste; signiert unten rechts „W. Moras“"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2022-06-02",
+   "sale": "119 Gemälde Alter und Neuerer Meister",
+   "lot": "6156",
+   "title": "„Klingsborn“: Spreewaldlandschaft im Winter",
+   "year": "1884",
+   "tech": "Öl auf Malkarton",
+   "medium": "karton",
+   "h": 32,
+   "w": 47,
+   "hammer": 1600,
+   "status": "v",
+   "url": "https://bassenge.com/lots/119/61560",
+   "note": "Ergebnis 2.000 € inkl. 25 % Regelaufgeld; signiert, bezeichnet und undeutlich datiert „W. Moras / Klingsborn 10/4[18]84“; verso Stempel „M. Baruch, Hamburg“; Technik und Maße laut Katalogliste"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2022-06-02",
+   "sale": "119 Gemälde Alter und Neuerer Meister",
+   "lot": "6157",
+   "title": "Landschaft mit einem Ziehbrunnen auf einer Dorfwiese",
+   "tech": "Öl auf Leinwand, auf Karton aufgezogen",
+   "medium": "lw",
+   "h": 26.7,
+   "w": 37.5,
+   "hammer": 400,
+   "status": "v",
+   "url": "https://bassenge.com/lots/119/61570",
+   "note": "Ergebnis 500 € inkl. 25 % Regelaufgeld; signiert unten links „W. Moras“, mit Bleistift bezeichnet „Dorschken [?] 19/9 [18]89“; Technik und Maße laut Katalogliste"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2022-06-02",
+   "sale": "119 Gemälde Alter und Neuerer Meister",
+   "lot": "6158",
+   "title": "Fischreusen in der Ostsee",
+   "tech": "Öl auf Papier, auf Malkarton kaschiert",
+   "medium": "karton",
+   "h": 40,
+   "w": 26,
+   "hammer": 650,
+   "status": "v",
+   "url": "https://bassenge.com/lots/119/61580",
+   "note": "Ergebnis 813 € inkl. 25 % Regelaufgeld (650 × 1,25 = 812,50); undeutlich signiert „W. Moras“; verso Stempel „M. Baruch, Hamburg“; Technik und Maße laut Katalogliste"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2024-05-30",
+   "sale": "123 Gemälde Alter und Neuerer Meister",
+   "lot": "6126",
+   "title": "Sonnendurchfluteter Winterwald bei einem Bachlauf",
+   "tech": "Öl auf Leinwand, doubliert",
+   "medium": "lw",
+   "h": 71,
+   "w": 101,
+   "lo": 1200,
+   "hi": 1800,
+   "hammer": 1000,
+   "status": "v",
+   "url": "https://bassenge.com/lots/123/61260",
+   "note": "Ergebnis 1.250 € inkl. 25 % Regelaufgeld; Schätzung laut Invaluable; signiert unten links „W. Moras“; Privatsammlung Berlin; Technik und Maße laut Katalogliste"
+  },
+  {
+   "house": "Bassenge",
+   "date": "2025-05-29",
+   "sale": "125 Gemälde Alter und Neuerer Meister",
+   "lot": "6158",
+   "title": "Sommertag im Spreewald",
+   "tech": "Öl auf Papier, auf Malkarton kaschiert",
+   "medium": "karton",
+   "h": 43,
+   "w": 32.5,
+   "lo": 700,
+   "hi": 900,
+   "hammer": 700,
+   "status": "v",
+   "url": "https://bassenge.com/lots/125/61580",
+   "note": "Ergebnis 875 € inkl. 25 % Regelaufgeld; Schätzung laut Invaluable (dort auch ein erfolgloses Angebot bei Bassenge am 30.05.2024); signiert unten rechts „W Moras“; Berliner Privatbesitz; Datum laut Katalogseite 125"
+  },
+  {
+   "house": "Kinsky",
+   "date": "2021-12-14",
+   "sale": "Gemälde des 19. Jahrhunderts",
+   "lot": "313",
+   "title": "Jäger im Winterwald",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 81,
+   "w": 119.5,
+   "lo": 4000,
+   "hi": 8000,
+   "hammer": 6500,
+   "status": "v",
+   "url": "https://imkinsky.com/en/auction-results/137/710/1/91317",
+   "note": "Losseite nennt Zuschlag 6.500 € und Kaufpreis 8.320 € inkl. Gebühren und österreichischer USt; signiert unten rechts „W. Moras.“; Provenienz Dorotheum Wien, 23.10.2014; Titel aus dem Englischen"
+  },
+  {
+   "house": "Kinsky",
+   "date": "2022-12-06",
+   "sale": "141 Weihnachtsauktion, Gemälde des 19. Jahrhunderts",
+   "lot": "304",
+   "title": "Winterlandschaft",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80,
+   "w": 120,
+   "lo": 5000,
+   "hi": 10000,
+   "hammer": 7000,
+   "status": "v",
+   "url": "https://imkinsky.com/en/auction-results/141/728/1/97744",
+   "note": "Losseite nennt Zuschlag 7.000 € und Kaufpreis 8.960 € inkl. Gebühren und österreichischer USt; signiert unten rechts „W. Moras.“; Titel aus dem Englischen"
+  },
+  {
+   "house": "Kinsky",
+   "date": "2022-12-06",
+   "sale": "141 Weihnachtsauktion, Gemälde des 19. Jahrhunderts",
+   "lot": "307",
+   "title": "Herbstwald",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80,
+   "w": 120,
+   "lo": 4000,
+   "hi": 8000,
+   "hammer": 4000,
+   "status": "v",
+   "url": "https://imkinsky.com/en/auction-results/141/728/1/97745",
+   "note": "Losseite nennt Zuschlag 4.000 € und Kaufpreis 5.120 € inkl. Gebühren und österreichischer USt; signiert unten links „W. Moras“; Titel aus dem Englischen"
+  },
+  {
+   "house": "Dorotheum",
+   "date": "2023-05-02",
+   "sale": "Gemälde des 19. Jahrhunderts",
+   "lot": "660",
+   "title": "Wintertag an der Memel",
+   "year": "1889",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 24,
+   "w": 39,
+   "lo": 2400,
+   "hi": 3000,
+   "hammer": 2200,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://dorotheum.com/cz/l/8502706",
+   "note": "Losseite (tschechische Fassung): erzielter Preis 2.860 € inkl. Käufergebühr und USt; mit 30 % (Auktionstarif ab März 2023) ergibt sich genau 2.200 €; signiert und datiert „W. Moras, Memelufer bei Unter-Eisseln 18./3. (18)89“; Titel nach alter rückseitiger Bezeichnung"
+  },
+  {
+   "house": "Dorotheum",
+   "date": "2024-10-23",
+   "sale": "Gemälde des 19. Jahrhunderts",
+   "lot": "o. Nr. (Sommertag im Spreewald)",
+   "src": "Dorotheum, Gemälde des 19. Jh.",
+   "title": "Sommertag im Spreewald",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80,
+   "w": 120,
+   "lo": 4000,
+   "hi": 6000,
+   "hammer": 3000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.dorotheum.com/de/l/9207015/",
+   "note": "Dorotheum nennt „Erzielter Preis: EUR 3.960“ inkl. Käufergebühr und USt (Titel der Losseite; Seite selbst nicht abrufbar); nur 32 % (Nachverkaufstarif) ergibt einen runden Zuschlag; Technik, Maße und Schätzung laut Invaluable („A Summer Day in the Spree Forest“); Losnummer unbekannt"
+  },
+  {
+   "house": "Wendl",
+   "date": "2022-03-05",
+   "sale": "102 Frühjahrsauktion",
+   "lot": "3496",
+   "title": "Holzfäller in romantischer Winterlandschaft",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 74,
+   "w": 114,
+   "lo": 3000,
+   "hammer": 4200,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/moras-walter-1856-berlin-1925-berlin-holzfal-715967",
+   "note": "nur über veryimportantlot.com belegt: „Sold 4.200 €“ bei 21,42 % Aufgeld; als Preis mit Aufgeld gelesen ergäbe sich kein runder Zuschlag, der Betrag ist daher vermutlich der Zuschlag (geschätzt); Partnerauktion Bergmann; kleine restaurierte Stelle mit Hinterklebung"
+  },
+  {
+   "house": "Wettmann",
+   "date": "2025-12-13",
+   "sale": "136 Alte Kunst, Antiquitäten, Interieur & Design",
+   "lot": "294",
+   "title": "Winterlandschaft",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80.5,
+   "w": 120,
+   "lo": 1000,
+   "hammer": 2200,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://veryimportantlot.com/en/lot/view/walter-moras-1856-berlin-1925-harzburgbrwalt-1531282",
+   "note": "nur über veryimportantlot.com belegt: „Sold 2.200 €“ bei 30 % Aufgeld; als Preis mit Aufgeld gelesen ergäbe sich kein runder Zuschlag, der Betrag ist daher vermutlich der Zuschlag (geschätzt); Limit 1.000 € laut Invaluable; signiert"
+  },
+  {
+   "house": "Schloss Ahlden",
+   "date": "2024-11-30",
+   "sale": "192 Internationale Kunst und Antiquitäten, Teil 2",
+   "lot": "1744",
+   "title": "Verschneiter Kiefernwald im Morgenlicht",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80.5,
+   "w": 120,
+   "lo": 5500,
+   "hi": 11000,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/walter-moras-1340915",
+   "note": "veryimportantlot.com: Startpreis 5.500 €, Auktion abgeschlossen, kein Ergebnis; signiert unten links"
+  }
+ ],
+ "ort": "Berlin"
+}
