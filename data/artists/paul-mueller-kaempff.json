@@ -1,0 +1,612 @@
+{
+ "slug": "paul-mueller-kaempff",
+ "name": "Paul Müller-Kaempff",
+ "status": "published",
+ "region": "kueste",
+ "stand": "2026-11-25",
+ "birth": {
+  "date": "1861-10-16",
+  "place": "Oldenburg",
+  "text": "16. Oktober 1861 Oldenburg"
+ },
+ "death": {
+  "date": "1941-12-05",
+  "place": "Berlin",
+  "text": "5. Dezember 1941 Berlin"
+ },
+ "same_as": [
+  "https://de.wikipedia.org/wiki/Paul_M%C3%BCller-Kaempff",
+  "https://en.wikipedia.org/wiki/Paul_M%C3%BCller-Kaempff"
+ ],
+ "sort_name": "Müller-Kaempff",
+ "split_year": 2024,
+ "list_line": "Gründer der Künstlerkolonie Ahrenshoop · Zuschlag im Median {med_all} €",
+ "lead": "Landschaftsmaler aus Oldenburg, der 1889 Ahrenshoop für die Malerei entdeckte und als Gründer der dortigen Künstlerkolonie gilt. Diese Seite fasst zusammen, was seine Bilder im Auktionshandel erzielen, wo sie sich verkaufen, woran man Originale erkennt und wer er war. Jede Zahl ist mit ihrer Quelle verlinkt.",
+ "facts": [
+  [
+   "Ausbildung",
+   "Kunstakademie Düsseldorf; Karlsruhe bei Gustav Schönleber (1883–1886); Berlin, Meisterklasse Hans Fredrik Gude (1886–1888)"
+  ],
+  [
+   "Künstlerkolonie",
+   "Ahrenshoop, ab 1889"
+  ],
+  [
+   "Hauptmotive",
+   "Dünen, Strand und Ostsee bei Ahrenshoop, Bodden, Fischerdörfer, Winter- und Abendstimmungen"
+  ],
+  [
+   "Werkverzeichnis",
+   "Konrad Mahlfeld, Werkkatalog Else und Paul Müller-Kaempff, 3 Bände (2017–2021)"
+  ]
+ ],
+ "marktwert": "Gemälde meist 3.000–8.500 € Zuschlag, Spitze rund {max_hammer} €; beschädigte kleine Studien rund 1.100–1.200 €",
+ "absatzmarkt": "Hamburg (Auktionshaus Stahl)",
+ "headline": "Ölbilder bringen meist 3.000 bis 8.500 €, ein Winterabend rund {max_hammer} €",
+ "kurz": "Paul Müller-Kaempff wird fast nur beim Auktionshaus Stahl in Hamburg versteigert: {n_house1} der {n_lots} Lose auf dieser Seite stammen von dort. Seine Ölbilder von Dünen, Bodden und Ostsee bei Ahrenshoop brachten meist 3.000 bis 8.500 € Zuschlag, im Median {med_all} €. Am meisten erzielten Winter- und Abendstimmungen, an der Spitze „{max_title}“ ({max_year}) mit rund {max_hammer} €. Seit 2024 liegen die Preise niedriger: Kleine Studien, die 2022 und 2023 noch 4.000 bis 8.500 € brachten, erzielten seit 2024 meist 2.400 bis 4.500 €. Stahl nennt nur gerundete Preise mit Aufgeld, die Zuschläge sind deshalb zurückgerechnet und ungefähr.",
+ "figs": [
+  [
+   "ca. {max_hammer} €",
+   "höchster Zuschlag, aus dem Preis mit Aufgeld errechnet: „{max_title}“, {max_size}, {max_house} {max_year}"
+  ],
+  [
+   "{med_all} €",
+   "Median-Zuschlag der {n_paint} verkauften Gemälde, {period}"
+  ],
+  [
+   "{med_new_main} €",
+   "Median bei Stahl {years_new}; {years_old} waren es {med_old_main} €"
+  ],
+  [
+   "{n_house1} von {n_lots}",
+   "Losen bei Stahl in Hamburg"
+  ]
+ ],
+ "markt": {
+  "preis": [
+   "Motiv und Stimmung zählen mehr als die Größe. Die höchsten Zuschläge brachten der „{max_title}“ (70,5 × 100,5 cm, 2024) mit rund {max_hammer} €, „Dünen bei Ahrenshoop“ (50 × 70 cm, 2022) mit rund 10.000 € und das kleine „Abend am Meer in Ahrenshoop“ (30 × 46,5 cm, um 1907) mit rund 8.500 €. Große Küstenansichten von rund 80 × 120 cm brachten 2024 und 2026 dagegen nur rund 4.000 und 3.000 €; ein „Winterabend in Mecklenburg“ gleicher Größe erzielte 2021 rund 8.000 €.",
+   "Bei Stahl sank der Median der Gemälde von {med_old_main} € ({years_old}) auf {med_new_main} € ({years_new}). Ein Teil davon ist die Mischung: Seit 2024 kamen mehr kleine Studien und zwei beschädigte Bilder zur Auktion, die rund 1.100 und 1.200 € brachten. Aber auch vergleichbare Bilder brachten weniger: Dünenstudien um 25 × 30 cm erzielten 2022 rund 4.000 €, seit 2024 rund 3.100 bis 3.500 €.",
+   "Außerhalb von Stahl ist nur ein Ergebnis belegt: Van Ham verkaufte im Mai 2024 die „Herbstsonne“ (50 × 70 cm) für 7.500 € bei einer Schätzung von 4.000 bis 8.000 €."
+  ],
+  "kaeufer": "Auf den Zuschlag kommt das Aufgeld: bei Stahl laut Versteigerungsbedingungen 22 % plus Umsatzsteuer auf das Aufgeld, zusammen 26,18 %; wer online live bietet, zahlt einen weiteren Zuschlag. Stahl veröffentlicht als Ergebnis den Preis mit Aufgeld, auf volle 100 € gerundet. Bei Van Ham beträgt das Aufgeld laut Losseite 32 %.",
+  "spitzen": "Vor 2021 lagen die Ergebnisse bei Stahl in ähnlicher Höhe, jeweils mit Aufgeld: 10.700 € für „Am Saaler Bodden“ (69 × 99 cm, September 2020), 9.900 € für „Das Kartoffelfeuer“ (November 2016) und 8.200 € für eine kleine Dünenstudie (25,5 × 30,5 cm, September 2020). Ein höheres Ergebnis als die 14.500 € für den „Winterabend“ von 2024 nennt die Stahl-Künstlerseite nicht."
+ },
+ "euro_ok": [
+  "10.700",
+  "9.900",
+  "8.200",
+  "14.500",
+  "100",
+  "5.000"
+ ],
+ "absatz": {
+  "text": [
+   "Hamburg ist der Markt für Müller-Kaempff, und dort das Auktionshaus Stahl. Es bietet ihn in fast jeder Kunstauktion an, oft mehrere Bilder auf einmal; seit Mai 2021 nennt die Künstlerseite 20 Ergebnisse. {n_house1} der {n_lots} Lose auf dieser Seite stammen von Stahl.",
+   "Andere Häuser sind selten. Van Ham in Köln verkaufte im Mai 2024 ein Bild, bei Schloss Ahlden blieb im Dezember 2022 ein großes Sommerbild (70 × 100 cm, Startpreis 4.800 €) ohne veröffentlichtes Ergebnis. Eine verlässliche Zählung aller Angebote lag nicht vor."
+  ],
+  "liquiditaet": "Hoch, soweit prüfbar. Stahl verkauft ihn regelmäßig, zeigt unverkaufte Lose auf der Künstlerseite aber nicht an; die Quote von {sold_rate} Losen mit Zuschlag ist deshalb zu hoch."
+ },
+ "echtheit": {
+  "punkte": [
+   [
+    "Signatur",
+    "„P. Müller-Kaempff“, fast immer unten links, manchmal mit Ortsangabe („Ahrenshoop“). In Katalogen kommt auch die Schreibweise „Müller-Kaempf“ vor."
+   ],
+   [
+    "Werkverzeichnis",
+    "Konrad Mahlfeld hat einen Werkkatalog in drei Bänden veröffentlicht (2017, 2019, 2021). Neu auftauchende Bilder nimmt er in einen Nachtrag auf, etwa als G 275 oder G 1176 (laut Stahl). Nach der Nummer oder einer Bestätigung fragen."
+   ],
+   [
+    "Else oder Paul",
+    "Seine Frau Else Müller-Kaempff, früher seine Schülerin, war ebenfalls Malerin; Mahlfelds Werkkatalog behandelt beide. Bei unklarer Signatur klären, wer gemeint ist."
+   ],
+   [
+    "Etiketten",
+    "Atelier- und Ausstellungsetiketten auf der Rückseite helfen bei der Einordnung, etwa bei der „Herbstsonne“ (Van Ham 2024), die 1906 im Kunstverein Rostock ausgestellt war."
+   ],
+   [
+    "Druck oder Unikat",
+    "Er schuf auch Lithografien für Heimatmappen und Postkarten. Ein Druck zeigt unter der Lupe Raster oder eine flache Oberfläche, ein Ölbild Pinselspuren."
+   ],
+   [
+    "Zuschreibungen",
+    "Lose mit „zugeschrieben“ oder „Umkreis“ nicht mit Originalpreisen vergleichen."
+   ]
+  ],
+  "preis_drueckt": "Schäden kosten viel: Zwei kleine Ostseebilder (30,5 × 40 cm), die Stahl im Mai 2025 als beschädigt beschrieb, brachten nur rund 1.100 und 1.200 €, ein unbeschädigtes Winterbild ähnlicher Größe in derselben Auktion rund 4.500 €. Kleine Retuschen und Farbverluste vermerkt Stahl im Katalog.",
+  "werkverzeichnis": "Konrad Mahlfeld, „Else Müller-Kaempff, Paul Müller-Kaempff. Werkkatalog“, Band I (Fischerhude 2017), Band II (2019) und Band III (2021). Neu auftauchende Bilder erscheinen in einem Nachtrag; Stahl nennt die Nachtragsnummern im Katalog.",
+  "provenienz": "Laut Wikipedia sind die meisten Bilder in Privatbesitz und ihr Verbleib weitgehend unbekannt. Rückseitige Etiketten und Ausstellungsnachweise sind deshalb wertvoll. Bei Bildern, die 1933–1945 den Besitzer wechselten, gehört die Herkunft geprüft."
+ },
+ "leben": {
+  "text": [
+   "Paul Müller-Kaempff wurde am 16. Oktober 1861 in Oldenburg geboren, als Sohn eines großherzoglichen Militärarztes. Er studierte an der Kunstakademie Düsseldorf, von 1883 bis 1886 in Karlsruhe bei Gustav Schönleber und von 1886 bis 1888 in Berlin in der Meisterklasse von Hans Fredrik Gude.",
+   "1889 kam er mit dem Maler Oskar Frenzel nach Ahrenshoop auf dem Fischland, wo sie Carl Malchin trafen. Müller-Kaempff gilt als Gründer der Künstlerkolonie, der sich bald viele Maler anschlossen. Er malte Dünen, Strand und Bodden, das Dorf und den Schifferfriedhof (1893). 1909 beteiligte er sich mit Theobald Schorn am Bau des Ahrenshooper Kunstkatens.",
+   "1904 gründete er den Oldenburger Kunstverein mit, 1906 erhielt er den Professorentitel, 1907 war er Mitgründer der Vereinigung Nordwestdeutscher Künstler. Ab 1908 lebte er in Hamburg. Verheiratet war er mit seiner früheren Schülerin Else Schwager, die als Else Müller-Kaempff ebenfalls malte. Er starb am 5. Dezember 1941 in Berlin; 2017 wurden die Urnen des Paares auf den Schifferfriedhof Ahrenshoop überführt."
+  ],
+  "museen": "Zu Lebzeiten kauften Museen in Rostock, Oldenburg, Kiel und Hamburg Bilder (laut Wikipedia); Stahl nennt die Hamburger Kunsthalle und die Kunsthalle Kiel.",
+  "timeline": [
+   [
+    "1861",
+    "geboren in Oldenburg"
+   ],
+   [
+    "1883",
+    "Akademie Karlsruhe, bei Gustav Schönleber"
+   ],
+   [
+    "1886",
+    "Berlin, Meisterklasse Hans Fredrik Gude"
+   ],
+   [
+    "1889",
+    "mit Oskar Frenzel in Ahrenshoop, Beginn der Künstlerkolonie"
+   ],
+   [
+    "1893",
+    "„Schifferfriedhof in den Dünen von Ahrenshoop“"
+   ],
+   [
+    "1904",
+    "Mitgründer des Oldenburger Kunstvereins"
+   ],
+   [
+    "1906",
+    "Professorentitel"
+   ],
+   [
+    "1907",
+    "Mitgründer der Vereinigung Nordwestdeutscher Künstler"
+   ],
+   [
+    "1908",
+    "Umzug nach Hamburg"
+   ],
+   [
+    "1909",
+    "Bau des Ahrenshooper Kunstkatens"
+   ],
+   [
+    "1941",
+    "gestorben in Berlin"
+   ],
+   [
+    "2017",
+    "Werkkatalog Band I; Urnen auf den Schifferfriedhof Ahrenshoop"
+   ]
+  ]
+ },
+ "werkgruppen": [
+  {
+   "t": "Winter- und Abendstimmungen",
+   "d": "Verschneite Dörfer, Abendlicht über Bodden und Meer; die gesuchtesten Motive.",
+   "bsp": "„{max_title}“ (2024): rund {max_hammer} €; „Abend am Meer in Ahrenshoop“: rund 8.500 €"
+  },
+  {
+   "t": "Dünen und Ostsee",
+   "d": "Dünen, Strand und Meer bei Ahrenshoop, oft kleine Studien um 25 × 30 cm.",
+   "bsp": "2022: rund 4.000 €; seit 2024 rund 3.100–3.500 €"
+  },
+  {
+   "t": "Bodden, Dörfer, Sommerlandschaften",
+   "d": "Althagen, Saaler Bodden, Sommer- und Herbstlandschaften.",
+   "bsp": "„Althagen am Bodden“ (2023): rund 6.000 €; „Herbstsonne“ (Van Ham 2024): 7.500 €"
+  },
+  {
+   "t": "Zeichnungen",
+   "d": "Kohle- und Bleistiftzeichnungen, selten im Handel.",
+   "bsp": "„Bei Ahrenshoop“ (Kohle, 2025): rund 1.500 €"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist ein Bild von Paul Müller-Kaempff wert?",
+   "a": "Seit 2021 brachten seine Ölbilder meist 3.000 bis 8.500 € Zuschlag, im Median {med_all} €. Am meisten brachten Winter- und Abendbilder: der „{max_title}“ (2024) rund {max_hammer} €, „Dünen bei Ahrenshoop“ (50 × 70 cm, 2022) rund 10.000 €. Kleine Dünenstudien brachten seit 2024 meist 2.400 bis 4.500 €, beschädigte rund 1.100 bis 1.200 €."
+  },
+  {
+   "q": "Wo verkauft man einen Müller-Kaempff am besten?",
+   "a": "In Hamburg. Das Auktionshaus Stahl bietet ihn regelmäßig an und stellt {n_house1} der {n_lots} Lose dieser Seite. Andere Häuser bieten ihn selten an; Van Ham verkaufte 2024 ein Bild für 7.500 €."
+  },
+  {
+   "q": "Sind die Preise gesunken?",
+   "a": "Bei Stahl ja. Der Median der Gemälde lag {years_old} bei {med_old_main} €, {years_new} bei {med_new_main} €. Ein Teil davon liegt an mehr kleinen und beschädigten Bildern seit 2024, aber auch vergleichbare Dünenstudien brachten weniger als 2022."
+  },
+  {
+   "q": "Gibt es ein Werkverzeichnis?",
+   "a": "Ja: Konrad Mahlfeld, Werkkatalog Else und Paul Müller-Kaempff, drei Bände (2017, 2019, 2021). Neu entdeckte Bilder kommen in einen Nachtrag. Eine Nummer im Werkkatalog erleichtert den Verkauf."
+  },
+  {
+   "q": "Was bedeutet das „Ergebnis“ bei Stahl?",
+   "a": "Stahl veröffentlicht den Preis mit Aufgeld, auf volle 100 € gerundet. Das Aufgeld beträgt 22 % des Zuschlags plus Umsatzsteuer darauf, zusammen 26,18 %. Ein Ergebnis von 14.500 € entspricht also rund 11.500 € Zuschlag."
+  }
+ ],
+ "methodik_extra": "Stahl nennt auf Künstler- und Losseiten ein „Ergebnis“: den Preis mit Aufgeld, auf volle 100 € gerundet. Laut Versteigerungsbedingungen beträgt das Aufgeld 22 % zuzüglich Umsatzsteuer, zusammen 26,18 %. Alle Stahl-Zuschläge sind daher zurückgerechnet und geschätzt, auf etwa 50 bis 100 € genau; ein Aufschlag für Online-Live-Gebote ist nicht berücksichtigt. Stahl versteigert Kunst an zweitägigen Terminen jeweils am zweiten Tag (so laut Katalogseiten für September 2022, November 2022 und September 2023); für November 2024, Mai 2025, November 2025 und März 2026 ist deshalb der zweite Tag angegeben. Van Ham nennt das Ergebnis mit 32 % Aufgeld; das Datum der Auktion stammt von lot-art.com, weil die Losseite keines nennt. Deutsche Titel stammen aus den Adressen und Katalogen der Stahl-Seiten. Nicht aufgenommen: „Übergang zum Bodden“ (Stahl, September 2026, Ergebnis 5.000 €), dessen Losseite nicht abrufbar war, ein Los bei Koller in Zürich (Ergebnis nur in Franken) sowie Lose vor 2021. Die Übersichten bei Invaluable und LotSearch waren nicht abrufbar; andere Häuser wurden nicht vollständig geprüft.",
+ "quellen": [
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite Paul Müller-Kaempff (Ergebnisse)",
+   "u": "https://www.auktionshaus-stahl.de/en/artist/215-paul-mueller-kaempff"
+  },
+  {
+   "t": "Auktionshaus Stahl, Künstlerseite (deutsch, mit Katalogverweisen)",
+   "u": "https://www.auktionshaus-stahl.de/de/kuenstler/215-paul-mueller-kaempff"
+  },
+  {
+   "t": "Auktionshaus Stahl, Katalog 24. Februar 2024 (Los 108)",
+   "u": "https://www.auktionshaus-stahl.de/de/katalog/200-24-februar-2024-kunst-des-20-und-21-jahrhunderts/30"
+  },
+  {
+   "t": "Auktionshaus Stahl, Katalog Kunst des 20. und 21. Jahrhunderts, September 2024 (Lose 513–515)",
+   "u": "https://www.auktionshaus-stahl.de/de/katalog/210-kunst-des-20-und-21-jahrhunderts/50"
+  },
+  {
+   "t": "Auktionshaus Stahl, Katalog 23. September 2023 (Lose 363, 364)",
+   "u": "https://www.auktionshaus-stahl.de/de/katalog/193-23-september-2023-kunst-auktion/40"
+  },
+  {
+   "t": "Auktionshaus Stahl, Katalog Kunst und Antiquitäten, 26. November 2022 (Los 451)",
+   "u": "https://www.auktionshaus-stahl.de/de/katalog/183-kunst-und-antiquitaeten/60"
+  },
+  {
+   "t": "Auktionshaus Stahl, Versteigerungsbedingungen (§ 4: 22 % Aufgeld zzgl. USt)",
+   "u": "https://www.auktionshaus-stahl.de/en/conditions-of-sale"
+  },
+  {
+   "t": "veryimportantlot.com, Stahl 26.11.2022 Los 451 (Startpreis)",
+   "u": "https://veryimportantlot.com/en/lot/view/paul-muller-kaempff-oldenburgo-1861-berlin-19-850508"
+  },
+  {
+   "t": "lot-art.com, Van Ham Los 1230 „Herbstsonne“ (17.05.2024)",
+   "u": "https://www.lot-art.com/auction-lots/Paul-Muller-Kaempff-Herbstsonne/1230-paul_muller-17.5.24-ham"
+  },
+  {
+   "t": "Wikipedia (deutsch): Paul Müller-Kaempff",
+   "u": "https://de.wikipedia.org/wiki/Paul_M%C3%BCller-Kaempff"
+  },
+  {
+   "t": "Wikipedia (englisch): Paul Müller-Kaempff",
+   "u": "https://en.wikipedia.org/wiki/Paul_M%C3%BCller-Kaempff"
+  }
+ ],
+ "lots": [
+  {
+   "house": "Stahl",
+   "date": "2021-05-08",
+   "sale": "Kunst und Antiquitäten",
+   "lot": "542",
+   "title": "Winterabend in Mecklenburg",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80.5,
+   "w": 120.5,
+   "hammer": 8000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/101022-winter-evening",
+   "note": "Stahl nennt „Ergebnis 10.100 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links „P. Müller-Kaempff.“; Titel laut Stahl-Künstlerseite"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-02-26",
+   "sale": "Norddeutsche Kunst, Sammlungen Horst Janssen und F.C. Gundlach",
+   "lot": "109",
+   "title": "Dünen bei Ahrenshoop",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 20,
+   "w": 30.5,
+   "hammer": 4000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/103068-paul-mueller-kaempff-dunes-near-ahrenshoop",
+   "note": "Stahl nennt „Ergebnis 5.000 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links „P. Müller-Kaempff“"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-02-26",
+   "sale": "Norddeutsche Kunst, Sammlungen Horst Janssen und F.C. Gundlach",
+   "lot": "110",
+   "title": "Dünen bei Ahrenshoop",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 50,
+   "w": 70,
+   "hammer": 10000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/103021-paul-mueller-kaempff-dunes-near-ahrenshoop",
+   "note": "Stahl nennt „Ergebnis 12.600 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links „P. Müller-Kaempff“; minimale Farbverluste"
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-09-17",
+   "sale": "Kunst und Antiquitäten",
+   "lot": "521",
+   "title": "Abendstimmung in Ahrenshoop",
+   "year": "um 1909/10",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 60.5,
+   "w": 80,
+   "hammer": 8000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/104192-paul-mueller-kaempff-evening-in-ahrenshoop",
+   "note": "Stahl nennt „Ergebnis 10.100 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links „P. Müller-Kaempff“; Auktion 16./17.09.2022, Kunst am 17.09."
+  },
+  {
+   "house": "Stahl",
+   "date": "2022-11-26",
+   "sale": "Kunst und Antiquitäten",
+   "lot": "451",
+   "title": "Abend am Meer in Ahrenshoop",
+   "year": "um 1907",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 30,
+   "w": 46.5,
+   "hammer": 8500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/105510-paul-mueller-kaempff-evening-by-the-sea",
+   "note": "Stahl nennt „Ergebnis 10.700 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; Startpreis 3.500 € laut veryimportantlot.com; signiert „P. Müller-Kaempff Ahrenshoop“; laut Stahl nimmt Konrad Mahlfeld das Bild als G 275 in den Nachtrag des Werkverzeichnisses auf; Privatsammlung Madrid; Auktion 25./26.11.2022, Kunst laut Katalog am 26.11."
+  },
+  {
+   "house": "Stahl",
+   "date": "2023-02-25",
+   "sale": "Kunstsammlung eines norddeutschen Finanzunternehmens",
+   "lot": "276",
+   "title": "An der Ostsee",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 51.5,
+   "w": 72,
+   "hammer": 4900,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/105566-paul-mueller-kaempff-an-der-ostsee",
+   "note": "Stahl nennt „Ergebnis 6.200 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links „P. Müller-Kaempff“; 5.000 € Zuschlag ergäben 6.300 €"
+  },
+  {
+   "house": "Stahl",
+   "date": "2023-09-23",
+   "sale": "Kunst-Auktion",
+   "lot": "363",
+   "title": "Althagen am Bodden",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 36,
+   "w": 53,
+   "hammer": 6000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/de/artikel/106015-paul-mueller-kaempff-althagen-am-bodden",
+   "note": "Stahl nennt „Ergebnis 7.600 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links „P. Müller-Kaempff.“; vgl. zum Motiv WVZ Mahlfeld G 807–G 810, G 849; Kunstauktion laut Katalog am 23.09.2023"
+  },
+  {
+   "house": "Stahl",
+   "date": "2023-09-23",
+   "sale": "Kunst-Auktion",
+   "lot": "364",
+   "title": "Sommerlandschaft",
+   "year": "um 1920",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 62,
+   "w": 78,
+   "hammer": 6500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/107312-paul-mueller-kaempff-summer",
+   "note": "Stahl nennt „Ergebnis 8.200 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links „P. Müller-Kaempff“; Retuschen; laut Stahl im Nachtrag des Werkverzeichnisses als G 1176; Titel laut Katalogliste"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-02-24",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "108",
+   "title": "Winterabend",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 70.5,
+   "w": 100.5,
+   "hammer": 11500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/de/artikel/108246-paul-mueller-kaempff-winterabend",
+   "note": "Stahl nennt „Ergebnis 14.500 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links „P. Müller-Kaempff“; originaler Rahmen; Datum laut Katalog („fand am 24. Februar 2024 statt“)"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "513",
+   "title": "Dünen und Ostsee",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 25.5,
+   "w": 30.5,
+   "hammer": 3500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/109961-paul-mueller-kaempff-duenen-und-ostsee",
+   "note": "Stahl nennt „Ergebnis 4.400 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links; kleine Farbverluste; Auktion 27./28.09.2024"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "514",
+   "title": "Weiter Blick",
+   "tech": "Öl auf Karton",
+   "medium": "karton",
+   "h": 27.5,
+   "w": 29.5,
+   "hammer": 2400,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/109390-paul-mueller-kaempff-weiter-blick",
+   "note": "Stahl nennt „Ergebnis 3.000 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links; unter Glas gerahmt; Auktion 27./28.09.2024; Titel laut Katalogliste"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-09-28",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "515",
+   "title": "An der Ostsee",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 57.5,
+   "w": 88.5,
+   "hammer": 4000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/109417-paul-mueller-kaempff-an-der-ostsee",
+   "note": "Stahl nennt „Ergebnis 5.000 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten rechts; kleine Retuschen; Auktion 27./28.09.2024"
+  },
+  {
+   "house": "Stahl",
+   "date": "2024-11-30",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "412",
+   "title": "Dorf an der Ostsee",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 80.5,
+   "w": 120,
+   "hammer": 4000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://auktionshaus-stahl.de/en/article/110096-paul-mueller-kaempff-dorf-an-der-ostsee",
+   "note": "Stahl nennt „Ergebnis 5.000 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links; winzige Löcher; Auktion 29./30.11.2024"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "514",
+   "title": "Winter bei Ahrenshoop",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 31,
+   "w": 41,
+   "hammer": 4500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111131-paul-mueller-kaempff-winter-bei-ahrenshoop",
+   "note": "Stahl nennt „Ergebnis 5.700 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links; Auktion 23./24.05.2025"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "515",
+   "title": "An der Ostsee",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 30.5,
+   "w": 40,
+   "hammer": 1200,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111338-paul-mueller-kaempff-an-der-ostsee",
+   "note": "Stahl nennt „Ergebnis 1.500 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links; laut Katalog beschädigt; Auktion 23./24.05.2025"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-05-24",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "516",
+   "title": "Ostsee",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 30.5,
+   "w": 40,
+   "hammer": 1100,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/111339-paul-mueller-kaempff-ostsee",
+   "note": "Stahl nennt „Ergebnis 1.400 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links; laut Katalog beschädigt; Auktion 23./24.05.2025"
+  },
+  {
+   "house": "Stahl",
+   "date": "2025-11-29",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "456",
+   "title": "Bei Ahrenshoop",
+   "tech": "Kohlezeichnung",
+   "medium": "papier",
+   "h": 44,
+   "w": 59,
+   "hammer": 1500,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/112402-paul-mueller-kaempff-bei-ahrenshoop",
+   "note": "Stahl nennt „Ergebnis 1.900 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links „P. Müller-Kaempff“; unter Glas gerahmt, nicht ausgerahmt geprüft; Auktion 28./29.11.2025"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-03-07",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "433",
+   "title": "Dünen an der Ostsee",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 25.5,
+   "w": 30,
+   "hammer": 3100,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/112983-paul-mueller-kaempff-duenen-an-der-ostsee",
+   "note": "Stahl nennt „Ergebnis 3.900 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links; Auktion 6./7.03.2026"
+  },
+  {
+   "house": "Stahl",
+   "date": "2026-03-07",
+   "sale": "Kunst des 20. und 21. Jahrhunderts",
+   "lot": "434",
+   "title": "An der Ostsee",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 81,
+   "w": 121,
+   "hammer": 3000,
+   "est_hammer": true,
+   "status": "v",
+   "url": "https://www.auktionshaus-stahl.de/en/article/112702-paul-mueller-kaempff-an-der-ostsee",
+   "note": "Stahl nennt „Ergebnis 3.800 €“ (auf 100 € gerundet, mit Aufgeld); zurückgerechnet mit 22 % zzgl. 19 % USt auf das Aufgeld; signiert unten links; winzige Farbverluste; Auktion 6./7.03.2026"
+  },
+  {
+   "house": "Van Ham",
+   "date": "2024-05-17",
+   "sale": "Fine Art",
+   "lot": "1230",
+   "title": "Herbstsonne",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 50,
+   "w": 70,
+   "lo": 4000,
+   "hi": 8000,
+   "hammer": 7500,
+   "status": "v",
+   "url": "https://auction.van-ham.com/en/paul-mueller-kaempff-herbstsonne--id-66131-item.html",
+   "note": "Ergebnis 9.900 € mit Aufgeld (32 %); Datum laut https://www.lot-art.com/auction-lots/Paul-Muller-Kaempff-Herbstsonne/1230-paul_muller-17.5.24-ham (Losseite ohne Datum); signiert unten links „P. Müller-Kaempff“; rückseitig Atelier- und Ausstellungsetikett; ausgestellt Kunstverein Rostock, Juli 1906; Lit. Mahlfeld, Werkkatalog Bd. 3, S. 68"
+  },
+  {
+   "house": "Schloss Ahlden",
+   "date": "2022-12-04",
+   "sale": "186 Teil III: Gemälde, Grafik",
+   "lot": "2463",
+   "title": "Sommer in Ahrenshoop",
+   "tech": "Öl auf Leinwand",
+   "medium": "lw",
+   "h": 70,
+   "w": 100,
+   "lo": 4800,
+   "hi": 9600,
+   "status": "n",
+   "url": "https://veryimportantlot.com/en/lot/view/paul-muller-kaempff-857376",
+   "note": "veryimportantlot.com: Startpreis 4.800 €, Auktion abgeschlossen, kein Ergebnis; signiert unten links; Originalrahmen"
+  }
+ ],
+ "ort": "Ahrenshoop"
+}
